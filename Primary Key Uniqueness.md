@@ -1,0 +1,8 @@
+# Primary Key Uniqueness
+* id: _OH2mRMZ7Gk3SUMRzo9CF
+* tags: [[Database Keys]]
+* parents: [[Primary Keys are unique]]
+
+"Each primary key within the database must be unique-no two tables should have the same primary key unless they bear a one-to-one relationship or one of them is a subset table."
+
+Database Design for Mere Mortals, p249
