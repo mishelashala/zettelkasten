@@ -1,0 +1,7 @@
+# Client side rate limiter
+* id: fA5hnFi8VEQLB-aRofeSF
+* parents: [[Rate Limiter]]
+
+"[...] client is an unreliable place to enforce rate limiting because client requests can easily be forged by malicious actors. Moreover, we might not have control over the client implementation."
+
+Alex Xu, System Design Interview
