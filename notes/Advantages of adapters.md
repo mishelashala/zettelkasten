@@ -1,0 +1,7 @@
+# Advantages of adapters
+* id: dJeTsBuhkutrsaY9mgLeN
+* tags: [[Hexagonal Architecture]]
+
+"What is so compelling about the hexagonal architecture is that we can add and remove adapters without worrying about changhing the core system logic wrapped in the domain hexagons."
+
+Davi Vieira, Designin Hexagonal Architectures, p226

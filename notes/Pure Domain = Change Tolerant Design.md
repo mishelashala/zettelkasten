@@ -1,0 +1,7 @@
+# Pure Domain = Change Tolerant Design
+* id: Kdlc7VSPIMADXMSf2_rEP
+* tags: [[Hexagonal Architecture]]
+
+"As long as you keep the code in the Domain hexagon that purely expresses the problem domain [...] you are on the right path to ensuring the encapsulation level that favors a more change-tolerant design."
+
+Davi Vieira, Designin Hexagonal Architectures, p386
