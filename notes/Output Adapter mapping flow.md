@@ -1,0 +1,8 @@
+# Output Adapter mapping flow
+* id: lYtIRGkkKruQ_q99vzPlz
+* tags: [[Hexagonal Architecture]]
+* parents: [[Output Adapter's Role]]
+
+"When building a web adapter to an application, we should keep in mind that we're building an adapter that translates HTTP protocol to method calls on the use cases of our application, translates the results back to HHTP, and does not do any domain logic."
+
+Tom Hombergs, Get Your Hands Dirty on Clean Architecture, p54
