@@ -1,0 +1,8 @@
+# Spike
+* id: utIFeMbFGhcfXZ6vTZU8G
+* tags: [[User Stories]]
+* parents: [[Estimatable]]
+
+"The solution in this case is to send one or more developers on what Extreme Programming calls a spike, which is a brief experiment to learn about an area of the application."
+
+Mike Cohn, User Stories Applied, p22

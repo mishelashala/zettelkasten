@@ -1,0 +1,9 @@
+# Stories too small
+* id: MWqd3uMZFyHlNoh53IW4H
+* tags: [[User Stories]]
+* parents: [[Small]]
+* children: [[How to deal with tiny stories]]
+
+"A story that is too small is typically one that the developer syas she doesn't want to write down or estimate because doing that may take longer than making the change."
+
+Mike Cohn, User Stories Applied, p26
