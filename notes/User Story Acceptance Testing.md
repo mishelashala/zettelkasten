@@ -1,6 +1,7 @@
 # User Story Acceptance Testing
 * id: 0_mTaMo7L6YueckGpGMXa
 * tags: [[User Stories]]
+* children: [[Customers Specify The Acceptance Tests]]
 
 "Acceptance testing is the process of verifying that stories were developed such that each works exactly the way the customer team expected it to work."
 
