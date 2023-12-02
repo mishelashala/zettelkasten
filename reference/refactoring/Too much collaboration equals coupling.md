@@ -1,4 +1,4 @@
-# Too much collaboration = coupling
+# Too much collaboration equals coupling
 * id: xkdImCEHCfil8ilPUT5T-
 * parents: [[Move Method Rule]]
 

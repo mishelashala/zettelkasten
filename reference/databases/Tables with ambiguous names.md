@@ -1,4 +1,4 @@
-# Tables with ambigous names
+# Tables with ambiguous names
 * id: 64hDYVF8iOptAgC0MOGrz
 * tags: [[Database Design]]
 

@@ -1,4 +1,4 @@
-# Leas-recently-used
+# Least-recently-used
 * id: whgFZIz9kj0U6hg3ux_AD
 * parents: [[Cache: Eviction Policy]]
 

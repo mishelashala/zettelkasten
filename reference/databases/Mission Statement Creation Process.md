@@ -1,4 +1,4 @@
-# Missiong Statement Creation Process
+# Mission Statement Creation Process
 * id: d0Tx5F9vgRkx5ckiyMtuJ
 * tags: [[Database Design]]
 * parents: [[Mission Statement]]
