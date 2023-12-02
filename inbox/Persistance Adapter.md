@@ -1,7 +1,7 @@
 # Persistance Adapter
 * id: npw6ZVQfhZ1eo6Rgm7Glb
 * tags: [[Hexagonal Architecture]]
-* parents: [[Why use output ports]]
+* parents: [[3.1 Why use output ports]]
 
 "[...] the persistence adapter is a driven or outgoing adapter because it's called by our application and not the other way around."
 

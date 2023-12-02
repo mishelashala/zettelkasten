@@ -1,8 +1,0 @@
-# Second Normal Form (2NF)
-* id: mvIKEm4L76342PSF1gn6z
-* tags: [[Database Normalization]]
-* children: [[Entity Integrity]]
-
-"Any table that is second normal form exhibits entity integrity and is also, by definition, it first normal form."
-
-Fidel A. Captain, Six-Step Relational Database Design, p167
