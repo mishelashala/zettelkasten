@@ -8,4 +8,4 @@ Backup for my personal notes.
 - Reference: notes already cataloged
 - Projects: subproducts of the reference notes
 
-Notes taken using [MetaSlip](https://apps.apple.com/us/app/metaslip-note-zettelkasten/id1565362148)
+Notes taken using [Obsidian]([https://obsidian.md/)
