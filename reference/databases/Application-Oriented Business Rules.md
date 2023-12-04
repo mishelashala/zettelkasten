@@ -1,7 +1,4 @@
-# Application-Oriented Business Rules
-* id: 5uDE8oDIyW5-aRxo1s7yZ
-* tags: [[Business Rules]], [[Database Design]]
-* parents: [[Types of business rules]]
+#DatabaseDesign 
 
 "[...] impose constraints that you cannot establish within the logical design of the database. You must instead establish them within the physical design of the database or within the design of a database application, where they will be more applicable and meaningful."
 

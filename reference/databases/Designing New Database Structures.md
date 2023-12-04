@@ -1,6 +1,4 @@
-# Designing New Database Structures
-* id: 7Caihm6hO0uKzqd9ujQgi
-* tags: [[Database Design]]
+#DatabaseDesign
 
 "Do not adopt the current database structure as the basis for the new database structure."
 

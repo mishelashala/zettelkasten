@@ -1,5 +1,4 @@
-# Distributed Hexagonal Architecture
-* id: xQU9idaFzfBcdjpHYjLg4
+#HexagonalArchitecture
 
 "In a distributed approach, two or more hexagonal self-contained systems can comprise the whole hexagon-based system."
 

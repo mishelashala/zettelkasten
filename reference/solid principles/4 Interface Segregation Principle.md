@@ -1,6 +1,4 @@
-# Interface Segregation Principle
-* id: m-IPBy5r4bMekVqi5Pz9H
-* tags: [[SOLID Principles]]
+#SolidPrinciples
 
 "[...] states that broad interfaces should be split into specific ones so that clients only know the methods they need."
 

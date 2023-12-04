@@ -1,6 +1,6 @@
 # Token Bucket Parameters
 * id: IKXzz99JHTzMTP5kiD0yN
-* parents: [[Token Bucket]]
+* parents: [[1.4 Token Bucket]]
 
 "The token bucket algorithm takes two parameters:
 - Bucket size: the maximum number of tokens allowed in the bucket

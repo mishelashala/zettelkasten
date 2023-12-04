@@ -1,7 +1,4 @@
-# Maintainable code is easy to test
-* id: Hr6l46IXXvXCmjf_9WZef
-* tags: [[Software Quality]]
-* parents: [[Maintainability]]
+#SoftwareQuality
 
 "[...] maintainability implies testability because maintainable software is most likely design from smaller and simpler components that make testing easy."
 

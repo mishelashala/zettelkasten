@@ -1,6 +1,4 @@
-# Simple
-* id: aEtldsKrqWlnn9wk9AOpG
-* tags: [[Database Design]]
+#DatabaseDesign
 
 "Simple is one of the most dangerous words known to database developers. Nothing is ever 'simple'."
 

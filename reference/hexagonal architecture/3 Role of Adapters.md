@@ -1,6 +1,4 @@
-# Role of Adapters
-* id: 4-uehdvpXIsyCIClgmxIW
-* tags: [[Hexagonal Architecture]], [[Adapters]]
+#HexagonalArchitecture
 
 "We use adapters to allow a system to be compatible with different technologies or protocols."
 

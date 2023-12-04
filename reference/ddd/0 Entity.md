@@ -1,6 +1,4 @@
-# Entity
-* id: AFPMPa_z-KhQpi_-lwB26
-* tags: [[DDD]], [[Entities]]
+#DDD
 
 "What characterizes an entity is its sense of continuity and identity."
 

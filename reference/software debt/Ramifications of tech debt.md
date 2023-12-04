@@ -1,7 +1,0 @@
-# Ramifications of tech debt
-* id: Jx-dA0g5sHqywpajjaTUk
-* tags: [[Software Debt]]
-
-"As software debt grows in an application, the increased cost of delivery will eventually overtake the value realized by implementing new features."
-
-Chris Sterling, Managing Software Debt, p5

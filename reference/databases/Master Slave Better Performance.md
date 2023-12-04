@@ -1,6 +1,4 @@
-# Master/Slave: Better Performance
-* id: F23S-JckZv1ooChenLspY
-* tags: [[Database Replication]]
+#DatabaseReplication 
 
 "This model improves performance because it allows more queries to be processed in parallel."
 

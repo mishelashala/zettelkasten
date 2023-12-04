@@ -1,7 +1,4 @@
-# Why keys are important
-* id: 9QMV3Tawawu0iCG8A07jT
-* tags: [[Database Keys]], [[Database Design]]
-* children: [[Importance of keys]]
+#DatabaseKeys 
 
 "They ensure that each record in a table is precisely identified."
 

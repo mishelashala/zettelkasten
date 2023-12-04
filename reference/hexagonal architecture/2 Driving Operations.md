@@ -1,6 +1,4 @@
-# Driving Operations
-* id: Fisw5RoJKJV5dy7L9oqVq
-* tags: [[Hexagonal Architecture]]
+#HexagonalArchitecture
 
 "Driving operations are the ones that request actions to the software."
 

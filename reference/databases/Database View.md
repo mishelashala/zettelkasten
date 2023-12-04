@@ -1,6 +1,4 @@
-# Database View
-* id: GgqxA5Ojoyw9SvNrF5s0r
-* tags: [[Database Table Types]], [[Database Design]]
+#Databases
 
 "[...] a view is a virtual table composed of fields from one or more tables in the database; it can also include fields from other views."
 

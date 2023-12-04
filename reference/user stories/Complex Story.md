@@ -1,8 +1,4 @@
-# Complex Story
-* id: t2ch1eZqTggMfTRvCusVL
-* tags: [[User Stories]]
-* parents: [[Epic Categories]]
-* children: [[How to tackle complex stories]]
+#UserStories
 
 "[...] the xomple story is a user story that is inherently large and cannot easily be disaggregated into a set of constituent stories."
 

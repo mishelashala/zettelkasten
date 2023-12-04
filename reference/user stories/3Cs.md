@@ -1,7 +1,4 @@
-# 3Cs
-* id: -BJVBR2t_IDFDuKxCObyL
-* tags: [[User Stories]]
-* parents: [[User Story Composition]]
+#UserStories
 
 "Ron Jeffries has named these three aspects with the wonderful alliteration of Card, Conversation, and Confirmation."
 

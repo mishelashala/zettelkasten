@@ -1,7 +1,0 @@
-# User Proxies
-* id: WMNGjZsL-EZIJqVJUS-Ub
-* tags: [[User Stories]]
-
-"When we cannot get as many users as we want to represent different perspectives of the product, we need to resort to user proxies, who may not be users themselves but are on a project to help represent users."
-
-Mike Cohn, User Stories Applied, p55

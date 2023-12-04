@@ -1,6 +1,4 @@
-# Definition of Entity
-* id: 0gWmCdq-GPQHSshRmd0UC
-* tags: [[Entities]], [[Database Design]]
+#DatabaseDesign
 
 "[...] a tangile object of interest that exists in the user's domain."
 

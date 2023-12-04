@@ -1,6 +1,4 @@
-# Functional testing
-* id: CgJSr6cEPxPLme9DgXTNy
-* tags: [[Testing Strategies]]
+#TestingStrategies
 
 "[...] ensures that the application functions as expected."
 

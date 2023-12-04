@@ -1,7 +1,4 @@
-# Conceptual Models
-* id: jqhh6Z-EUsvRnFbhv25xb
-* tags: [[Database Design]]
-* children: [[Entity-Relationship Model]]
+#DatabaseDesign 
 
 "Conceptual models are concerned with the logical nature of the data and what is represented."
 

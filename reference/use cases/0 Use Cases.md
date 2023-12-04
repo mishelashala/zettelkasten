@@ -1,6 +1,4 @@
-# Use Cases
-* id: MxtwzdiPWR93E2VlAulkX
-* tags: [[0 Use Cases]]
+#UseCases
 
 "Use cases represent the system's behavior through application-specific operations, which exist within the software realm to support the domain's constraints."
 

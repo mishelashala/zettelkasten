@@ -1,7 +1,4 @@
-# Implementing an interface is a form of inheritance
-* id: 3Pvn5umKwdc-OW0eS2cLO
-* tags: [[OOP]]
-* parents: [[OOP]]
+#OOP
 
 "it should be pointed out that implementing the interface can also be viewed as a form of inheritance, where the implementing class inherits an abstract set of properties from the interface."
 

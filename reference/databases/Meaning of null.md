@@ -1,6 +1,4 @@
-# Meaning of null
-* id: 3SDNQLLXP_l5E3D6XuGPk
-* tags: [[Database Design]]
+#DatabaseDesign
 
 "Null does not represent a blank - it represents a missing or unknown value."
 

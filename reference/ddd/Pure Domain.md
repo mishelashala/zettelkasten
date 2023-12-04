@@ -1,6 +1,4 @@
-# Pure Domain
-* id: l-PqSLN3n7_yMe7XwD7Ew
-* tags: [[DDD]]
+#DDD
 
 "[...] the code that does not merge business concerns with technology ones"
 

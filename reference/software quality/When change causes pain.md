@@ -1,7 +1,4 @@
-# When change causes pain
-* id: ZgyujtwygAplm1r3WIeM2
-* tags: [[Software Quality]]
-* parents: [[Maintainability]]
+#SoftwareQuality
 
 "In a not-so-maintainable software system, changes in functionality will soon become so expensive that change is a pain."
 

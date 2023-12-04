@@ -1,7 +1,4 @@
-# Compound Story
-* id: HuoxltZUHOzkzFkg3arBb
-* tags: [[User Stories]]
-* parents: [[Epic Categories]]
+#UserStories
 
 "A compound story is an epic that comprises multiple shorter stories."
 

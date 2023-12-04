@@ -1,6 +1,4 @@
-# Types of databases
-* id: cRYgogvHZqg4GUhRyJHLD
-* tags: [[Database Design]]
+#Databases
 
 "The two types of databases in database management are operational databases and analytical databases."
 

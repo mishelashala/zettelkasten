@@ -1,6 +1,4 @@
-# Communication Between Bounded Contexts
-* id: 4B5gfjBZpGUJYb_WprQqT
-* tags: [[DDD]]
+#DDD
 
 "If one context needs something of the other, they can call each other's domain services, or we can introduce an application service as a coordinator between the bounded contexts."
 

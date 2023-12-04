@@ -1,7 +1,4 @@
-# Blending domains
-* id: EzLFvmm2nPFX1bkTRdFbE
-* tags: [[DDD]]
-* parents: [[Subdomains]]
+#DDD
 
 "If we blend primary and secondary activities, we'll end up with a domain model with mixed concerns."
 

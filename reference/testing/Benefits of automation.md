@@ -1,6 +1,4 @@
-# Benefits of automation
-* id: S-mG4Xp-n3GGCwskYkZx9
-* tags: [[Regression Testing]]
+#RegressionTesting
 
 "Automation is essential to keeping the cost of regression test execution manageable over time."
 

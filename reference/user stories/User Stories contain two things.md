@@ -1,6 +1,4 @@
-# User Stories contain two things
-* id: FMTzv1cIhgU1JbQiIIytI
-* tags: [[User Stories]]
+#UserStories
 
 "[...] it is useful to think of the story card as containing:
 - a phrase or two that act as reminders to hold the conversation

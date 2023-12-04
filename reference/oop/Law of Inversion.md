@@ -1,6 +1,4 @@
-# Law of Inversion
-* id: P-2tPNWNn_XFkMLZiKDTN
-* parents: [[OOP]]
+#OOP
 
 "If your routines exchange too many data, put your routines in your data."
 

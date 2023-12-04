@@ -1,7 +1,4 @@
-# Implementation Model's Concerns
-* id: IzClqXXKo-u4T7glc_q8a
-* tags: [[Database Design]]
-* parents: [[Implementation Models]]
+#DatabaseDesign 
 
 "[...] implementation models are concerned with the physical nature of the data and with how the data will be represented in the database."
 

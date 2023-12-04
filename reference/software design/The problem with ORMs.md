@@ -1,7 +1,5 @@
-# The problem with ORMs
-* id: 5fLrIMJHdV26Arj3PfCDP
-* tags: [[Software Design]]
+#SoftwareDesign
 
-"[...] if we combine an ORM framework with a layered architecture, we're easily temptep to mix business rules with persitance aspects."
+"[...] if we combine an ORM framework with a layered architecture, we're easily tempted to mix business rules with persitence aspects."
 
 Tom Hombergs, Get Your Hands Dirty on Clean Architecture, p11

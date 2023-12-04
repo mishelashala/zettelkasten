@@ -1,7 +1,4 @@
-# Untestable User Stories
-* id: DkVy9uLygmA2ZasNKyH_m
-* tags: [[User Stories]]
-* parents: [[Testable]]
+#UserStories
 
 "Untestable stories commonly show up for nonfunctional requirements, which are requirements about the software but not directly about its functionality."
 

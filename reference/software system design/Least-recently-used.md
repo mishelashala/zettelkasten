@@ -1,6 +1,4 @@
-# Least-recently-used
-* id: whgFZIz9kj0U6hg3ux_AD
-* parents: [[Cache: Eviction Policy]]
+#Cache
 
 "(LRU) is the most popular cache eviction policy."
 

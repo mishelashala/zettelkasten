@@ -1,6 +1,4 @@
-# Closed Stories
-* id: ZykVVccHG1IOsasY0t1jP
-* tags: [[User Stories]]
+#UserStories
 
 "A closed story is one that finishes with the achievement of a meaningful goal and that allows the user to feel she has accomplished something."
 

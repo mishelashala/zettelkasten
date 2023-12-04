@@ -1,6 +1,4 @@
-# Knowledge Crunching
-* id: rKXLGze1BlVULu2DLLk1G
-* tags: [[DDD]]
+#DDD
 
 "[...] is based on brainstorming between [...] developers and domain experts."
 

@@ -1,6 +1,4 @@
-# Attribute Design
-* id: BMYylpHXoH1KBWnDIB4VO
-* tags: [[Attributes]], [[Database Design]]
+#DatabaseDesign
 
 "Attributes should represent one and only one characteristic or property of an entity. They should not represent multiple characteristics or properties."
 

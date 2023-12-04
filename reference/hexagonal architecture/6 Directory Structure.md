@@ -1,6 +1,4 @@
-# Directory Structure
-* id: eWPuDoJLHWlykDRU3T5rC
-* tags: [[Hexagonal Architecture]], [[Clean Architecture]]
+#HexagonalArchitecture
 
 "The pacakge boundaries, combined with package-private visibility, enable us to avoid unwanted dependencies between features."
 

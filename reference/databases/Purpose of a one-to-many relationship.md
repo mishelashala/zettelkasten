@@ -1,6 +1,4 @@
-# Purpose of a one-to-many relationship
-* id: Wp708mNnBtb-5VnKFn1TZ
-* tags: [[Database Relationships]], [[Database Design]], [[One-To-Many]]
+#DatabaseRelationship
 
 "[...] it helps to eliminate duplicate data and to keep redundant data to an absolute minimum."
 

@@ -1,7 +1,4 @@
-# Maintainability supports functionality
-* id: zZJeSVff5mrurGmUxQnIs
-* tags: [[Software Quality]]
-* parents: [[Maintainability]]
+#SoftwareQuality
 
 "[...] maintainability is a key supporter of functionality. Bad maintainability means that changes in functionality become more and more expensive over time."
 

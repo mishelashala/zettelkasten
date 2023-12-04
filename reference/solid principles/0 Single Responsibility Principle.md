@@ -1,7 +1,4 @@
-# Single Responsibility Principle
-* id: TbLIrusM9mz13xD7Ak3pH
-* tags: [[SOLID Principles]]
-* children: [[Benefit: Slices allow parallel work]], [[0.1 SRP alternative definition]]
+#SolidPrinciples
 
 "A component should do only one thing and do it right."
 

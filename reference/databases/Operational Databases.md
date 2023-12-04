@@ -1,7 +1,5 @@
-# Operational Databases
-* id: JdRFCKcnPQ23QgzL6BwRq
-* tags: [[Databases]], [[OTPL]]
+#Databases 
 
-"Operational databases [are] primarely used in online transaction processing (OTPL) scenarios"
+"Operational databases [are] primarily used in online transaction processing (OTPL) scenarios"
 
 Database Design for Mere Mortals, p4
