@@ -1,5 +1,0 @@
-#Databases 
-
-"You can establish the relationship vaia a set of primary and foreign keys [...] or through a third table known as a linking table (known as an associative table)."
-
-Database Design for Mere Mortals, p51
