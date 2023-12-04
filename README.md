@@ -8,4 +8,4 @@ Backup for my personal notes.
 - Reference: notes already cataloged
 - Projects: subproducts of the reference notes
 
-Notes taken using [Obsidian]([https://obsidian.md/)
+Notes taken using [Obsidian](https://obsidian.md/)
