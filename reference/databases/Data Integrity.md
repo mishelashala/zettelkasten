@@ -1,6 +1,4 @@
-# Data Integrity
-* id: y1Hpfpf9WDdmk8tbIUA9L
-* tags: [[Databases]], [[Data Integrity]]
+#Databases 
 
 "... refers to the validity, consistency, and accuracy of the data in a database."
 

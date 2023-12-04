@@ -1,6 +1,4 @@
-# URL Frontier
-* id: sYhG_zaPwGxvnhQkC99_e
-* children: [[URL Frontier: purpose]]
+#URLFrontier 
 
 "A URL frontier is a data structure that stores URLs to be downloaded."
 

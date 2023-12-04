@@ -1,5 +1,4 @@
-# Bloom Filter
-* id: HxSw_Wz4UDkvt5XG3vqmG
+#SoftwareSystemDesign
 
 "A bloom filter is a space-efficient probabilistic technique to test if an element is a member of a set."
 

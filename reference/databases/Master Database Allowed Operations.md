@@ -1,6 +1,4 @@
-# Master Database Allowed Operations
-* id: 7kZBf2x9Y7q3hG4-6SUJq
-* tags: [[Database Replication]]
+#DatabaseReplication 
 
 "A master database generally only supports write operations."
 

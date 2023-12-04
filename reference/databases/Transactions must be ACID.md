@@ -1,7 +1,4 @@
-# Transactions must be ACID
-* id: 8xklCrwNigBR71MTbKaHG
-* tags: [[Databases]]
-* children: [[Importances of ACID transactions]]
+#Databases #ACID 
 
 "Transactions must be Atomic, Consistent, Isolated and Durable (ACID)."
 

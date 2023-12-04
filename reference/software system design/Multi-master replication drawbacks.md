@@ -1,6 +1,4 @@
-# Multi-master replication drawbacks
-* id: TIvOScQW9iHuU91KCQcI-
-* parents: [[Multi-master replication]]
+#DatabaseReplication 
 
 - Hard tto scale with multiple data centers
 - IDs do not go up with time accross mutiple servers

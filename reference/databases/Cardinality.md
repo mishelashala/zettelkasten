@@ -1,6 +1,4 @@
-# Cardinality
-* id: LsQ6nj7FMs8gTovMswH4k
-* tags: [[Databases]], [[Database Design]]
+#Databases 
 
 "Cardinality indicates the number of entity occurrences in a relationship, which can be any number from zero to infinity."
 
