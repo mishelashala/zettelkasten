@@ -12,3 +12,4 @@
 [ ] Think like a programmer
 [ ] Code craft
 [ ] Hacks, Leaks and Revelations
+[ ] Touch of Class: Learning to Program Well with Objects and Contracts
