@@ -1,0 +1,3 @@
+"Según el _Catecismo de la Iglesia católica_, los _gays_ y lesbianas "no eligen su condición homosexual" y "deben ser aceptados con respeto, compasión y sensibilidad. Debe evitarse toda señal de discriminación injusta con respecto a ellos". De cualquier modo, "los actos homsexuales son intrínsicamente un trastorno" y "en ninguna circunstancia pueden ser aprobados". Por tanto, si quieren llevar vidas virtuosas, las personas homosexuales deben ser castas."
+
+James Rachels, Introducción a la filosofía moral, p63

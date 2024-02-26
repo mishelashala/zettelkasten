@@ -1,0 +1,3 @@
+""La homosexualidad es inmoral", esto significa lo mismo que "yo (Falwell) desapruebo la homosexualidad": la descripción de un hecho acerca de la actitud de Falwell. El emotivismo, por su parte, niega que esta expresión describa un hecho, ni siquiera un hecho acerca de sí mismo. En vez de esto, el emotivismo interpreta su expresión como equivalente a algo como "la homosexualidad... que asco!" o "no cometas actos homosexuales" u "ójala no hubiera homosexualidad"".
+
+James Rachels, Introducción a la filosofía moral, p70-71 
