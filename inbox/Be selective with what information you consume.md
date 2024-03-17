@@ -1,6 +1,3 @@
-# 11-30 08:44
-* id: vtGSMTaQKb7uyTNHNVtbJ
-
 "You are what you consume, and that appeals just as much to information as to nutrition."
 
 Tiago Forte, Building a Second Brain, p52
