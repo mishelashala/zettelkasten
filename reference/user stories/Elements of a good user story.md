@@ -1,7 +1,7 @@
 #UserStories 
 
 "A good story is:
-- Independnt
+- Independent
 - Negotiable
 - Valuable to users or costumers
 - Estimable
