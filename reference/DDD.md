@@ -8,9 +8,23 @@ Designing Hexagonal Architecture with Java, p15
 
 ### Domain Entity Purity
 
-"Domain entities should be pure in the sense tha they deal only with business concerns."
+"Domain entities should be pure in the sense that they deal only with business concerns."
 
 Designing Hexagonal Architecture with Java, p29
+
+#### Benefit
+
+[[Hexagonal Architecture#Pure Domain equals Change Tolerant Design]]
+
+Davi Vieira, Designin Hexagonal Architectures, p386
+
+### Domain Integrity
+
+#### When validations are not feasible in the entity
+
+"If it's not feasible to validate a business rule in a domain entity, we can do it in the use case code before it starts working on the domain entities."
+
+Tom Hombergs, Get Your Hands Dirty on Clean Architecture, p43
 
 ---
 
