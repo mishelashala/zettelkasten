@@ -30,6 +30,6 @@ Alex Xu, System Design Interview
 
 ## Eventual consistency
 
-"This is a specific form of weak consistency. Given anough time, all updates are propagated, and all replicas are consistent."
+"This is a specific form of weak consistency. Given enough time, all updates are propagated, and all replicas are consistent."
 
 Alex Xu, System Design Interview
