@@ -6,6 +6,12 @@
 
 Designing Hexagonal Architecture with Java, p15
 
+### Entity: Definition
+
+"[...] a tangible object of interest that exists in the user's domain."
+
+Captain, Fidel A., Six-Step Relation Database Design, p16
+
 ### Domain Entity Purity
 
 "Domain entities should be pure in the sense that they deal only with business concerns."

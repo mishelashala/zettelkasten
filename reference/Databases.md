@@ -44,6 +44,11 @@ Database Design for Mere Mortals, p97
 
 "The specific purpose of the database is unclear. This mission statement is written in such a way that ascertaining the specific purpose of the database is difficult."
 
+### When the mission statement is complete
+
+"Your mission statement is complete when you have a sentence that describes the specific purpose of the database and that is understood and agreed upon by everyone concerned."
+
+Database Design for Mere Mortals, p94
 
 ## Database Data
 
@@ -590,6 +595,12 @@ Rod Stephens, Beginning Database Design Solutions, p8
 
 ## Database Design
 
+### Database Design is not "simple"
+
+"Simple is one of the most dangerous words known to database developers. Nothing is ever 'simple'."
+
+Database Design for Mere Mortals, p68
+
 ### Traditional phases of database design
 
 "In general, traditional methods of database design incorporate three phases: requirement analysis, data modeling, and normalization."
@@ -648,6 +659,12 @@ Captain, Fidel A., Six-Step Relation Database Design, p6
 
 Captain, Fidel A., Six-Step Relation Database Design, p94
 
+#### Entity-Relationship Model
+
+"The E-R diagram is a conceptual model and represents the user's view of the datad and the logical structure of the database."
+
+Captain, Fidel A., Six-Step Relation Database Design, p94
+
 ### Implementation Models
 
 "[...] implementation models are concerned with the physical nature of the data and with how the data will be represented in the database."
@@ -657,6 +674,18 @@ Captain, Fidel A., Six-Step Relation Database Design, p6
 #### Implementation Model's Concerns
 
 "[...] implementation models are concerned with the physical nature of the data and with how the data will be represented in the database."
+
+Captain, Fidel A., Six-Step Relation Database Design, p94
+
+#### Relation-Model Diagrams
+
+"[...] the R-M diagram is an implementation model and represents the developer's view of the data and the physical structure of the database."
+
+Captain, Fidel A., Six-Step Relation Database Design, p94
+
+### E-R Diagrams vs R-M diagrams
+
+"The E-R diagram is a conceptual model and the R-M diagram is an implementation model."
 
 Captain, Fidel A., Six-Step Relation Database Design, p94
 
@@ -674,6 +703,18 @@ Captain, Fidel A., Six-Step Relation Database Design, p6
 
 Database Design for Mere Mortals, p181
 
+#### Field design is dictated by the purpose of the data
+
+"Defining field specifications compels you to acquire a complete understanding of the nature and purpose of the data in the database."
+
+Database Design for Mere Mortals, p265
+
+#### Meaning of null
+
+"Null does not represent a blank - it represents a missing or unknown value."
+
+Database Design for Mere Mortals, p279
+
 ### Attribute Design
 
 "Attributes should represent one and only one characteristic or property of an entity. They should not represent multiple characteristics or properties."
@@ -690,7 +731,17 @@ John L. Viescas, SQL for mere mortals, p48
 
 ### Column Design
 
+### Cascade Updates
 
+"Cascade updates ensures referential integrity by updating all references to a primary key value which has changed, by updating all corresponding foreign key values for that primary key."
+
+Fidel A. Captain, Six-Step Relational Database Design, p168
+
+#### Deletion Rule
+
+"You always set the deletion rule from the perspective of the parent table because it is the more important of the two tables within the relationship. Deleting a record in the parent table will always have some effect on related records in the child table, but deleting a record in the child table will have little if any effect on the related record in the parent table."
+
+Database Design for Mere Mortals, p353
 
 ### Database Anti-Patterns
 
@@ -724,8 +775,11 @@ Database Design for Mere Mortals, p456
 
 Database Design for Mere Mortals, p456
 
+### Start Database Designs from Scratch
 
+"Do not adopt the current database structure as the basis for the new database structure."
 
+Database Design for Mere Mortals, p110
 
 ## Database Refactoring
 
