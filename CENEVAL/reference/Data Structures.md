@@ -38,6 +38,21 @@ Alfred Aho, Data Structures and Algorithms
 
 Alfred Aho, Data Structures and Algorithms
 
+## Algorithmic Design
+
+### Goals of algorithm design
+
+1. We would like an algorithm that is easy to understand, code, and debug.
+2. We would like an algorithm that makes efficient use of the computer's resources, especially, one that runs as fast as possible.
+
+Alfred Aho, Data Structures and Algorithms
+
+### Running Time as a function of the input
+
+«The fact that running time depends on the input tells us that the running time of a program should be fined as a function of the input. Often, the running time depends not on the exact input but only on the "size" of the input.»
+
+Alfred Aho, Data Structures and Algorithms
+
 ## Graphs
 
 ### Definition of Graph
@@ -75,5 +90,123 @@ Alfred Aho, Data Structures and Algorithms
 ### k-color definition
 
 «Obviously, _k_ colors are needed to color a _k_-clique, since no two vertices in a clique may be given the same color.»
+
+Alfred Aho, Data Structures and Algorithms
+
+## Procedures
+
+### Definition
+
+«Procedures, [...], generalize the notion of an operator.»
+
+Alfred Aho, Data Structures and Algorithms
+
+### Benefits of procedures
+
+«by using procedures a programmer is free to define his own operators and apply them to operands that need not the basic types.»
+
+Alfred Aho, Data Structures and Algorithms
+
+### Another benefit of procedures
+
+«Another advantage of procedures is that they can be used to encapsulate parts of an algorithm by localizing in one section of a program all the statements relevant to a certain aspect of a program.»
+
+Alfred Aho, Data Structures and Algorithms
+
+## Encapsulation
+
+### Example
+
+«An example of encapsulation is the use of one procedure to read all input and to check for its validity.»
+
+Alfred Aho, Data Structures and Algorithms
+
+## Abstract Data Types
+
+### Definition
+
+«An abstract data type is a mathematical model, together with various operations defined on the model.»
+
+Alfred Aho, Data Structures and Algorithms
+
+### How to represent ADTs in code
+
+«To represent the mathematical model underlying and ADT we use _data structures_[[Data Structures#Data Structures]]».
+
+Alfred Aho, Data Structures and Algorithms
+
+## Data Structures
+
+### Definition
+
+«[Data Structures] are collections of variables, possibly of several different data types, connected in various ways.»
+
+Alfred Aho, Data Structures and Algorithms
+
+### Cell as the building block of data structures
+
+«The _cell_ is the basic building block of data structures. We can picture a cell as a box that is capable of holding a value drawn from some basic or composite data type.»
+
+Alfred Aho, Data Structures and Algorithms
+
+### Data Structures are aggregates of named cells
+
+«Data structures are created by giving names to aggregates of cells and (optionally) interpreting the values of some cell as representing connections (e.g., pointers) among cells.»
+
+Alfred Aho, Data Structures and Algorithms
+
+### Cell-Grouping
+
+#### Array as the simplest aggregation mechanism
+
+«The simplest aggregating mechanism in Pascal and most other programming languages is the (one-dimensional) array»
+
+Alfred Aho, Data Structures and Algorithms
+
+##### Array: Definition
+
+«[An array] is a sequence of cells of a given type, which we shall often refer to as the cell type.»
+
+Alfred Aho, Data Structures and Algorithms
+
+#### Records as a common grouping mechanism
+
+«Another common mechanism for grouping cells in programming languages is the _record structure_.»
+
+Alfred Aho, Data Structures and Algorithms
+
+##### Record Structure: Definition
+
+«A _record_ is a cell that is made up of a collection of cells, called _fields_, of possibly dissimilar types.»
+
+Alfred Aho, Data Structures and Algorithms
+
+### Pointers and cursors as an alternative to cell-grouping
+
+«In addition to the cell-grouping features of a programming language, we can represent relationships between cells using points and cursors.»
+
+Alfred Aho, Data Structures and Algorithms
+
+#### Pointer: Definition
+
+«A _pointer_ is a cell whose value indicates another cell.»
+
+Alfred Aho, Data Structures and Algorithms
+
+##### How do we represent graphically pointers
+
+«When we draw pictures of data structures, we indicate the fact that cell _A_ is a pointer to cell _B_ by drawing an arrow from _A_ to _B_.»
+
+Alfred Aho, Data Structures and Algorithms
+
+#### Cursor: Definition
+
+«A _cursor_ is an integer-valued cell, used as a pointer to an array.»
+
+Alfred Aho, Data Structures and Algorithms
+
+#### Cursors are pointers
+
+«As a method of connection, the cursor is essentially the same as a pointer.»
 
 Alfred Aho, Data Structures and Algorithms
