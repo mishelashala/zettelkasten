@@ -12,47 +12,6 @@ Alfred Aho, Data Structures and Algorithms
 
 Alfred Aho, Data Structures and Algorithms
 
-## Algorithms
-
-### Definition of Algorithm
-
-«a finite sequence of instructions, each of which has a clear meaning and can be performed with a finite amount of effort in a finite length of time»
-
-Alfred Aho, Data Structures and Algorithms
-
-### Algorithms can be executed any number of times
-
-«In an algorithm instructions can be executed any number of times, provided the instructions themselves indicate repetition.»
-
-Alfred Aho, Data Structures and Algorithms
-
-### Algorithms must be finite
-
-«no matter what the input values may be, an algorithm terminate after executing a finite number of instructions.»
-
-Alfred Aho, Data Structures and Algorithms
-
-### Heuristic Algorithm
-
-«An algorithm that quickly produces good but not necessarily optimal solutions is called a _heuristic_»
-
-Alfred Aho, Data Structures and Algorithms
-
-## Algorithmic Design
-
-### Goals of algorithm design
-
-1. We would like an algorithm that is easy to understand, code, and debug.
-2. We would like an algorithm that makes efficient use of the computer's resources, especially, one that runs as fast as possible.
-
-Alfred Aho, Data Structures and Algorithms
-
-### Running Time as a function of the input
-
-«The fact that running time depends on the input tells us that the running time of a program should be fined as a function of the input. Often, the running time depends not on the exact input but only on the "size" of the input.»
-
-Alfred Aho, Data Structures and Algorithms
-
 ## Graphs
 
 ### Definition of Graph
