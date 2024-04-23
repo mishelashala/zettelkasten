@@ -1,3 +1,0 @@
-"Tal agente es alguien que se preocupa imparcialmente por los intereses de cada uno de quienes se verán afectados por lo que hace; alguien que distingue cuidadosamente los hechos y examina sus implicaciones; alguien que acepta principios de conducta sólo después de analizarlos con cuidado para estar seguro de que son firmes; alguien que está dispuesto a "escuchar la razón", incluso cuando esto significa que tendrá que revisar sus convicciones previas, y, finalmente, alguien que está dispuesto a actuar siguiendo los resultados de su deliberación."
-
-James Rachels, Introducción a la filosofía moral, p46

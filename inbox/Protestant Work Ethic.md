@@ -1,3 +1,4 @@
+#quotes 
 "idle hands do the devil's work"
 
 > Note: secondary source.

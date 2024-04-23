@@ -1,1 +1,0 @@
-"Cuando decimos que sus acciones eran malvadas, sólo estamos diciendo que tenemos sentimientos negativos hacia ellas. Lo mismo aplica a cualquier juicio moral."

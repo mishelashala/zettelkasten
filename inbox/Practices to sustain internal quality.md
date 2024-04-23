@@ -1,3 +1,4 @@
+#SoftwareDebt 
 Sustainable pace
 Early identification of internal quality problems
 Close Collaboration

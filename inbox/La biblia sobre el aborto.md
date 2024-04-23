@@ -1,3 +1,4 @@
+#AntiAbortionDebate 
 "El pasaje en las Escrituras que se acerca más a un juicio especifico del estatus moral e los fetos se encuentra en el capitulo 21 del Éxodo. Este capítulo es parte de una detallada descripción de la ley de los antiguos israelitas. Allí se dice que el castigo por asesinato es la muerte; sin embargo, se dice también que si se cause un aborto a una embarazada, la pena es sólo una multa que se le deberá pagar al esposo. El asesinato no era una categoría que incluyera a los fetos. Al parecer, la Ley de Israel veía a los fetos como algo menos que seres humanos completos."
 
 James Rachels, Introducción a la filosofía moral, p105
