@@ -54,6 +54,12 @@ Chris Sterling, Managing Software Debt, p8
 
 Chris Sterling, Managing Software Debt, p8
 
+### Moral Hazard
+
+"Moral hazard is the view that parties insulated from risk may behave differently from the way they would behave if they were fully exposed to the risk."
+
+Chris Sterling, Managing Software Debt
+
 ## What happens when software debt accumulates
 
 "At some point small forms of decay in software become large enough to affect delivery to a point where working harder and longer doesn't result in successful outcomes."
@@ -130,6 +136,14 @@ Chris Sterling, Managing Software Debt, p3
 
 Chris Sterling, Managing Software Debt, p3
 
+#### Quality Debt Indicators
+
+- Lengthening regression test execution
+- Increasing known unresolved defects
+- Creating a maintenance team for production issues
+
+Cris Sterling, Managing Software Debt, p85
+
 ### Platform Experience Debt
 
 "The availability of people to work on software changes is becoming limited or cost-prohibitive."
@@ -154,3 +168,79 @@ Chris Sterling, Managing Software Debt, p7
 
 Chris Sterling, Managing Software Debt, p7
 
+## Software Defect
+
+"Defects are system faults that users are able to work around but should not occur in a functioning software implementation."
+
+Christ Sterling, Managing Software Debt, p50
+
+## Software Fires
+
+"Fires are defects that cannot be worked around and cause serious problems for users of the software."
+
+Chris Sterling, Managing Software Debt, p50-51
+
+## Quality as an after thought
+
+### The result of quality as an after thought
+
+"[...] afterthought result in debt. Over time this debt becomes too costly to even think of paying back, [...]"
+
+Chris Sterling, Managing Software Debt, p82
+
+## Practices to sustain internal quality
+
+- Sustainable pace
+- Early identification of internal quality problems
+- Close Collaboration
+- Refactoring
+- Small batches of work
+- Defining technically done
+- Potentially shippable product increments
+- Single work queue
+
+Chris Sterling, Managing Software Debt
+
+## Late Integration
+
+### Problems caused by integrating late
+
+"Problems that were introduced earlier in development emerge during integration, such as duplicate code, merge conflicts, incompatible interfaces, and misaligned feature interpretations."
+
+Chris Sterling, Managing Software Debt, p8
+
+## Tracer Bullet
+
+"Tracer bullet: a narrow implementation in production quality of a large feature to be implemented into the product later that will enable the team to better estimate the remaining feature work"
+
+Chris Sterling, Managing Software Debt, p192
+
+### Tracer Bullet Usage
+
+"If your target is moving, or if you don't know all the factors, you use tracer bullets--little phosphorous rounds intermixed with real rounds in your gun. As you fire, you can actually see the traer bullets. And where they are landing is where the actual bullets are landing. I you're not quite on target--because you can see if you're not on target--you can adjust your position."
+
+> Note: secondary source.
+> Original source: "Tracer Bullets and Prototypes: A conversation with Andy Hunt and Dave Thomas, part VIII"
+
+Chris Sterling, Managing Software Debt, p195
+
+## Technology Research
+
+"Research: broad, foundational gaining of knowledge to decide what to spike or to obtain the ability to estimate features desired in the future"
+
+Chris Sterling, Managing Software Debt, p192
+
+## Technology Spike
+
+"Spike: a quick and dirty implementation, design to be thrown away, to gain knowledge about a larger feature or integrating technology"
+
+Chris Sterling, Managing Software Debt, p192
+
+## SAID Acronym
+
+1. Structure: how the pieces (components) create a solution (application).
+2. Alignment: the degree to which the application or enterprise structure align to current business objectives and strategy.
+3. Integrity: the components that provide stability to the structure (application or enterprise)
+4. Design: a way to conceptually communicate the planned or implemented structure of a component, application, or enterprise.
+
+Chris Sterling, Managing Software Debt, p178

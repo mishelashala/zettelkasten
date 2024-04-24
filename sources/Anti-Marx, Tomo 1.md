@@ -1,5 +1,3 @@
-#bibliography
-
 Anti-Marx, Tomo 1: Introducción a Marx, Juan Ramón Rallo, 2022
 
 Bibliography
