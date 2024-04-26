@@ -65,6 +65,21 @@ Sandi Metz, Practical Object-Oriented Design, p81
 
 Sand Metz, Practical Object-Oriented Design, p82
 
+### Demeter violations are signals of an API lacking behavior
+
+```ts
+// train wreck
+api
+	.doThis()
+	.doThat()
+	.and()
+	.that()
+```
+
+"The train wrecks of Demeter violations are clues that there are objects whose public interfaces are lacking. Listening to Demeter means paying attention to your point of view. If you shift to a message-based perspective, the messages you find will become public interfaces in the objects they lead you to discover."
+
+Sandi Metz, Practical Object-Oriented Design, p83
+
 ## The problem with ORMs
 
 "[...] if we combine an ORM framework with a layered architecture, we're easily tempted to mix business rules with persistence aspects."
