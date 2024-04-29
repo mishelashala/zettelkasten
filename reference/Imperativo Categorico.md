@@ -1,7 +1,5 @@
 # La razón requiere que nunca mintamos
 
-#ImperativoCategorico
-
 «[Kant] No apeló a consideraciones teológicas; en cambio, sostuvo que la razón requiere que nunca mintamos.»
 
 > Nota: el autor esta parafraseando a Kant
@@ -14,7 +12,7 @@ James Rachels, Introducción a la filosofía moral, p195
 
 James Rachels, Introducción a la filosofía moral, p195
 
-# Imperativos Hipoteticos
+# Imperativos Hipotéticos
 
 «Kant llamó "imperativos hipotéticos" a éstos porque nos dicen qué hacer _siempre y cuando_ tengamos los deseos correspondientes.»
 
@@ -103,15 +101,3 @@ James Rachels, Introducción a la filosofía moral, p212
 «De este modo, nunca debemos manipular a la gente o usarla para alcanzar nuestros propósitos, por muy buenos que puedan ser.»
 
 James Rachels, Introducción a la filosofía moral, p212
-
-# Retribucionismo
-
-«Es esencialmente una cuestión de justicia: si uno daña a otras personas, la justicia requiere que él también sea dañado. Como dice el viejo dicho: "Ojo por ojo, diente por diente".»
-
-James Rachels, Introducción a la filosofía moral, p214
-
-# El retribucionismo es lo contrario al utilitarismo
-
-«El retribucionismo nos haría incrementar, no disminuir, la cantidad de sufrimiento en el mundo. Ésta no es una implicación "oculta" del retribucionismo.»
-
-James Rachels, Introducción a la filosofía moral, p214
