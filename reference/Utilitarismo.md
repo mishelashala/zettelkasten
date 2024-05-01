@@ -24,7 +24,7 @@ James Rachels, Introducción a la filosofía moral, p155
 
 James Rachels, Introducción a la filosofía moral, p155
 
-# El utilitarismo y la eutanacia
+# El utilitarismo y la eutanácia
 
 «para os utilitaristas clásicos, las leyes que prohíben la eutanasia no sólo son contrarias al bien general, sino que son restricciones injustificadas al derecho de las personas de determinar sus propias vidas.»
 
@@ -129,3 +129,39 @@ James Rachels, Introducción a la filosofía moral, p178-179
 «mostrar que el utilitarismo tiene consecuencias inaceptables en casos hipotéticos es una forma válida de señalar sus defectos teóricos.»
 
 James Rachels, Introducción a la filosofía moral, p183
+
+# Argumento de Kant anti utilitarista a favor del castigo
+
+«Así pues, castigar a la gente puede incrementar la cantidad de miseria en el mundo; pero según Kant eso está bien, puesto que el sufrimiento extra lo carga el delincuente, que, después de todo, se lo merece.»
+
+> Nota: el autor esta parafraseando a Kant
+
+James Rachels, Introducción a la filosofía moral, p215
+
+# Castigo como disuasorio
+
+«A veces la gente de cualquier manera violará la ley, pero habrá _menos_ mala conducta se se amenaza con castigarla.»
+
+James Rachels, Introducción a la filosofía moral, p215
+
+# Los programas rehabilitadores son una victoria utilitarista
+
+«No obstante, los programas _supuestamente son_ para rehabilitar. La victoria de la ideología utilitarista ha sido virtualmente completa.»
+
+James Rachels, Introducción a la filosofía moral, p217
+
+# Porque la gente debe ser castigada según Kant
+
+«En primer lugar, la gente debe ser castigada simplemente porque ha cometido un delito, y no por otra razón.»
+
+> Nota: el autor esta parafraseando a Kant
+
+James Rachels, Introducción a la filosofía moral, p219
+
+# Castigos proporcionales
+
+«Kant dice que es importante castigar al delincuente _en proporción_ a la gravedad de su delito. Castigos pequeños pueden bastar para delitos pequen1os, pero grandes castigos son necesarios como respuesta a grandes crímenes.»
+
+> Nota: el autor esta parafraseando a Kant
+
+James Rachels, Introducción a la filosofía moral, p219

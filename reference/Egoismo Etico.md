@@ -34,9 +34,9 @@ James Rachels, Introducción a la filosofía moral, p130
 
 James Rachels, Introducción a la filosofía moral, p130-131
 
-# Egoismo Etico
+# Egoismo Etico es una teoría normativa
 
-«egoísmo ético es una teoria normativa; es decir, una teoría de como _debemos_ comportarnos.»
+«egoísmo ético es una teoría normativa; es decir, una teoría de como _debemos_ comportarnos.»
 
 James Rachels, Introducción a la filosofía moral, p131
 
@@ -94,3 +94,8 @@ James Rachels, Introducción a la filosofía moral, p138
 
 James Rachels, Introducción a la filosofía moral, p142
 
+# El dilema del prisionero y el egoísmo ético
+
+«Ésa es la trampa. Por buscar racionalmente sus propios intereses, ambos terminaron peor que si hubieran actuado de otro modo. Eso es lo que hace del dilema del prisionero un dilema. Es una situación paradójica: tanto a ti como a Pérez les irá mejor si ambos, simultáneamente, hacen lo que _no_ va en su propio interés.»
+
+James Rachels, Introducción a la filosofía moral, p234

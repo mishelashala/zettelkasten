@@ -100,80 +100,17 @@ James Rachels, introducción a la filosofía moral, p110
 
 James Rachels, Introducción a la filosofía moral, p102
 
-# Agentes morales
+# La moral para la Teoría de la virtud
 
-## Que es ser un agente moral responsable
+«Para la teoría de la virtud, ser una persona moral es tener ciertos rasgos de carácter: ser amable, generoso, valiente, justo, prudente, etc.»
 
-"Tal agente es alguien que se preocupa imparcialmente por los intereses de cada uno de quienes se verán afectados por lo que hace; alguien que distingue cuidadosamente los hechos y examina sus implicaciones; alguien que acepta principios de conducta sólo después de analizarlos con cuidado para estar seguro de que son firmes; alguien que está dispuesto a "escuchar la razón", incluso cuando esto significa que tendrá que revisar sus convicciones previas, y, finalmente, alguien que está dispuesto a actuar siguiendo los resultados de su deliberación."
+James Rachels, Introducción a la filosofía moral, p271
 
-James Rachels, Introducción a la filosofía moral, p46
+# La mora para la teoría de la obligación
 
-# No pensamos en términos objetivos
+«Las teorías de obligación, en cambio, ponen el acento en el deber imparcial: típicamente pintan al agente moral como aquel que escucha a la razón, calcula qué es lo correcto y lo hace.»
 
-"Hay muchas otras cuestiones sobre las que solemos pensar, en función de lo que es objetivamente correcto e incorrecto, que en realidad no son más convenciones sociales."
-
-James Rachels, Introducción a la filosofía moral, p59. 
-
-# Relativismo Cultural
-
-"El relativismo cultural, como se le ha llamado, desafía nuestra creencia común en la objetividad y en la universalidad de las verdades morales. De hecho, nos dice que no existen verdades universales en ética; solo hay diversos códigos culturales."
-
-James Rachels, Introducción a la filosofía moral, p40
-
-## Los argumentos del relativismo cultural
-
-1. Culturas diferentes tienen códigos morales diferentes.
-2. Por tanto, no hay una "verdad" objetiva en moral. Lo correcto y lo incorrecto son sólo cuestiones de   opinión, y las opiniones varían de una cultura a otra.
-
-James Rachels, Introducción a la filosofía moral, p43
-
-## Como determinar lo correcto según el relativismo cultural
-
-"El relativismo cultural sugiere una sencilla prueba para determinar lo que es correcto y lo que es incorrecto: todo lo que necesitamos hacer es preguntar si la acción está de acuerdo con el código de nuestra propia sociedad."
-
-James Rachels, Introducción a la filosofía moral, p45-46
-
-## En que acierta y en que falla el relatívismo cultural
-
-"El relatívismo cultural empieza con la valiosa intuición de que muchas de nuestras prácticas son como ésta: sólo productos culturales. Pero luego se equivoca al inferir que, como algunas prácticas son así, todas deben serlo."
-
-James Rachels, Introducción a la filosofía moral, p59
-
-## El relativismo cultural da un "antídoto" a los prejuicios
-
-"El relativismo cultural, al subrayar que nuestras opiniones morales pueden reflejar los prejuicios de nuestra sociedad, nos da un antídoto para esta clase de dogmatismo."
-
-James Rachels, Introducción a la filosofía moral, p60
-
-## De que nos previene el relativismo cultural
-
-"[...] el relativismo cultural nos previene, con razón, del peligro de suponer que todas nuestras preferencias están basadas en algún criterio racional absoluto. No lo están."
-
-James Rachels, Introducción a la filosofía moral, p58
-
-## El relativismo cultural impide el progreso
-
-"Progreso significa reemplazar una forma de hacer las cosas por otra mejor. Pero, con qué criterios juzgamos mejores las nuevas formas? Si las formas antiguas estuvieron de acuerdo con los criterios sociales de su época, entonces el relativismo cultural diría que es un error juzgarlas con criterios de otra época."
-
-James Rachels, Introducción a la filosofía moral, p46-47
-
-## El relativismo cultural es un callejón sin salida
-
-"[...] pocos de nosotros creemos que el código de nuestra sociedad es perfecto; podemos pensar que hay muchas maneras en que podría mejorarse. Pero el relativismo cultural no sólo nos prohíbe criticar los códigos de _otras_ sociedades; también nos impide criticar nuestro propio código. "
-
-James Rachels, Introducción a la filosofía moral, p46
-
-# Como pensar acerca de las prácticas sociales
-
-"De hecho, éste es un criterio que razonablemente podría emplearse al pensar sobre cualquier práctica social: podemos preguntar _si la práctica promueve o impide el bienestar de las personas cuyas vidas se ven afectadas por ella_."
-
-James Rachels, Introducción a la filosofía moral, p56
-
-## Criticar una practica no es condenar a toda la cultura
-
-"condenar una práctica en particular no es decir que toda su cultura es despreciable o que en general es inferior a cualquier otra cultura, incluida la propia."
-
-James Rachels, Introducción a la filosofía moral, p57
+James Rachels, Introducción a la filosofía moral, p271
 
 # Verdad ética
 
@@ -255,6 +192,14 @@ James Rachels, Introducción a la filosofía moral, p20
 
 James Rachels, Introducción a la filosofía moral, p23
 
+# Agentes morales
+
+## Que es ser un agente moral responsable
+
+"Tal agente es alguien que se preocupa imparcialmente por los intereses de cada uno de quienes se verán afectados por lo que hace; alguien que distingue cuidadosamente los hechos y examina sus implicaciones; alguien que acepta principios de conducta sólo después de analizarlos con cuidado para estar seguro de que son firmes; alguien que está dispuesto a "escuchar la razón", incluso cuando esto significa que tendrá que revisar sus convicciones previas, y, finalmente, alguien que está dispuesto a actuar siguiendo los resultados de su deliberación."
+
+James Rachels, Introducción a la filosofía moral, p46
+
 # Moral Religiosa
 
 ## La ética religiosa "elimina" la subjetividad
@@ -321,3 +266,4 @@ James Rachels, Introducción a la filosofía moral, p18
 "El pasaje en las Escrituras que se acerca más a un juicio especifico del estatus moral e los fetos se encuentra en el capitulo 21 del Éxodo. Este capítulo es parte de una detallada descripción de la ley de los antiguos israelitas. Allí se dice que el castigo por asesinato es la muerte; sin embargo, se dice también que si se cause un aborto a una embarazada, la pena es sólo una multa que se le deberá pagar al esposo. El asesinato no era una categoría que incluyera a los fetos. Al parecer, la Ley de Israel veía a los fetos como algo menos que seres humanos completos."
 
 James Rachels, Introducción a la filosofía moral, p105
+
