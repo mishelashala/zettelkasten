@@ -187,3 +187,63 @@ Karl Jaspers, La filosofía: desde el punto de vista de la existencia, p21
 «No hay Estado, ni Iglesia, ni sociedad que proteja absolutamente. Semejante protección fue la bella ilusión de tiempos tranquilos que permanecía velado el límite.»
 
 Karl Jaspers, La filosofía: desde el punto de vista de la existencia, p21
+
+# De donde saca el individuo la certeza de las cosas
+
+«En todo momento tiene el hombre que descubrir, mirándose a sí mismo o sacándolo de su propio fondo, lo que es para él certeza, ser, confianza.»
+
+Karl Jaspers, La filosofía: desde el punto de vista de la existencia, p22
+
+# Que enseñan las situaciones límites
+
+«Las situaciones límites–la muerte, el acaso, la culpa y la desconfianza que despierta el mundo– me enseñan lo que es fracasar. Qué haré en vista de este fracaso absoluto, a la visión del cual no puedo sustraerme cuando me represento las cosas honrandaménte?»
+
+Karl Jaspers, La filosofía: desde el punto de vista de la existencia, p22
+
+# El hombre y la experimentación del fracaso
+
+«Es decisiva para el hombre la forma en que experimenta el fracaso [...]. La forma en la que experimenta su fracaso es lo que determina en qué acabará el hombre.»
+
+Karl Jaspers, La filosofía: desde el punto de vista de la existencia, p23
+
+# El hombre y la búsqueda de la salvación
+
+«Dicho de otra manera: el hombre busca la salvación.»
+
+Karl Jaspers, La filosofía: desde el punto de vista de la existencia, p23
+
+# La filosofía no da salvación, sino algo análogo a
+
+«Esto no puede darlo la filosofía. Y sin embargo, es todo filosofar un superar el mundo, algo análogo a la salvación.»
+
+Karl Jaspers, La filosofía: desde el punto de vista de la existencia, p23
+
+# Descartes y la búsqueda de la certeza
+
+«Descartes buscaba en medio de la serie sin fin de lo incierto la certeza imperiosa.»
+
+Karl Jaspers, La filosofía: desde el punto de vista de la existencia, p23
+
+# El individuo definido a través de los otros
+
+«Pero yo sólo existo en compañía del prójimo; solo, no soy nada.»
+
+Karl Jaspers, La filosofía: desde el punto de vista de la existencia, p25
+
+# En dónde está el origen de la filosofía
+
+«El origen de la filosofía está, pues, realmente en la admiración, en la duda, en la experiencia de las situaciones límites, pero, en último término y encerrando en sí todo esto, en la voluntad de la comunicación propiamente tal.»
+
+Karl Jaspers, La filosofía: desde el punto de vista de la existencia, p26
+
+# La filosofía demanda comunicación
+
+«toda filosofía impulsa a la comunicación, se expresa, quisiera ser oída.»
+
+Karl Jaspers, La filosofía: desde el punto de vista de la existencia, p26
+
+# La comunicación y el fin de la filosofía
+
+«Únicamente en la comunicación se alcanza el fin de la filosofía, en el que está fundado en último termino el sentido de todos los fines: el interiorizarse del ser, la claridad del amor, la plenitud de reposo.»
+
+Karl Jaspers, La filosofía: desde el punto de vista de la existencia, p26
