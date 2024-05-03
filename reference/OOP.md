@@ -74,11 +74,11 @@ Miroslav Wengner, Practical Design Patterns for Java Developers, p6
 
 Miroslav Wengner, Practical Design Patterns for Java Developers, p13
 
-#### Not being able to identify an abstraction
+#### Tension between concrete and abstract code
 
-"If you cannot correctly identify the abstraction, there may not be one, and if no common abstraction exists, then inheritance is not the solution to your design problem."
+"Concrete code is easy to understand but costly to extend. Abstract code may initially seem more obscure but, once understood is far easier to change."
 
-Sandi Metz, Practical Object-Oriented Design, p159
+Sandi Metz, Practical Object-Oriented Design, p94
 
 ### Polymorphism
 
@@ -110,11 +110,33 @@ Sandi Metz, Practical Object-Oriented Design, p112
 
 Sandi Metz, Practical Object-Oriented Design, p158
 
+##### Not being able to identify an abstraction
+
+"If you cannot correctly identify the abstraction, there may not be one, and if no common abstraction exists, then inheritance is not the solution to your design problem."
+
+Sandi Metz, Practical Object-Oriented Design, p159
+
 ##### Difficulties of Inheritance
 
 "Many of the difficulties of inheritance are caused by a failure to rigorously separate the concrete from the abstract."
 
 Sandi Metz, Practical Object-Oriented Design, p122
+
+##### Downside: inheritance is costly
+
+"Creating a hierarchy has costs; the best to minimize these costs is to maximize your chance of getting the abstraction right before allowing subclasses to depend on it."
+
+Sandi Metz, Practical Object-Oriented Design, p118
+
+##### Subclassing can violate the rules of inheritance
+
+"Subclass thus begin to violate the basic rule of inheritance, they are not truly specializations of their superclass. The hierarchy becomes untrustworthy.»
+
+##### Untrustworthy hierarchies
+
+«Untrustworthy hierarchies force objects that interact with them to know their quirks."
+
+Sandi Metz, Practical Object-Oriented Design, p123
 
 ##### Dynamic Binding
 

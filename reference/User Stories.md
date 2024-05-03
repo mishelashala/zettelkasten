@@ -119,7 +119,7 @@ Mike Cohn, User Stories Applied, p26
 
 #### Dealing with tiny stories
 
-"A good approach for tiny stories, common among Extreme Programming teams, is to combine them into larger stories that represent from about a half-day to several days of work."
+"A good approach for tiny stories, common among [[Extreme Programming]] teams, is to combine them into larger stories that represent from about a half-day to several days of work."
 
 Mike Cohn, User Stories Applied, p26
 
