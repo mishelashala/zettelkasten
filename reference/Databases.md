@@ -104,6 +104,12 @@ Rod Stephens, Beginning Database Design Solutions, p10
 
 Captain, Fidel A., Six-Step Relation Database Design, p xvii-xviii
 
+#### Missing Values
+
+"Missing values are commonly the result of human error."
+
+John L. Viescas, SQL for mere mortals, p161
+
 ### Redundant Data
 
 "Redundant data is a value that is repeated in a field as a result of the field's participation in relating two tables or as a result of some field or table anomaly."
@@ -275,8 +281,6 @@ Fidel A. Captain, Six-Step Relational Database Design, p167
 
 Fidel A. Captain, Six-Step Relational Database Design, p167
 
-
-
 ## Database Keys
 
 ### Why keys are important
@@ -367,7 +371,11 @@ Database Design for Mere Mortals, p243
 
 Database Design for Mere Mortals, p248
 
+### Transitive Dependency
 
+"A _transitive dependency_ is when one non-key field's value depends on another non-key field's value"
+
+Rod Stephens, Beginning Database Design Solutions, p150
 
 ## Database Table Types
 
@@ -399,6 +407,19 @@ Database Design for Mere Mortals, p51
 
 Database Design for Mere Mortals, p57
 
+## Database Field Type
+
+### Meaning of null
+
+"In SQL, a _Null_ represents a _missing_ or an _unknown_ value."
+
+John L. Viescas, SQL for mere mortals, p160
+
+### The problem with null
+
+"The major drawback of Nulls is their adverse effect on mathematical operations. Any operation involving a Null evaluates to Null."
+
+John L. Viescas, SQL for mere mortals, p162
 
 ## Database Columns
 
@@ -411,7 +432,6 @@ John L. Viescas, SQL for mere mortals, p35
 "The set of values that are allowed for a column is called the column's _domain_."
 
 Rod Stephens, Beginning Database Design Solutions, p50
-
 
 ## Database Relationships
 
@@ -483,10 +503,6 @@ Database Design for Mere Mortals, p309-310
 
 Database Design for Mere Mortals, p310
 
-
-
-
-
 ## Database Associations
 
 ### Reflexive / Recursive Association
@@ -500,7 +516,6 @@ Rod Stephens, Beginning Database Design Solutions, p193
 "A multiple-object association is one where many different kinds of objects are collectively associated to each other."
 
 Rod Stephens, Beginning Database Design Solutions, p188
-
 
 ## Database Views
 
@@ -560,7 +575,6 @@ Database Design for Mere Mortals, p422
 
 Database Design for Mere Mortals, p431
 
-
 ## Database Transaction
 
 "A database transaction is a logical unit of database operations that are executed as one, all together or none at all."
@@ -590,8 +604,6 @@ Fidel A. Captain, Six-Step Relational Database Design, p163
 "An _atomic transaction_ is a possibly complex series of actions that is considered as a single operation by those who are not involved directly in performing the transaction."
 
 Rod Stephens, Beginning Database Design Solutions, p8
-
-
 
 ## Database Design
 
@@ -781,6 +793,22 @@ Database Design for Mere Mortals, p456
 
 Database Design for Mere Mortals, p110
 
+## Database Joins
+
+### Outer Joins
+
+#### Outer Join Usage
+
+"Because an OUTER JOIN lets you see not only the matched rows but also the unmatched ones, it's great for finding out which, if any, rows in the table do not have a matching related row in another table."
+
+John L. Viescas, SQL for mere mortals, p351
+
+#### How to find missing values with an outer join
+
+"Sometimes you just want to find what's missing. You do so by using an OUTER JOIN with a test for Null."
+
+John L. Viescas, SQL for mere mortals, p351
+
 ## Database Refactoring
 
 ### Refactoring: Subset Tables
@@ -788,7 +816,6 @@ Database Design for Mere Mortals, p110
 "Remove All the fields that the subset tables have in common and use them as the basis for a new data table."
 
 Database Design for Mere Mortals, p220
-
 
 ## Database Replication
 
@@ -822,7 +849,7 @@ Alex Xu, System Design Interview
 
 Alex Xu, System Design Interview
 
-### What if the slave database goes offilne?
+### What if the slave database goes offline?
 
 "If only one slave database is available and it goes offline, read operations will be redirected to the master database temporarily."
 
