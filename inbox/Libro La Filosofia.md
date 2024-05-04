@@ -247,3 +247,81 @@ Karl Jaspers, La filosofía: desde el punto de vista de la existencia, p26
 «Únicamente en la comunicación se alcanza el fin de la filosofía, en el que está fundado en último termino el sentido de todos los fines: el interiorizarse del ser, la claridad del amor, la plenitud de reposo.»
 
 Karl Jaspers, La filosofía: desde el punto de vista de la existencia, p26
+
+# Como empezó la filosofía
+
+«La filosofía empezó con está pregunta: qué existe?»
+
+Karl Jaspers, La filosofía: desde el punto de vista de la existencia, p27
+
+# La separación del sujeto y el objeto
+
+«Lo que pensamos, aquello de que hablamos, es siempre algo distinto de nosotros, es aquello a que nosotros los sujetos, estamos dirigidos como algo que nos hace frente, los objetos. Cuando hacemos de nosotros mismo el objeto de nuestro pensamiento, nos convertimos, por así decirlo, en algo distinto de nosotros, y a la vez seguimos existiendo como un yo pensante que lleva a cabo esta actividad de pensarse a sí mismo, pero que sin embargo no puede pensarse adecuadamente como objeto, porque es. siempre de nuevo el supuesto de todo volverse algo objeto.»
+
+Karl Jaspers, La filosofía: desde el punto de vista de la existencia, p28
+
+# Dualidad Sujeto-Objeto
+
+«Siempre se trata de objetos que nos hacen frente exterior o interiormente como contenido de nuestra conciencia. No hay [...] objeto sin sujeto ni sujeto sin objeto.»
+
+Karl Jaspers, La filosofía: desde el punto de vista de la existencia, p29
+
+# Que es un objeto 
+
+«El ser puro y simple no puede ser, evidentemente un objeto. [...] El objeto es un determinado ser para el yo.»
+
+Karl Jaspers, La filosofía: desde el punto de vista de la existencia, p29
+
+# El Objeto determinado es distinción de los otros objetos
+
+«Todo objeto determinado está, cuando se lo piensa claramente, en relación con otros objetos. El ser determinado significa ser distinto lo uno de lo otro.»
+
+Karl Jaspers, La filosofía: desde el punto de vista de la existencia, p30
+
+# Circunvalente
+
+«Lo Circunvalente es, pues, aquello que al ser pensado se limita siempre a anunciarse.»
+
+Karl Jaspers, La filosofía: desde el punto de vista de la existencia, p30
+
+# Pensamos en objetos
+
+«mientras hablamos pensamos en objetos.»
+
+Karl Jaspers, La filosofía: desde el punto de vista de la existencia, p31
+
+# Convertimos la dualidad objeto-sujeto en un objeto
+
+«La separación del sujeto y el objeto, en la que siempre estamos, y que no podemos ver desde afuera, la convertimos en nuestro objeto al hablar de ella pero inadecuadamente.»
+
+Karl Jaspers, La filosofía: desde el punto de vista de la existencia, p31
+
+# Dios y el mundo
+
+«lo Circunvalente, concebido como el ser mismo, se llama trascendencia (Dios) y el mundo; concebido como lo que somos nosotros mismos, la vida, la conciencia en general, el espíritu y la "existencia".»
+
+Karl Jaspers, La filosofía: desde el punto de vista de la existencia, p32
+
+# Como entender el sentido de la mística
+
+«Una vez que con nuestra operación filosófica fundamental hemos roto las cadenas que nos atan a los objetos tomados por el ser mismo, comprendemos el sentido de la _mística_.»
+
+Karl Jaspers, La filosofía: desde el punto de vista de la existencia, p33
+
+# El místico
+
+«El místico se hunde en lo Circunvalente.»
+
+Karl Jaspers, La filosofía: desde el punto de vista de la existencia, p33
+
+# El nihilismo
+
+«La pérdida del carácter absoluto de las cosas y de la teoría del conocimiento objetivo quiere decir para quien tenía su punto de apoyo en ellas el nihilismo.»
+
+Karl Jaspers, La filosofía: desde el punto de vista de la existencia, p37
+
+# Pensamiento filosófico y nihilismo
+
+«Nuestro pensamiento filosófico pasa por este nihilismo, que es más bien la liberación que nos encamina hacia el verdadero ser.»
+
+Karl Jaspers, La filosofía: desde el punto de vista de la existencia, p37
