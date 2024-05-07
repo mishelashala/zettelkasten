@@ -64,3 +64,21 @@ James Rachels, Introducción a la filosofía moral, p56
 "condenar una práctica en particular no es decir que toda su cultura es despreciable o que en general es inferior a cualquier otra cultura, incluida la propia."
 
 James Rachels, Introducción a la filosofía moral, p57
+
+## Los valores no son diferentes, sino las condiciones
+
+"Los valores de los esquimales no son tan diferentes de los nuestros; es sólo que la vida les impone decisiones que nosotros no tenemos que tomar."
+
+James Rachels, Introducción a la filosofía moral, p51
+
+## La diferencia esta en las costumbres no los valores
+
+"No podemos concluir, entonces, que simplemente porque sus costumbres difieren hay un desacuerdo acerca de los valores. La diferencia de costumbres puede atribuirse a algunos otros aspectos de la vida social. Así, puede haber menos desacuerdo acerca de valores de lo que parecer."
+
+James Rachels, Introducción a la filosofía moral, p49
+
+## El pensamiento Esquimal sobre la vida
+
+«Un postulado fundamental del pensamiento esquimal es: "La vida es dura, y el margen de seguridad es pequeño". Una familia puede querer alimentar a sus bebés, pero ser incapaz de hacerlo.»
+
+James Rachels, Introducción a la filosofía moral, p49

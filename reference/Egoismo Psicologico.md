@@ -1,3 +1,9 @@
+# Egoísmo psicológico
+
+"[...] _toda acción humana está motivada por el interés propio_. Podemos creer que somos nobles y nos sacrificamos, pero eso es solo una ilusión; en realidad, nos preocupamos sólo por nosotros mismos."
+
+James Rachels, Introducción a la filosofía moral. p111
+
 # El hombre caritativo
 
 «En su ensayo "Sobre la naturaleza humana", Hobbes la describe así: "Para un hombre no puede haber mejor argumento de su propio poder que descubrirse capaz no sólo de realizar sus propios deseos, sino también de ayudar a otros a alcanzar los suyos: y es esto en lo que consiste la caridad".»

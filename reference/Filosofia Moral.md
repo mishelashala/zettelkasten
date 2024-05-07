@@ -164,34 +164,6 @@ James Rachels, Introducción a la filosofía moral, p67
 
 "Cuando decimos que sus acciones eran malvadas, sólo estamos diciendo que tenemos sentimientos negativos hacia ellas. Lo mismo aplica a cualquier juicio moral."
 
-# Autonomia de una persona
-
-## Porque vulnerar la autonomia de una persona esta mal
-
-"Esto explica por qué "usar a la gente" es incorrecto; lo es porque el engaño, la trampa y la coerción son incorrectos."
-
-James Rachels, Introducción a la filosofía moral, p19
-
-## Como es vulnerada la autonomia de una persona
-
-"La autonomía de una persona puede ser vulnerada por manipulación, trampa o engaño."
-
-James Rachels, Introducción a la filosofía moral, p19
-
-## Cuando se puede tomar desiciones por la gente
-
-"Cuando la gente no es capaz de tomar decisiones y otros deben tomarlas por ella, hay dos lineamientos razonables que pueden adoptarse. Primero, podríamos preguntar, con respecto a sus intereses, _qué sería mejor para ella?_"
-
-"El segundo lineamiento apelaría a las preferencias de la persona misma: podemos preguntar, _si pudiera decirnos lo que quiere, que diría?_"
-
-James Rachels, Introducción a la filosofía moral, p20
-
-## Quien debe tomar decisiones por otros vs que decision tomarse
-
-"[...] debemos distinguir entre la cuestión de _quién debe tomar la decisión_ y la de _qué decisión debe tomarse_."
-
-James Rachels, Introducción a la filosofía moral, p23
-
 # Agentes morales
 
 ## Que es ser un agente moral responsable
@@ -240,30 +212,30 @@ James Rachels, Introducción a la filosofía moral, p106
 
 James Rachels, Introducción a la filosofía moral, p25
 
-# Aborto
+# Autonomia de una persona
 
-## Las premisas del debate sobre el aborto
+## Porque vulnerar la autonomía de una persona esta mal
 
-"La premisa clave en el argumento conservador es que el feto es un ser humano desde el momento de la concepción. El óvulo fertilizado no sólo es un ser humano potencial, sino un ser humano real, con completo derecho a la vida. Por supuesto, los liberales niegan esto; dicen que, por lo menos durante las primeras semanas del embarazo, el embrión es algo menos que un ser humano completo."
+"Esto explica por qué "usar a la gente" es incorrecto; lo es porque el engaño, la trampa y la coerción son incorrectos."
 
-James Rachels, Introducción a la filosofía moral, p103
+James Rachels, Introducción a la filosofía moral, p19
 
-## Cuando un feto es una persona según Tomás de Aquino
+## Como es vulnerada la autonomia de una persona
 
-"Santo Tomás de Aquino sostuvo que un embrión no tiene alma sino hasta después de varias semanas de embarazo. Santo Tomás aceptó la idea de Aristoteles de que el alma es la "forma sustancial" del hombre. No necesitamos entrar en este concepto un tanto técnico, excepto para notar que una implicación es que no se puede tener alma humana hasta que el cuerpo tenga una forma reconociblemente humana."
+"La autonomía de una persona puede ser vulnerada por manipulación, trampa o engaño."
 
-James Rachels, Introducción a la filosofía moral, p106
+James Rachels, Introducción a la filosofía moral, p19
 
-## Cuándo estar vivo trae un beneficio
+## Cuando se puede tomar desiciones por la gente
 
+"Cuando la gente no es capaz de tomar decisiones y otros deben tomarlas por ella, hay dos lineamientos razonables que pueden adoptarse. Primero, podríamos preguntar, con respecto a sus intereses, _qué sería mejor para ella?_"
 
-"Estar vivo es un beneficio sólo si se permite desarrollar actividades y tener pensamientos, sentimientos y relaciones con otras personas; en otras palabras, si _permite tener una vida_."
+"El segundo lineamiento apelaría a las preferencias de la persona misma: podemos preguntar, _si pudiera decirnos lo que quiere, que diría?_"
 
-James Rachels, Introducción a la filosofía moral, p18
+James Rachels, Introducción a la filosofía moral, p20
 
-## La biblia sobre el aborto
+## Quien debe tomar decisiones por otros vs que decision tomarse
 
-"El pasaje en las Escrituras que se acerca más a un juicio especifico del estatus moral e los fetos se encuentra en el capitulo 21 del Éxodo. Este capítulo es parte de una detallada descripción de la ley de los antiguos israelitas. Allí se dice que el castigo por asesinato es la muerte; sin embargo, se dice también que si se cause un aborto a una embarazada, la pena es sólo una multa que se le deberá pagar al esposo. El asesinato no era una categoría que incluyera a los fetos. Al parecer, la Ley de Israel veía a los fetos como algo menos que seres humanos completos."
+"[...] debemos distinguir entre la cuestión de _quién debe tomar la decisión_ y la de _qué decisión debe tomarse_."
 
-James Rachels, Introducción a la filosofía moral, p105
-
+James Rachels, Introducción a la filosofía moral, p23
