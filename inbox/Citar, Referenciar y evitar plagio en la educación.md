@@ -174,3 +174,109 @@ _La autora nos provee de una heurística muy sencilla para saber cuando una cita
 
 Kathleen McMillen, Citar, Referenciar y evitar plagio en la educación, México, Trillas, 2015 (Traducción de: 
 How to cite, reference and avoid plagiarism at university, Pearson Education Limited, 2015), p76
+
+# Características de una cita correcta
+
+«
+- Las palabras textuales de la fuente (en ocasiones llamadas _verbatim_ o "texto literal").
+- El número de página(s) o –tratándose de revistas–, el número del volumen y de la página.
+- Los detalles de la publicación. Como cada estilo de cita requiere información específica, tal vez necesita toda la siguiente, o una parte de ella:
+
+	- Autor(es)
+	- Editor(es)
+	- Fecha de publicación
+	- Edición
+	- Editor(es)
+	- Título (del libro, del capítulo o del artículo)
+	- Título de la revista (cuando se cite)
+	- Lugar de la publicación
+	- Editorial
+»
+
+Kathleen McMillen, Citar, Referenciar y evitar plagio en la educación, México, Trillas, 2015 (Traducción de: 
+How to cite, reference and avoid plagiarism at university, Pearson Education Limited, 2015), p77
+
+# Formato para las citas largas
+
+«
+- Las **citas largas** constan de 30 o más palabras (algunos proponen 40) de prosa, dos o mas lineas de poesía. Además deberían:
+	- Llevar una sangría de cinco espacios en el margen superior izquierdo [...]
+	- No incluir comillas al inicio in al final: use las comillas únicamente en el mismo sitio del texto original.
+	- Imprimirse con espaciado de una línea
+	- Anotarse el apellido del autor o autores, año de publicación y número de página separado por dos puntos o fecha de publicación con el número de página impreso como p. XX, según la convención tipográfica.
+»
+
+Kathleen McMillen, Citar, Referenciar y evitar plagio en la educación, México, Trillas, 2015 (Traducción de: 
+How to cite, reference and avoid plagiarism at university, Pearson Education Limited, 2015), p78
+
+# Formato para las citas cortas
+
+«
+- Las **citas cortas** constan de menos de 30 palabras y deberían:
+	- Estar integradas dentro de la oración [...]
+	- Incluir el nombre del autor o autores dentro de la oración donde suele estar el sujeto. En este caso, la fecha de publicación se pondrá dentro de paréntesis (...) inmediateménte después del nombre del autor.
+	- Poner el número de la página de la fuente dentro del paréntesis (...) al final de la cita en la forma p. XX.
+»
+
+Kathleen McMillen, Citar, Referenciar y evitar plagio en la educación, México, Trillas, 2015 (Traducción de: 
+How to cite, reference and avoid plagiarism at university, Pearson Education Limited, 2015), p78
+
+# Hay que evitar las citas aisladas
+
+«Las citas no deberían estar aisladas en el texto, o sea que no deben incluirse sin una introducción o contexto. ¿Por qué? Porque entonces el lector no sabrá la importancia ni el significado de las palabras textuales.»
+
+Kathleen McMillen, Citar, Referenciar y evitar plagio en la educación, México, Trillas, 2015 (Traducción de: 
+How to cite, reference and avoid plagiarism at university, Pearson Education Limited, 2015), p78
+
+# Consejo: siempre tener en cuanta el umbral del 10%
+
+«**Lleve un registro del total de las palabras que constituyen las citas de su trabajo.** Tal vez le parezca una labor tediosa, pero garantizará que no viole la regla del 10% sobre el contenido literal.»
+
+Kathleen McMillen, Citar, Referenciar y evitar plagio en la educación, México, Trillas, 2015 (Traducción de: 
+How to cite, reference and avoid plagiarism at university, Pearson Education Limited, 2015), p82
+
+# Favorecer fuentes de primera mano
+
+«**Evite en lo posible las citas de fuentes secundarias.** Siempre que pueda le recomendamos que localice y lea los textos del autor primario en vez de recurrir a fuentes secundarias.»
+
+Kathleen McMillen, Citar, Referenciar y evitar plagio en la educación, México, Trillas, 2015 (Traducción de: 
+How to cite, reference and avoid plagiarism at university, Pearson Education Limited, 2015), p82
+
+# Razón número uno
+
+«primero, no corre el riesgo de parecer perezoso al aprovechar el trabajo ajeno»
+
+Kathleen McMillen, Citar, Referenciar y evitar plagio en la educación, México, Trillas, 2015 (Traducción de: 
+How to cite, reference and avoid plagiarism at university, Pearson Education Limited, 2015), p82
+
+# Razón numero dos
+
+«segundo, necesita confiar en la objetividad y en la fidelidad de la interpretación del autor secundario.»
+
+Kathleen McMillen, Citar, Referenciar y evitar plagio en la educación, México, Trillas, 2015 (Traducción de: 
+How to cite, reference and avoid plagiarism at university, Pearson Education Limited, 2015), p82
+
+# Evitar modificar el significado original a través del uso de paréntesis (...)
+
+«Cuando decida abreviar la cita a incluir, asegúrese de que al eliminar algunas palabras del original para reemplazarlas con la elipsis (...) no cambien el significado de lo citado.»
+
+Kathleen McMillen, Citar, Referenciar y evitar plagio en la educación, México, Trillas, 2015 (Traducción de: 
+How to cite, reference and avoid plagiarism at university, Pearson Education Limited, 2015), p83
+
+# Cuando no parafrasear
+
+«
+- Cuando en una paráfrasis o resumen se recurre a una cita directa del documento original.
+- Cuando se emplean palabras idénticas para mencionar aspectos del dominio público, como fechas, hechos bien conocidos o cualquier cosa publicada por los medios en las fuentes de información/referencias, entre ellos diccionarios o enciclopedias.
+- Cuando en el original se utilizarlo términos comunes propios del tema.
+»
+
+Kathleen McMillen, Citar, Referenciar y evitar plagio en la educación, México, Trillas, 2015 (Traducción de: 
+How to cite, reference and avoid plagiarism at university, Pearson Education Limited, 2015), p85
+
+# Parafrasear = texto más corto + el significado esencial
+
+«Al resumir y parafrasear el texto definitivo, normalmente será más corto que el original. Lo esencial es extraer la esencia del significado, pero con importantes diferencias.»
+
+Kathleen McMillen, Citar, Referenciar y evitar plagio en la educación, México, Trillas, 2015 (Traducción de: 
+How to cite, reference and avoid plagiarism at university, Pearson Education Limited, 2015), p85
