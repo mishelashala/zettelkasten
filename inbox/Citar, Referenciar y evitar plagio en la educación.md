@@ -65,6 +65,8 @@ How to cite, reference and avoid plagiarism at university, Pearson Education Lim
 
 # Técnicas para evitar el plagio
 
+_Se proveen tres estrategias principales por parte de la autora para evitar plagio, estas son: citar, parafrasear y resumir._
+
 «- Citar
 - Parafrasear
 - Resumir»
@@ -74,12 +76,16 @@ How to cite, reference and avoid plagiarism at university, Pearson Education Lim
 
 # Fuentes primarias
 
+_Las fuentes primarias son definidas por la autora como aquellas fuentes donde una idea y/o dato fue comunicado por primera vez._
+
 «son aquellas en que las ideas y los datos fueron comunicados por primera vez.»
 
 Kathleen McMillen, Citar, Referenciar y evitar plagio en la educación, México, Trillas, 2015 (Traducción de: 
 How to cite, reference and avoid plagiarism at university, Pearson Education Limited, 2015), p50
 
 # Fuentes secundarias
+
+_Las fuentes secundarias son definidas por la autora como aquellas que usan de alguna forma información de fuentes primarias._
 
 «aquellas que citan, adaptan, interpretan, traducen, desarrollan o dan otros usos a la información de las fuentes primarias.»
 
@@ -88,12 +94,16 @@ How to cite, reference and avoid plagiarism at university, Pearson Education Lim
 
 # Las fuentes secundarias tienden a alterar el contenido original
 
+_Es aseverado que las fuentes secundarias tienden a alterar–de forma intencionada o no–el significado original de las ideas de las fuentes primarias, por parte la autora._
+
 «Siempre que la gente adapte, modifique, traduzca o desarrolle información o ideas, tienden a ocurrir alteraciones intencionales como involuntarias.»
 
 Kathleen McMillen, Citar, Referenciar y evitar plagio en la educación, México, Trillas, 2015 (Traducción de: 
 How to cite, reference and avoid plagiarism at university, Pearson Education Limited, 2015), p51
 
 # Como identificar un juicio de valor
+
+_Es aseverado por la autora que los juicios de valor no proveen datos ni evidencia que respalden las afirmaciones._
 
 «De ahí la necesidad de estar alerta ante expresiones como "todo mundo sabe que...", "la mayoría piensa que..." (sin datos de apoyo), o "claro que esto no tiene fundamento" (sin presentar datos que justifiquen el valor absoluto de "no").»
 
@@ -102,6 +112,8 @@ How to cite, reference and avoid plagiarism at university, Pearson Education Lim
 
 # Los juicios de valor revelan prejuicio o rumores
 
+_Los juicios de valor suelen revelas la subjetividad y los prejuicios de quien los argumenta_
+
 «A menudo, semejantes expresiones provienen de rumores y tienden a reflejar subjetividad o prejuicio.»
 
 Kathleen McMillen, Citar, Referenciar y evitar plagio en la educación, México, Trillas, 2015 (Traducción de: 
@@ -109,12 +121,16 @@ How to cite, reference and avoid plagiarism at university, Pearson Education Lim
 
 # La importancia de mantener un registro de las fuentes durante el proceso de investigación
 
+_Al no mantener registro de las fuentes de donde sacamos las ideas corremos el riesgo de cometer plagio de forma no intencionada._
+
 «[En el proceso de investigación] se corre el riesgo de olvidar a los creadores de las ideas a medida que se asimile la información y enriquezca su conocimiento. Ésta es una etapa que conduce al plagio, tanto intencional como involuntario.»
 
 Kathleen McMillen, Citar, Referenciar y evitar plagio en la educación, México, Trillas, 2015 (Traducción de: 
 How to cite, reference and avoid plagiarism at university, Pearson Education Limited, 2015), p52
 
 # Que datos de publicación se necesitan anotar
+
+_Se asevera por part de la autora que los datos bibliográficos que debemos registrar son: Nombre del autor, Título completo, Fecha de publicación, Lugar de publicación, número de página o capítulo._
 
 «
 - ¿Quién? **Nombre** completo del autor; anote todos los autores si hay más de uno
@@ -127,7 +143,7 @@ How to cite, reference and avoid plagiarism at university, Pearson Education Lim
 Kathleen McMillen, Citar, Referenciar y evitar plagio en la educación, México, Trillas, 2015 (Traducción de: 
 How to cite, reference and avoid plagiarism at university, Pearson Education Limited, 2015), p54
 
-# Mantener un registreo del contenido en internet
+# Mantener un registro del contenido en internet
 
 «Le recomendamos anotar la fecha en que accedió a Internet, pues necesitará registrarlo en sus referencias y quizá, según el estilo de cita que emplee, inclusive dentro de la cita textual.»
 
@@ -258,6 +274,8 @@ How to cite, reference and avoid plagiarism at university, Pearson Education Lim
 
 # Evitar modificar el significado original a través del uso de paréntesis (...)
 
+_La autora recomienda que al omitir palabras con el uso de las elipsis (...) hay que evitar a toda costa modificar el significado de lo que se cita._
+
 «Cuando decida abreviar la cita a incluir, asegúrese de que al eliminar algunas palabras del original para reemplazarlas con la elipsis (...) no cambien el significado de lo citado.»
 
 Kathleen McMillen, Citar, Referenciar y evitar plagio en la educación, México, Trillas, 2015 (Traducción de: 
@@ -276,7 +294,47 @@ How to cite, reference and avoid plagiarism at university, Pearson Education Lim
 
 # Parafrasear = texto más corto + el significado esencial
 
+_Es aseverado, por parte de la autora, que el texto resumido y/o parafraseado tiende a ser más corto que el original sin que el significado de la idea original del autor se modifique._
+
 «Al resumir y parafrasear el texto definitivo, normalmente será más corto que el original. Lo esencial es extraer la esencia del significado, pero con importantes diferencias.»
 
 Kathleen McMillen, Citar, Referenciar y evitar plagio en la educación, México, Trillas, 2015 (Traducción de: 
 How to cite, reference and avoid plagiarism at university, Pearson Education Limited, 2015), p85
+
+# Parafrasear y resumir: primer beneficio
+
+_Es afirmado que el uso de los resúmenes y de técnicas de parafraseo disminuye el riesgo de cometer plagio por parte de la autora, debido a que estamos utilizando nuestras propias palabras y nuestro propio estilo de redacción durante el proceso._
+
+«La ventaja de resumir y parafrasear [...] radica en que existe mucho menor riesgo de plagio, porque usamos nuestras propias palabras y estilo de redacción para producir la versión abreviada.»
+
+Kathleen McMillen, Citar, Referenciar y evitar plagio en la educación, México, Trillas, 2015 (Traducción de: 
+How to cite, reference and avoid plagiarism at university, Pearson Education Limited, 2015), p95
+
+# Parafrasear y resumir: segundo beneficio
+
+_Como se afirmó por la autora la habilidad de parafrasear demuestra una capacidad de digerir material y de una habilidad de razonamiento al ser capaces de llegar a nuestras propias conclusiones._
+
+«Al mismo tiempo, demostramos la capacidad de asimilar el material y llegar a conclusiones que demuestran las habilidades del pensamiento crítico.»
+
+Kathleen McMillen, Citar, Referenciar y evitar plagio en la educación, México, Trillas, 2015 (Traducción de: 
+How to cite, reference and avoid plagiarism at university, Pearson Education Limited, 2015), p95
+
+# Sugerencias a la hora de parafrasear
+
+_Se provee una lista de sugerencias a la hora de parafrasear por parte de la autora. Esta incluye cosas como: ser conciso, no violar los derechos de autor y ser objetivo._
+
+«Sea conciso.»
+
+«No viole los derechos de autor.»
+
+«Sea objetivo.»
+
+Kathleen McMillen, Citar, Referenciar y evitar plagio en la educación, México, Trillas, 2015 (Traducción de: 
+How to cite, reference and avoid plagiarism at university, Pearson Education Limited, 2015), p95
+
+# Evite solo reordenar palabras y oraciones
+
+«En la redacción académica a nivel universitario olvide lo que haya aprendido en años anteriores de su instrucción escolar sobre parafrasear usando las estrategias de cambiar palabras o reordenar las oraciones del original. Todo ello se considera plagio»
+
+Kathleen McMillen, Citar, Referenciar y evitar plagio en la educación, México, Trillas, 2015 (Traducción de: 
+How to cite, reference and avoid plagiarism at university, Pearson Education Limited, 2015), p96
