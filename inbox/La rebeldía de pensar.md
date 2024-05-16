@@ -243,3 +243,51 @@ La crítica es esa modalidad de pensar por la que los valores llegan al mundo y,
 «la falta siempre es subjetiva, el defecto sólo está en los ojos del que mira, no en el mundo real.»
 
 Óscar de la Borbolla, La Rebeldía de pensar, p30
+
+# Mejor o peor es un tema subjetivo
+
+«Las cosas son mejores o peores no en función de sí mismas, sino de lo que esperamos de ellas; son mejores o perores de acuerdo con nuestros fines, nuestras expectativas»
+
+Óscar de la Borbolla, La Rebeldía de pensar, p30
+
+# Las faltas son proyecciones de nuestros valores jerarquicos
+
+«Las falta que creemos descubrir _en_ las cosas es resultado de la jerarquía que proyectamos sobre ellas, es la consecuencia directa de haber inventado los valores.»
+
+Óscar de la Borbolla, La Rebeldía de pensar, p30-31
+
+# No compartimos la misma vision sobre lo que es una falla o no, porque no compartimos los mismos valores
+
+«Cada persona compara el mundo con la idea de lo que debemos ser y "descubre" ciertas faltas, siempre subjetivas, que sólo son advertidas por quienes comparten el mismo punto de vista; para los demás esas faltas no existen y nada justifica que alguien quiera enmedarlas.»
+
+Óscar de la Borbolla, La Rebeldía de pensar, p31
+
+# Doble vara de medir a la hora de criticar
+
+«Para los críticos simples los defectos que "descubren" son _defectos reales_ y, en cambio, las faltas que "encuentran" los demás son _defectos irreales_.»
+
+Óscar de la Borbolla, La Rebeldía de pensar, p31
+
+# La crítica sin crítica lleva a la imposición y el fanatismo
+
+«Se ha dicho que la razón engendra monstruos, y habría que añadir que pensar a medias produce fanatismos, porque también la crítica, cuando no avanza contra sí misma, cuando no se crítica, conduce a estaciones desde las que lo hallado, _nuestra verdad_, lucha por imponerse.»
+
+Óscar de la Borbolla, La Rebeldía de pensar, p32
+
+# La paradoja del fanatismo producto de la crítica
+
+«Es una paradoja que la crítica engendre el fanatismo, aunque sea el fanatismo del _no_.»
+
+Óscar de la Borbolla, La Rebeldía de pensar, p32
+
+# Cuando se deja de pensar
+
+«¿Para qué pensar más si ya está claro? ¿Para qué seguir dando de vueltas a un asunto si ya sabemos la respuesta? Quien llega a esta estación –esté o no en lo correcto (eso es lo de menos)–, suspende el pensar.»
+
+Óscar de la Borbolla, La Rebeldía de pensar, p34
+
+# La duda lleva a la sospecha y la sospecha a pensar
+
+«La duda nos despierta una sensación de inconformidad hacía las soluciones que encontramos, introduce la sospecha de que somos incapaces de alcanzar cualquier respuesta valedera y nos arroja al pensar puro, al ejercicio, en ocasiones angustiante, de dar vueltas y más vueltas alrededor de un asunto.»
+
+Óscar de la Borbolla, La Rebeldía de pensar, p34
