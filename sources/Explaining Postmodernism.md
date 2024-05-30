@@ -122,389 +122,118 @@ Bibliography:
 - Kelley, David. [[The Evidence of the Senses]]. Baton Rouge: Louisiana State University Press, 1986.
 - Kierkegaard, Seren. [[Fear and Trembling]] [1843]. Translated by Walter Lowrie. A. A. Knopf, 1994.
 - Koertge, Noretta, editor. [[A House Built on Sand Exposing Postmodernist Myths About Science]]. Oxford University Press, 1998.
-
-Köhnke, Klaus Christian. The Rise of Neo-Kantianism. Cambridge University
-
-Press, 1991.
-
-Kors, Alan and Peters, Edward. Witchcraft in Europe, 1100-1700. University of
-
-Pennsylvania Press, 1972.
-
-Kors, Alan and Silverglate, Harvey A. The Shadow University: The Betrayal of Liberty on America's Campuses. New York: The Free Press, 1998.
-
-Kramnick, Isaac, editor. The Portable Enlightenment Reader. Penguin, 1995.
-
-Kuhn, Helmut. "German Philosophy and National Socialism." In Paul Ed-wards, editor, The Encyclopedia of Philosophy. MacMillan, 1963.
-
-Kuhn, Thomas. The Structure of Scientific Revolutions [1962]. Second Edition.
-
-University of Chicago Press, 1970.
-
-Kurtz, Paul and Madigan, Timothy J., editors. Challenges to the Enlightenment.
-
-Prometheus Books, 1994.
-
-Laqueur, Walter. Weimar: A Cultural History, 1918-1933. G. P. Putnam's Sons,
-
-1974.
-
-Lauryssens, Stan. The Man Who Invented the Third Reich. Sutton, 1999.
-
-Lenin, V. I. Imperialism: the Highest Stage of Capitalism [1916]. International
-
-Publishers, no date given.
-
-Lenin, V. I. The State and Revolution [1917]. In The Essential Left: Marx, Engels,
-
-Lenin: Their Basic Teachings. Barnes and Noble, 1961.
-
-Lenin, V. I. What Is to Be Done? [1902]. New York: Dover, 1987.
-
-Lentricchia, Frank. After the New Criticism. University of Chicago Press, 1980.
-
-Lentricchia, Frank. Criticism and Social Change. University of Chicago Press,
-
-1983.
-
-Lévi-Strauss, Claude. The Savage Mind. University of Chicago Press, 1966.
-
-Lilla, Mark. "The Politics of Jacques Derrida." The New York Review of Books.
-
-June 25, 1998, 36-41.
-
-Lilla, Mark. The Reckless Mind: Intellectuals in Politics. New York: New York
-
-Review of Books, 2001.
-
-Luban, David. "What's Pragmatic about Legal Pragmatism?" In Morris Dick-
-
-stein, editor, 1998, 275-303.
-
-Lukács, Georg. History and Class Consciousness [1923]. M.I.T. Press, 1971.
-
-Lyotard, Jean-François. The Differend: Phrases in Dispute. Translated by Georges Van Den Abbeele. University of Minnesota Press, 1988.
-
-Lyotard, Jean-François. The Postmodern Condition: A Report on Knowledge.
-
-Translated by Geoff Bennington and Brian Massumi. University of Minnesota Press, 1984.
-
-Lyotard, Jean-François. Postmodern Fables. Translated by Georges Van Den
-
-Abbeele. University of Minnesota Press, 1997.
-
-Mack, Michael. German Idealism and the Jew. Chicago: University of Chicago
-
-Press, 2003.
-
-MacKinnon, Catharine. Only Words. Harvard University Press, 1993.
-
-Marcuse, Herbert. "Contribution to a Phenomenology of Historical Material-
-
-ism" [1928]. Telos 4, 1969.
-
-Marcuse, Herbert. Eros and Civilization [1955). Beacon Press, 1966.
-
-Marcuse, Herbert. An Essay on Liberation. Beacon Press, 1969.
-
-Marcuse, Herbert. One-Dimensional Man. Beacon Press, 1964.
-
-Marcuse, Herbert. Reason and Revolution: Hegel and the Rise of Social Theory
-
-[1941]. Humanities Press, 1954.
-
-Marcuse, Herbert. "Repressive Tolerance" [1965]. In Robert Paul Wolff, edi-
-
-tor, A Critique of Pure Tolerance. Beacon Press, 1969.
-
-Marx, Karl. Capital, Volume I [1867]. Translated by Ben Fowkes. Penguin,
-
-1992.
-
-Marx, Karl. "Contribution to the Critique of Hegel's Philosophy of Law"
-
-[1844].
-
-Marx, Karl. Critique of the Gotha Program [1875]. In Robert C. Tucker, editor.
-
-The Marx-Engels Reader. Second edition. W. W. Norton & Co., 1978.
-
-Marx, Karl, and Engels, Friedrich. Marx and Engels: Basic Writings on Politics and Philosophy. Edited by Lewis S. Feuer. Doubleday Anchor, 1959.
-
-Marx, Karl, and Engels, Friedrich. The Manifesto of the Communist Party [1848].
-
-International Press, 1948.
-
-May, Todd. Between Genealogy and Epistemology. Pennsylvania State Univer-
-
-sity Press, 1993.
-
-Medlin, Brian. "Ultimate Principles and Ethical Egoism." Australasian Journal
-
-of Philosophy 35:2. 1957, 111-118.
-
-Meinecke, Friedrich. The Age of German Liberation, 1795-1815. University of
-
-California Press, 1977.
-
-Miller, James. History and Human Existence: From Marx to Merleau-Ponty.
-
-Berkeley: University of California Press, 1979.
-
-Miller, James. The Passion of Michel Foucault. Harvard University Press, 1993.
-
-Miller, James. Rousseau: Dreamer of Democracy. Yale University Press, 1984.
-
-Mises, Ludwig von. Socialism [1922]. Indianapolis: Liberty Fund, 1981.
-
-Moeller Van Den Bruck, Arthur. Germany's Third Empire [1923]. New York:
-
-Howard Fertig, 1971.
-
-Mohanty, Chandra Talpade. "On Race and Voice: Challenges for Liberal Edu-
-
-cation in the 1990s." Cultural Critique. 1990, 179-ff.
-
-Mosse, George L., editor. Nazi Culture: Intellectual, Cultural and Social Life in
-
-the Third Reich. New York: Grosset and Dunlap, 1966.
-
-Nagel, Ernest. Logic Without Metaphysics. Glencoe, Illinois: Free Press, 1956.
-
-Nardinelli, Clark. Child Labor and the Industrial Revolution. Bloomington: Indi-
-
-ana University Press, 1990.
-
-Nardinelli, Clark. "Industrial Revolution and Standard of Living." In David
-
-R. Henderson, editor, 1993.
-
-Neurath, Otto. "Physikalismus." Scientia. 1931.
-
-Nietzsche, Friedrich. Basic Writings of Nietzsche. Edited and translated by
-
-Walter Kaufmann. Modern Library, 1968.
-
-Nietzsche, Friedrich. The Portable Nietzsche. Edited and translated by Walter
-
-Kaufmann. Penguin, 1976.
-
-Nietzsche, Friedrich. "Schopenhauer as Educator (Second Untimely Medita-
-
-tion)." In Walter Kaufmann, editor, 1975.
-
-Nietzsche, Friedrich. The Will to Power. Edited by Walter Kaufmann and translated by Walter Kaufmann and R. J. Hollingdale. Vintage, 1968.
-
-Nipperdey, Thomas. Germany from Napoleon to Bismarck, 1800-1866. Translat-
-
-ed by Daniel Nolan. Princeton University Press, 1996.
-
-Panitch, Leo. "Ralph Miliband, Socialist Intellectual, 1924-1994." In Leo Pa-
-
-nitch, editor, 1995, 1-21.
-
-Panitch, Leo, editor. Why Not Capitalism. Socialist Register 1995. London: The
-
-Merlin Press, 1995.
-
-Passmore, John. Recent Philosophers. LaSalle, Illinois: Open Court, 1985.
-
-Peikoff, Leonard. The Ominous Parallels: The End of Freedom in America. New
-
-York: Stein and Day, 1982.
-
-Pipes, Richard. Property and Freedom. New York: A. A. Knopf, 1999.
-
-Popper, Karl. The Logic of Scientific Discovery [1935]. Toronto: University of
-
-Toronto Press, 1959.
-
-Popper, Karl. Objective Knowledge. Oxford University Press, 1972.
-
-Prado, C. G. Starting With Foucault: An Introduction to Genealogy. Boulder,
-
-Colorado: Westview, 1995.
-
-Quine, W. V. O. "Epistemology Naturalized." In Ontological Relativity. New
-
-York: Columbia University Press, 1969.
-
-Quine, W. V. O. "Two Dogmas of Empiricism" [1953]. From a Logical Point of
-
-View. Second Edition, Revised. Harper and Row, 1961.
-
-Radosh, Ronald. Commies, A Journey Through the Old Left, the New Left, and the
-
-Leftover Left. San Francisco: Encounter Books, 2002.
-
-Rand, Ayn. Atlas Shrugged. New York: Random House, 1957.
-
-Rand, Ayn. The New Left: The Anti-Industrial Revolution [1971]. Revised edi-
-
-tion. Signet, 1975.
-
-Reuth, Ralf Georg. Goebbels. Translated by Krishna Winston. New York: Har-
-
-court Brace, 1990.
-
-Reynolds, Alan. "National Prosperity Is No Mystery." Orbis 40:2, Spring 1996,
-
-199-213.
-
-Ringer, Fritz K. The Decline of the German Mandarins: The German Academic
-
-Community, 1890-1933. Harvard University Press, 1969.
-
-Rorty, Richard. Consequences of Pragmatism. University of Minnesota Press,
-
-1982.
-
-Rorty, Richard. Contingency, Irony, and Solidarity. Cambridge University
-
-Press, 1989.
-
-Rorty, Richard. "A Conversation with Richard Rorty." Interview by Scott Stos-sel. April 23, 1998. http://www.theatlantic.com/unbound/ bookauth/ ba980423.htm. Site viewed May 2, 2000.
-
-Rorty, Richard. Objectivity, Relativism, and Truth. Cambridge University Press,
-
-1991.
-
-Rorty, Richard. Philosophy and the Mirror of Nature. Princeton University Press,
-
-1979.
-
-Rorty, Richard. "Trotsky and the Wild Orchids." In Paul Kurtz and Timothy
-
-Madigan, editors, 1994.
-
-Rorty, Richard. "The World Well Lost." The Journal of Philosophy 69:19 (October
-
-26, 1972), 649-665.
-
-Rousseau, Jean-Jacques. Discourse on the Origin and Foundations of Inequality Among Men [1755]. Translated by Donald Cress. Indianapolis: Hackett, 1992.
-
-Rousseau, Jean-Jacques. Discourse on the Sciences and the Arts [1749]. In The First and Second Discourses. Translated by Roger D. and Judith R. Masters. St.
-
-Martin's Press, 1964.
-
-Rousseau, Jean-Jacques. Emile [1762a]. Translated by Allan Bloom. Basic Books,
-
-1979.
-
-Rousseau, Jean-Jacques. Projet de Constitution pour la Corse [1765]. In The Politi-cal Writings of Jean-Jacques Rousseau, Volume II. Edited by C. E. Vaughan.
-
-New York: John Wiley & Sons, 1962.
-
-Rousseau, Jean-Jacques. The Social Contract [1762b]. Translated by Donald
-
-Cress. Indianapolis: Hackett, 1987.
-
-Rummel, R. J. Death by Government. Transaction, 1994.
-
-Russell, Bertrand. The Problems of Philosophy [1912]. Indianapolis: Hackett, 1991.
-
-Schleiermacher, Friedrich. The Christian Faith [1821-22]. Edited by H. R. Mack-intosh and J. S. Stewart. New York: Harper and Row, 1963.
-
-Schleiermacher, Friedrich. On Religion: Speeches to Its Cultural Despisers [1799].
-
-Translated by John Oman. New York: Harper, 1958.
-
-Schlesinger, Arthur. The Vital Center. Boston: Houghton Mifflin, 1949.
-
-Schlick, Moritz. "Meaning and Verification" [1936]. In Herbert Feigl and Wil-
-
-frid Sellars, editors, 1949, 146-170.
-
-Schlick, Moritz. "Positivism and Realism" [1932-33]. In A. J. Ayer, editor, 1959,
-
-82-108.
-
-Schopenhauer, Arthur. The World as Will and Representation. Translated by E. F.
-
-J. Payne. New York: Dover, 1966.
-
-Schultz, Elizabeth. "Moby Dick: The Little Lower Layers." North American Re-
-
-view. December 1988, 52-59.
-
-Service, Robert. Lenin: A Biography. Cambridge, Mass.: Belknap Press of Har-
-
-vard University Press, 2000.
-
-Sokal, Alan. "Transgressing the Boundaries: Toward a Transformative Hermeneutics of Quantum Gravity." Social Text. Spring/Summer 1996.
-
-Sombart, Werner. Socialism and the Social Movement [1896]. Translated from the Sixth Edition by M. Epstein. New York: E. P. Dutton, 1909.
-
-Spence, Jonathan. Mao Zedong. Viking Penguin, 1999.
-
-Spengler, Oswald. The Decime of 926 West 1918). Translated by Charles Francis Atkinson. A. A. Knopf, 1926.
-
-Spengler, Oswald. Man and Techi, 142 Contributon to a enosopny of Lige
-
-[1931]. New York: A. A. Knopf, 1932.
-
-Spengler, Oswald. Prussianism and Socialism (1920). In Donald O. White, edi-tor, Oswald Spengler, Selected Essays. Henry Regnery Co., 1967.
-
-Stevenson, C. L. "The Emotive Meaning of Ethical Terms" [1937). In A. J. Ayer
-
-editor, 1959, 264-281.
-
-Strong, Tracy B. and Keyssar, Helene. Right in Her Soul: The Life of Anna Louise
-
-Strong. Random House, 1983.
-
-Sweezy, Brian. "Is This Then the End of Socialism?" The Nation. February 26,
-
-1990.
-
-Thälmann, Ernst. "Speech to the Plenary Session of the Central Committee of the Communist Party of Germany," February 19, 1932. In Anton Kaes, editor, 1994.
-
-"Union of Soviet Socialist Republics." Encyclopedia Britannica. 15th edition.
-
-University of Chicago Press, 1990.
-
-Ward, Glen. Teach Yourself Postmodernism. London: Hodder and Stoughton,
-
-1997.
-
-Webb, Beatrice. Our Partnership. London: Longmans, Green, and Co., 1948.
-
-Weigand, Kate. Red Feminism: American Communism and the Making of Wom-
-
-en's Liberation. Johns Hopkins University Press, 2001.
-
-Weiss, John. Ideology of Death: Why the Holocaust Happened in Germany. Chi-
-
-cago: Ivan Dee Publishers, 1996.
-
-White, Stephen K. Political Theory and Postmodernism. Cambridge University
-
-Press, 1991.
-
-Williams, David. "The Influence of Rousseau on Political Opinion, 1760-95."
-
-English Historical Review 48 (1933), 414-430.
-
-Williams, David, editor. The Enlightenment. Cambridge University Press,
-
-1999.
-
-Windschuttle, Keith. The Killing of History. San Francisco: Encounter Books,
-
-2000.
-
-Wittgenstein, Ludwig. Philosophical Investigations [written by 1949; published posthumously]. Translated by G. E. M. Anscombe. New York: MacMil-lan, 1953.
-
-Wittgenstein, Ludwig. Tractatus Logico-Philosophicus [1922]. Translated by C.
-
-K. Ogden. London: Routledge and Kegan Paul, reprinted 1983.
-
-Wolin, Richard. The Politics of Being: The Political Thought of Martin Heidegger.
-
-Columbia University Press, 1990.
-
-Wolin, Richard. The Seduction of Unreason: The Intellectual Romance with Fascism from Nietzsche to Postmodernism. Princeton University Press, 2004.
-
-Wood, Allen. "The Marxian Critique of Justice." Philosophy and Public Affairs
-
-1:3. Spring 1972.
+- Köhnke, Klaus Christian. [[The Rise of Neo-Kantianism]]. Cambridge University Press, 1991.
+- Kors, Alan and Peters, Edward. [[Witchcraft in Europe]], 1100-1700. University of Pennsylvania Press, 1972.
+- Kors, Alan and Silverglate, Harvey A. [[The Shadow University The Betrayal of Liberty on America's Campuses]]. New York: The Free Press, 1998.
+- Kramnick, Isaac, editor. [[The Portable Enlightenment Reader]]. Penguin, 1995.
+- Kuhn, Helmut. "German Philosophy and National Socialism." In Paul Ed-wards, editor, [[The Encyclopedia of Philosophy]]. MacMillan, 1963.
+- Kuhn, Thomas. [[The Structure of Scientific Revolutions]] [1962]. Second Edition. University of Chicago Press, 1970.
+- Kurtz, Paul and Madigan, Timothy J., editors. [[Challenges to the Enlightenment]]. Prometheus Books, 1994.
+- Laqueur, Walter. [[Weimar A Cultural History]], 1918-1933. G. P. Putnam's Sons, 1974.
+- Lauryssens, Stan. [[The Man Who Invented the Third Reich]]. Sutton, 1999.
+- Lenin, V. I. [[Imperialism the Highest Stage of Capitalism]] [1916]. International Publishers, no date given.
+- Lenin, V. I. The State and Revolution [1917]. In [[The Essential Left Marx, Engels, Lenin Their Basic Teachings]]. Barnes and Noble, 1961.
+- Lenin, V. I. [[What Is to Be Done?]] [1902]. New York: Dover, 1987.
+- Lentricchia, Frank. [[After the New Criticism]]. University of Chicago Press, 1980.
+- Lentricchia, Frank. [[Criticism and Social Change]]. University of Chicago Press, 1983.
+- Lévi-Strauss, Claude. [[The Savage Mind]]. University of Chicago Press, 1966.
+- Lilla, Mark. "[[The Politics of Jacques Derrida]]." The New York Review of Books. June 25, 1998, 36-41.
+- Lilla, Mark. [[The Reckless Mind Intellectuals in Politics]]. New York: New York Review of Books, 2001.
+- Luban, David. "[[What's Pragmatic about Legal Pragmatism?]]" In Morris Dickstein, editor, 1998, 275-303.
+- Lukács, Georg. [[History and Class Consciousness]] [1923]. M.I.T. Press, 1971.
+- Lyotard, Jean-François. [[The Differend Phrases in Dispute]]. Translated by Georges Van Den Abbeele. University of Minnesota Press, 1988.
+- Lyotard, Jean-François. [[The Postmodern Condition A Report on Knowledge]]. Translated by Geoff Bennington and Brian Massumi. University of Minnesota Press, 1984.
+- Lyotard, Jean-François. [[Postmodern Fables]]. Translated by Georges Van Den Abbeele. University of Minnesota Press, 1997.
+- Mack, Michael. [[German Idealism and the Jew]]. Chicago: University of Chicago Press, 2003.
+- MacKinnon, Catharine. [[Only Words]]. Harvard University Press, 1993.
+- Marcuse, Herbert. "[[Contribution to a Phenomenology of Historical Materialism]]" [1928]. Telos 4, 1969.
+- Marcuse, Herbert. [[Eros and Civilization]] [1955]. Beacon Press, 1966.
+- Marcuse, Herbert. [[An Essay on Liberation]]. Beacon Press, 1969.
+- Marcuse, Herbert. [[One-Dimensional Man]]. Beacon Press, 1964.
+- Marcuse, Herbert. [[Reason and Revolution Hegel and the Rise of Social Theory]] [1941]. Humanities Press, 1954.
+- Marcuse, Herbert. "Repressive Tolerance" [1965]. In Robert Paul Wolff, editor, [[A Critique of Pure Tolerance]]. Beacon Press, 1969.
+- Marx, Karl. [[Capital, Volume I]] [1867]. Translated by Ben Fowkes. Penguin, 1992.
+- Marx, Karl. "[[Contribution to the Critique of Hegel's Philosophy of Law]]" [1844].
+- Marx, Karl. [[Critique of the Gotha Program]] [1875]. In Robert C. Tucker, editor. The Marx-Engels Reader. Second edition. W. W. Norton & Co., 1978.
+- Marx, Karl, and Engels, Friedrich. [[Marx and Engels Basic Writings on Politics and Philosophy]]. Edited by Lewis S. Feuer. Doubleday Anchor, 1959.
+- Marx, Karl, and Engels, Friedrich. [[The Manifesto of the Communist Party]] [1848]. International Press, 1948.
+- May, Todd. [[Between Genealogy and Epistemology]]. Pennsylvania State University Press, 1993.
+- Medlin, Brian. "[[Ultimate Principles and Ethical Egoism]]." Australasian Journal of Philosophy 35:2. 1957, 111-118.
+- Meinecke, Friedrich. [[The Age of German Liberation]], 1795-1815. University of California Press, 1977.
+- Miller, James. [[History and Human Existence From Marx to Merleau-Ponty]]. Berkeley: University of California Press, 1979.
+- Miller, James. [[The Passion of Michel Foucault]]. Harvard University Press, 1993.
+- Miller, James. [[Rousseau Dreamer of Democracy]]. Yale University Press, 1984.
+- Mises, Ludwig von. [[Socialism]] [1922]. Indianapolis: Liberty Fund, 1981.
+- Moeller Van Den Bruck, Arthur. [[Germany's Third Empire]] [1923]. New York: Howard Fertig, 1971.
+- Mohanty, Chandra Talpade. "On Race and Voice: Challenges for Liberal Education in the 1990s." [[Cultural Critique]]. 1990, 179-ff.
+- Mosse, George L., editor. [[Nazi Culture Intellectual, Cultural and Social Life in the Third Reich]]. New York: Grosset and Dunlap, 1966.
+- Nagel, Ernest. [[Logic Without Metaphysics]]. Glencoe, Illinois: Free Press, 1956.
+- Nardinelli, Clark. [[Child Labor and the Industrial Revolution]]. Bloomington: Indiana University Press, 1990.
+- Nardinelli, Clark. "[[Industrial Revolution and Standard of Living]]." In David R. Henderson, editor, 1993.
+- Neurath, Otto. "[[Physikalismus]]." Scientia. 1931.
+- Nietzsche, Friedrich. [[Basic Writings of Nietzsche]]. Edited and translated by Walter Kaufmann. Modern Library, 1968.
+- Nietzsche, Friedrich. [[The Portable Nietzsche]]. Edited and translated by Walter Kaufmann. Penguin, 1976.
+- Nietzsche, Friedrich. "[[Schopenhauer as Educator]] (Second Untimely Meditation)." In Walter Kaufmann, editor, 1975.
+- Nietzsche, Friedrich. [[The Will to Power]]. Edited by Walter Kaufmann and translated by Walter Kaufmann and R. J. Hollingdale. Vintage, 1968.
+- Nipperdey, Thomas. [[Germany from Napoleon to Bismarck]], 1800-1866. Translated by Daniel Nolan. Princeton University Press, 1996.
+- Panitch, Leo. "[[Ralph Miliband, Socialist Intellectual]], 1924-1994." In Leo Panitch, editor, 1995, 1-21.
+- Panitch, Leo, editor. [[Why Not Capitalism]]. Socialist Register 1995. London: The Merlin Press, 1995.
+- Passmore, John. [[Recent Philosophers]]. LaSalle, Illinois: Open Court, 1985.
+- Peikoff, Leonard. [[The Ominous Parallels The End of Freedom in America]]. New York: Stein and Day, 1982.
+- Pipes, Richard. [[Property and Freedom]]. New York: A. A. Knopf, 1999.
+- Popper, Karl. [[The Logic of Scientific Discovery]] [1935]. Toronto: University of Toronto Press, 1959.
+- Popper, Karl. [[Objective Knowledge]]. Oxford University Press, 1972.
+- Prado, C. G. [[Starting With Foucault An Introduction to Genealogy]]. Boulder, Colorado: Westview, 1995.
+- Quine, W. V. O. "Epistemology Naturalized." In [[Ontological Relativity]]. New York: Columbia University Press, 1969.
+- Quine, W. V. O. "Two Dogmas of Empiricism" [1953]. [[From a Logical Point of View]]. Second Edition, Revised. Harper and Row, 1961.
+- Radosh, Ronald. [[Commies, A Journey Through the Old Left, the New Left, and the Leftover Left]]. San Francisco: Encounter Books, 2002.
+- Rand, Ayn. [[Atlas Shrugged]]. New York: Random House, 1957.
+- Rand, Ayn. [[The New Left The Anti-Industrial Revolution]] [1971]. Revised edition. Signet, 1975.
+- Reuth, Ralf Georg. [[Goebbels]]. Translated by Krishna Winston. New York: Harcourt Brace, 1990.
+- Reynolds, Alan. "[[National Prosperity Is No Mystery]]." Orbis 40:2, Spring 1996, 199-213.
+- Ringer, Fritz K. [[The Decline of the German Mandarins The German Academic Community]], 1890-1933. Harvard University Press, 1969.
+- Rorty, Richard. [[Consequences of Pragmatism]]. University of Minnesota Press, 1982.
+- Rorty, Richard. [[Contingency, Irony, and Solidarity]]. Cambridge University Press, 1989.
+- Rorty, Richard. "A Conversation with Richard Rorty." Interview by Scott Stossel. April 23, 1998. http://www.theatlantic.com/unbound/ bookauth/ ba980423.htm. Site viewed May 2, 2000.
+- Rorty, Richard. [[Objectivity, Relativism, and Truth]]. Cambridge University Press, 1991.
+- Rorty, Richard. [[Philosophy and the Mirror of Nature]]. Princeton University Press, 1979.
+- Rorty, Richard. "[[Trotsky and the Wild Orchids]]." In Paul Kurtz and Timothy Madigan, editors, 1994.
+- Rorty, Richard. "[[The World Well Lost]]." The Journal of Philosophy 69:19 (October 26, 1972), 649-665.
+- Rousseau, Jean-Jacques. [[Discourse on the Origin and Foundations of Inequality Among Men]] [1755]. Translated by Donald Cress. Indianapolis: Hackett, 1992.
+- Rousseau, Jean-Jacques. [[Discourse on the Sciences and the Arts]] [1749]. In The First and Second Discourses. Translated by Roger D. and Judith R. Masters. St. Martin's Press, 1964.
+- Rousseau, Jean-Jacques. [[Emile]] [1762a]. Translated by Allan Bloom. Basic Books, 1979.
+- Rousseau, Jean-Jacques. Projet de Constitution pour la Corse [1765]. In [[The Political Writings of Jean-Jacques Rousseau, Volume II]]. Edited by C. E. Vaughan. New York: John Wiley & Sons, 1962.
+- Rousseau, Jean-Jacques. [[The Social Contract]] [1762b]. Translated by Donald Cress. Indianapolis: Hackett, 1987.
+- Rummel, R. J. [[Death by Government]]. Transaction, 1994.
+- Russell, Bertrand. [[The Problems of Philosophy]] [1912]. Indianapolis: Hackett, 1991.
+- Schleiermacher, Friedrich. [[The Christian Faith]] [1821-22]. Edited by H. R. Mack-intosh and J. S. Stewart. New York: Harper and Row, 1963.
+- Schleiermacher, Friedrich. [[On Religion Speeches to Its Cultural Despisers]] [1799]. Translated by John Oman. New York: Harper, 1958.
+- Schlesinger, Arthur. [[The Vital Center]]. Boston: Houghton Mifflin, 1949.
+- Schlick, Moritz. "[[Meaning and Verification]]" [1936]. In Herbert Feigl and Wilfrid Sellars, editors, 1949, 146-170.
+- Schlick, Moritz. "[[Positivism and Realism]]" [1932-33]. In A. J. Ayer, editor, 1959, 82-108.
+- Schopenhauer, Arthur. [[The World as Will and Representation]]. Translated by E. F. J. Payne. New York: Dover, 1966.
+- Schultz, Elizabeth. "[[Moby Dick The Little Lower Layers]]." North American Review. December 1988, 52-59.
+- Service, Robert. [[Lenin A Biography]]. Cambridge, Mass.: Belknap Press of Harvard University Press, 2000.
+- Sokal, Alan. "[[Transgressing the Boundaries Toward a Transformative Hermeneutics of Quantum Gravity]]." Social Text. Spring/Summer 1996.
+- Sombart, Werner. [[Socialism and the Social Movement]] [1896]. Translated from the Sixth Edition by M. Epstein. New York: E. P. Dutton, 1909.
+- Spence, Jonathan. [[Mao Zedong]]. Viking Penguin, 1999.
+- Spengler, Oswald. [[The Decime of the West]] [1918]. Translated by Charles Francis Atkinson. A. A. Knopf, 1926.
+- Spengler, Oswald. [[Man and Technique]] [1931]. New York: A. A. Knopf, 1932.
+- Spengler, Oswald. [[Prussianism and Socialism]] (1920). In Donald O. White, edi-tor, Oswald Spengler, Selected Essays. Henry Regnery Co., 1967.
+- Stevenson, C. L. "[[The Emotive Meaning of Ethical Terms]]" [1937]. In A. J. Ayer editor, 1959, 264-281.
+- Strong, Tracy B. and Keyssar, Helene. [[Right in Her Soul The Life of Anna Louise Strong]]. Random House, 1983.
+- Sweezy, Brian. "[[Is This Then the End of Socialism?]]" The Nation. February 26, 1990.
+- Thälmann, Ernst. "Speech to the Plenary Session of the Central Committee of the Communist Party of Germany," February 19, 1932. In Anton Kaes, editor, 1994. "Union of Soviet Socialist Republics." [[Encyclopedia Britannica]]. 15th edition. University of Chicago Press, 1990.
+- Ward, Glen. [[Teach Yourself Postmodernism]]. London: Hodder and Stoughton, 1997.
+- Webb, Beatrice. [[Our Partnership]]. London: Longmans, Green, and Co., 1948.
+- Weigand, Kate. [[Red Feminism American Communism and the Making of Women's Liberation]]. Johns Hopkins University Press, 2001.
+- Weiss, John. [[Ideology of Death Why the Holocaust Happened in Germany]]. Chicago: Ivan Dee Publishers, 1996.
+- White, Stephen K. [[Political Theory and Postmodernism]]. Cambridge University Press, 1991.
+- Williams, David. "[[The Influence of Rousseau on Political Opinion]], 1760-95." English Historical Review 48 (1933), 414-430.
+- Williams, David, editor. [[The Enlightenment]]. Cambridge University Press, 1999.
+- Windschuttle, Keith. [[The Killing of History]]. San Francisco: Encounter Books, 2000.
+- Wittgenstein, Ludwig. [[Philosophical Investigations]] [written by 1949; published posthumously]. Translated by G. E. M. Anscombe. New York: MacMil-lan, 1953.
+- Wittgenstein, Ludwig. [[Tractatus Logico-Philosophicus]] [1922]. Translated by C. K. Ogden. London: Routledge and Kegan Paul, reprinted 1983.
+- Wolin, Richard. [[The Politics of Being The Political Thought of Martin Heidegger]]. Columbia University Press, 1990.
+- Wolin, Richard. [[The Seduction of Unreason The Intellectual Romance with Fascism from Nietzsche to Postmodernism]]. Princeton University Press, 2004.
+- Wood, Allen. "[[The Marxian Critique of Justice]]." Philosophy and Public Affairs 1:3. Spring 1972.
