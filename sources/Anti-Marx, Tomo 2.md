@@ -91,3 +91,140 @@ Bibliography
 - Chib, Vikram S., Antonio Rangel, Shinsuke Shimojo y John P. O'Doherty, «[[Evidence for a Common Representation of Decision Values for Dissimilar Goods in Human Ventromedial Prefrontal Cortex]]», Journal of Neuroscience, 29, 39 (2009), pp. 12315-12320.
 - Chirinko, Robert S., «[[o The long and short of it]]», Journal of Macroeconomics, 30, 2 (2008), pp. 671-686.
 - Choi, Ginny Seung, y Virgil Henry Storr, «[[Market Interactions, Trust and Reciprocity]]», PloS one, 15, 5 (2020), e0232704.
+- Christensen, Clayton M., [[The Innovator's Dilemma When New Technologies Cause Great Firms to Fail]], Harvard Business School Press, Brighton, MA, 2013.
+- Cirillo, Renato, «[[Léon Walras and Social Justice]]», American Journal of Economics and Sociology, 43, 1 (1984), pp. 53-60.
+- Clark, Jeff Ray, y Dwight R. Lee, «[[Markets and Morality]]», Cato Journal, 31, 1 (2011), pp. 1-26.
+- Clark, Gregory, «[[Commons Sense Common Property Rights, Efficiency, and Institutional Change]]», The Journal of Economic History, 58, 1 (1998), pp. 73-102.
+- Clark, Gregory, y Anthony Clark, «[[Common rights to land in England, 1475-1839]]», The Journal of Economic History, 61, 4 (2001), pp.1009-1036.
+- Clarke, Simon, Marx, [[Marginalism and Modern Sociology]], Palgrave Macmillan, Londres, 1991.
+- Coase, Ronald, «[[The Problem of Social Cost]]», The Journal of Law and Economics, 3 (1960), pp. 1-44.
+- Cockshott, Paul, y Allin Cottrell, [[Towards a New Socialism]], Spokesman Books, Old Basford, Nottingham, 1993.
+- Cockshott, Paul, y Allin Cottrell, «[[The Scientific Status of the Labour Theory of Value]]», IWGVT conference at the Eastern Economic Association Meeting, 1997. Cockshott, Paul, Allin Cottrell y Alejandro Valle Baeza, «El aspecto em-pírico de la teoría del valor: respuesta a Nitzan y Bichler», Investi-gación Económica, 73, 287(2014), pp. 121-142.
+- Cohen, Gerald A., [[Karl Marx's Theory of History A Defence]], Princeton University Press, Princeton, [1978] 2001.
+﻿﻿- Cohen, Gerald A., «[[The Structure of Proletarian Unfreedom]]», Philosophy & Public Af-fairs, 12, 1 (1983a), pp. 3-33.
+﻿﻿- Cohen, Gerald A., «[[Review of Karl Marx, by Allen W. Wood]]», Mind, 92, 367 (1983b), pp. 440-445.
+﻿﻿- Cohen, Gerald A., «Reconsidering Historical Materialism», en [[Karl Marx's Theory of History A Defence]], Princeton University Press, Princeton, [1983] 2001.
+﻿﻿- Cohen, Gerald A., «Restricted and Inclusive Historical Materialism», en [[Karl Marx's Theory of History A Defence]], Princeton University Press, Princeton, 11978] 2001.
+﻿﻿- Cohen, Gerald A., «[[Marxism after the Collapse of the Soviet Union]]», The Journal of Ethics, 3, 2 (1999), pp.99-104.
+﻿﻿- Congleton, Roger D., «[[Efficient Status Seeking Externalities, and the Evolution of Status Games]]», Journal of Economic Behavior & Organization, 11, 2 (1989), pp. 175-190.
+﻿﻿- Cooper, Geoffrey M., y Robert E. Hausman, [[La célula]], Marbán, Madrid, [1997] 2001.
+- Cosmides, Leda, y John Tooby, «[[Neurocognitive Adaptations Designed for Social Exchange]]», en The Handbook of Evolutionary Psychology, editado por David M. Buss, John Wiley and Sons, Nueva York, 2015.
+- Cowen, Tyler, y Alex Tabarrok, [[Modern Principles in Economics]], Worth Publishers, Nueva York, [2010] 2015.
+- Crawford, Sue E. S., y Elinor Ostrom, «[[A Grammar of Institutions]]», American Political Science Revier, 89, 3 (1995), pp.582-600.
+- Cummins, Neil, «[[The Hidden Wealth of English Dynasties, 1892-2016]]», The Economic History Reviere, 75, 3 (2022), pp. 667-702.
+- Curry, Oliver Scott, Daniel Austin Mullins y Harvey Whitehouse, «[[Is It Good to Cooperate? Testing the Theory of Morality-As-Cooperation in 60 societies]]», Current Anthropology, 60, 1 (2019), pp. 47-69.
+- Dahlman, Carl J., [[The Open Field System and Beyond]], Cambridge University Press, Cambridge, 1980.
+- Dawkins, Richard, [[The Blind Watchmaker]], Penguin, Londres, [1986] 2006.
+- De Brunhoff, Suzanne, [[Marx on Money]], Urizen Books, Nueva York, [1973] 1976.
+- De Mesquita, Bruce Bueno, y Alastair Smith, [[The Dictator's Handbook Why Bad Behavior is Almost Always Good Politics]], Hachette UK, Londres, 2011.
+- Dessalles, Jean-Louis, [[Why We Talk The Evolutionary Origins of Language]], Oxford University Press, Oxford, 2007.
+- Di Tella, Rafael, John Haisken-De New y Robert MacCulloch, «[[Happiness Adaptation to Income and to Status in an Individual Panel]]», Journal of Economic Behavior & Organization, 76, 3 (2010), pp. 834-852.
+- Díaz, Emilio, y Rubén Osuna, «[[Indeterminacy in price-value correlation measures]]», Empirical Economics, 33, 3 (2007), pp. 389-399.
+- Díaz, Emilio, y Rubén Osuna, «[[From Correlation to Dispersion Geometry of the Price-Value Deviation]]», Empirical Economics, 36, 2 (2009), pp. 427-440.
+- Dittmer, Timothy, «[[Diminishing Marginal Utility in Economics Text-books]]», The Journal of Economic Education, 36, 4 (2005), pp. 391-399.
+- Dobb, Maurice, [[Political Economy and Capitalism]], George Routledge and Sons, Nueva York, 1937.
+- Dobb, Maurice, [[Studies in the Development of Capitalism]], George Routledge and Sons, Nueva York, 1946.
+- Donovan, Sarah A., y David H. Bradley, [[Real wage trends, 1979 to 2019]] (R45090), Congressional Research Service, Washington, 2020.
+- Dyer, Christopher, [[An Age of Transition? Economy and Society in England in the Later Middle Ages]], Oxford University Press, Oxford, 2005.
+- Eastman, Max, [[Reflections on the Failure of Socialism]], The Devin-Adair Company, Nueva York, 1955.
+- Edmans, Alex, Xavier Gabaix y Dirk Jenter, «Executive compensation A survey of theory and evidence», en Benjamin Hermalin y Michael Weisbach, eds., [[The handbook of the economics of corporate governance, vol. 1]], pp. 383-539, North-Holland Publishing Company, Ámsterdam, 2017.
+- Elster, Jon, [[Explaining Technical Change A Case Study in the Philosophy of Science]], Cambridge University Press, Cambridge, 1983.
+﻿﻿- Elster, Jon, [[Making Sense of Marx]], Cambridge University Press, Cambridge, 1985.
+﻿﻿- Elster, Jon, [[An Introduction to Karl Marx]], Cambridge University Press, Cambridge, 1986.﻿
+﻿﻿- Enke, Benjamin. «[[Market Exposure and Human Morality]]», Nature Human Behaviour (2022).
+- Engels, Friedrich, «Centralisation and Freedom», [[Karl Marx and Friedrich Engels Collected Works, Volumen 2]], Progress Publishers, Moscú, [1842] 1975.
+﻿﻿- Engels, Friedrich, «Discurso en Elberfeld, 8 February 1845», [[Karl Marx and Friedrich Engels Collected Works, Volumen 4]], Progress Publishers, Moscú, [1845] 1975.
+﻿﻿- Engels, Friedrich, «Principles of Communism», [[Karl Marx and Friedrich Engels Collected Works, Volumen 6]], Progress Publishers, Móscú, [184 7a] 1976.
+﻿﻿- Engels, Friedrich, «Draft of a Communist Confession of Faith», [[Karl Marx and Friedrich Engels Collected Works, Volumen 6]], Progress Publishers, Moscú, [1847b] 1976.
+﻿﻿- Engels, Friedrich, «Letter to Marx, 18 March 1848», [[Karl Marx and Friedrich Engels Collected Works, Volumen 38]], Progress Publishers, Moscú, [1848a] 1982.
+﻿﻿- Engels, Friedrich, «Letter to Emil Blank, 24 March 1848», [[Karl Marx and Friedrich Engels Collected Works, Volumen 38]], Progress Publishers, Moscú, [1848b] 1982.
+- Engels, Friedrich, ﻿﻿«Letter to Marx, 29 January 1851», [[Karl Marx and Friedrich Engels Collected Works, Volumen 38]], Progress Publishers, Moscú, [1851] 1982.
+﻿﻿- Engels, Friedrich,«Revolution and Counter-Revolution in Germany», [[Karl Marx and Friedrich Engels Collected Works, Volumen 11]], Progress Publishers, Moscú, [1851-1852] 1979.
+﻿﻿- Engels, Friedrich, «England», [[Karl Marx and Friedrich Engels Collected Works, Volumen 11]], Progress Publishers, Moscú, [1852] 1979.
+﻿﻿- Engels, Friedrich, «Letter to Marx, 23 January 1857», [[Karl Marx and Friedrich Engels Collected Works, Volumen 40]], Progress Publishers, Moscú, [1857a] 1983.
+﻿﻿- Engels, Friedrich, «Letter to Marx, 11 December 1857», [[Karl Marx and Friedrich Engels Collected Works, Volumen 40]], Progress Publishers, Moscú, [1857b] 1983.
+﻿﻿- Engels, Friedrich, «Letter to Marx, 31 December 1857», [[Karl Marx and Friedrich Engels Collected Works, Volumen 40]], Progress Publishers, Moscú, [1857] 1983.
+- Engels, Friedrich, «Letter to Marx, 7 October 1858», [[Karl Marx and Friedrich Engels Collected Works, Volumen 40]], Progress Publishers, Moscú, [1858] 1983.
+﻿﻿- Engels, Friedrich, «Letter to Marx, 7 May 1860», [[Karl Marx and Friedrich Engels Collected Works, Volumen 41]], Progress Publishers, [1860] 1985.
+﻿﻿- Engels, Friedrich, «Letter to Marx, 13 January 1863», [[Karl Marx and Friedrich Engels Collected Works, Volumen 41]], Progress Publishers, Moscú, [1863a] 1985.
+﻿﻿- Engels, Friedrich, «Letter to Marx, 26 January de 1863», [[Karl Marx and Friedrich Engels Collected Works, Volumen 41]], Progress Publishers, Moscú, [1863b] 1985.
+﻿﻿- Engels, Friedrich, «Letter to Friedrich Albert Lange, 29 March 1865», [[Karl Marx and Friedrich Engels Collected Works, Volumen 42]], Progress Publishers, Moscú, [1865] 1987.
+﻿﻿- Engels, Friedrich, «Letter to Marx, 29 November 1868», [[Karl Marx and Friedrich Engels Collected Works, Volumen 43]], Progress Publishers, Moscú, [1868] 1988.
+﻿﻿- Engels, Friedrich, «Letter to Marx, 1 July 1869», [[Karl Marx and Friedrich Engels Collected Works, Volumen 43]], Progress Publishers, Moscú, [1869a] 1988.
+﻿﻿- Engels, Friedrich, «Letter to Hermann Engels, 15 July 1869», [[Karl Marx and Friedrich Engels Collected Works, Volumen 43]], Progress Publishers, Moscú, [1869] 1988.
+﻿﻿- Engels, Friedrich, «The Housing Question», [[Karl Marx and Friedrich Engels Collected Works, Volumen 23]], Progress Publishers, Moscú, [1872] 1988.
+﻿﻿- Engels, Friedrich, «Dialectics of Nature», [[Karl Marx and Friedrich Engels Collected Works, Volumen 25]], Progress Publishers, Moscú, [1873-1882] 1987.
+﻿﻿- Engels, Friedrich, «Refugee Literature», [[Karl Marx and Friedrich Engels Collected Works, Volumen 24]], Progress Publishers, Moscú, [1874] 1989.
+﻿﻿- Engels, Friedrich, «Letter to Pyotr Lavrov, 12-17 November 1875», [[Karl Marx and Friedrich Engels Collected Works, Volumen 45]], Progress Publishers, 11875] 1991.
+﻿﻿- Engels, Friedrich, «Anti-Dühring», [[Karl Marx and Friedrich Engels Collected Works, Volumen 25]], Progress Publishers, Moscú, [1878] 1987.
+﻿﻿- Engels, Friedrich, «Socialism: Utopian and Scientific», [[Karl Marx and Friedrich Engels Collected Works, Volumen 24]], Progress Publishers, Moscú, [1880] 1989.
+﻿﻿- Engels, Friedrich, «Letter to Karl Kautsky, 1 February 1881», [[Karl Marx and Friedrich Engels Collected Works, Volumen 46]], Progress Publishers, [1881] 1992.
+﻿﻿- Engels, Friedrich, «Letter to Karl Kautsky, 12 September 1882», [[Karl Marx and Friedrich Engels Collected Works, Volumen 46]], Progress Publishers, Moscú, [1882a] 1992.
+﻿﻿- Engels, Friedrich, «Letter to Marx, 19 December 1882», [[Karl Marx and Friedrich Engels Collected Works, Volumen 46]], Progress Publishers, [1882b] 1992.
+﻿﻿- Engels, Friedrich, «The Origin of the Family, Private Property and the State», [[Karl Marx and Friedrich Engels Collected Works, Volumen 26]], Progress Publishers, Moscú, [1884] 1990.
+﻿﻿- Engels, Friedrich, «Letter to Paul Lafargue, 11 August 1884», [[Karl Marx and Friedrich Engels Collected Works, Volumen 47]], Progress Publishers, [1884] 1995.
+﻿﻿- Engels, Friedrich, «Marx and Rodbertus. Preface to the First German Edition of The Poverty of Philosophy by Karl Marx», [[Karl Marx and Friedrich Engels Collected Works, Volumen 26]], Progress Publishers, Moscú, [1885] 1990.
+﻿﻿- Engels, Friedrich, «Ludwig Feuerbach and the End of Classical German Philosophy», [[Karl Marx and Friedrich Engels Collected Works, Volumen 26]], Progress Publishers, Moscú, [1886] 1990.
+﻿﻿- «Letter to Pasquale Martingnetti, 30 March 1890», [[Karl Marx and Friedrich Engels Collected Works, Volumen 48]], Progress Publishers, [1890a] 2001.
+- Engels, Friedrich, ﻿﻿«Letter to Conrad Schmidt, 5 August 1890», [[Karl Marx and Friedrich Engels Collected Works, Volumen 49]], Progress Publishers, [1890b] 2001.
+﻿﻿- Engels, Friedrich, «Letter to Joseph Bloch, 21-22 September 1890», [[Karl Marx and Friedrich Engels Collected Works, Volumen 49]], Progress Publishers, [1890c] Moscú, 2001.
+- Engels, Friedrich, ﻿﻿«Letter to Conrad Schmidt, 27 October 1890», [[Karl Marx and Friedrich Engels Collected Works, Volumen 49]], Progress Publishers, [1890d] 2001.
+﻿﻿- Engels, Friedrich, «Letter to Nikolai Danielson, 24 February 1893», [[Karl Marx and Friedrich Engels Collected Works, Volumen 50]], Progress Publishers, Moscú, [1893] 2004.
+﻿﻿- Engels, Friedrich, «Introduction to Karl Marx's The Class Struggle in France 1848 to 1850», [[Karl Marx and Friedrich Engels Collected Works, Volumen 27]], Progress Publishers, Moscú, [1895] 1990.
+﻿﻿- Fabiani, Silvia, Ana Lamo, Julián Messina y Tairi Room, «[[European Firm Adjustment During Times of Economic Crisis]]», IZA Journal of Labor Policy, 4, 1 (2015), pp. 1-28.
+﻿﻿- Fekete, Antal, «[[Borrowing Short and Lending Long Illiquidity and Credit Collapse]]» [monografia], Committee for Monetary Research and Education, 1983.
+﻿﻿- Fekete, Antal, Whither Gold? [libro electrónico], [[Pintax cvba]], [1996] 2019.
+﻿﻿- Fellows, Lesley K., y Martha J. Farah, «[[The Role of Ventromedial Prefrontal Cortex in Decision Making Judgment under Uncertainty or Judgment per se?]]», Cerebral Cortex, 17, 11 (2007), pp. 2669-2674.
+- Fernández Liria, Carlos, [[Marx 1857 El problema del método y la dialéctica]], Akal, Madrid, 2019.
+- Fernández Liria, Carlos, y Luis Alegre Zahonero, [[El orden de El Capital Por qué seguir leyendo a Marx]], Monte Ávila, Caracas, [2010] 2019.
+- Fernández-Villaverde, Jesús, «[[Simple Rules for a Complex World with Artificial Intelligence]]», PIER Working Paper, n.° 20-010, 2020.
+- Fisher, Irving, [[The Money Illusion]], Adelphi Company, Manchester, 1928.
+- Fisher, Irving, [[The Theory of Interest, as determined by Impatience to Spend Income and Opportunity to Invest it]], Macmillan, Nueva York, 1930.
+- FitzGerald, Thomas H. B., Ben Seymour y Raymond J. Dolan, «[[The Role of Human Orbitofrontal Cortex in Value Comparison for Incommensurable Objects]]», Journal of Neuroscience, 29, 26 (2009), pp. 8388-8395.
+- Foley, Duncan K., [[Understanding Capital Marx's Economic Theory]], Harvard University Press, Cambridge, MA, 1986.
+- Friedman, Benjamin, [[The Moral Consequences of Economic Growth]], Knopf Doubleday Publishing Group, Nueva York, 2005.
+- Fritzsche, Bruno, «Switzerland», en [[The Industrial Revolution in National Context Europe and the USA]], editado por Mikulas Teich y Roy Porter, Cambridge University Press, Cambridge, 1996.
+- Fritzsche, Bruno, «[[Switzerland after 1815]]», en The Oxford Encyclopedia of Economic History, vol. 5, editado por Joel Mokyr, Oxford University Press, Oxford, 2003.
+- Fröhlich, Nils, [[Dimensional Analysis of Price-Value Deviations]], Chemnitz University of Technology, Chemnitz, 2010.
+- Frydman, Carola, y Raven E. Saks, «[[Executive Compensation A New View from a Long-Term Perspective, 1936-2005]]», The Review of Financial Studies, 23, 5(2010), pp. 2.099-2.138.
+- Fujimoto, Takao, y Ravindra R. Ranade, «[[Technical Changes and the Rate of Profit in Models with Joint Production and Externalities A Duality Approach]]», Metroeconomica, 49, 2 (1998), pp. 129-138.
+- Fukuyama, Francis, «[[Social Capital and Civil Society]]», IMF Working Paper, WP/00/74, 2000.
+- Gabaix, Xavier, y Augustin Landier, «[[Why has CEO pay increased so much?]]», The Quarterly Journal of Economics, 123, 1 (2008), pp. 49-100.
+- Gallardo-Albarran, Daniel, y Robert Inklaar, «[[The Role of Capital and Productivity in Accounting for Income Differences since 1913]]», Journal of Economic Surveys, 35, 3 (2021), pp. 952-974.
+- Galor, Oded, y Ömer Özak, «[[The Agricultural Origins of Time Preference]]», American Economic Reviere, 106, 10 (2016), pp. 3064-3103.
+- Galor, Oded, y Viacheslav Savitskiy, «[[Climatic Roots of Loss Aversion]]», NBER Working Paper Series, n.° 25273, 2018.
+- Gao, Wei, y Matthias Kehrig, «[[Returns to Scale, Productivity and Competition Empirical Evidence from U.S. Manufacturing and Construction Establishments]]», Social Science Research Network, 1 de mayo de 2017. Disponible en: <https://papers.ssrn.com/sol3/pa-pers.cfm?abstract_id=2731596>.
+- Gechert, Sebastian, Tomas Havranek, Zuzana Irsova y Dominika Kolcunova, «[[Measuring capital-Labor Substitution The Importance of Method Choices and Publication Bias]]». Review of Economic Dynamics, 45 (2022), pp. 55-82.
+- Geras, Norman, «[[The Controversy about Marx and Justice]]», New Left Review, 150, 3 (1985), pp. 47-85.
+- Gintis, Herbert, [[Individuality and Entanglement The Moral and Material Bases of Social Life]], Princeton University Press, Princeton, 2017.
+- Gintis, Herbert, y Samuel Bowles, «[[Structure and Practice in the Labor Theory of Value]]», Review of Radical Political Economics, 12, 4 (1981), pp. 1-26.
+- Glasner, David, «[[A Reinterpretation of Classical Monetary Theory]]», Southern Economic Journal, 52, 1 (1985), pp. 46-67.
+- Gochenour, Zachary, y Bryan Caplan, «[[A Search-Theoretic Critique of Georgism]]», Social Science Research Network, 14 de julio de 2012. Disponible en: <https://papers.ssrn.com/sol3/papers.cfm?abstractid=1999105>.
+- Goldstone, Jack A., [[Revolution and Rebellion in the Early Modern World]], Routledge, Londres, [1991] 2016.
+- Gonner, Edward Carter Kersey, [[Common Land and Inclosure]], Macmillan, Nueva York, 1912.
+- Gorodnichenko, Yuriy, y Gerard Roland, «[[Culture, Institutions, and the Wealth of Nations]]», Review of Economics and Statistics, 99, 3 (2017), pp. 402-416.
+- Gould, Stephen Jay, y Elisabeth S. Vrba, «[[Exaptation- a missing term in the science of form]]», Paleobiology, 8, 1 (1982), pp. 4-15.
+- Green, Leonard, y Joel Myerson, «[[A Discounting Framework for Choice with Delayed and Probabilistic Rewards]]», Psychological Bulletin, 130, 5 (2004), pp. 769-792.
+- Greenwood, Jeremy, y Guillaume Vandenbroucke, «[[Hours Worked Long-Run Trends]]», en New Palgrave Dictionary of Economics, ed-itado por Lawrence E. Blume y Steven N. Durlauf, Palgrave Mac-millan, Londres, 2005.
+- Greif, Avner, «[[Cultural Beliefs and the Organization of Society A Historical and Theoretical Reflection on Collectivist and Individualist Societies]]», Journal of Political Economy, 102, 5 (1994), pp. 912-950.
+- Grossman, Henryk, «[[The Law of Accumulation and Breakdown of the Capitalist System Being also a Theory of Crises]]», Henryk Grossman Works, vol. 3, Brill, Leiden, [1929] 2021.
+- Grossman, Sanford J., y Joseph Stiglitz, «[[On the Impossibility of Informationally Efficient Markets]]», The American Economic Review, 70, 3 (1980), pp. 393-408.
+- Guerrero Jiménez, Diego, [[Competitividad teoría y política]], Ariel, Barcelona, 1995.
+- Guerrero Jiménez, Diego, «[[Insumo-producto y teoría del valor-trabajo]]», Política y Cultura, 13 (2000), pp. 139-168.
+- Guerrero Jiménez, Diego,  [[Economía no liberal para liberales y no liberales]] [autoedición], 2002. Disponible en: <https://www.eumed.net/cursecon/libre-ria/2004/dg/47.pdf>
+﻿﻿- Guerrero Jiménez, Diego, «[[¿Es posible demostrar la teoría laboral del valor?]]», Ensayos de Economía, 14, 25 (2004), pp. 83-123.
+﻿﻿- Guerrero Jiménez, Diego, [[Utilidad y trabajo (Teorías del valor y realidad económica capitalista)]], Universidad Complutense de Madrid, Madrid, 2006.
+﻿﻿- Guerrero Jiménez, Diego, [[Un resumen completo de El Capital de Marx]], Maia Ediciones, Madrid, 2008.
+- Haidt, Jonathan, [[The Righteous Mind]], Vintage Books, Nueva York, 2012.
+- Hammer, Edith C., Jan Pallon, Häkan Wallander y Pal Axel Olsson, «[[Tit for Tat? A Mycorrhizal Fungus Accumulates Phosphorus Under Low Plant Carbon Availability]]», FEMS Microbiology Ecology, 76, 2 (2011), pp. 236-244.
+- Hammerstein, Peter, y Ronald Noë, «[[Biological Trade and Markets]]», Philosophical Transactions of the Royal Society B: Biological Sciences, 371, 1687(2016), 20150101.
+- Hardin, Garrett, «[[The tragedy of the commons the population problem has no technical solution it requires a fundamental extension in morality]]», Science, 162, 3859 (1968), pp. 1243-1248.
+- Harding, Neil, «Legal Marxismo», en [[A Dictionary of Marxist Thought]], editado por Tom Bottomore, Blackwell, Hoboken, NJ, [1983] 2001.
+- Harvey, David, [[The Limits to Capital]], Verso Books, Londres/Nueva York, [1982] 2006.
+﻿﻿- Harvey, David, «[[The New Imperialism Accumulation by Dispossession]]», Socialist Register, 40 (2004), pp. 63-87.
+﻿﻿- Harvey, David, [[A Companion to Marx's Capital]], Verso Books, Londres/Nueva York, 2010.
+- Hatcher, John, «[[English serfdom and villeinage towards a reassessment]]», Past & Present, 90, 1 (1981), pp.3-39.
+- Hayek, F. A., [[Prices and Production]], Augustus M. Kelly, Nueva York, [1931] 1967.
+﻿﻿- Hayek, F. A., «The Road to Serfdom», [[The Collected of Works of F. A. Hayek, Volumen 2]], Routledge, Londres, [1944] 2007.
+﻿﻿- Hayek, F. A., «[[The Use of Knowledge in Society]]», The American Economic Review, 35, 4 (1945), pp. 519-530.
+﻿﻿- Hayek, F. A., [[The Counter-Revolution of Science Studies on the Abuse of Reason]], The Free Press, Nueva York, 1952.
