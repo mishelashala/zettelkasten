@@ -227,4 +227,55 @@ Bibliography
 - Hayek, F. A., [[Prices and Production]], Augustus M. Kelly, Nueva York, [1931] 1967.
 ﻿﻿- Hayek, F. A., «The Road to Serfdom», [[The Collected of Works of F. A. Hayek, Volumen 2]], Routledge, Londres, [1944] 2007.
 ﻿﻿- Hayek, F. A., «[[The Use of Knowledge in Society]]», The American Economic Review, 35, 4 (1945), pp. 519-530.
-﻿﻿- Hayek, F. A., [[The Counter-Revolution of Science Studies on the Abuse of Reason]], The Free Press, Nueva York, 1952.
+﻿﻿- Hayek, F. A., [[The Counter-Revolution of Science Studies on the Abuse of Reason]], The Free Press, Nueva York, 1952. [1960] 2011. The Constitution of Liberty, Chicago University Press, Chicago,
+﻿﻿- Hayek, F. A., «[[Competition as a Discovery Procedure]]», Quarterly Journal of Austrian Economics, 5, 3 [1968] 2002).
+﻿﻿- Hayek, F. A., [[Lato, Legislation and Liberty Rules and Order, Routledge and Kegan Paul, Abingdon-on-Thames]], UK, 1973.
+﻿﻿- Hayek, F. A., «[[The Pretence of Knowledge]]», The American Economic Review, 79, 6 (1989), pp. 3-7. 
+﻿﻿- Hegel, Georg Wilhelm Friedrich, [[Lectures on the Philosophy of World History. Introduction Reason in History]], Cambridge University Press, Cambridge, [1830] 2012.
+﻿﻿- Heinrich, Michael, [[An Introduction to the Three Volumes of Karl Marx's Capital]], Monthly Review Press, Nueva York, [2004] 2012.
+﻿﻿- Henrich, Joseph, [[The Secret of Our Success How Culture Is Driving Human Evolution, Domesticating Our Species, and Making Us Smarter]], Princeton University Press, Princeton, 2016.
+﻿﻿- Henrich, Joseph, [[The Weirdest People in the World How the West Became Psychologically Peculiar and Particularly Prosperous]], Penguin Books, Londres, 2020.
+﻿﻿- Hicks, John R., [[Value and Capital]], 2.4 ed., Oxford University Press, Oxford, 1946.
+﻿﻿- Hicks, John R., [[A Revision of Demand Theory]], Oxford University Press, Oxford, 1956.
+﻿﻿- Hicks, John R., y Roy G. D. Allen, «[[A Reconsideration of the Theory of Value. Part I]]», Economica, 1, 1 (1934), pp.52-76.
+﻿﻿- Hilferding, Rudolf, «Böhm-Bawerk's Criticism of Marx», en [[Karl Marx and the Close of his System by Eugen von Böhm-Bawerk & Böhm-Bawerk's Criticism of Marx by Rudolf Hilferding]], editado por Paul M. Sweezy, Augustus Kelley, Nueva York, 1904-1949.
+- Hilferding, Rudolf, [[Finance Capital A Study of the Latest Phase of Capitalist Development]], Routledge & Keagan Paul, Abingdon-on-Thames, UK, [1910] 1981.
+- Hirschman, Albert O., [[Exit, Voice, and Loyalty]], Harvard University Press, Cambridge, MA, 1970.
+- Hodgson, Geoffrey M., «[[What Are Institutions?]]», Journal of Economic Issues, 40, 1 (2006), pp. 1-25.
+- Hoff, Karla, «[[Caste System]]», World Bank Policy Research, Working Paper n.° 7929, 2016.
+- Hoffmann, Florian, David S. Lee y Thomas Lemieux, «[[Growing Income Inequality in the United States and Other Advanced Economies]]», Journal of Economic Perspectives, 34, 4 (2020), pp. 52-78.
+- Holmstrom, Bengt, «[[Moral Hazard in Teams]]», The Bell Journal of Economics, 13, 2 (1982), pp.324-340.
+- Hoppe, Hans-Hermann, «[[Marxist and Austrian Class Analysis]]», Journal of Libertarian Studies, 9, 2 (1990), pp. 79-93.
+- Horrell, Michael, y Robert Litan, [[After Inception How Enduring is Job Creation by Startups?]], Kauffman Foundation, Kansas City, 2010.
+- Huberman, Michael, y Chris Minns, «[[The times they are not changin' Days and hours of work in Old and New Worlds, 1870-2000]]», Explorations in Economic History, 44, 4 (2007), pp. 538-567.
+- Huerta de Soto, Jesús, [[Socialismo, cálculo económico y función empresarial]], Unión Editorial, Madrid, 1992.
+﻿﻿- Huerta de Soto, Jesús, [[Dinero, crédito bancario y ciclos económicos]], Unión Editorial, Madrid, 1998.
+﻿﻿- Huerta de Soto, Jesús, «[[La teoría de la eficiencia dinámica]]», Procesos de Mercado, I, 1 (2004), pp. 11-71.
+- Hughes, Brent L., y Jamil Zaki, «[[The Neuroscience of Motivated Cognition]]», Trends in Cognitive Sciences, 19, 2 (2015), pp. 62-64.
+- Hughes, Brent L., y Jennifer S. Beer, «[[Medial Orbitofrontal Cortex is Associated with Shifting Decision Thresholds in Self-Serving Cognition]]», Neurolmage, 61, 4 (2012), pp. 889-898.
+- Hulsmann, Jörg Guido, «[[The Demand for Money and the Time-Structure of Production]]», en Property, Freedom, and Socierty: Essays in Honor of Hans-Hermann Hoppe, editado por Jörg Guido Hüls-mann y Stephan Kinsella, Ludwig von Mises Institute, Auburn, AL, 2009.
+- Indart, Gustavo, «[[Marx's Law of Market Value]]», Science & Society, 51, 4, (1987-1988), pp. 458-467.
+- Iñigo Carrera, Juan, [[El capital razón histórica, sujeto revolucionario y conciencia]], Imago Mundi, Buenos Aires, 2013.
+- Irwin, Klee, Marcelo Amaral y David Chester, «[[The Self-Simulation Hypothesis Interpretation of Quantum Mechanics]]», Entropy, 22, 2 (2020), pp. 247.
+- Isikara, Güney, y Patrick Mokre, «[[Price-Value Deviations and the Labour Theory of Value Evidence from 42 Countries, 2000-2017]]», Review of Political Economy, 34, 1 (2022), pp. 165-180.
+- Jaffe, William, «[[Menger, Jevons and Walras De-Homogenized]]», Economic Inquiry, 14, 4 (1976), pp. 511-524.
+- Jales, Hugo, Thomas H. Kang, Guilherme Stein y Felipe García Ribeiro, «[[Measuring the Role of the 1959 Revolution on Cuba's Economic Performance]]», The World Economy, 41, 8 (2018), pp. 2243-2274.
+- Janzen, Daniel H., «[[Coevolution of Mutualism between Ants and Acacias in Central America]]», Evolution, 20, 3 (1966), pp. 249-275.
+- Jasay, Anthony, [[Justice and its Surroundings]], Liberty Fund, Carmel, IN, 2002.
+- Johnson, Harry G., «[[Demand Theory Further Revised or Goods are Goods]]», Economica, 25, 98 (1958), pp. 149-149.
+- Johnson, Noel D., y Mark Koyama, «[[Jewish Communities and City Growth in Preindustrial Europe]]», Journal of Development Economics, 127 (2017), pp.339-354.
+- Jones, Gareth Stedman, [[Karl Marx Greatness and Illusion]], Harvard University Press, Cambridge, MA, 2016.
+- Jossa, Bruno, «[[Marx, Marxism and the Cooperative Movement]]», Cambridge Journal of Economics, 29, 1(2005), pp. 3-18.
+- Kain, Roger, John Chapman y Richard Oliver, [[The Enclosure Maps of England and Wales, 1595-1918]], Cambridge University Press, Cam-bridge, 2004.
+- Kalecki, Michal, «[[Determinants of Profits]]», en Selected Essays on the Dynamics of the Capitalist Economy: 1933-1970, Cambridge University Press, Cambridge, [1933] 1971.
+- Kedrosky, Davis, «[[All Quiet on the Investment Front Did Britain Sacrifice the Industrial Revolution to Defeat Napoleon?]]», Great Trans-formations, 30 de agosto de 2021. Disponible en: <https://daviske-drosky.substack.com/p/all-quiet-on-the-investment-front>.
+- Keynes, John Maynard, [[The General Theory of Employment, Interest and Money]]. Palgrave Macmillan, Londres, [1936] 2018.
+- Kiers, E. Toby, Robert A. Rousseau, Stuart A. West y R. Ford Denison, «[[Host Sanctions and the Legume-Rhizobium Mutualism]]», Nature, 425, 6953 (2003), pp. 78-81.
+- Kiers, E. Toby, Marie Duhamel, Yugandhar Beesetty, Jerry A. Mensah, Oscar Franken, Erik Verbruggen, Carl R. Fellbaum, George A. Kowalchuk, Miranda M. Hart, Alberto Bago, Todd M. Palmer, Stuart A, West, Philippe Vandenkoornhuyse, Jan Jansa y Heike Bück-ing, «[[Reciprocal Rewards Stabilize Cooperation in the Mycorrhizal Symbiosis]]», Science, 333, 6044 (2011), pp. 880-882.
+- Kirzner, Israel, [[Competition and Entrepreurship]], Chicago University Press, Chicago, 1973.
+﻿﻿- Kirzner, Israel, [[Discovery, Capitalism, and Distributive Justice]], Basil Blackwell, Oxford, 1989.
+﻿﻿- Kirzner, Israel, [[Essays on Capital and Interest An Austrian Perspective]], Edward Elgar Publishing, Cheltenham, UK, 1996.
+- Kliman, Andrew J., «[[The Law of Value and Laws of Statistics Sectoral Values and Prices in the US Economy, 1977-97]]», Cambridge Journal of Economics, 26, 3 (2002), pp. 299-311.
+- Kliman, Andrew J., [[Reclaiming Marx's «Capital» A Refutation of the Myth of Inconsistency]], Lexington Books, Lanham, MD, 2007.
+- Kliman, Andrew, y Ted McGlone, «[[The Transformation Non-Problem and the Non-Transformation Problem]]», Capital & Class, 12, 2 (1988), pp. 56-84.
+- Kliman, Andrew, y Ted McGlone, «[[A Temporal Single-system Interpretation of Marx's Value Theory]]», Review of Political Economy, 11, 1 (1999), pp. 33-59.
