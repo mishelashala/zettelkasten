@@ -279,3 +279,140 @@ Bibliography
 - Kliman, Andrew J., [[Reclaiming Marx's «Capital» A Refutation of the Myth of Inconsistency]], Lexington Books, Lanham, MD, 2007.
 - Kliman, Andrew, y Ted McGlone, «[[The Transformation Non-Problem and the Non-Transformation Problem]]», Capital & Class, 12, 2 (1988), pp. 56-84.
 - Kliman, Andrew, y Ted McGlone, «[[A Temporal Single-system Interpretation of Marx's Value Theory]]», Review of Political Economy, 11, 1 (1999), pp. 33-59.
+- Knight, Frank, [[Risk, Uncertainty and Profit]], Houghton Mifflin, Bos-ton, [1921] 1957.
+- Knoblach, Michael, Martin Roessler y Patrick Zwerschke, «[[The Elasticity of Substitution Between Capital and Labour in the US Economy A Meta-Regression Analysis]]», Oxford Bulletin of Economics and Statistics, 82, 1 (2020), pp. 62-82.
+- Knoblach, Michael, y Fabian Stöckl, «[[What Determines the Elasticity of Substitution between Capital and Labor? A Literature Review]]», Journal of Economic Surveys, 34, 4 (2020), pp. 847-875.
+- Kolakowski, Leszek, [[Las principales corrientes del marxismo I. Los fundadores]], Alianza Universidad, Madrid, [1976a] 1983.
+- Kolakowski, Leszek, [[Las principales corrientes del marxismo III. La crisis]], Alianza Universidad, Madrid, [1976b] 1983.
+- Kolakowski, Leszek, [[My Correct Views on Everything]], St. Augustine's Press, South Bend, IN, 2005.
+- Kornai, János, «[["Hard and" "Soft" Budget Constraint]]», Acta Oeconomica, 25, 3-4 (1980), рр. 231-245.
+﻿﻿- Kolakowski, Leszek,[[The Socialist System The Political Economy of Communism]], Oxford University Press, Oxford, 1992.
+﻿﻿- Kolakowski, Leszek, [[Dynamism, Rivalry, and the Surplus Economy Two Essays on the Nature of Capitalism]], Oxford University Press, Oxford, 2013.
+﻿﻿- Koyama, Mark, y Jared Rubin, [[How the World Became Rich The Historical Origins of Economic Growth]], Polity Press, Cambridge, 2022. Krugman, Paul R., «Increasing Returns, Monopolistic Competition, and International Trade», Journal of international Economics, 9, 4 (1979), pp. 469-479.
+- Kukic, Leonard, «[[Socialist growth revisited insights from Yugoslavia]]», European Review of Economic History, 22, 4 (2018), pp. 403-429.
+- Kunda, Ziva, «[[The Case for Motivated Reasoning]]», Psychological Bulletin, 108, 3 (1990), pp. 480-498.
+- Lachman, Ludwig, [[Capital and its Structure]], Institute of Human Studies, Fairfax, VA, [1956] 1978.
+﻿﻿- Lachman, Ludwig, [[The Market as an Economic Process]], Basil Blackwell, Oxford, 1986.
+﻿﻿- Lackner, Marie-Louise, y Martin Lackner, «[[On the Likelihood of Single-Peaked Preferences]]», Social Choice and Welfare, 48, 4 (2017), PP. 717-745.
+﻿﻿- Laibman, David, «[[Technical Change the Real Wage and the Rate of Exploitation The Falling Rate of Profit Reconsidered]]», Review of Radical Political Economics, 14, 2 (1982), pp. 95-105.
+﻿- Laibman, David, [[Value, Technical Change, and Crisis Explorations in Marxist Economic Theory]], ME Sharpe, Armonk, NY, 1992.
+﻿﻿- Laibman, David, «[[The Falling Rate of Profit A New Empirical Study]]», Science & So-ciety, 57, 2 (1993), pp. 223-233.
+- Layson, Stephen K., «[[The Increasing Returns to Scale CES Production Function and the Law of Diminishing Marginal Returns]]», Southern Economic Journal, 82, 2 (2015), pp. 408-415.
+- Lenin, Vladimir Ilich, «The Economic Content of Narodism and the Criticism of it in Mr. Struve's Book (The Reflection of Marxism in Bourgeois Literature)», [[Lenin Collected Works, Volumen 1]], Progress Publishers, Moscú, [1894-1895] 1960.
+- Lenin, Vladimir Ilich, «The Agrarian Programme of Social-Democracy in the First Russian Revolution, 1905-1907», [[Lenin Collected Works, Volumen 13]], Progress Publishers, Moscú, [1907] 1962.
+- Lenin, Vladimir Ilich, «The Tasks of the Youth Leagues. Speech Delivered at the Third All-Russia Congress of the Russian Young Communist League», [[Lenin Collected Works, Volumen 31]], Progress Publishers, Moscú, [1920] 1966.
+- Lepage, Henri, [[Autogestión y capitalismo respuestas a la anti-economía]], Asociación para el Progreso de la Dirección, Madrid, [1978] 1979.
+- Lequiller, François, y Derek Blades, [[Understanding National Accounts]], OCDE, París, 2014.
+- Lewin, Peter, y Nicolás Cachanosky, [[Capital and Finance Theory and History]], Routledge, Londres, 2020.
+- Levy, Dino J., y Paul W. Glimcher, «[[Comparing Apples and Oranges Using Reward-Specific and Reward-General Subjective Value Representation in the Brain]]», Journal of Neuroscience, 31, 41 (2011), pp. 14693-14707.
+- Levy, Dino J., y Paul W. Glimcher, «[[The Root of All Value A Neural Common Currency for Choice]]», Current Opinion in Neurobiology, 22, 6 (2012), pp.1027-1038.
+- Lin, Po-Hsuan, Alexander L. Brown, Taisuke Imai, Joseph Taoyi Wang, Stephanie W. Wang y Colin F. Camerer. «[[Evidence of General Economic Principles of Bargaining and Trade from 2,000 Classroom Experimentsv]]», Nature Human Behaviour, 4, 9 (2020), pp. 917-927.
+- Lomasky, Loren, [[Persons, Rights, and the Moral Community]], Oxford University Press, Oxford, 1987.
+- Lukács, Georg, [[History and Class Consciousness Studies in Marxist Dialectics]], The MIT Press, Cambridge, MA, [1923] 1971.
+- Mack, Eric, «In Defense of Individualism», [[Ethical Theory and Moral Practice]], 2, 2 (1999), pp. 87-115.
+- «Natural Rights», en The Routledge Companion to Libertarianism, editado por Matt Zwolisnki y Benjamin Ferguson, Routledge, Londres, 2022.
+- Machan, Tibor R., «[[Marxism A Bourgeois Critique]]», International Journal of Social Economics, 15, 11-12 (1988), pp. 2-104.
+- McMillan, Rebekah O., «The Problem of Poverty: the Elberfeld System and Transatlantic Social Reform», Journal of Transatlantic Studies, 20 (2022), pp. 1-23.
+- Mandel, Ernest, [[Marxist Economic Theory, Volumen 2]], The Merlin Press, Decatur, GE, 1962.
+﻿﻿- Mandel, Ernest, [[An Introduction to Marxist Economic Theory]], Pathfinder Press, Nueva York, [1967] 1973.
+﻿﻿- Mandel, Ernest, «Introduction», en [[Capital A Critique of Political Economy, Volume One]], pp. 11-86, Penguin Books, Londres, 1976.
+﻿﻿- Mandeville, Bernard, [[La fábula de las abejas o los vicios privados hacen la prosperidad pública]], Fondo de Cultura Económica, México, D.F., [1729] 1997.
+﻿﻿- Marshall, Alfred, [[Principles of Economics]], Palgrave Macmillan, Londres, 1920] 2013.
+- Martínez Marzoa, Felipe, [[La filosofia de «El Capital de Marx»]], Taurus, Barcelona, 1983.
+- Marx, Heinrich, «Letter to Karl Marx, 9 December 1837», [[Karl Marx and Friedrich Engels Collected Works, Volumen 1]], Progress Publishers, Moscú, [1837] 1975.
+﻿﻿- Marx, Heinrich, «Letter to Karl Marx, 10 February 1838», [[Karl Marx and Friedrich Engels Collected Works, Volumen 1]], Progress Publishers, Moscú, [1838] 1975.
+﻿﻿- Marx, Karl, «Reflections of a Young Man on the Choice of a Profession», [[Karl Marx and Friedrich Engels Collected Works, Volumen 1]], Progress Publishers, Moscú, [1835] 1975.
+﻿﻿- Marx, Karl, «Debates on the Law of Thefts of Wood», [[Karl Marx and Friedrich® Engels Collected Works, Volumen 1]], Progress Publishers, Moscú, [1842] 1975.
+﻿﻿- Marx, Karl, «Contribution to the Critique of Hegel's Philosophy of Law», [[Karl Marx and Friedrich Engels Collected Works, Volumen 3]], Progress Publishers, Moscú, [1843a] 1975.
+﻿﻿- Marx, Karl, «On the Jewish Question», [[Karl Marx and Friedrich Engels Collected Works, Volumen 3]], Progress Publishers, Moscú, [1843b] 1975.
+﻿﻿- Marx, Karl, «Letter to Arnold Ruge, 25 January 1843», [[Karl Marx and Friedrich Engels Collected Works, Volumen 1]], Progress Publishers, Moscú, [1843] 1975.
+﻿﻿- Marx, Karl, «Economic and Philosophic Manuscripts of 1844», [[Karl Marx and Friedrich Engels Collected Works, Volumen 3]], Progress Publishers, Moscú, [1844a] 1975.
+﻿﻿- Marx, Karl, «Notes on James Mill», [[Karl Marx and Friedrich Engels Collected Works, Volumen 3]], Progress Publishers, Moscú, [1844b] 1975.
+﻿﻿- Marx, Karl, «Theses on Feuerbach», [[Karl Marx and Friedrich Engels Collected Works, Volumen 5]], Progress Publishers, Moscú, [1845] 1976.
+- Marx, Karl,  «Letter to Engels, 15 May 1847», [[Karl Marx and Friedrich Engels Collected Works, Volumen 38]], Progress Publishers, Moscú, [1847a] 1982.
+﻿﻿- Marx, Karl, «Letter to Pavel Vasilyevich Annenkov, 9 December 1847», [[Karl Marx and Friedrich Engels Collected Works, Volumen 38]], Progress Publishers, Moscú, [1847b] 1982.
+﻿﻿- Marx, Karl, «The Poverty of Philosophy», [[Karl Marx and Friedrich Engels Collected Works, Volumen 6]], Progress Publishers, Moscú, [1847] 1976.
+﻿﻿- Marx, Karl, «Letter to Engels, 16 March 1848», [[Karl Marx and Friedrich Engels Collected Works, Volumen 38]], Progress Publishers, Moscú, [1848a] 1982.
+- Marx, Karl,  ﻿«Letter to Engels, 29 November de 1848», [[Karl Marx and Friedrich Engels Collected Works, Volumen 38]], Progress Publishers, Moscú, [1848b] 1982.
+﻿﻿- Marx, Karl, «Wage Labour and Capital», [[Karl Marx and Friedrich Engels Collected Works, Volumen 9]], Progress Publishers, Moscú, [1849] 1977.
+﻿﻿- Marx, Karl, «Letter to Engels, 31 March 1851», [[Karl Marx and Friedrich Engels Collected Works, Volumen 38]], Progress Publishers, Moscú, [1851] 1982.
+﻿﻿- Marx, Karl, «Reflections», [[Karl Marx and Friedrich Engels Collected Works, Volumen 10]], Progress Publishers, Moscú, [1850-1853] 1978.
+- Marx, Karl, «Ergänzungen und Veränderungen zum ersten Band des "Kapitals"», [[Karl Marx / Friedrich Engels Gesamtausgabe, vol. IV]]. 8, Dietz Verlag, Berlin, [1851] 1986.
+﻿﻿- Marx, Karl, «l'he Letter Accompanying the Red Catechism, mayo de 1852», [[Karl Marx and Friedrich Engels Collected Works, Volumen 11]], Progress Publishers, Moscú, [1852] 1979.
+﻿﻿- Marx, Karl, «Letter to Engels, 27 February 1852», [[Karl Marx and Friedrich Engels Collected Works, Volumen 39]], Progress Publishers, Moscú, [1852] 1983.
+﻿﻿- Marx, Karl, «The British Rule in India», [[Karl Marx and Friedrich Engels Collected Works, Volumen 12]], Progress Publishers, Moscú, [1853] 1979.
+﻿﻿- Marx, Karl, «Letter to Engels, 15 July 1858», [[Karl Marx and Friedrich Engels Collected Works, Volumen 40]], Progress Publishers, Moscú, [1858a] 1983.
+- Marx, Karl, ﻿﻿«Letter to Engels, 8 October 1858», [[Karl Marx and Friedrich Engels Collected Works, Volumen 40]], Progress Publishers, Moscú, [1858b] 1983.
+- Marx, Karl, «Outlines of the Critique of Political Economy (Rough Draft of 1857-58) [First Instalment]», [[Karl Marx and Friedrich Engels Collected Works, Volumen 28]], Progress Publishers, Moscú, [1857-1858] 1986.
+- Marx, Karl, «Outlines of the Critique of Political Economy (Rough Draft of 1857-58) [Second Instalment]», [[Karl Marx and Friedrich Engels Collected Works, Volumen 29]], Progress Publishers, Moscú, [1857-1858] 1987.
+﻿﻿- Marx, Karl, «Letter to Ferdinand Lassalle, 28 March 1859», [[Karl Marx and Friedrich Engels Collected Works, Volumen 40]], Progress Publishers, Moscú, [1859] 1983.
+﻿﻿- Marx, Karl, «A Contribution to the Critique of Political Economy», [[Karl Marx and Friedrich Engels Collected Works, Volumen 29]], Progress Publishers, Moscú, [1859] 1987.
+﻿﻿- Marx, Karl, «The American Question in England», [[Karl Marx and Friedrich Engels Collected Works, Volumen 19]], Progress Publishers, Moscú, [1861] 1984.
+﻿﻿- Marx, Karl, «A Contribution to the Critique of Political Economy», [[Karl Marx and Friedrich Engels Collected Works, Volumen 34]], Progress Publishers, Moscú, [1861-1863] 1994.
+﻿﻿- Marx, Karl, «Letter to Engels, 7 August 1862», [[Karl Marx and Friedrich Engels Collected Works, Volumen 41]], Progress Publishers, Moscú, [1862b] 1985.
+﻿﻿- Marx, Karl, «Letter to Engels, 8 January 1863», [[Karl Marx and Friedrich Engels Collected Works, Volumen 41]], Progress Publishers, Moscú, [1863a] 1985.
+- Marx, Karl, ﻿﻿«Letter to Engels, 24 January 1863», [[Karl Marx and Friedrich Engels Collected Works, Volumen 41]], Progress Publishers, Moscú, [1863b] 1985.
+﻿﻿- Marx, Karl, «Letter to Engels, 28 January 1863», [[Karl Marx and Friedrich Engels Collected Works, Volumen 41]], Progress Publishers, Moscú, [1863] 1985.
+﻿﻿- Marx, Karl, «Theories of Surplus-Value», [[Karl Marx and Friedrich Engels Collected Works, Volumen 30]], Progress Publishers, Moscú, [1862-1863] 1988.
+﻿﻿- Marx, Karl, «Theories of Surplus-Value», [[Karl Marx and Friedrich Engels Collected Works, Volumen 31]], Progress Publishers, Moscú, [1862-1863a] 1989.
+﻿﻿- Marx, Karl, «Theories of Surplus-Value», [[Karl Marx and Friedrich Engels Collected Works, Volumen 32]], Progress Publishers, Moscú, [1862-1863b] 1989.
+﻿﻿- Marx, Karl, «Theories of Surplus-Value», [[Karl Marx and Friedrich Engels Collected Works, Volumen 33]], Progress Publishers, Moscú, [1862-1863] 1991.
+- Marx, Karl, «Letter to Lion Philips, 25 June 1864», [[Karl Marx and Friedrich Engels Collected Works, Volumen 41]], Progress Publishers, Moscú, [1864a]  1985.
+﻿﻿- Marx, Karl, «Letter to Engels, 4 July 1864», [[Karl Marx and Friedrich Engels Collected Works, Volumen 41]], Progress Publishers, [1864b] 1985.
+- Marx, Karl, ﻿﻿«The Process of Production of Capital, Draft Chapter 6 of Capital», [[Karl Marx and Friedrich Engels Collected Works, Volumen 34]], Progress Publishers, Moscú, [1864] 1994.
+﻿﻿- Marx, Karl, «To Abraham Lincoln, President of the United States of America», [[Karl Marx and Friedrich Engels Collected Works, Volumen 20]], Progress Publishers, Moscú, [1864] 1985﻿
+﻿﻿- Marx, Karl, «To Sophie von Hatzfeldt, 16 October 1864», [[Karl Marx and Friedrich Engels Collected Works, Volumen 42]], Progress Publishers, [1864] 1987.
+- Marx, Karl, ﻿﻿«Letter to Engels, 30 January 1865», [[Karl Marx and Friedrich Engels Collected Works, Volumen 42]], Progress Publishers, [1865a] 1987.
+﻿﻿- Marx, Karl, «Letter to Engels, 31 July 1865», [[Karl Marx and Friedrich Engels Collected Works, Volumen 42]], Progress Publishers, Moscú, [1865b] 1987.
+﻿﻿- Marx, Karl, «Value, Price and Profit», [[Karl Marx and Friedrich Engels Collected Works, Volumen 20]], Progress Publishers, Moscú, [1865] 1985.
+﻿﻿- Marx, Karl, [[Capital A Critique of Political Economy, Volumen 1]], Penguin Books, Londres, [1867] 1976.
+﻿﻿- Marx, Karl, [[Capital A Critique of Political Economy, Volumen 2]], Penguin Books, Londres, [1885] 1978.
+﻿﻿- Marx, Karl, [[Capital A Critique of Political Economy, Volumen 3]], Penguin Books, Londres, [1894] 1981.
+﻿﻿- Marx, Karl, «Letter to Ludwig Kugelmann, 11 July 1868», [[Karl Marx and Friedrich Engels Collected Works, Volumen 43]], Progress Publishers, Moscú, [1868a] 1988.
+﻿﻿- Marx, Karl, «Letter to Engels, 30 November 1868», [[Karl Marx and Friedrich Engels Collected Works, Volumen 43]], Progress Publishers, Moscú, [1868b] 1988.
+﻿﻿- Marx, Karl, «Letter to Ludwig Kugelmann, 17 April 1871», [[Karl Marx and Friedrich Engels Collected Works, Volumen 44]], Progress Publishers, Moscú, [1871] 1989.
+﻿﻿- Marx, Karl, «Notes on Bakunin's Book "Statehood and Anarchy"», [[Karl Marx and Friedrich Engels Collected Works, Volumen 24]], Progress Publishers, Moscú, [1874-1875] 1989.
+﻿﻿- Marx, Karl, «Critique of the Gotha Programme», [[Karl Marx and Friedrich Engels Collected Works, Volumen 24]], Progress Publishers, Moscú, [1875] 1989.
+﻿﻿- Marx, Karl, «Letter to Editor of the Otecestvenniye Zapisky», [[Karl Marx and Friedrich Engels Collected Works, Volumen 24]], Progress Publishers, Moscú, [1877] 1989.
+﻿﻿- Marx, Karl, «Marginal Notes on Adolph Wagner's Lehrbuch der Politischen Oekonomie», [[Karl Marx and Friedrich Engels Collected Works, Volumen 24]], Progress Publishers, Moscú, [1881a] 1989.
+﻿﻿- Marx, Karl, «First Draft of the Letter to Vera Zasulich», [[Karl Marx and Friedrich Engels Collected Works, Volumen 24]], Progress Publishers, Moscú, [1881b] 1989.
+﻿﻿- Marx, Karl, y Friedrich Engels, «The Holy Family or Critique of Critical Criticism», [[Karl Marx and Friedrich Engels Collected Works, Volumen 4]], Progress Publishers, Moscú, [1844] 1975.
+﻿﻿- Marx, Karl, y Friedrich Engels, «The German Ideology», [[Karl Marx and Friedrich Engels Collected Works, Volumen 5]], Progress Publishers, Moscú, [1845-1846] 1976.
+- Marx, Karl, y Friedrich Engels, ﻿﻿«Manifesto of the Communist Party», [[Karl Marx and Friedrich Engels Collected Works, Volumen 6]], Progress Publishers, Moscú, [1848] 1976.
+﻿﻿- Marx, Karl, y Friedrich Engels, «Fictitious Splits in the International», [[Karl Marx and Friedrich Engels Collected Works, Volumen 23]], Progress Publishers, Moscú, [1872] 1988.
+﻿﻿- Marzluff, John M, [[In Search of Meadowlarks-Birds, Farms, and Food in Harmony with the Land]], Yale University Press, New Haven, CT, 2020.
+- Mas-Colell, Andreu, Michael Dennis Whinston y Jerry R. Green, [[Microeconomic Theory]], Oxford University Press, Oxford 1995.
+- Mattick, Paul, [[Crisis económica y teoría de las crisis]], Maia Ediciones, Madrid, 2013.
+- Mayr, Ernst, «[[Cause and Effect in Biology]]», Science New Series, 134, 3489 (1961), pp. 1501-1506.
+- McCloskey, Donald/Deirdre, «[[The Enclosure of Open Fields Preface to a Study of Its Impact on the Efficiency of English Agriculture in the Eighteenth Century]]», The Journal of Economic History, 32, 1 (1972), pp. 15-35.
+- McCloskey, Donald/Deirdre, [[Bourgeois Equality How Ideas, Not Capital or Institutions, Enriched the World]]. Chicago University Press, Chicago, 2016.
+- McCulloch, J. Huston, «[[The Austrian Theory of the Marginal Use and of Ordinal Marginal Utility]]», Zeitschrift für Nationalökonomie / Journal of Economics, 37, 3-4 (1977), pp. 249-280.
+- McCulloch, J. Huston, y Jeffrey Smith, «[[An Austrian Proof of Quasi-Concave Preferences]]», Boston College Working Papers in Economics, n.°70, Boston College Department of Economics, Boston, 1975.
+- McFall-Ngai, Margaret, «[[Hawaiian Bobtail Squid]]», Current Biology, 18, 22 (2008), pp. R1043-R1044.
+- McLellan, David, [[Friedrich Engels]], Penguin Books, Londres, 1977.
+- Menger, Carl, [[Principles of Economics]], Ludwig von Mises Institute, Auburn, AL, [1871] 2007.
+﻿﻿- Menger, Carl, «Zur Theorie das Kapitals», [[Jahrbücher für Nationalökonomie und Statistik]], 51, 1 (1888), pp. 1-49.
+﻿﻿- Menger, Carl, «[[Money as Measure of Value]]», History of Political Economy, 37, 2 ([1892] 2005), pp. 245-261.
+- Michels, Robert, [[Political Parties A Sociological Study of the Oligarchical Tendencies of Modern Democracy]], Hearst's International Li-brary, Nueva York, [1911] 1915.
+- Milanovic, Branko, [[Capitalism, Alone The Future of the System that Rules the World]], Belknap Press, Cambridge, MA, 2019.
+- Mises, Ludwig von, [[The Theory of Money and Credit]], Ludwig von Mises Institute, Auburn, AL, [1912] 2009.
+﻿﻿- Mises, Ludwig von, Economic Calculation in the Socialist Commonwealth, Ludwig von Mises Institute, Auburn, AL, [1920] 2012.
+﻿﻿- Mises, Ludwig von, [[Human Action]], Ludwig von Mises Institute, Auburn, AL, [1949] 1998.
+- Mitchell, Kevin J., [[Innate How the Wiring of Our Brains Shapes Who We Are]], Princeton University Press, Princeton 2018.
+- Mokyr, Joel, [[The Enlightened Economy Britain and the Industrial Revolution, 1700-1850]], Penguin Books, Londres, [2009] 2011.
+- Mokyr, Joel,  [[A Culture of Growth The Origins of the Modern Economy]], Princeton University Press, Princeton, 2016.
+- Mosca, Gaetano, [[The Ruling Class]], McGraw-Hill Book Company, Nueva York, [1896] 1939.
+- Morishima, Michio, [[Marx's Economics A Dual Theory of Value and Growth]], Cambridge University Press, Cambridge, 1973.
+- Morishima, Michio, «[[Positive Profits with Negative Surplus Value-A Comment]]», The Economic Journal, 86, 343 (1976), pp. 599-603.
+- Moseley, Fred, [[The Falling Rate of Profit in the Postwar United States Economy]], St. Martin's Press, Nueva York, 1991.
+﻿﻿- Moseley, Fred, «[[The Rate of Profit and the Future of Capitalism]]», Review of Radical Political Economics, 29, 4 (1997), pp. 23-41.
+﻿﻿- Moseley, Fred, «[[The Marginal Productivity Theory of Capital in Intermediate Microeconomics Textbooks A Critique]]», Review of Radical Political Economics, 47, 2 (2015), pp. 292-308.
+﻿﻿- Moseley, Fred, [[Money and Totality A Macro-Monetary Interpretation of Marx's Logic in Capital and the End of the "Transformation Problem"]], Brill, Leiden, 2016.
+- Munger, Michael, y Kevin Munger, [[Choosing in Groups Analytical Politics Revisited]], Cambridge University Press, Cambridge, 2015.
+- Nakatani, Takeshi, «[[Price Competition and Technical Choice]]», Kobe University Economic Review, 25 (1979), pp. 67-77. 
+- Nakatani, Takeshi,  «[[The Law of Falling Rate of Profit and the Competitive Battle Comment on Shaikh]]», Cambridge Journal of Economics, 4, 1 (1980), pp. 65-68.
+- Noguera, José Antonio, «[[¿Quién teme al individualismo metodológico? Un análisis de sus implicaciones para la teoría social]]», Papers: Revista de Sociología, 69 (2003), pp. 101-132
+- Nordhaus, William D., «[[Schumpeterian Profits in the American Economy Theory and Measurement]]», National Bureau of Economic Research, WP 10433, 2004.
+- Nozick, Robert, [[Anarchy, State, and Utopia]], Basic Books, Nueva York, 1974.
+- Ochoa, Eduardo M., «[[Values, Prices, and Wage-Profit Curves in the US Economy]]», Cambridge Journal of Economics, 13, 3 (1989), pp. 413-429.
+- OCDE, [[Entrepreneurship at a Glance 2017]], OCDE, París, 2017.
