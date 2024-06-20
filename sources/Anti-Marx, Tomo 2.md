@@ -127,7 +127,7 @@ Bibliography
 - Donovan, Sarah A., y David H. Bradley, [[Real wage trends, 1979 to 2019]] (R45090), Congressional Research Service, Washington, 2020.
 - Dyer, Christopher, [[An Age of Transition? Economy and Society in England in the Later Middle Ages]], Oxford University Press, Oxford, 2005.
 - Eastman, Max, [[Reflections on the Failure of Socialism]], The Devin-Adair Company, Nueva York, 1955.
-- Edmans, Alex, Xavier Gabaix y Dirk Jenter, «Executive compensation A survey of theory and evidence», en Benjamin Hermalin y Michael Weisbach, eds., [[The handbook of the economics of corporate governance, vol. 1]], pp. 383-539, North-Holland Publishing Company, Ámsterdam, 2017.
+- Edmans, Alex, Xavier Gabaix y Dirk Jenter, «Executive compensation A survey of theory and evidence», en Benjamin Hermalin y Michael Weisbach, eds., [[The handbook of the economics of corporate governance, Volumen 1]], pp. 383-539, North-Holland Publishing Company, Ámsterdam, 2017.
 - Elster, Jon, [[Explaining Technical Change A Case Study in the Philosophy of Science]], Cambridge University Press, Cambridge, 1983.
 ﻿﻿- Elster, Jon, [[Making Sense of Marx]], Cambridge University Press, Cambridge, 1985.
 ﻿﻿- Elster, Jon, [[An Introduction to Karl Marx]], Cambridge University Press, Cambridge, 1986.﻿
@@ -337,7 +337,7 @@ Bibliography
 ﻿﻿- Marx, Karl, «Wage Labour and Capital», [[Karl Marx and Friedrich Engels Collected Works, Volumen 9]], Progress Publishers, Moscú, [1849] 1977.
 ﻿﻿- Marx, Karl, «Letter to Engels, 31 March 1851», [[Karl Marx and Friedrich Engels Collected Works, Volumen 38]], Progress Publishers, Moscú, [1851] 1982.
 ﻿﻿- Marx, Karl, «Reflections», [[Karl Marx and Friedrich Engels Collected Works, Volumen 10]], Progress Publishers, Moscú, [1850-1853] 1978.
-- Marx, Karl, «Ergänzungen und Veränderungen zum ersten Band des "Kapitals"», [[Karl Marx / Friedrich Engels Gesamtausgabe, vol. IV]]. 8, Dietz Verlag, Berlin, [1851] 1986.
+- Marx, Karl, «Ergänzungen und Veränderungen zum ersten Band des "Kapitals"», [[Karl Marx / Friedrich Engels Gesamtausgabe, Volumen IV]]. 8, Dietz Verlag, Berlin, [1851] 1986.
 ﻿﻿- Marx, Karl, «l'he Letter Accompanying the Red Catechism, mayo de 1852», [[Karl Marx and Friedrich Engels Collected Works, Volumen 11]], Progress Publishers, Moscú, [1852] 1979.
 ﻿﻿- Marx, Karl, «Letter to Engels, 27 February 1852», [[Karl Marx and Friedrich Engels Collected Works, Volumen 39]], Progress Publishers, Moscú, [1852] 1983.
 ﻿﻿- Marx, Karl, «The British Rule in India», [[Karl Marx and Friedrich Engels Collected Works, Volumen 12]], Progress Publishers, Moscú, [1853] 1979.
@@ -416,3 +416,138 @@ Bibliography
 - Nozick, Robert, [[Anarchy, State, and Utopia]], Basic Books, Nueva York, 1974.
 - Ochoa, Eduardo M., «[[Values, Prices, and Wage-Profit Curves in the US Economy]]», Cambridge Journal of Economics, 13, 3 (1989), pp. 413-429.
 - OCDE, [[Entrepreneurship at a Glance 2017]], OCDE, París, 2017.
+ - OCDE, [[Pensions at a Glance 2021]], OCDE, París, 2021.
+- Okishio, Nobuo, «[[Technical Changes and the Rate of Profitv]]», Kobe University Economic Review, 7, 1 (1961), pp. 85-90.
+- Okishio, Nobuo, «[[Competition and Production Prices]]», Cambridge Journal of Economics, 25, 4 (2001), pp.493-501.
+- Ollman, Bertell, [[Alienation Marx's Conception of Man in Capitalist Society]], Cambridge University Press, Cambridge, 1976.
+- Olson, Mancur, [[The Logic of Collective Action Public Goods and the Theory of Groups]], Harvard University Press, Cambridge, MA, [1965] 2002.
+- Ostrom, Elinor, [[Governing the Commons The evolution of institutions for collective action]], Cambridge University Press, Cambridge, 1990.
+- Oswalt, Sonja N., Patrick D. Miles y Scott A. Pugh. «[[Forest Resources of the United States, 2017 A Technical Document Supporting the Forest Service 2020 RPA Assessment]]», Gen. Tech. Rep. WO-97, US Department of Agriculture, Forest Service, Washington Office, 2019.
+- Overton, Mark, [[Agricultural revolution in England the transformation of the agrarian economy 1500-1850]], Cambridge University Press, Cambridge, 1996.
+- Paitaridis, Dimitris, y Lefteris Tsoulfidis, «[[The Growth of Unproductive Activities, the Rate of Profit, and the Phase-Change of the US Economy]]», Review of Radical Political Economics, 44, 2 (2012), pp. 213-233.
+- Pareto, Vilfredo, [[Manual of Political Economy]], Oxford University Press, Oxford, [1909] 2014.
+- Pellmyr, Olle, y Chad J. Huth, «[[Evolutionary Stability of Mutualism Between Yuccas and Yucca Moths]]», Nature, 372, 6503 (1994), pp. 257-260.
+- Pencavel, John, Luigi Pistaferri y Fabiano Schivardi, «[[Wages, Employment, and Capital in Capitalist and Worker-Owned Firms]]», ILR Reviere, 60, 1 (2006), pp. 23-44.
+- Peters, Ole, «[[The Ergodicity Problem in Economics]]», Nature Physics, 15, 12 2019), pp. 1216-1221.
+- Pétorin, Virginie, «[[What Do We Really Know about Worker Coopera-ives?]]», Co-operatives UK (blog), 19 de novembre de 2018. Disponible en: <https://www.uk.coop/resources/what-do-we-really-know-about-worker-co-operatives>.
+- Piketty, Thomas, [[Capital in the 21st Century]], The Belknap Press of Harvard University Press, Cambridge, MA, 2014.
+- Piketty, Thomas, y Gabriel Zucman, «[[Capital is Back Wealth-Income Ratios in Rich Countries 1700-2010]]», The Quarterly Journal of Economics, 129, 3 (2014), pp. 1255-1310.
+- Pigou, Arthur Cecil, «[[The Value of Money]]», The Quarterly Journal of Economics, 32, 1 (1917), pp. 38-65.
+- Plassmann, Hilke, John O'doherty y Antonio Rangel, «[[Orbitofrontal Cortex Encodes Willingness to Pay in Everyday Economic Transactions]]», Journal of Neuroscience, 27, 37 (2007), pp.9984-9988.
+- Plomin, Robert, John C. DeFries, Valerie S. Knopik y Jenae M. Neiderhiser, «[[Top 10 Replicated Findings from Behavioral Genetics]]», Perspectives on Psychological Science, 11, 1 (2016), pp. 3-23.
+- Podivinsky, Jan M., y Geoff Stewart, «[[Why is Labour-Managed Firm Entry so Rare? An Analysis of UK Manufacturing Data]]», Journal of Economic Behavior & Organization, 63, 1 (2007), pp. 177-192.
+- Polanyi, Karl, The [[Great Transformation The Political and Economic Origins of Our Time]], Beacon Press, Boston, 1944] 2001.
+- Popper, Karl R., [[The Open Society and its Enemies]], Princeton University Press, Princeton, [1945] 2013.
+﻿﻿- Popper, Karl R., [[The Poverty of Historicism]], Harper Torchbooks, Nueva York, [1957] 1964.
+﻿﻿- Popper, Karl R., [[Conjectures and Refutations]], Basic Books, Nueva York, 1962.
+- Prados de la Escosura, Leandro, [[Spanish Economic Growth, 1850-2015]], Palgrave Macmillan, Londres, 2017.
+- Przeworski, Adam, «Capitalism, Democracy, and Science», en Passion, [[Craft, and Method in Comparative Politics]], editado por Gerardo L. Munck y Richard Snyder, Johns Hopkings University, Baltimore, MD, 2007.
+- Pryor, Frederic L., [[Economic Systems of Foraging, Agricultural, and Industrial Societies]], Cambridge University Press, Cambridge, 2005.
+- Queller, David C., y Joan E. Strassmann, «[[Beyond society the evolution of organismality]]», Philosophical Transactions of The Royal Society B: Biological Sciences, 364, 1533 (2009), pp. 3143-3155.
+- Radford, Richard A., «[[The Economic Organisation of a P.O.W. Camp]]», Economica, 12, 48 (1945), pp. 189-201.
+- Rajan, Raghuram, [[The Third Pillar How Markets and State Leave the Community Behind]], Penguin Books, Londres, 2019.
+- Rallo, Juan Ramón, [[Contra la teoría monetaria moderna]], Deusto, Barcelona, 2017.
+﻿﻿- Rallo, Juan Ramón, [[Una crítica a la teoría monetaria de Mises Un replanteamiento de la teoría del dinero y del crédito dentro de la Escuela Austriaca de Economía]], Unión Editorial, Madrid, 2019a.
+﻿﻿- Rallo, Juan Ramón, [[Liberalismo Los 10 principios básicos del orden político liberal]], Deusto, Barcelona, 2019b.
+﻿﻿- Rangel, Antonio, Colin Camerer y P. Read Montague, «[[A Framework for Studying the Neurobiology of Value-Based Decision Making]]», Nature Reviews Neuroscience, 9, 7 (2008), pp. 545-556.
+﻿﻿- Rapp, Nicolas, y Brian O'Keefe, «[[See the Age of Every Company in the Fortune 500]]», Fortune, 21 de mayo de 2018.
+- Rayo, Luis, y Gary S. Becker, «[[Evolutionary Efficiency and Happiness]]», Journal of Political Economy, 115, 2 (2007), pp. 302-337.
+- Reichenbach, Hans, [[Experience and Prediction An Analysis of the Foundations and the Structure of Knowledge]], The University of Chicago Press, Chicago, 1938.
+- Reisman, George, «Classical Economics vs. The Exploitation Theory», en [[The Political Economy of Freedom Essays in Honor of F. A. Hayek]], editado por Kurt R. Leube y Albert H. Zabinger, Philosophia Verlag, Múnich, 1985.
+- Reisman, George, [[Capitalism A Treatise on Economics]], Jameson Books, Ottawa, 1996. 
+- Reuten, Geert, «[[Accumulation of Capital and the Foundation of the Tendency of the Rate of Profit to Fall]]», Cambridge Journal of Economics, 15, 1 (1991), pp. 79-93.
+- Rieu, Dong-Min, «[[Has the Okishio Theorem been Refuted?]]», Metroeconomica, 60, 1 (2009), pp. 162-178.
+- Ritchie, Stuart, [[Science Fictions How Fraud, Bias, Negligence, and Hype Undermine the Search for Truth]], Metropolitan Books, Nueva York, 2020.
+- Robalino, Nikolaus, y Arthur Robson, «[[The Biological Foundations of Economic Preferences]]», Oxford Research Encyclopedia of Economics and Finance, 2019.
+- Robinson, Joan, [[The Economics of Imperfect Competition]], St. Martin's Press, Nueva York, [1933] 1969.
+- Robson, Arthur J., «[[The Evolution of Attitudes to Risk Lottery Tickets and Relative Wealth]]», Games and Economic Behavior, 14, 2 (1996), pp. 190-207.
+- Robson, Arthur J., y Balazs Szentes, «[[Evolution of Time Preference by Natural Selection Comment]]», American Economic Reviere, 98, 3 (2008), pp. 1178-88.
+- Roemer, John E., «[[Continuing Controversy on the Falling Rate of Profit Fixed Capital and Other Issues]]», Cambridge Journal of Economics, 3, 4 (1979), pp.379-398.
+﻿﻿- Roemer, John E., [[A General Theory of Exploitation and Class]], Harvard University Press, Cambridge, MA, 1982.
+﻿﻿- Roemer, John E., «[[Should Marxists be Interested in Exploitation]]», Philosophy and Public Affairs, 14, 1 (1985), pp. 30-65.
+- Rogers, Alan R., «[[Evolution of Time Preference by Natural Selection]]», The American Economic Reviere, 84, 3 (1994), pp. 460-481.
+- Romaniega Sancho, Álvaro, «[[Un nuevo formalismo matemático que contiene los fundamentos de la teoría subjetiva del valor mengeriana Conexión con las formulaciones neoclásicas de la teoría de preferencias y elección]]» [blog], 2020. Disponible en: <https:// alvaroromaniega.files.wordpress.com/2021/01/matematizacion tsv.pdf>.
+﻿﻿- Romaniega Sancho, Álvaro, «[[Análisis teórico de las demostraciones de la teoría marxista del valor trabajo. Critica a Karl Marx y Ernest Mandel]]» [blog], 2021. Disponible en: < https://alvaroromaniega.wordpress.com/2020/11/22/analisis-teorico-de-la-teoria-marxista-del-valor-critica-a-karl-marx-y-ernest-mandel/>.
+- Rosdolsky, Roman, [[The Making of Marx's «Capital»]], Pluto Press, Londres, [1968] 1977.
+- Rothbard, Murray, «Toward a Reconstruction of Utility and Welfare Economics», en [[The Logic of Action One Method, Money and the Austrian School, Edward Elgar Publishing]], Cheltenham, UK, [1956] 1977.
+﻿﻿- Rothbard, Murray, [[Man, Economy, and State with Power and Market]], Ludwig von Mises Institute, Auburn, AL, [1962] 2009.
+- Rubin, Isaak Illich, [[Essays on Marx's Theory of Value]], Black Rose Books, Chicago, [1923] 1990.
+﻿﻿- Rubin, Isaak Illich, [[«The Austrian School», en Responses to Marx's Capital From Rudolf Hilferding to Isaak Illich Rubin]], editado por Richard B. Day y Daniel F. Gaido, Brill, Leiden, [1926] 2018.
+- Ryle, Gilbert, «[[The Thinking of Thoughts What is 'Le Penseur' Doing?]]», Collected Papers, 2 vols., vol. 2, Hutchinson, Londres, [1968 1971.
+- Sadeghi, Akbar, «[[Business Employment Dynamics by Age and Size of Firms]]», Bureau of Labor Statistics, enero de 2022.
+- Salvadori, Neri, «[[Falling Rate of Profit with a Constant Real Wage. An Example]]», Cambridge Journal of Economics, 5, 1 (1981), pp. 59-66.
+- Samuelson, Paul, «[[A Note on the Pure Theory of Consumer's Behaviour]]», Economica, 5, 17 (1938), pp. 61-71.
+﻿﻿- Samuelson, Paul, «[[Wages and Interest A Modern Dissection of Marxian Economic Models]]», The American Economic Review, 47, 6 (1957), pp. 884-912.
+- Say, Jean Baptiste, [[A Treatise on Political Economy or the Production, Distribution and Consumption of Wealth]], Sentry Press, Tucson, AZ, [1803] 1971.
+﻿﻿- Say, Jean Baptiste, [[Cours Complet d'Economie Politique Practique, tomo III]], Chez Rapilly, París, 1828.
+- Schmidtz, David, «[[The institution of property]]», Social Philosophy and Policy, 11, 2 (1994), pp. 42-62.
+- Schulz, Armin W., «[[Tools of the Trade The Bio-Cultural Evolution of the Human Propensity to Trade]]», Biology & Philosophy, 37, 2 (2022), art. 8.
+- Schumpeter, Joseph A., [[Capitalism, Socialism and Democracy]], Routledge, Londres, [1942] 2003.
+- Screpanti, Ernesto, «[[Marx's Theory of Value, the "New Interpretation", and the "Empirical Law of Value" A Recap Note]]», Quaderni del DEPS, Working Paper n.° 708, 2015.
+- Selucky, Radoslav, [[Marxism, Socialism, Freedom Towards a General Democratic Theory of Labour-Managed Systems]], Palgrave Macmillan, Londres, 1979.
+- Sen, Amartya, «[[The Impossibility of a Paretian Liberal]]», Journal of Political Economy, 78, 1 (1970), pp. 152-157.
+- Shaikh, Anwar M., «[[Political Economy and Capitalism Notes on Dobb's Theory of Crisis]]», Cambridge Journal of Economics, 2, 2 (1978), pp. 233-251.
+- Shaikh, Anwar M., «The Empirical Strength of the Labour Theory of Value», en [[Marxian economics A reappraisal, Volumen 2]]», editado por Riccardo Bellofiore, Palgrave Macmillan, Londres, 1998.
+- Shaikh, Anwar M., [[Capitalism Competition, Conflict, Crises]], Oxford University Press, Oxford, 2016.
+- Shaikh, Anwar M., y Ertugrul Ahmet Tonak, [[Measuring the Wealth of Nations The Political Economy of National Accounts]], Cambridge University Press, Cambridge, 1994.
+- Shaw-Taylor, Leigh, «[[Parliamentary Enclosure and the Emergence of An English Agricultural Proletariat]]», The Journal of Economic History, 61, 3 (2001), pp. 640-662.
+- Shaw-Taylor, Leigh, Amy Erickson y Tony Wrigley, «[[The Occupational Structure of Britain 1379-1911]]», The Cambridge Group for the History of Population and Social Structure, Universidad de Cambridge, 2020. Disponible en: <https://www.campop.geog.cam.ac.uk/re-search/occupations/overview/>.
+- Shumaker, Robert W., Kristina R. Walkup y Benjamin B. Beck, [[Animal Tool Behavior The Use and Manufacture of Tools by Animals]], Johns Hopkins University Press, Baltimore, MD, 2011.
+- Simon, Julian L., [[The Ultimate Resource]], Princeton University Press, Princeton, 1981.
+- Singer, Peter, [[Marx A Very Short Introduction]], Oxford University Press, Oxford, [1980] 2008.
+- Sismondi, Jean-Charles-Léonard Simonde, [[New Principles of Political Economy Of Wealth in Its Relation to Population]], Transaction Publishers, Piscataway, NJ, [1819] 1991.
+- Skott, Peter, «[[Imperfect Competition and the Theory of the Falling Rate of Profit]]», Review of Radical Political Economics, 24, 1 (1992), pp. 101-113.
+- Smith, Adam, [[The Theory of Moral Sentiments]], Liberty Fund, Carmel, IN, [1753] 1982.
+- Smith, Adam, [[An Inquiry into the Nature and Causes of the Wealth of Nations, Volumen 1]], Liberty Fund, Carmel, IN, [1776] 1981.
+- Smith, Matthew et al., «[[Capitalists in the Twenty-First Century]]», The Quarterly Journal of Economics, 134, 4 (2019), pp. 1675-1745.
+- Smith, David V., Benjamin Y. Hayden, Trong-Kha Truong, Allen W. Song, Michael L. Platt y Scott A. Huettel, «[[Distinct Value Signals in Anterior and Posterior Ventromedial Prefrontal Cortex]]», Journal of Neuroscience, 30, 7 (2010), pp. 2490-2495.
+- Smith, Vernon L., «[[An Experimental Study of Competitive Market Behavior]]», Journal of Political Economy, 70, 2 (1962), pp. 111-137.
+- Smith, Vernon L., y Bart J. Wilson, [[Humanomics Moral Sentiments and the Wealth of Nations for the Tenty-First Century]], Cambridge University Press, Cambridge, 2019.
+- Sraffa, Piero, [[Production of Commodities by Means of Commodities]], Vora & Co. Publishers, Bombay, [1960] 1963.
+- Steedman, lan, [[Marx after Sraffa]], New Left Books, Londres, 1977.
+- Steedman, Ian, y Judith Tomkins, «[[On Measuring the Deviation of Prices from Values]]», Cambridge Journal of Economics, 22, 3 (1998), pp. 379-385.
+- Storr, Virgil Henry, «The Facts of the Social Sciences are What People Believe and Think», en [[Handbook on Contemporary Austrian Economics]], editado por Peter J. Boettke, Edward Elgar Publishing, Cheltenham, UK, 2010.
+- Strevens, Michael, «[[The Bayesian Approach to the Philosophy of Science]]», en Encyclopedia of Philosophy, editado por Donald M. Borchert, Macmillan, Nueva York, 2006.
+- Sydow, Jörg, Georg Schreyögg y Jochen Koch, «[[Organizational Path Dependence Opening the Black Box]]», Academy of Management Revier, 34, 4 (2009), pp. 689-709.
+- Sweezy, Paul, [[Four Lectures on Marxism]], Monthly Review Press, Nueva York, 1981.
+- Tabarrok, Alex, «[[The Private Provision of Public Goods via Dominant Assurance Contracts]]», Public Choice, 96, 3-4 (1998), pp.345-362.
+- Tainter, Joseph A., [[The Collapse of Complex Societies]], Cambridge University Press, Cambridge, 1988.
+- Tanner, Joseph Robson y Frank Stanton Carey. «[[Comments on the Use of the Blue Books Made by Karl Marx in Chapter 15 of Le Capital]]», Cambridge Economic Club, 1885.
+- Tasoff, Joshua, Michael T. Mee y Harris H. Wang, «[[An Economic Framework of Microbial Tradev]]», PloS ONE, 10, 7(2015), e0132907.
+- Taymans, Adrien C., «[[Marx's Theory of the Entrepreneur]]», The American Journal of Economics and Sociology, 11, 1 (1951), pp. 75-90.
+- Thirsk, Joan, «[[The common fields]]», Past & Present, 29 (1964), pp.3-25.
+- Tise, Larry E., [[Proslavery A History of the Defense of Slavery in America]], 1701-1840, University of Georgia Press, Athens, GA, 1990.
+- Trigg, Andrew B., «[[Using Micro Data to Test the Divergence between Prices and Labour Values]]», International Review of Applied Economies, 16, 2 (2002), pp. 169-186.
+- Trotsky, Leon, [[The Revolution Betrayed What Is the Soviet Union and Where Is It Going?]], Pathfinder Press, Nueva York, [1937] 1972.
+- Tugán-Baranovski, Mijail, [[Las crisis industriales en Inglaterra]], La España Moderna, Madrid, [1901] 1912.
+- Vandenbroucke, Guillaume, «[[Trends in Hours The US from 1900 to 1950]]», Journal of Economic Dynamics and Control, 33, 1 (2009), pp. 237-249.
+- Vaona, Andrea, «[[A Panel Data Approach to Price-value Correlations]]», Empirical Economics, 47, 1 (2014), pp. 21-34.
+- Vaona, Andrea, «[[Price-price Deviations are Highly Persistent]]», Structural Change and Economic Dynamics, 33 (2015), pp. 86-95.
+- Varian, Hal R., [[Intermediate Microeconomics A Modern Approach]], W. W. Norton & Company, Nueva York, [1987] 2014.
+- Venkataraman, Vivek V., Jeffrey T. Kerby, Nga Nguyen, Zelealem Tefera Ashenafi y Peter J. Fashing, «[[Solitary Ethiopian Wolves Increase Predation Success on Rodents when among Grazing Gelada Monkey Herds]]», Journal of Mammalogy, 96, 1 (2015), pp. 129-137.
+- Vermeij, Geerat J., y Egbert G. Leigh Jr., «[[Natural and Human Economies Compared]]», Ecosphere, 2, 4 (2011), pp. 1-16.
+- Vorländer, Karl, [[Marx und Kant]], Deutschen Worte, Viena, 1904.
+- Vonyó, Tamás, «[[War and Socialism Why Eastern Europe Fell Behind Between 1950 and 1989]]», The Economic History Reviero, 70, 1 (2017), pp. 248-274.
+- Walicki, Andrzej, [[Marxism and the Leap to the Kingdom of Freedom The Rise and Fall of the Communist Utopia]], Stanford University Press, Redwood City, CA, 1995.
+- Weber, J. Mark, Shirli Kopelman y David M. Messick, «[[A Conceptual Review of Decision Making in Social Dilemmas Applying a Logic of Appropriateness]]», Personality and Social Psychology Revier, 8, 3 (2004), pp. 281-307.
+- Weiss, Yoram, y Chaim Fershtman, «[[Social Status and Economic Performance: A Survey]]», European Economic Review, 42, 3-5 (1998), Pp.801-820.
+- Werner, Gijsbert D. A., Joan E. Strassmann, Aniek B. F. Ivens, Daniel J. P. Engelmoer, Erik Verbruggen, David C. Queller, Ronald Noë, Nancy Collins Johnson, Peter Hammerstein y E. Toby Kiers, «[[Evolution of Microbial Markets]]», Proceedings of the National Academy of Sciences, 111, 4 (2014), pp. 1237-1244.
+- West, Stuart A., Roberta M. Fisher, Andy Gardner y E. Toby Kiers, «[[Major Evolutionary Transitions in Individuality]]», Proceedings of the National Academy of Sciences, 112, 33 (2015), pp. 10112-10119.
+- Whittle, Jane, [[Landlords and Tenants in Britain, 1440-1660: Tareney's "Agrarian Problem" Revisited]], Boydell Press, Woodbridge, UK, 2013.
+﻿﻿- Whittle, Jane, «Land and People», en [[A Social History of England, 1500-1750]], editado por Keith Wrightson, Cambridge University Press, Cambridge, 2017.
+- Wicksell, Knut, «A New Principle of Just Taxation», en [[Classics in the Theory of Public Finance]], editado por James Buchanan, Palgrave Macmillan, Londres, [1896] 1958.
+﻿﻿- Wicksell, Knut, [[Interest and Prices]], Sentry Press, Tucson, AZ, [1898] 1936.
+- Wicksteed, Philip H., [[An Essay on the Coordination of the Laws of Distribution]], Macmillan, Londres, [1894] 1932.
+- Wicksteed, Philip H., «[[The Scope and Method of Political Economy in the Light of the "Marginal" Theory of Value and of Distribution]]», The Economic Journal, 24, 93 (1914), pp. 1-23.
+- Wieser, Friedrich, [[Natural Value]], Macmillan and Co., Londres, [1889] 1893.
+- Wolfe, Bertram, [[Marxism One Hundred Years in the Life of a Doctrine]], Avalon Publishing, Nueva York, 1965.
+- Woods, John E., «[[Technical Change, the Rate of Profit and Joint Production]]», Economics Letters, 15, 1-2 (1984), pp. 153-156.
+- Wordie, J. Ross, «[[The Chronology of English Enclosure, 1500-1914]]», Economic History Review, 36, 4 (1983), pp. 483-505.
+- Wright, Erik Olin, [[Clases]], Siglo XXI, Madrid, [1985] 2015.
+- Wright, Gavin, «[[Slavery and Anglo-American Capitalism Revisited]]», The Economic History Reviere, 73, 2 (2020), pp. 353-383.
+- White, Lawrence H., «Free Banking in Scotland before 1844», en [[The Experience of Free Banking]], editado por Kevin Dowd, Routledge, Londres, 1992.
+- Young, Andrew T., «Austrian Business Cycle Theory: A Modern Appraisal», en [[The Oxford Handbook of Austrian Economics]], editado por Peter J. Boettke y Christopher J. Coyne, Oxford University Press, Oxford, 2015.
+- Zahavi, Amotz, y Avishag Zahavi, [[The Handicap Principle A Missing Piece of Darwin's Puzzle]], Oxford University Press, Oxford, 1999.
+- Zemin, Jiang, [[Jiang Zemin's report at 16th Party Congress (17/11/2002)]], Ministerio de Asuntos Exteriores de China, Pekín.
+- Zerbe, James G., «Status Competition», [[Encyclopedia of Evolutionary Psychological Science]], Springer International Publishing, Nueva York, 2021.
+- Zhang, Ruixun, Thomas J. Brennan y Andrew W. Lo, «[[The Origin of Risk Aversion]]», Proceedings of the National Academy of Sciences, 111, 50 (2014), pp.17777-17782.
