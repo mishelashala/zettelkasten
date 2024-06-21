@@ -1,0 +1,71 @@
+Bibliography
+
+- Jung, Carl. [[Memories, Dreams, Reflections]]. Trans. Richard Winston. New York: Pantheon, 1963.
+- Currey, Mason. [[Daily Rituals How Artists Work]]. New York: Knopf, 2013.
+- Cowgill, Charles. "[[Carl Jung]]" May 1997. http://www.muskingum.edu/-psych/psycweb/history/jung.htm
+- Anders Ericsson from Florida State University http://www.psy.fsu.edu/faculty/ericsson/ericsson.exp.perf.html.
+- Bakewell, Sarah. [[How to Live Or A Life of Montaigne in One Question and Twenty Attempts at an Answer]]. New York: Other Press, 2010.
+﻿﻿- Robert Weide's, [[Woody Allen A Documentary]], 2011 documentary
+- Sample, Ian. “[[Peter Higgs Proves as Elusive as Higgs Boson after Nobel Success]].” Guardian, October 9, 2013. http://www.theguardian.com/science/2013/oct/08/nobel-laureate-peter-higgs-boson-elusive.
+- Guth, Robert. “[[In Secret Hideaway, Bill Gates Ponders Microsoft’s Future]].” Wall Street Journal, March 28, 2005. http://online.wsj.com/news/articles/SB111196625830690477.
+- Stephenson, Neal. “[[Bad Correspondent]]” Neal Stephenson’s Website (archived), December 2003. http://web.archive.org/web/20031207060405/http://www.well.com/~neal/badcorrespondent.html.
+- Chui, Michael, et al. “[[The Social Economy Unlocking Value and Productivity Through Social Technologies]]” McKinsey Global Institute, July 2012. http://www.mckinsey.com/insights/high_tech_telecoms_internet/the_social_economy.
+- Carr, Nicholas. “[[Is Google Making Us Stupid?]]” The Atlantic Monthly, July-August 2008. http://www.theatlantic.com/magazine/archive/2008/07/is-google-making-us-stupid/306868/.
+- Barker, Eric. “[[Stay Focused 5 Ways to Increase Your Attention Span]].” Barking Up the Wrong Tree, September 18, 2013. http://www.bakadesuyo.com/2013/09/stay-focused/.
+- Tracy, Marc. “[[Nate Silver Is a One-Man Traffic Machine for the Times]].” New Republic, November 6, 2012. http://www.newrepublic.com/article/109714/nate-silvers-fivethirtyeight-blog-drawing-massive-traffic-new-york-times.
+- Allen, Mike. “[[How ESPN and ABC Landed Nate Silver]].” Politico, July 22, 2013. http://www.politico.com/blogs/media/2013/07/how-espn-and-abc-landed-nate-silver-168888.html.
+- Davis, Sean M. “[[Is Nate Silver’s Value at Risk?]]” Daily Caller, November 1, 2012. http://dailycaller.com/2012/11/01/is-nate-silvers-value-at-risk/.
+- Marcus, Gary, and Ernest Davis. “[[What Nate Silver Gets Wrong]]” The New Yorker, January 25, 2013. http://www.newyorker.com/online/blogs/books/2013/01/what-nate-silver-gets-wrong.html.
+- Lindberg, Oliver. “[[The Secrets Behind 37signals’ Success]].” TechRadar, September 6, 2010. http://www.techradar.com/us/news/internet/the-secrets-behind-37signals-success-712499.
+- Brynjolfsson, Erik, and Andrew McAfee. [[Race Against the Machine How the Digital Revolution Is Accelerating Innovation, Driving Productivity, and Irreversibly Transforming Employment and the Economy]]. Cambridge, MA: Digital Frontier Press, 2011.
+- Cowen, Tyler. [[Average Is Over]]. New York: Penguin, 2013.
+- Rosen, Sherwin. “[[The Economics of Superstars]].” The American Economic Review 71.5 (December 1981): 845-858.
+- Rosen, Sherwin. “[[Hearing a succession of mediocre singers does not add up to a single outstanding performance]]”, The American Economic Review 71.5 (December 1981): 846.
+- Hickey, Walter. “[[How to Become Nate Silver in 9 Simple Steps]].” Business Insider, November 14, 2012. http://www.businessinsider.com/how-nate-silver-and-fivethityeight-works-2012-11.
+- Silver, Nate. “[[IAmA Blogger for FiveThirtyEight at The New York Times. Ask Me Anything]].” Reddit. http://www.reddit.com/s/IAmA/comments/166yeo/iama_blogger_for_fivethirtyeight_at_the_new_york.
+- “[[Why Use Stata]].” www.stata.com/why-use-stata/.
+- Sertillanges, Antonin-Dalmace. [[The Intellectual Life Its Spirits, Conditions, Methods]]. Trans. Mary Ryan. Cork, Ireland: Mercier Press, 1948.
+- Ericsson, K.A., R.T. Krampe, and C. Tesch-Römer. “[[The Role of Deliberate Practice in the Acquisition of Expert Performance]].” Psychological Review 100.3 (1993): 363-406.
+- Sertillanges, Antonin-Dalmace. [[The Intellectual Life Its Spirits, Conditions, Methods]]. Trans. Mary Ryan. Cork, Ireland: Mercier Press, 1948.
+- Ericsson, K.A., R.T. Krampe, and C. Tesch-Römer. “[[The Role of Deliberate Practice in the Acquisition of Expert Performance]].” Psychological Review 100.3 (1993): 363-406.
+- Coyle, Daniel. [[The Talent Code]]. Bantam, 2009.
+- Coyle, Daniel. “[[Want to Be a Superstar Athlete? Build More Myelin]].” The Talent Code. www.thetalentcode.com/myelin.
+- Colvin, Geoffrey. [[Talent Is Overrated What Really Separates World-Class Performers from Everybody Else]]. New York: Portfolio, 2008.
+- Coyle, Daniel. The [[Talent Code Greatness Isn’t Born. It’s Grown]]. Here’s How. New York: Bantam, 2009.
+- Grant, Adam. [[Give and Take Why Helping Others Drives Our Success]]. New York: Viking Adult, 2013.
+- Dominus, Susan. “[[The Saintly Way to Succeed]].” New York Times Magazine, March 31, 2013: MM20.
+- Newport, Cal. [[How to Become a Straight-A Student The Unconventional Strategies Used by Real College Students to Score High While Studying Less]]. New York: Three Rivers Press, 2006.
+- Leroy, Sophie. “[[Why Is It So Hard to Do My Work? The Challenge of Attention Residue When Switching Between Work Tasks]].” Organizational Behavior and Human Decision Processes 109 (2009): 168-181.
+- Savitz, Eric. “[[Jack Dorsey Leadership Secrets of Twitter and Square]].” Forbes, October 17, 2012. http://www.forbes.com/sites/ericsavitz/2012/10/17/jack-dorsey-the-leadership-secrets-of-twitter-and-square/3/.
+- Hoare, Rose. “[[Do Open Plan Offices Lead to Better Work or Closed Minds?]]” CNN, October 4, 2012. http://edition.cnn.com/2012/10/04/business/global-office-open-plan/.
+- Strom, David. “[[I.M. Generation Is Changing the Way Business Talks]].” New York Times, April 5, 2006. http://www.nytimes.com/2006/04/05/technology/techspecial4/05message.html.
+- Tsotsis, Alexia. “[[Hall.com Raises $580K from Founder’s Collective and Others to Transform Realtime Collaboration]].” TechCrunch, October 16, 2011. http://techcrunch.com/2011/10/16/hall-com-raises-580k-from-founders-collective-and-others-to-transform-realtime-collaboration/.
+- Franzen, Jonathan. “[[What’s Wrong with the Modern World]].” Guardian, September 13, 2013. (Removed for legal issues).
+- Waldman, Katy. “[[Jonathan Franzen’s Lonely War on the Internet Continues]].” Slate, October 4, 2013. http://www.slate.com/blogs/future_tense/2013/10/04/jonathan_franzen_says_twitter_is_a_coercive_development_is_grumpy_and_out.html.
+- Weiner, Jennifer. “[[What Jonathan Franzen Misunderstands About Me]].” New Republic, September 18, 2013. http://www.newrepublic.com/article/114762/jennifer-weiner-responds-jonathan-franzen.
+- Treasure, Julian. “[[Sound News More Damaging Evidence on Open Plan Offices]].” Sound Agency, November 16, 2011. http://www.thesoundagency.com/2011/sound-news/more-damaging-evidence-on-open-plan-offices/.
+- Mark, Gloria, Victor M. Gonzalez, and Justin Harris. “[[No Task Left Behind? Examining the Nature of Fragmented Work]].” Proceedings of the SIGCHI Conference on Human Factors in Computing Systems. New York: ACM, 2005.
+- Packer, George. “[[Stop the World]].” The New Yorker, January 29, 2010. http://www.newyorker.com/online/blogs/georgepacker/2010/01/stop-the-world.html.
+- Cochran, Tom. “[[Email Is Not Free]].” Harvard Business Review, April 8, 2013. http://blogs.hbr.org/2013/04/email-is-not-free/.
+- Piketty, Thomas. [[Capital in the Twenty-First Century]]. Cambridge, MA: Belknap Press, 2014.
+- Manzi, Jim. “[[Piketty’s Can Opener]].” National Review, July 7, 2014. http://www.nationalreview.com/corner/382084/pikettys-can-opener-jim-manzi.
+- Perlow, Leslie A., and Jessica L. Porter. “[[Making Time Off Predictable-and Required]].” Harvard Business Review, October 2009. https://hbr.org/2009/10/making-time-off-predictable-and-required.
+- Allen, David. [[Getting Things Done]]. New York: Viking, 2001.
+- Crawford, Matthew. [[Shop Class as Soulcraft]]. New York: Penguin, 2009.
+- Mann, Merlin. “[[Podcast Interview with GTD’s David Allen on Procrastination]].” 43 Folders, August 19, 2007. http://www.43folders.com/2006/10/10/productive-talk-procrastination.
+- Schuller, Wayne. “[[The Power of Cranking Widgets]].” Wayne Schuller’s Blog, April 9, 2008. http://schuller.id.au/2008/04/09/the-power-of-cranking-widgets-gtd-times/.
+- Babauta, Leo. “[[Cranking Widgets Turn Your Work into Stress-free Productivity]].” Zen Habits, March 6, 2007. http://zenhabits.net/cranking-widgets-turn-your-work-into/.
+- Carlson, Nicholas. “[[How Marissa Mayer Figured Out Work-At-Home Yahoos Were Slacking Off]].” Business Insider, March 2, 2013. http://www.businessinsider.com/how-marissa-mayer-figured-out-work-at-home-yahoos-were-slacking-off-2013-3.
+- Rubin, Alissa J., and Maïa de la Baume. “[[Claims of French Complicity in Rwanda’s Genocide Rekindle Mutual Resentment]].” New York Times, April 8, 2014. http://www.nytimes.com/2014/04/09/world/africa/claims-of-french-complicity-in-rwandas-genocide-rekindle-mutual-resentment.html?ref=alissajohannsenrubin.
+- Postman, Neil. [[Technopoly The Surrender of Culture to Technology]]. New York: Vintage Books, 1993.
+- Morozov, Evgeny. [[To Save Everything, Click Here]]. New York: Public Affairs, 2013.
+- “[[Secrets of the Viking Swords]].” NOVA, PBS, September 25, 2013. http://www.pbs.org/wgbh/nova/ancient/secrets-viking-sword.html.
+- Crawford, Matthew. [[Shop Class as Soulcraft]]. New York: Penguin, 2009.
+- Gallagher, Winifred. [[Rapt Attention and the Focused Life]]. New York: Penguin, 2009.
+- Frederickson, Barbara. [[Positivity Groundbreaking Research Reveals How to Embrace the Hidden Strength of Positive Emotions]], Overcome Negativity, and Thrive. New York: Crown Archetype, 2009.
+- Carstensen, Laura L., and Joseph A. Mikels. “[[At the Intersection of Emotion and Cognition Aging and the Positivity Effect]].” Current Directions in Psychological Science 14.3 (2005): 117-121.
+- Csikszentmihalyi, Mihaly. [[Flow The Psychology of Optimal Experience]]. New York: Harper & Row Publishers, 1990.
+- Larson, Reed, and Mihaly Csikszentmihalyi. “[[The Experience Sampling Method]].” New Directions for Methodology of Social & Behavioral Science 15 (1983): 41-56.
+- Dreyfus, Hubert, and Sean Dorrance Kelly. [[All Things Shining Reading the Western Classics to Find Meaning in a Secular Age]]. New York: Free Press, 2011.
+- Hunt, Andrew, and David Thomas. [[The Pragmatic Programmer From Journeyman to Master]]. New York: Addison-Wesley Professional, 1999.
+- Hofmann, W., R. Baumeister, G. Förster, and K. Vohs. “[[Everyday Temptations An Experience Sampling Study of Desire, Conflict, and Self-Control]].” Journal of Personality and Social Psychology 102.6 (2012): 1318-1335.

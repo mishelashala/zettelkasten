@@ -291,3 +291,57 @@ La crítica es esa modalidad de pensar por la que los valores llegan al mundo y,
 «La duda nos despierta una sensación de inconformidad hacía las soluciones que encontramos, introduce la sospecha de que somos incapaces de alcanzar cualquier respuesta valedera y nos arroja al pensar puro, al ejercicio, en ocasiones angustiante, de dar vueltas y más vueltas alrededor de un asunto.»
 
 Óscar de la Borbolla, La Rebeldía de pensar, p34
+
+# Pensar es dudar
+
+«Quien se despreocupa se quita de dudas, igual que quien cree haber encontrado la verdad»
+
+Óscar de la Borbolla, La Rebeldía de pensar, p35
+
+# La duda nos ocupa y pre-ocupa
+
+«la duda es ese abismo por el que se escapa la certeza que nos mantenía ocupados y es también ese vacío que, más que ocuparnos, nos _pre-ocupa_.»
+
+Óscar de la Borbolla, La Rebeldía de pensar, p36
+
+# La pregunta sin solución
+
+«"¿Por qué soy?" es la pregunta de la auténtica _pre-ocupación_, pues se trata de una duda insoluble.»
+
+Óscar de la Borbolla, La Rebeldía de pensar, p37
+
+# La duda y la inconformidad del estar
+
+«dejamos de conformarnos con el solo hecho de estar; el estar deja de parecernos obvio: pierde la pátina que nos lo mostraba familiar, y nuestro beneplácito pierde también su pertinencia.»
+
+Óscar de la Borbolla, La Rebeldía de pensar, p37
+
+# Por qué hay que ser
+
+«"hay que ser porque no puede haber más que ser, porque la alternativa, la nada, es imposible."»
+
+Óscar de la Borbolla, La Rebeldía de pensar, p39
+
+# De donde nacen las preguntas
+
+«Ninguna pregunta puede ser comprendida cabalmente si se formula de manera retórica, como un mero ejercicio intelectual. Las preguntas nacen de la ignorancia reconocida y de la duda sentida»
+
+Óscar de la Borbolla, La Rebeldía de pensar, p40
+
+# Las preguntas son la verbalización de la duda
+
+«Esto ocurre porque las más hondas preguntas no son sino la manifestación verbalizada de la duda auténtica; son, antes que nada, la expresión del vivísimo deseo de salir de dudas.»
+
+Óscar de la Borbolla, La Rebeldía de pensar, p40
+
+# La importancia de la admisión de la ignorancia
+
+«el primer paso de Sócrates consistía en conducir a sus interlocutores al reconocimiento de su ignorancia: sin esta condición la búsqueda no puede siquiera comenzar.»
+
+Óscar de la Borbolla, La Rebeldía de pensar, p40-41
+
+# 
+
+«El hambre, el frío, la sed se nos imponen con su urgencia avasallante y nos hacen creer que la supervivencia es _el_ sentido, que la correlación entre las necesidades y los satisfactores forman una tupida red donde cada cosa tiene un sentido de por sí [...] sólo somos capaces de ir más allá, del sentido que impone la subsistencia, cuando, de alguna manera, logramos superar las necesidades.»
+
+Óscar de la Borbolla, La Rebeldía de pensar, p41
