@@ -1,4 +1,4 @@
-Bibliografia:
+Bibliography:
 
 - David Briggs (Associated Press), "[[Baby Theresa Case Raises Ethics Questions]]", The Champaign-Urbana News-Gazette, 31 de marzo de 1992, p. A-6.
 - [[Heródoto, Historias]], trad. Demetrio Frangos (UNAM, México, 1982), libro iII, 38, p. 200.

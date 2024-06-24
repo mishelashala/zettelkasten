@@ -1,0 +1,23 @@
+Bibliography
+
+- F. M. Cornford, [[Before and after Socrates]], Cambridge, 1932.
+- A. H. Armstrong, [[Introduction to ancient philosophy]], Methuen, 1947.
+- L. Robin, [[Greek thought]], Kegan Paul, 1928.
+- C. Bailey, [[The greek atomists and Epicurus]], Oxford, 1928.
+- Conford, "Mystery-religions and presocratic phi-losophy" en [[Cambridge ancient history, Volumen IV]]
+- Bury, "The age of illumination" en [[Cambridge ancient history, Volumen V]].
+- Comford, "The athenian philosophical schools" en [[Cambridge ancient history, Volumen I]]
+- Barker, "Greek political thought in the 4th century" en [[Cambridge ancient history, Volumen VI]].
+- Angus, "Athens (stoics and epicureans)", [[Cambridge ancient history, Volumen VII]]
+- Jones, "Hellenistic science and mathematics" [[Cambridge ancient history, Volumen VII]]
+- J. Burnet, [[Early greek philosophy]], 4ª ed., Black, 1930
+- W. Jaeger, [[La teología de los primeros filósofos griegos]], tr. de José Gaos, FCE, México, 1952.
+- G. M. A. Grube, [[Plato's thought]], Methuen, 1935.
+- R. L. Nettleship, [[Lectures on the Republic of Plato]], Macmillan, 1898.
+- G. C. Field, [[Plato and his contemporaries]], 2ª ed., Methuen, 1948.
+- G. C. Field, [[The philosophy of Plato]], Home University Library, 1949.
+- W. D. Ross, [[Aristotle, 4ª ed]]., Methuen, 1945.
+- J. L. Stocks, [[Aristotelianism]], Harrap, s. a.
+- E. Bevan, [[Stoics and sceptics]], Oxford, 1913.
+- R. D. Hicks, [[Stoic and epicurean]], Cambridge, 1910.
+- A. E. Taylor, [[Epicurus, Philosophies, Ancient and Modern]], Constable, 1911.

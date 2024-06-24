@@ -1,0 +1,23 @@
+Bibliography
+
+- [[Cicero. Epístolas]] (Fam. 13.1).
+- Diogenes Laercio. [[Vida de Epicuro]].
+- Ellis, Albert, y Robert Harper. [[A Guide to Rational Living]]. Chatsworth, California: Wilshire, 1997, p. 5.
+- Ellis, Albert. “Epicureísmo, estoicismo y budismo.” En Windy Dryden (ed.), [[Rational Emotive Behaviour Therapy A Reader]]. Londres: Sage, 1995, Pp. 1-2.
+- Epicuro. “Carta a Meneceo.” En [[Diógenes Laercio]], 10.135.
+- Epicuro. “[[Máxima capital]]”
+- Epicuro. “[[Sentencia vaticana]]” 68.
+- Epicuro. [[Carta a Pitocles]]. Ep. Pyth., 116.
+- Filodemo. [[Sobre la muerte]]. 38.18-19.
+- Goethe. [[Characteristics of Goethe]]. Londres, 1833, vol. 1, p. 99.
+- [[Horacio. Epístolas]] (Ep. 1.4).
+- [[Horacio, Sátiras]], 2.2.19-20.
+- [[Horacio, Odas]], 1.11.
+- Jones, H. [[The Epicurean Tradition]]. Londres: Routledge, 1989.
+- Lucrecio. [[De rerum natura]] 3.867-868.
+- Marx, Kar. “Tesis doctoral.” En [[Karl Marx y Friedrich Engels, Collected Works]], Londres: Lawrence & Wishart, 1975, p. 30.
+- Plinio el Viejo. [[Historia natural]], 35.2.5.
+- Porfirio. [[Carta a Marcela]], p31.
+- Smith, M. F. [[Diogenes of Oinoanda The Epicurean Inscription]]. Nápoles: Bibliopolis, 1993, fr. 3.
+- Virgilio, [[Geórgicas]], 2.490-492.
+- Wilson, C. [[Epicureanism at the Origins of Modernity]]. Oxford: Clarendon Press, 2008.
