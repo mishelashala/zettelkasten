@@ -1,0 +1,61 @@
+Bibliography
+
+- Abelson, H., Sussman, G. J. and Sussman, J. 1985. [[Structure and Interpretation of Computer Programs]], Cambridge, MA: MIT Press
+- Backhouse, R. C. 1986. [[Program Construction and Verification]], Englewood Cliffs, NJ: Prentice-Hall
+- Backus, J. W. August 1978. '[[Can programming be liberated from the von Neumann style? A functional style and its algebra of programs]]' Communications of the ACM, 21(8), 613-41
+- Bailey, R. 1987. An introduction to Hope. [[In Functional Programming Languages, Tools and Architectures]] (Eisenbach, S., ed.), Chichester: Ellis Horwood
+- Barendregt, H. P. 1981. [[The Lambda Calculus Its Syntax and Semantics]], Amsterdam: North-Holland
+- Bird, R. and Wader, P. 1988. [[Introduction to Functional Programming]], New York: Prentice-Hall
+- Bornat, R. 1987. [[Programming from First Principles]], Englewood Cliffs, NJ: Prentice-Hall
+- Boutel, B. 1987. Combinators as machine code for implementing functional languages. In [[Functional Programming Languages, Tools and Architectures]] (Eisenbach, S., ed.), Chichester: Ellis Horwood
+- Brady, J. M. 1977. The [[Theory of Computer Science]], London: Chapman and Hall Burge, W. H. 1975. Recursive Programming Techniques, Reading, MA: Addison-Wesley
+- Burstall, R. M., Collins, J. S. and Popplestone, R. J. 1977. [[Programming in POP-2]], Edinburgh: Edinburgh University Press
+- Cardelli, L. 1983. '[[The functional abstract machine]]' Polymorphism, 1(1)
+- Carrick, R., Cole, J. and Morrison, R. 1986. [[An Introduction to PS-Algol Programming]], PPRR 31, Department of Computational Science, University of St Andrews, Scotland
+- Church, A. 1941. [[The Calculi of Lambda Conversion]], Princeton, NJ: Princeton University Press
+- Clocksin, W. F. and Mellish, C. S. 1981. [[Programming in Prolog]], Berlin: Springer-Verlag
+- Cohen, B., Harwood, W. T. and Jackson, M. I. 1986. [[The Specification of Complex Systems]], Wokingham: Addison-Wesley
+- Cope, T. 1981. [[Computing using BASIC an interactive approach]], Chichester: Ellis Horwood
+- Cripps, M., Field, T. and Reeve, M. 1987. An introduction to ALICE: a multiprocessor graph reduction machine. In [[Functional Programming Languages, Tools and Architectures]] (Eisenbach, S., ed.), Chichester: Ellis Horwood
+- Dybvig, R. K. 1987. [[The SCHEME Programming Languages]], Englewood Cliffs, NJ: Prentice-Hall
+- Field, A. J. and Harrison, P. G. 1988. [[Functional Programming]], Wokingham: Addison-Wesley
+- Findlay, W. and Watt, D. A. 1981. [[Pascal An Introduction to Methodical Programming]], London: Pitman
+- Gehani, N. and McGettrick, A. D. 1986. [[Software Specification Techniques]], Wokingham: Addison-Wesley
+- Glaser, H., Hankin, C. and Till, D. 1984. [[Principles of Functional Programming]], Englewood Cliffs, NJ: Prentice-Hall
+- Gordon, M. J. C. 1979. [[The Denotational Description of Programming Languages An Introduction]], New York: Springer-Verlag
+- Gries, D. 1981. [[The Science of Programming]], New York: Springer-Verlag
+- Hankin, C., Till, D. and Glaser, H. 1987. Applicative languages and data flow. In [[Functional Programming Languages, Tools and Architectures]] (Eisenbach, S., ed.), Chichester: Ellis Horwood
+- Harper, R., MacQueen, D. and Milner, R. March 1986. [[Standard ML]], ECS-LFCS. 86-2, LFCS, Department of Computer Science, University of Edinburgh, Scotland
+- Harper, R., Milner, R. and Tofte, M. August 1987. [[The Semantics of Standard ML]], Version 1, ECS-LFCS-87-36, LFCS, Department of Computer Science, University of Edinburgh, Scotland
+- Harrison, P. and Khoshnevisan, H. 1987. A functional algebra and its application to program transformation. In [[Functional Programming Languages, Tools and Architectures]] (Eisenbach, S., ed.), Chichester: Ellis Horwood
+- Harrison, P. and Khoshnevisan, H. 1987. An introduction to FP and the FP style of programming. In [[Functional Programming Languages, Tools and Architectures]] (Eisenbach, S., ed.), Chichester: Ellis Horwood
+- Hayes, I. 1987. Specification Case Studies, Englewood Cliffs, NJ: Prentice-Hall Henderson, P. 1980. [[Functional Programming Application and Implementation]], Englewood Cliffs, NJ: Prentice-Hall
+- Henson, M. C. 1987. [[Elements of Functional Languages]], Oxford: Blackwell
+- Hindley, J. R. and Seldin, J. P. 1987. [[Introduction to Combinators and λ Calculus]], Cambridge: Cambridge University Press
+- Jones, C. B. 1986. [[Systematic Software Development Using VDM]], Englewood Cliffs, NJ: Prentice-Hall
+- Kernighan, B. W. and Ritchie, D. M. 1978. [[The C Programming Language]], Englewood Cliffs, NJ: Prentice-Hall
+- Kleene, S. C. 1952. [[Introduction to Metamathematics]], Amsterdam: North-Holland
+- Manna, Z. 1974. [[Mathematical Theory of Computation]], New York: McGraw-Hall
+- Mendelson, E. 1964. [[Introduction to Mathematical Logic]], New York: Van Nostrand Reinhold
+- Minsky, M. 1972. [[Computation Finite and Infinite Machines]], London: Prentice-Hall
+- Naur, P. et al. 1963. '[[Revised Report on the Algorithmic Language ALGOL 60]]' Communications of the ACM, 6(1)
+- Pagan, F. G. 1976. [[A Practical Guide to Algol 68]], London: Wiley
+- Peter, R. 1967. [[Recursive Functions]], New York: Academic Press
+- Peyton-Jones, S. L. 1987. [[The Implementation of Functional Programming Languages]], Englewood Cliffs, NJ: Prentice-Hall
+- Queinnec, C. 1983. [[LISP]], London: Macmillan
+- Rayward Smith,. J.59, L A din: [[Courslan Compulabilty]], Oxford: Blackell
+- Revesz, G. 1988. [[Lambda-Calculus, Combinators and Functional Programming]], Cambridge: Cambridge University Press
+- Richards, M. and Whitby-Stevens, C. 1982. [[BCPL - The Language and is Compiler]], Cambridge: Cambridge University Press
+- Sadler, C. and Eisenbach, S. 1987. Why Functional Programming? In [[Functional Programming Languages, Tools and Architectures]] (Eisenbach, S., ed.), Chichester: Ellis Horwood
+- Schmidt, D. A. 1986. [[Denotational Semantics A Methodology for Language Development]], Boston: Allyn and Bacon
+- Shapiro, S. C. 1986. [[LISP An Interactive Approach]], Rockville, MD: Computer Science Press
+- Steele Jr, G. L. 1984. [[Common LISP The Language]], Digital
+- Stoy, J. E. 1977. [[Denotational Semantics The Scott-Strachey Approach to Programming Language Theory]], Cambridge, MA: MIT Press
+- Strachey, C. 1967. [[Fundamental concepts in programming languages]]. In Notes for the International Summer School in Computer Programming, Copenhagen
+- Turner, D. 1987. [[An introduction to Miranda. In The Implementation of Functional Programming Languages]] (Peyton-Jones, S. L.), Englewood Cliffs, NJ: Prentice-Hall
+- Turner, D. December 1976. [[SASL Language Manual]], St Andrews, Scotland: Department of Computational Science, University of St Andrews
+- Turski, W. M. and Maibaum, T. S. E. 1987. [[The Specification of Computer Programs]], Wokingham: Addison-Wesley
+- Wegner, P. 1971. Programming Languages, [[Information Structures and Machine Organisation]], London: McGraw-Hill
+- Wikstrom, A. 1987. [[Functional Programming Using Standard ML]], London: Prentice-Hall
+- Wilensky, R. 1986. [[Common LISPcraft]], New York: Norton
+- Winston, P. H. and Horn, B. K. P. 1984. [[LISP, Reading]], MA: Addison-Wesley
