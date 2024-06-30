@@ -6,7 +6,7 @@ Bibliography
 - Epicteto. [[Enquiridión o Manual de Epicteto]]. Traducción de Denes Martos. La editorial virtual, Buenos Aires 2009: https://web.archive.org/web/20131002132645/ http://www.laeditorialvirtual.com.ar/pages/Epicteto/Enquiridion.html
 - Frankl, Viktor. [[El hombre en busca de sentido]]. Herder, Barcelona 2015.
 - Hadot, Pierre. [[La filosofía como forma de vida]]. Alpha Decay, Barcelona 2009.
-- Hadot, Pierre. [[La ciudadela interior]]. Alpha Decay, Barcelona 2015.
+- Hadot, Pierre. [[The Inner Citadel The Meditations of Marcus Aurelius]]. Alpha Decay, Barcelona 2015.
 - Holiday, Ryan. [[The obstacle is the way]]. Océano, Barcelona 2020.
 - Holiday, Ryan, y Stephen Hanselmann. [[The Daily Stoic]]. Océano, Barcelona 2021.
 Irvine, William B. [[El arte de la buena vida]]. Paidós, Barcelona 2019.
