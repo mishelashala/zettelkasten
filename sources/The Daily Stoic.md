@@ -6,7 +6,7 @@ Bibliography
 
 - Long, A. A. [[Epictetus A Stoic and Socratic Guide to Life]]. Nueva York, Oxford University Press, 2004.
 
-Long, A. A. [[Greek Models of Mind and Self]]. Cambridge, Harvard University Press, 2015
+- Long, A. A. [[Greek Models of Mind and Self]]. Cambridge, Harvard University Press, 2015
 
 - Nussbaum, Martha. [[The therapy of desire theory and practice in Hellenistic ethics]]. Traducción de Miguel Candel. Barcelona, Paidós, 2003.
 
