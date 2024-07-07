@@ -273,3 +273,45 @@ Job, V., C. S. Dweck, and G. M. Walton. 2010. "[[Ego Depletion - Is It All in Yo
 - Schmeichel, Brandon J., Kathleen D. Vohs, and Roy F. Baumeister. 2003. "[[Intellectual Performance and Ego Depletion Role of the Self in Logical Reasoning and Other Information Processing]]". Journal of Personality and Social Psychology 85 (1): 33-46.
 
 - Schmidt, Johannes F.K. 2013. "[[Der Nachlass Niklas Luhmanns - eine erste Sichtung Zettelkasten und Manuskripte]]." Soziale Systeme 19 (1): 167-83.
+
+- Schmidt, Johannes F.K. 2015. "[[Der Zettelkasten Niklas Luhmanns als Überra-schungsgenerator]]." In Serendipity: Vom Glück des Fin-dens. Köln: Snoeck.
+
+- Schwartz, Barry. 2007. [[The Paradox of Choice]]. New York: Harper Collins.
+
+- Searle, John R. 1983. [[Intentionality, an Essay in the Philosophy of Mind]]. Cambridge; New York: Cambridge University Press.
+
+- Shapin, Steven. 1996. [[The Scientific Revolution]]. Chicago, IL: University of Chicago Press.
+
+- Singer, R., D. S. Downs, L. Bouchard, and D. de la Pena. 2001. "[[The Influence of a Process versus an Outcome Orientation on Tennis Performance and Knowledge]]." Journal of Sport Behavior 24 (2): 213-22.
+
+- Stein, Barry S., Joan Littlefield, John D. Bransford, and Martin Persampieri. 1984. "[[Elaboration and Knowledge Acquisition]]." Memory & Cognition 12 (5: 522-29.
+
+- Stokes, Patricia D. 2001. "[[Variability, Constraints, and Creativity Shedding Light on Claude Monet]]." American Psychologist 56 (4): 355-59.
+
+- Strack, Fritz, and Thomas Mussweiler. 1997. "[[Explaining the Enigmatic Anchoring Effect Mechanisms of Selective Acessibility]]." Journal of Personality and Social Psychology 73 (3): 437-46.
+
+- Sull, Donald and Eisenhardt, Kathleen M. 2015. [[Simple Rules How to Thrive in a Complex World]]. Boston; New York: Houghton Mifflin Harcourt.
+
+- Swing, E. L., D. A. Gentile, C. A. Anderson, and D. A. Walsh. 2010. "[[Television and Video Game Exposure and the Development of Attention Problems]]." PEDIATRICS 126(2): 214-21.
+
+- Taleb, Nassim Nicholas. 2005. [[Fooled by Randomness The Hidden Role of Chance in Life and in the Markets]]. 2nd ed. New York: Random House.
+
+- Thaler, Richard H. 2015. [[Misbehaving The Making of Behavioral Economics]]. W. W. Norton & Company.
+
+- Trollope, Anthony. 2008. [[An Autobiography]]. Newcastle: CSP Classic Texts.
+
+- Vartanian, Oshin. 2009. "[[Variable Attention Facilitates Creative Problem Solving]]." Psychology of Aesthetics, Creativity, and the Arts 3 (1): 57-59.
+
+- Wagner, Ullrich, Steffen Gais, Hilde Haider, Rolf Verleger, and Jan Born. 2004. "[[Sleep inspires insight]]." Nature 427 (6972): 352-55.
+
+- Wamsley, Erin J., Matthew Tucker, Jessica D. Payne, Joseph A. Benavides, and Robert Stickgold. 2010. "[[Dreaming of a Learning Task Is Associated with Enhanced Sleep-Dependent Memory Consolidation]]." Current Biology 20 (9): 850-55.
+
+- Wang, Zheng, and John M. Tchernev. 2012. "[[The 'Myth' of Media Multitasking Reciprocal Dynamics of Media Multi-tasking, Personal Needs, and Gratifications]]." Journal of Communication 62 (3): 493-513.
+
+- Whitehead, A. N. (1911): [[An Introduction to Mathematics]]. Cambridge: Cambridge University Press.
+
+- Wolte, Christopher R., and M. Anne Britt. 2008. "[[The Locus of the Myside Bias in Written Argumentation]]". Thinking & Reasoning 14 (1): 1-27.
+
+- Zeigarnik, Bluma. 1927. "[[Über das Behalten erledigter und unerledigter Handlungen]]." Psychologische Forschung 9: 1-85.
+
+- Zull, James E. 2002. [[The Art of Changing the Brain Enriching the Practice of Teaching by Exploring the Biology of Learning]]. Sterling, Va: Stylus Publishing.
