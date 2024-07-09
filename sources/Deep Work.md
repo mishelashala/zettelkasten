@@ -375,6 +375,158 @@ Newport Carl, Deep Work, 2016, p58
 
 Newport Carl, Deep Work, 2016, p58
 
+# Sending emails is easier for the sender
+
+«So why are these easily avoidable and time-sucking e-mails so common? From the sender's perspective. _they're easier_. It's a way to clear something out of their inbox–at least, temporarily–with a minimum amount of energy invested.»
+
+Newport Carl, Deep Work, 2016, p60
+
+# Measuring output as an academic
+
+«How well or how poorly you're doing as an academic researcher can be boiled down to a simple question: Are you publishing important papers?»
+
+Newport Carl, Deep Work, 2016, p61
+
+# the h-index
+
+«a formula, name for its inventory, Jorge Hirsh, that processes your publication and citation counts into a single value that approximates your impact on your field.»
+
+Newport Carl, Deep Work, 2016, p1
+
+# h-index in computer science
+
+«an h-index score above 40 is difficult to achieve and once reached is considered the mark of a strong long-term career.»
+
+Newport Carl, Deep Work, 2016, p61
+
+# Clear metrics drive behavior
+
+«This clarity simplifies decisions about what work habits a professor adopts or abandons.»
+
+Newport Carl, Deep Work, 2016, p61
+
+# Feynman's productivity strategy
+
+«To do real good physics work, you do need absolute solid lengths of time... it needs a lot of concentration... if you have a job administrating anything, you don't have the time. So I have invented another myth for my self: that I'm irresponsible. I'm actively irresponsible. I tell everyone I don't do anything. If anyone ask me to be on a committee for admissions, "no," I tell them: I'm irresponsible.»
+
+Newport Carl, Deep Work, 2016, p62
+
+# The metrics gap
+
+«[Knowledge workers] want to prove that they're productive members of the team and are earning their keep, but they're not entirely clear what this goal constitutes.»
+
+Newport Carl, Deep Work, 2016, p63
+
+# Frederic Taylor's productivity metric
+
+«In Taylor's era, productivity was unambiguous: widgets created per unit of time.»
+
+Newport Carl, Deep Work, 2016, p63
+
+# Busyness as a the result of the lack of a clear productivity metric
+
+«Knowledge workers [...] are tending toward increasingly visible busyness because they lack a better way to demonstrate their value.»
+
+# Busyness as Proxy for Productivity
+
+«In the absence of clear indicators of what it means to be productive and valuable in their jobs, may knowledge workers turn back toward an industrial indicator of productivity: doing lots of stuff in a visible manner.»
+
+Newport Carl, Deep Work, 2016, p64
+
+# Marissa Mayer's productivity metric
+
+«"If you're not visibly busy," she signaled, "I'll assume you're not productive."»
+
+> Note: the author is quoting from an email sent by Marissa Mayer
+
+Newport Carl, Deep Work, 2016, p65
+
+# Taylor's metric is anachronistic
+
+«Viewed objectively, however, this concept is anachronistic. Knowledge work is not an assembly line, and extracting value from information is an activity that's often at odds with busyness, not supported by it.»
+
+Newport Carl, Deep Work, 2016, p65
+
+# The metric blackhole attacks again
+
+«We could, of course, eliminate this anachronistic commitment to bussyness if we could easily demonstrate its negative impact on the bottom line, but the metric black hole enters the scene at this point and prevents such clarity.»
+
+Newport Carl, Deep Work, 2016, p65
+
+# Deep work and digital minimalism
+
+«to support deep work often requires the rejection of much of what is new and high-tech.»
+
+Newport Carl, Deep Work, 2016, p69
+
+# What does a knowledge worker do?
+
+«It can be hard to define exactly what a given knowledge worker does and how it differs from another.»
+
+Newport Carl, Deep Work, 2016, p74
+
+# Attention management and life
+
+«Like fingers pointing to the moon, other diverse disciplines from anthropology to education, behavioral economics to family counseling, similarly suggest that the skillful management of attention is the sine qua non of the good life and the key to improving virtually every aspect of your experience.»
+
+> Note: the author is quoting Winifred Gallagher
+
+Newport Carl, Deep Work, 2016, p77
+
+# Attention, not circumstances, is what matters
+
+«Our brains instead construct our worldview based on _what we pay attention to_. If you focus on a cancer diagnosis, you and your life become unhappy and dark, but if you focus instead on an evening martini, you and your life become more pleasent–even though the circumstances in both scenarios are the same.»
+
+Newport Carl, Deep Work, 2016, p77
+
+# Gallagher's grand theory
+
+«your world is the outcome of what you pay attention to.»
+
+Newport Carl, Deep Work, 2016, p79
+
+# Focus like nothing else mattered
+
+«"concentration so intense that there is no attention left over to think about anything irrelevant, or to worry about problems."»
+
+> Note: the author is quoting Mihaly Csikszentmihalyi
+
+Newport Carl, Deep Work, 2016, p79
+
+# Gallagher's trap
+
+«"'the idle mind is the devil's workshop'... when you lose focus, your mind tends to fix on what could be wrong with your life instead of what's right."»
+
+> Note: the author is quoting Winifred Gallagher
+
+Newport Carl, Deep Work, 2016, p82
+
+# A shallow day is a bad day
+
+«A workday driven by the shallow, from a neurological perspective, is likely to be a draining and upsetting day, even if most of the shallow things that capture your attention seem harmless or fun.»
+
+Newport Carl, Deep Work, 2016, p82
+
+# Flow over free time
+
+«"Ironically, jobs are actually easier to enjoy than free time, because like flow activities they have built-int goals, feedback rules, and challenges, all of which encourage one to become involved in one's work, to concentrate and lose oneself int it. Free time, on the other hand is unstructured, and requires much greater effort to be shaped into something that can be enjoyed."»
+
+> Note: the author is quoting Mihaly Csikszentmihalyi
+
+Newport Carl, Deep Work, 2016, p84
+
+# A deep life is a happy life
+
+«the more such flow experiences that occur in a given week, the higher the subject's life satisfaction. Human beings, it seems, are at their best when immersed deeply in something challenging.»
+
+Newport Carl, Deep Work, 2016, p84
+
+# For Gallagher content matter
+
+«Gallagher's writing emphasizes that _content_ of what we focus on matters. If we give rapt attention to important things, and therefore also ignore shallow negative things, we'll experience our working life as more important and positive.»
+
+Newport Carl, Deep Work, 2016, p85
+
 ---
 
 Bibliography
