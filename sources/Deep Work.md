@@ -527,6 +527,12 @@ Newport Carl, Deep Work, 2016, p84
 
 Newport Carl, Deep Work, 2016, p85
 
+# For Csikszentmihalyi content doesn't matter
+
+«his theory [of flow] notes that feeling of going deep is _in itself_ very rewarding. Our minds like this challenge, regardless of the subject.»
+
+Newport Carl, Deep Work, 2016, p85
+
 ---
 
 Bibliography
