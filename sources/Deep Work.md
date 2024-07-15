@@ -2,37 +2,37 @@
 
 «Professional activities performed in a state of distraction-free concentration that push your cognitive capabilities to their limit. These efforts create new value, improve your skill, and are hard to replicate.»
 
-Newport Carl, Deep Work, 2016, p3
+Newport, Carl. Deep Work, 2016, p3
 
 # Deep Work is necessary to improve
 
 «Deep work is necessary to wring every last drop of value out of your current intellectual capacity. We now know from decades of research in both psychology and neuroscience that the state of menta strain that accompanies deep work is also necessary to improve your abilities.»
 
-Newport Carl, Deep Work, 2016, p3
+Newport, Carl. Deep Work, 2016, p3
 
 # Deep work is necessary to stand out
 
 «Deep work, in other words, was exactly the type of effort needed to stand out in a cognitively demanding field like academic psychiatry in the early twentieth century.»
 
-Newport Carl, Deep Work, 2016, p3
+Newport, Carl. Deep Work, 2016, p3
 
 # Deep work and historical figures
 
 «if you study the lives of other influential figures from both distant and recent history, you'll find that a commitment to deep work is a common theme.»
 
-Newport Carl, Deep Work, 2016, p3
+Newport, Carl. Deep Work, 2016, p3
 
 # Network tools are making deep work harder
 
 «The reason knowledge workers are losing their familiarity with deep work is well established: network tools.»
 
-Newport Carl, Deep Work, 2016, p5
+Newport, Carl. Deep Work, 2016, p5
 
 # Definition of network tools
 
 «This is a broad category that captures communication services like e-mail and SMS, social media networks like Twitter and Facebook, and the shiny tangle of infotainment sites like BuzzFeed and Reddit.»
 
-Newport Carl, Deep Work, 2016, p5
+Newport, Carl. Deep Work, 2016, p5
 
 # The impact of network tools
 
@@ -40,13 +40,13 @@ Newport Carl, Deep Work, 2016, p5
 
 > TODO: find and include primary source
 
-Newport Carl, Deep Work, 2016, p6
+Newport, Carl. Deep Work, 2016, p6
 
 # Definition of Shallow Work
 
 «Noncognitively demanding, logistical-style tasks, often performed while distracted. These efforts tend to not create much new value in the world and are easy to replicate.»
 
-Newport Carl, Deep Work, 2016, p6
+Newport, Carl. Deep Work, 2016, p6
 
 # Effects of shallow work
 
@@ -54,43 +54,43 @@ Newport Carl, Deep Work, 2016, p6
 
 > Note: the author doesn't provide any proof nor study for this claim
 
-Newport Carl, Deep Work, 2016, p7
+Newport, Carl. Deep Work, 2016, p7
 
 # An opportunity emerges
 
 «Our work culture's shift toward the shallow [...] is exposing a massive economic and personal opportunity for the few who recognize the potential of resisting this trend and prioritizing depth»
 
-Newport Carl, Deep Work, 2016, p8
+Newport, Carl. Deep Work, 2016, p8
 
 # The ever changing information economy
 
 «We have an information economy that's dependent on complex systems that change rapidly.»
 
-Newport Carl, Deep Work, 2016, p13
+Newport, Carl. Deep Work, 2016, p13
 
 # The information economy demands a quick never ending learning
 
 «To remain valuable in our economy, therefore, you must master the art of quickly learning complicated things. This task requires deep work.»
 
-Newport Carl, Deep Work, 2016, p13
+Newport, Carl. Deep Work, 2016, p13
 
 # Deep work is a modern superpower
 
 «Deep work is so important that we might consider it, to use the phrasing of business writer Eric Barker, "the superpower of the 21st century."»
 
-Newport Carl, Deep Work, 2016, p14
+Newport, Carl. Deep Work, 2016, p14
 
 # The deep work hypothesis
 
 «The ability to perform deep work is becoming increasingly _rare_ ate exactly the same time it is becoming increasingly _valuable_ in our economy. As a consequence, the few who cultivate this skill, and the make it the core of their working life, will thrive.»
 
-Newport Carl, Deep Work, 2016, p14
+Newport, Carl. Deep Work, 2016, p14
 
 # Carl Newport's mantra
 
 «A deep life is a good life.»
 
-Newport Carl, Deep Work, 2016, p18
+Newport, Carl. Deep Work, 2016, p18
 
 # The great restructure of the economy
 
@@ -98,91 +98,91 @@ Newport Carl, Deep Work, 2016, p18
 
 > Note: the author is paraphrasing from Race Agains the Machine
 
-Newport Carl, Deep Work, 2016, p23
+Newport, Carl. Deep Work, 2016, p23
 
 # Human intelligence can be replaced by machines
 
 «As intelligent machines improve, and the gap between machine and human abilities shrinks, employees are becoming increasingly likely to hire "new machines" instead of "new people".»
 
-Newport Carl, Deep Work, 2016, p23
+Newport, Carl. Deep Work, 2016, p23
 
 # Winners and losers in the great restructure
 
 «Though an increasing number of people will lose in this new economy as their skill becomes automatable or easily outsourced, there are others who will not only survive, but thrive–becoming more valued (and therefore more rewarded) than before.»
 
-Newport Carl, Deep Work, 2016, p23
+Newport, Carl. Deep Work, 2016, p23
 
 # Winners: High Skilled workers
 
 «those with the oracular ability to work with and tease valuable results out of increasingly complex machines will thrive.»
 
-Newport Carl, Deep Work, 2016, p24
+Newport, Carl. Deep Work, 2016, p24
 
 # We are competing in a global market
 
 «High-speed data networks and collaboration tools like e-mail and virtual meeting software have destroyed regionalism in many sectors o knowledge work.»
 
-Newport Carl, Deep Work, 2016, p25
+Newport, Carl. Deep Work, 2016, p25
 
 # The best of the best will thrive
 
 «Once the talent market is made universally accesible, those at the peak of the market thrive while the rest suffer.»
 
-Newport Carl, Deep Work, 2016, p25
+Newport, Carl. Deep Work, 2016, p25
 
 # Talent is not given
 
 «talent is not a commodity you can buy in bulk and combine to reach the needed levels: There's a premium to being the best.»
 
-Newport Carl, Deep Work, 2016, p25-26
+Newport, Carl. Deep Work, 2016, p25-26
 
 # Consumers will always choose the best
 
 «if you're in a marketplace where the consumer has access to all performers, and everyone's _q_ value is clear, the consumer will choose the very best.»
 
-Newport Carl, Deep Work, 2016, p26
+Newport, Carl. Deep Work, 2016, p26
 
 # Winners: The Superstars
 
 «Even if the talent advantage of the best is small compared to the next rung down on the skill ladder, the superstars will win the bulk of the markets.»
 
-Newport Carl, Deep Work, 2016, p26
+Newport, Carl. Deep Work, 2016, p26
 
 # Local markets get integrated into a global market
 
 «The rapid rise of communication and collaboration technologies has transformed many other formerly local markets into a similarly universal bazaars.»
 
-Newport Carl, Deep Work, 2016, p26
+Newport, Carl. Deep Work, 2016, p26
 
 # Winners: The owners
 
 «The final group that will thrive in our new economy [...] consists of those with capital to invest in the new technologies that are driving the Great Restructuring.»
 
-Newport Carl, Deep Work, 2016, p26-27
+Newport, Carl. Deep Work, 2016, p26-27
 
 # Returns won't rely on human labor that much any more
 
 «As a digital technology reduces the need for labor in many industries, the proportion of the rewards returned to those who own the intelligent machines is growing.»
 
-Newport Carl, Deep Work, 2016, p27
+Newport, Carl. Deep Work, 2016, p27
 
 # Instagram as an example 
 
 «A venture capitalist in today's economy can fund a company like Instagram, which was eventually sold for a billion dollars, while employing _only thirteen people_.»
 
-Newport Carl, Deep Work, 2016, p27
+Newport, Carl. Deep Work, 2016, p27
 
 # Unprecedented returns
 
 «With so little input from labor, the proportion of this wealth that flows back to the machine owners [...] is without precedent.»
 
-Newport Carl, Deep Work, 2016, p27
+Newport, Carl. Deep Work, 2016, p27
 
 # You have to join the winners group to thrive
 
 «If you can join any of these groups, therefore, you'll do well. If you cannot, you might still do well, but your position is more precarious.»
 
-Newport Carl, Deep Work, 2016, p28
+Newport, Carl. Deep Work, 2016, p28
 
 # Core abilities
 
@@ -191,49 +191,49 @@ Newport Carl, Deep Work, 2016, p28
 1. The ability to quickly master hard things.
 2. The ability to produce at an elite level, in terms of both quality and speed.»
 
-Newport Carl, Deep Work, 2016, p29
+Newport, Carl. Deep Work, 2016, p29
 
 # Master the ability to learn hard things
 
 «intelligent machines are complicated and hard to master. To join the group of those who can work well with these machines, therefore, requires that you hone your ability to master hard things.»
 
-Newport Carl, Deep Work, 2016, p31
+Newport, Carl. Deep Work, 2016, p31
 
 # Never stop learning hard things fast
 
 «And because these technologies change rapidly, this process of mastering hard things never ends: you must be able to do it quickly, again and again.»
 
-Newport Carl, Deep Work, 2016, p31
+Newport, Carl. Deep Work, 2016, p31
 
 # Learn or persish
 
 «If you can't learn, you cant' thrive.»
 
-Newport Carl, Deep Work, 2016, p31
+Newport, Carl. Deep Work, 2016, p31
 
 # Learning is not enough
 
 «If you want to become a superstar, mastering the relevant skills is necessary, but not sufficient. You must then transform that latent potential into tangible results that people value.»
 
-Newport Carl, Deep Work, 2016, p31-32
+Newport, Carl. Deep Work, 2016, p31-32
 
 # Produce or perish
 
 «If you don't produce, you won't thrive–no matter how skilled or talented you are.»
 
-Newport Carl, Deep Work, 2016, p32
+Newport, Carl. Deep Work, 2016, p32
 
 # Deep work and the two core abilities
 
 «The two core abilities just described depend on you ability to perform deep work.»
 
-Newport Carl, Deep Work, 2016, p32
+Newport, Carl. Deep Work, 2016, p32
 
 # Intense concentration and learning 
 
 «_To learn requires intense concentration_.»
 
-Newport Carl, Deep Work, 2016, p34
+Newport, Carl. Deep Work, 2016, p34
 
 # Practice and learning
 
@@ -241,31 +241,31 @@ Newport Carl, Deep Work, 2016, p34
 
 > Note: emphasis added
 
-Newport Carl, Deep Work, 2016, p35
+Newport, Carl. Deep Work, 2016, p35
 
 # First element of deliberate practice
 
 «(1) you attention is focused tightly on a specific skill you're trying to improve or an idea you're trying to master»
 
-Newport Carl, Deep Work, 2016, p35
+Newport, Carl. Deep Work, 2016, p35
 
 # Second element of deliberate practice
 
 «(2) you receive feedback so you can correct your approach to keep your attention exactly where it's most productive.»
 
-Newport Carl, Deep Work, 2016, p35
+Newport, Carl. Deep Work, 2016, p35
 
 # Distractions kill deliberate practice
 
 «deliberate practice cannot exist alongside distraction, and that it instead requires uninterrupted concentration.»
 
-Newport Carl, Deep Work, 2016, p35
+Newport, Carl. Deep Work, 2016, p35
 
 # Myelin and cognitive performance
 
 «This new science of performance argues that you get better at a skill as you develop more myelin around the relevant neurons, allowing the corresponding circuit to fire more effortlessly and effectively. To be great at something is to be well myelinated.»
 
-Newport Carl, Deep Work, 2016, p36
+Newport, Carl. Deep Work, 2016, p36
 
 # Neuroscience behind deliberate practice
 
@@ -273,31 +273,31 @@ Newport Carl, Deep Work, 2016, p36
 
 > Note: the author is paraphrasing from The Talent Code
 
-Newport Carl, Deep Work, 2016, p36
+Newport, Carl. Deep Work, 2016, p36
 
 # Learning is an act of deep work
 
 «To learn hard things quickly, you must focus intensely without distraction. To learn, in other words, is an act of deep work.»
 
-Newport Carl, Deep Work, 2016, p37
+Newport, Carl. Deep Work, 2016, p37
 
 # The "high quality work produced" formula
 
 «High-Quality Work Produced = (Time Spent) x (Intensity of Focus)»
 
-Newport Carl, Deep Work, 2016, p40
+Newport, Carl. Deep Work, 2016, p40
 
 # The role of intensity
 
 «The best students understood the role intensity plays in productivity and therefore went out of their way to maximize their concentration–radically reducing the time required to prepare for tests or write papers, without diminishing the quality of their results.»
 
-Newport Carl, Deep Work, 2016, p41
+Newport, Carl. Deep Work, 2016, p41
 
 # Residual Memory
 
 «when you switch from some Task A to another Task B, your attention doesn't immediately follow–a _residue_ of your attention remains stuck thinking about the original task.»
 
-Newport Carl, Deep Work, 2016, p42
+Newport, Carl. Deep Work, 2016, p42
 
 # A more residues worse performance
 
@@ -305,25 +305,25 @@ Newport Carl, Deep Work, 2016, p42
 
 > Note: the author is quoting from "Why is it so hard to do my work?"
 
-Newport Carl, Deep Work, 2016, p43
+Newport, Carl. Deep Work, 2016, p43
 
 # Avoid context switching to maximize intensity
 
 «By working on a single hard task for a long time without switching, Grant minimizes the negative impact of attention residue from his other obligations, allowing him to maximize performance on this one task.»
 
-Newport Carl, Deep Work, 2016, p43
+Newport, Carl. Deep Work, 2016, p43
 
 # Avoid a state of semi-distraction
 
 «the attention residue concept is still telling because it implies that common habit of working in a state of semi-distraction is potentially devastating to your performance.»
 
-Newport Carl, Deep Work, 2016, p43
+Newport, Carl. Deep Work, 2016, p43
 
 # Work deep on one thing at a time
 
 «To product at your peak level you need to work for extended periods with full concentration on a single task free from distraction.»
 
-Newport Carl, Deep Work, 2016, p44
+Newport, Carl. Deep Work, 2016, p44
 
 # Interruptions have an enormous impact on productivity
 
@@ -331,97 +331,97 @@ Newport Carl, Deep Work, 2016, p44
 
 > Note: the autor didn't mention the name of the paper/study
 
-Newport Carl, Deep Work, 2016, p52
+Newport, Carl. Deep Work, 2016, p52
 
 # It is not easy to estimate the cost of distractions
 
 «Even though we abstractly accept that distraction has costs and depth has value, these impacts, as Tom Cocharn discovered, are difficult to measure.»
 
-Newport Carl, Deep Work, 2016, p55
+Newport, Carl. Deep Work, 2016, p55
 
 # Irrational outcomes of lack of measures
 
 «"it is objectively difficult to measure individual contributions to a firm's output." In the absence of such measures, irrational outcomes, such as executive salaries way out of proportion to the executive's marginal productivity, can occur.»
 
-Newport Carl, Deep Work, 2016, p55
+Newport, Carl. Deep Work, 2016, p55
 
 # Metric blackhole
 
 «We should not, therefore, expect the bottom-line impact of depth-destroying behaviors to be easily detected. As Tom Cocharn discovered, such metrics fall into an opaque region resistant to easy measurement–a region I call _metric blackhole_.»
 
-Newport Carl, Deep Work, 2016, p55-56
+Newport, Carl. Deep Work, 2016, p55-56
 
 # The culture of connectivity
 
 «When it comes to distracting behaviors embraced in the workplace, we must give a position of dominance to the now ubiquitous _culture of connectivity_, where one is expected to read and respond to e-mails (and related communication) quickly.»
 
-Newport Carl, Deep Work, 2016, p56
+Newport, Carl. Deep Work, 2016, p56
 
 # Principle of Least Resistance
 
 «In a business setting, without clear feedback on the impact of various behaviors to the bottom line, we will tend toward behaviors that are easiest in the moment.»
 
-Newport Carl, Deep Work, 2016, p58
+Newport, Carl. Deep Work, 2016, p58
 
 # Why the culture of connectivity persists
 
 «why cultures of connectivity persist, the answer, according to our principle, is because _it's easier_.»
 
-Newport Carl, Deep Work, 2016, p58
+Newport, Carl. Deep Work, 2016, p58
 
 # Email is the path of least resistance
 
 «If you work in an environment where you can get an answer to a question or a specific piece of information immediately when the need arises, this makes your life easier–at least, in the moment. If you couldn't count on this quick response time you'd instead have to do more advance planning for your work, be more organized, and be prepared to put things aside for a while and turn your attention elsewhere while waiting for what you requested. All of this would make the day to day of your working life harder (even if it produced more satisfaction and a better outcome in the long term).»
 
-Newport Carl, Deep Work, 2016, p58
+Newport, Carl. Deep Work, 2016, p58
 
 # Sending emails is easier for the sender
 
 «So why are these easily avoidable and time-sucking e-mails so common? From the sender's perspective. _they're easier_. It's a way to clear something out of their inbox–at least, temporarily–with a minimum amount of energy invested.»
 
-Newport Carl, Deep Work, 2016, p60
+Newport, Carl. Deep Work, 2016, p60
 
 # Measuring output as an academic
 
 «How well or how poorly you're doing as an academic researcher can be boiled down to a simple question: Are you publishing important papers?»
 
-Newport Carl, Deep Work, 2016, p61
+Newport, Carl. Deep Work, 2016, p61
 
 # the h-index
 
 «a formula, name for its inventory, Jorge Hirsh, that processes your publication and citation counts into a single value that approximates your impact on your field.»
 
-Newport Carl, Deep Work, 2016, p1
+Newport, Carl. Deep Work, 2016, p1
 
 # h-index in computer science
 
 «an h-index score above 40 is difficult to achieve and once reached is considered the mark of a strong long-term career.»
 
-Newport Carl, Deep Work, 2016, p61
+Newport, Carl. Deep Work, 2016, p61
 
 # Clear metrics drive behavior
 
 «This clarity simplifies decisions about what work habits a professor adopts or abandons.»
 
-Newport Carl, Deep Work, 2016, p61
+Newport, Carl. Deep Work, 2016, p61
 
 # Feynman's productivity strategy
 
 «To do real good physics work, you do need absolute solid lengths of time... it needs a lot of concentration... if you have a job administrating anything, you don't have the time. So I have invented another myth for my self: that I'm irresponsible. I'm actively irresponsible. I tell everyone I don't do anything. If anyone ask me to be on a committee for admissions, "no," I tell them: I'm irresponsible.»
 
-Newport Carl, Deep Work, 2016, p62
+Newport, Carl. Deep Work, 2016, p62
 
 # The metrics gap
 
 «[Knowledge workers] want to prove that they're productive members of the team and are earning their keep, but they're not entirely clear what this goal constitutes.»
 
-Newport Carl, Deep Work, 2016, p63
+Newport, Carl. Deep Work, 2016, p63
 
 # Frederic Taylor's productivity metric
 
 «In Taylor's era, productivity was unambiguous: widgets created per unit of time.»
 
-Newport Carl, Deep Work, 2016, p63
+Newport, Carl. Deep Work, 2016, p63
 
 # Busyness as a the result of the lack of a clear productivity metric
 
@@ -431,7 +431,7 @@ Newport Carl, Deep Work, 2016, p63
 
 «In the absence of clear indicators of what it means to be productive and valuable in their jobs, may knowledge workers turn back toward an industrial indicator of productivity: doing lots of stuff in a visible manner.»
 
-Newport Carl, Deep Work, 2016, p64
+Newport, Carl. Deep Work, 2016, p64
 
 # Marissa Mayer's productivity metric
 
@@ -439,31 +439,31 @@ Newport Carl, Deep Work, 2016, p64
 
 > Note: the author is quoting from an email sent by Marissa Mayer
 
-Newport Carl, Deep Work, 2016, p65
+Newport, Carl. Deep Work, 2016, p65
 
 # Taylor's metric is anachronistic
 
 «Viewed objectively, however, this concept is anachronistic. Knowledge work is not an assembly line, and extracting value from information is an activity that's often at odds with busyness, not supported by it.»
 
-Newport Carl, Deep Work, 2016, p65
+Newport, Carl. Deep Work, 2016, p65
 
 # The metric blackhole attacks again
 
 «We could, of course, eliminate this anachronistic commitment to bussyness if we could easily demonstrate its negative impact on the bottom line, but the metric black hole enters the scene at this point and prevents such clarity.»
 
-Newport Carl, Deep Work, 2016, p65
+Newport, Carl. Deep Work, 2016, p65
 
 # Deep work and digital minimalism
 
 «to support deep work often requires the rejection of much of what is new and high-tech.»
 
-Newport Carl, Deep Work, 2016, p69
+Newport, Carl. Deep Work, 2016, p69
 
 # What does a knowledge worker do?
 
 «It can be hard to define exactly what a given knowledge worker does and how it differs from another.»
 
-Newport Carl, Deep Work, 2016, p74
+Newport, Carl. Deep Work, 2016, p74
 
 # Attention management and life
 
@@ -471,19 +471,19 @@ Newport Carl, Deep Work, 2016, p74
 
 > Note: the author is quoting Winifred Gallagher
 
-Newport Carl, Deep Work, 2016, p77
+Newport, Carl. Deep Work, 2016, p77
 
 # Attention, not circumstances, is what matters
 
 «Our brains instead construct our worldview based on _what we pay attention to_. If you focus on a cancer diagnosis, you and your life become unhappy and dark, but if you focus instead on an evening martini, you and your life become more pleasent–even though the circumstances in both scenarios are the same.»
 
-Newport Carl, Deep Work, 2016, p77
+Newport, Carl. Deep Work, 2016, p77
 
 # Gallagher's grand theory
 
 «your world is the outcome of what you pay attention to.»
 
-Newport Carl, Deep Work, 2016, p79
+Newport, Carl. Deep Work, 2016, p79
 
 # Focus like nothing else mattered
 
@@ -491,7 +491,7 @@ Newport Carl, Deep Work, 2016, p79
 
 > Note: the author is quoting Mihaly Csikszentmihalyi
 
-Newport Carl, Deep Work, 2016, p79
+Newport, Carl. Deep Work, 2016, p79
 
 # Gallagher's trap
 
@@ -499,13 +499,13 @@ Newport Carl, Deep Work, 2016, p79
 
 > Note: the author is quoting Winifred Gallagher
 
-Newport Carl, Deep Work, 2016, p82
+Newport, Carl. Deep Work, 2016, p82
 
 # A shallow day is a bad day
 
 «A workday driven by the shallow, from a neurological perspective, is likely to be a draining and upsetting day, even if most of the shallow things that capture your attention seem harmless or fun.»
 
-Newport Carl, Deep Work, 2016, p82
+Newport, Carl. Deep Work, 2016, p82
 
 # Flow over free time
 
@@ -513,25 +513,91 @@ Newport Carl, Deep Work, 2016, p82
 
 > Note: the author is quoting Mihaly Csikszentmihalyi
 
-Newport Carl, Deep Work, 2016, p84
+Newport, Carl. Deep Work, 2016, p84
 
 # A deep life is a happy life
 
 «the more such flow experiences that occur in a given week, the higher the subject's life satisfaction. Human beings, it seems, are at their best when immersed deeply in something challenging.»
 
-Newport Carl, Deep Work, 2016, p84
+Newport, Carl. Deep Work, 2016, p84
 
 # For Gallagher content matter
 
 «Gallagher's writing emphasizes that _content_ of what we focus on matters. If we give rapt attention to important things, and therefore also ignore shallow negative things, we'll experience our working life as more important and positive.»
 
-Newport Carl, Deep Work, 2016, p85
+Newport, Carl. Deep Work, 2016, p85
 
 # For Csikszentmihalyi content doesn't matter
 
 «his theory [of flow] notes that feeling of going deep is _in itself_ very rewarding. Our minds like this challenge, regardless of the subject.»
 
-Newport Carl, Deep Work, 2016, p85
+Newport, Carl. Deep Work, 2016, p85
+
+# Deep work and the deep life
+
+«To build your working life around the experience of flow product by deep work is a proven path to deep satisfaction.»
+
+> Note: conclusion from Carl Newport
+
+Newport, Carl. Deep Work, 2016, p86
+
+# Enlightenment and Nihilism
+
+«In a post-Enlightenment world we have tasked _ourselves_ to identify what's meaningful and what's not, an exercise that can seem arbitrary and induce a creeping nihilism.»
+
+Newport, Carl. Deep Work, 2016, p87
+
+# Craftsmanship and restoring the sacred
+
+«Craftsmanship [...] provides a key to reopening a sense of sacredness in a responsible manner.»
+
+> Note: the author is paraphrasing from "All things shining"
+
+Newport, Carl. Deep Work, 2016, p87
+
+# Craftsmanship and meaning
+
+«the craftsman has stumbled onto something crucial in a post-Enlightenment world: a source of meaning sited outside the individual.»
+
+Newport, Carl. Deep Work, 2016, p88
+
+# Craftsmanship and the value in itself
+
+«The wheelwright doesn't decide arbitrarily which virtues of the wood he works are valuable and which are not; this value is inherent in the wood and the task it's meant to perform.»
+
+Newport, Carl. Deep Work, 2016, p88
+
+# Craftsmanship and the cultivation of value
+
+«As Dreyfus and Kelly explain, such sacredness is common to craftsmanship.
+
+# The task of a craftsman
+
+«"is not to _generate_ meaning, but rather to _cultivate_ in himself the skill of _discerning_ the meanings that are _already there_."»
+
+> Note: the author is quoting from "All things shining"
+
+Newport, Carl. Deep Work, 2016, p88
+
+# Craftsmanship as cure for nihilism
+
+«This frees the craftsman of the nihilism of autonomous individualism, providing an ordered world of meaning.»
+
+Newport, Carl. Deep Work, 2016, p88
+
+# Sacredness is not exclusive to manual labor
+
+«There's nothing intrinsic about the _manual_ trades when it comes to generating this particular source of meaning. Any pursuit–be it physical or cognitive–that supports high levels of skill can also generate a sense of sacredness.»
+
+Newport, Carl. Deep Work, 2016, p89
+
+# Code as craftsmanship
+
+«Within the overall structure of a project here is always room for individuality and craftsmanship... One hundred years from now, our engineering may seem as archaic as the techniques used by medieval cathedral builders seem to today's civil engineers, while our craftsmanship will still be honored.»
+
+> Note: the author is quoting from "The Pragmatic Programmer"
+
+Newport, Carl. Deep Work, 2016, p89-90
 
 ---
 
