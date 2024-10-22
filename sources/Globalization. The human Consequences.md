@@ -15,3 +15,5 @@ Bibliography:
 - Bateson, Gregory. [[Steps on an Ecology of Mind]], Frogmore, Paladin, 1973.
 - Christie, Nils. [[Civility and State]]
 - Leach, Edmund. [[Anthropological aspects of language. animal categories and verbal abuse]], New Directions in the Study of Language, University of Chicago Press, 1964.
+- Habermas, Jürgen. [[The philosophical Discourse of Modernity]], Cambridge, MIT Press, 1987
+- Sennet, Richard. [[Uses of Disorder. Personal Identity and City Life]], London, Faber & Faber, 1996.
