@@ -1,4 +1,4 @@
-Bauman, Zygmun. México, 3era Edición, Fondo Económico de Cultura, 2022.
+Bauman, Zygmun. Globalization. The human Consequences. México, 3era Edición, Fondo Económico de Cultura, 2022.
 
 Bibliography:
 
