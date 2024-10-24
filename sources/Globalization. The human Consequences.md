@@ -19,3 +19,6 @@ Bibliography:
 - Sennet, Richard. [[Uses of Disorder. Personal Identity and City Life]], London, Faber & Faber, 1996.
 - Baczko, Bronislaw. [[Utopian Lights. The Evolution of the Idea of Social Progress]], New York, Paragon House, 1989
 - Baczko, Bronislaw. [[Histoire des Sévarambes]].
+- Elin, Nan. [[Shelter from the Storm, or Form Follows Fear and Vice Versa]], Architecture of Fear, New York, Princeton Architectural Press
+- Poster, Mark. [[Database as discourse, or electronic interpellations]], Detraditionalization
+- Mathiesen, Thomas. [[The Viewer of Society. Michael's Focoult 'Panopticon' Revisited]], Theoretical Criminology, 1997
