@@ -22,3 +22,4 @@ Bibliography:
 - Elin, Nan. [[Shelter from the Storm, or Form Follows Fear and Vice Versa]], Architecture of Fear, New York, Princeton Architectural Press
 - Poster, Mark. [[Database as discourse, or electronic interpellations]], Detraditionalization
 - Mathiesen, Thomas. [[The Viewer of Society. Michael's Focoult 'Panopticon' Revisited]], Theoretical Criminology, 1997
+- Gerbner, George y Gross, Larry. [[Living with television. the violence profile]], Journal of Communication
