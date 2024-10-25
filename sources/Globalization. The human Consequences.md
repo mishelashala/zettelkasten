@@ -23,3 +23,4 @@ Bibliography:
 - Poster, Mark. [[Database as discourse, or electronic interpellations]], Detraditionalization
 - Mathiesen, Thomas. [[The Viewer of Society. Michael's Focoult 'Panopticon' Revisited]], Theoretical Criminology, 1997
 - Gerbner, George y Gross, Larry. [[Living with television. the violence profile]], Journal of Communication
+- Sennet, Richard. [[Something in the city. The Spectre of Uselessness and the Search for a Placie in the World]], Times Literary Supplement, 1995
