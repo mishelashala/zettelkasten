@@ -24,3 +24,8 @@ Bibliography:
 - Mathiesen, Thomas. [[The Viewer of Society. Michael's Focoult 'Panopticon' Revisited]], Theoretical Criminology, 1997
 - Gerbner, George y Gross, Larry. [[Living with television. the violence profile]], Journal of Communication
 - Sennet, Richard. [[Something in the city. The Spectre of Uselessness and the Search for a Placie in the World]], Times Literary Supplement, 1995
+- Woollacot, Martin. [[Bosses must learn to behave better again]], The guardian, 1997
+- Cable, Vincent. [[The worlds new fissures. Identities in Crisis]]. London, Demos, 1996
+
+- Melucci, Alberto. [[Challenging Codes. Collective Action in the Information Age]]. Cambridge University Press, 1996
+- Von Wright, George Henrik. [[The Crisis of Social Science and the Withering Away of the Nation State]]. Associations 1, 1997
