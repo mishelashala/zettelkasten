@@ -37,3 +37,5 @@ Bibliography:
 - Fitoussi, Jean-Paul, [[Europe. le commencent d'une aventure]], Le Monde, 1997
 - Offe, Claus. [[Modernity and the State. East, West]]. Cambridge, Polity Press, 1996
 - Taylor, Mark C., y Saarinen, Esa. [[Imageologies. Media Philosophy]], London, Routledge
+- Heller, Agnes. [[Where are we at home?]], Thesis Eleven, 1995
+- Seabrook, Jeremy. [[Landscapes of Poverty]], Oxford, Blackwell, 1985
