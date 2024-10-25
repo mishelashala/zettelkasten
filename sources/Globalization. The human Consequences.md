@@ -43,3 +43,4 @@ Bibliography:
 - Bourdieu, Pierre. [[L'architecte de l'euro passe aux aveux]], Le Monde Diplomatique, 1997
 - Burszta, Wojciech J., [[Czytanie kultury]], Lódź, 1996
 - Christie, Nils. [[Crime Control as Industry. Towards Gulag, Western Style?]], London, Routledge, 1993
+- Petrella, Ricardo. [[Une machine infernale]], Le Monde Diplomatique, 1997
