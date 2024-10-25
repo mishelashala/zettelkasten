@@ -36,3 +36,4 @@ Bibliography:
 - Passet, René. [[Ces promesses des technologies de l'inmagériel]]. Le Monde Diplomatique, 1997
 - Fitoussi, Jean-Paul, [[Europe. le commencent d'une aventure]], Le Monde, 1997
 - Offe, Claus. [[Modernity and the State. East, West]]. Cambridge, Polity Press, 1996
+- Taylor, Mark C., y Saarinen, Esa. [[Imageologies. Media Philosophy]], London, Routledge
