@@ -29,3 +29,4 @@ Bibliography:
 
 - Melucci, Alberto. [[Challenging Codes. Collective Action in the Information Age]]. Cambridge University Press, 1996
 - Von Wright, George Henrik. [[The Crisis of Social Science and the Withering Away of the Nation State]]. Associations 1, 1997
+- Castodiaris, Cornelius. [[Pouvoir, politique, autonomie]]. Le Monde Morcelé, Paris, Seiio, 1990
