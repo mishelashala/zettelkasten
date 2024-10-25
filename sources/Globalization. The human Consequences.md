@@ -32,3 +32,5 @@ Bibliography:
 - Castodiaris, Cornelius. [[Pouvoir, politique, autonomie]]. Le Monde Morcelé, Paris, Seiio, 1990
 - Hobsbawn, Eric. [[Some Reflections on the 'Break-up of Britain']], New Left Review, 1997.
 - Castoriadis, Cornelius. [[La crise des sociétés occidentales]], La Montée de l'ingsignificance, 1996
+- [[Sept pieves du puzzle neoliberal. la quatrième guerre mondiale a comence]], Le Monde Diplomatique, 1997
+- Passet, René. [[Ces promesses des technologies de l'inmagériel]]. Le Monde Diplomatique, 1997
