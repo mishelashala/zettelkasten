@@ -50,3 +50,7 @@ Bibliography:
 - Sellin, Thorsten, [[Pioneering in Penology. the Amsterdam Houses of Corrections in the Sixteenth and Seventeenth Centuries]], University of Philadelphia Press, 1944
 - Mathiesen, Thomas. [[Prison on Trial. A Critical Assessment]], London, Sage, 1990
 - Clemmer, Donald. [[The Prison Community]], New York, Holt, Reinhart & Winston, 1940
+- Marti, Serge. [[Le FMI critique les méthodes anti-chômage de Bonn et Paris]]. Le Monde, 1997
+- Zucchini, Laurent. [[Ségrégation ordinaire à Washington]], Le Monde, 1997
+- Mathiesen, [[Prison on Trials]]
+- McCorkle, Lloyd W., Korn, Richard R., [[Resocialization within walls]], Annals of the American Academy of Political and Social Science, 1954
