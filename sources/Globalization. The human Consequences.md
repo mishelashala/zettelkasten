@@ -42,3 +42,4 @@ Bibliography:
 - Friedman, Johnathan. [[Global crises, the struggle for Cultural Identity and Intellectual Porkbarrelling. Cosmopolitan vs Locals, Ethnics and Nationals in an Era of De-hegemonisation]], Debating Cultural Hybridity, London, Zed Books, 1997
 - Bourdieu, Pierre. [[L'architecte de l'euro passe aux aveux]], Le Monde Diplomatique, 1997
 - Burszta, Wojciech J., [[Czytanie kultury]], Lódź, 1996
+- Christie, Nils. [[Crime Control as Industry. Towards Gulag, Western Style?]], London, Routledge, 1993
