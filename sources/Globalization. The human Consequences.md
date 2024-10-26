@@ -47,3 +47,6 @@ Bibliography:
 - Seabrook, Jeremy. [[The Race for Riches. The Human Cost of Wealth]], Basingstoke, Marshall Pickering, 1998.
 - Weber, Max. [[The Protestant Ethic and The Spirit of Capitalism]], trad. por Talcott Parsons, London, George Allen & Unwin, 1976
 - Carroll, John. [[Ego and Soul. a Sociology of the Modern West in Search of Meaning]]
+- Sellin, Thorsten, [[Pioneering in Penology. the Amsterdam Houses of Corrections in the Sixteenth and Seventeenth Centuries]], University of Philadelphia Press, 1944
+- Mathiesen, Thomas. [[Prison on Trial. A Critical Assessment]], London, Sage, 1990
+- Clemmer, Donald. [[The Prison Community]], New York, Holt, Reinhart & Winston, 1940
