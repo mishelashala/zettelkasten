@@ -44,3 +44,6 @@ Bibliography:
 - Burszta, Wojciech J., [[Czytanie kultury]], Lódź, 1996
 - Christie, Nils. [[Crime Control as Industry. Towards Gulag, Western Style?]], London, Routledge, 1993
 - Petrella, Ricardo. [[Une machine infernale]], Le Monde Diplomatique, 1997
+- Seabrook, Jeremy. [[The Race for Riches. The Human Cost of Wealth]], Basingstoke, Marshall Pickering, 1998.
+- Weber, Max. [[The Protestant Ethic and The Spirit of Capitalism]], trad. por Talcott Parsons, London, George Allen & Unwin, 1976
+- Carroll, John. [[Ego and Soul. a Sociology of the Modern West in Search of Meaning]]
