@@ -39,3 +39,5 @@ Bibliography:
 - Taylor, Mark C., y Saarinen, Esa. [[Imageologies. Media Philosophy]], London, Routledge
 - Heller, Agnes. [[Where are we at home?]], Thesis Eleven, 1995
 - Seabrook, Jeremy. [[Landscapes of Poverty]], Oxford, Blackwell, 1985
+- Friedman, Johnathan. [[Global crises, the struggle for Cultural Identity and Intellectual Porkbarrelling. Cosmopolitan vs Locals, Ethnics and Nationals in an Era of De-hegemonisation]], Debating Cultural Hybridity, London, Zed Books, 1997
+- Bourdieu, Pierre. [[L'architecte de l'euro passe aux aveux]], Le Monde Diplomatique, 1997
