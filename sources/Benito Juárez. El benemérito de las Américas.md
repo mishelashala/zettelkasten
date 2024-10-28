@@ -31,3 +31,30 @@ Bibliography
 - Enrique, Florescano, [[Orígenes y desarrollo de la burguesía en América Latina 1700-1955]], Ciudad de México, Siglo XXI, 1985
 - Costeloe, Michael P., [[The Mexican Church and the Rebellion of the Polkos.]]
 - Juárez, Benito. [[El Espíritu de la Independencia I]], 1847
+- Guerra, François-Xavier, [[Le Mexique. De l'Ancien Régime à la Revolution]], Paris, Publicaciones de la Sorbonne, 1985
+- Reina, Leticia. [[Historia de la cuestión agraria mexicana. Estado de Oaxaca]], Ciudad de México, Juan Pablos Editor, 1988
+- Mária de Bustamante, Carlos. [[Apuntes para la historia de lGeneral D. Antonio López de Santa Anna]], Ciudad de México, Fondo de Cultura Económica, 1986
+- de Garay, J., [[An Account of the Isthmus of Tehuantepec]], London, 1846
+- Gutierrez Brockington, Lolita, [[The Levarage of Labour Managing the Cortés Haciendas in Tehuantepec, 1588-1688]], Durham, North Carolina, Duke University Press.
+- Martínez Gracida, Manuel, [[Cuadro sinóptico de los pueblos, haciendas y ranchos del Estado Libre y Soberano de Oaxaca]], Oaxaca, Gobierno del Estado
+- Archivo Juárez, [[Santa Anna y la encrucijada del estado. La dictadura (1853-55)]], Ciudad de México, Fondo de Cultura Económica, 1986
+- Ballard Perry, Laurens. [[El modelo liberal y la política práctica en la republica restaurada, 1867-76]], Historian Mexicana XXIII (1973-74)
+- Ballard Perry, Laurens. [[Juárez and Díaz. Machine Politics in Mexico]], DeKalb, Northern Illinois University Press, 1978
+- Castaños, Jesús R., [[Las Mujeres de Reforma. Margarita Maza de Juárez]]
+- Sinkin, Richard N., [[The Mexican Reform, 1856-1876. A study in liberal nation-building]], Austin, University of Texas Press, 1979
+- BBSHCP, [[Juárez y sus amigos cubanos]], 1956
+- Berry, Charles R., [[The Reform in Oaxaca, 1856-76. A microhistory of the liberal revolution]], Lincoln, Nebraska y London, University of Nebraska Press, 1981
+- Roeder, Ralph. [[Juárez and his México. A biographical history]], New York,  Viking Press, 1947
+- Gilbert Bushnell, Clyde. [[La carrera política y militar de Juan Álvarez]], Ciudad de México, Migue Ángel Porrúa, 1988
+- Abraham Johnson, Richard. [[The Mexican Revolution of Ayutla. An analyisis of the Evolution and Destruction of Santa Anna's Last Dictatorship]], Rock Island, Illinois, Augustan Book Concern, 1939
+- Hernández Rodríguez, Rosaura. [[Ignacio Comonfort. Trayectoria política. Documentos]], Ciudad de México, UNAM, 1967
+- González Navarro, Moisés. [[La Venganza del Sur]], Historia Mexicana XXI (1971-72)
+- de la Portilla, Anselmo, [[México en 1856 y 1857]], New York, Imprenta de S. Hallet, 1858
+- Rodríguez, Hernández. [[Comonfort]]
+- Arnold, Linda. [[La política de la justicia. los vencedores de Ayutla y la suprema corte mexicana]], Historia Mexicana XXIX, 1989
+- Tamayo, Jorge L., [[Epistolario de Benito Juárez]], Ciudad de México, 1957
+- Portilla, [[México en 1856]]
+- Bulnes, [[Juárez y las revoluciones]]
+- Sierra, [[Juárez]]
+- Zarco, Francisco, [[Historia del congreso extraordinario constituyente, 1856-1857]], Ciudad de México, El Colegio de México, 1956
+- Sierra, Justo. [[Evolución política del pueblo mexicano]], Ciudad de México, Imprenta Universitaria, 1948
