@@ -45,7 +45,7 @@ Bibliography
 - BBSHCP, [[Juárez y sus amigos cubanos]], 1956
 - Berry, Charles R., [[The Reform in Oaxaca, 1856-76. A microhistory of the liberal revolution]], Lincoln, Nebraska y London, University of Nebraska Press, 1981
 - Roeder, Ralph. [[Juárez and his México. A biographical history]], New York,  Viking Press, 1947
-- Gilbert Bushnell, Clyde. [[La carrera política y militar de Juan Álvarez]], Ciudad de México, Migue Ángel Porrúa, 1988
+- Gilbert Bushnell, Clyde. [[La carrera política y militar de Juan Álvarez]], Ciudad de México, Miguel Ángel Porrúa, 1988
 - Abraham Johnson, Richard. [[The Mexican Revolution of Ayutla. An analyisis of the Evolution and Destruction of Santa Anna's Last Dictatorship]], Rock Island, Illinois, Augustan Book Concern, 1939
 - Hernández Rodríguez, Rosaura. [[Ignacio Comonfort. Trayectoria política. Documentos]], Ciudad de México, UNAM, 1967
 - González Navarro, Moisés. [[La Venganza del Sur]], Historia Mexicana XXI (1971-72)
@@ -53,8 +53,35 @@ Bibliography
 - Rodríguez, Hernández. [[Comonfort]]
 - Arnold, Linda. [[La política de la justicia. los vencedores de Ayutla y la suprema corte mexicana]], Historia Mexicana XXIX, 1989
 - Tamayo, Jorge L., [[Epistolario de Benito Juárez]], Ciudad de México, 1957
-- Portilla, [[México en 1856]]
-- Bulnes, [[Juárez y las revoluciones]]
-- Sierra, [[Juárez]]
 - Zarco, Francisco, [[Historia del congreso extraordinario constituyente, 1856-1857]], Ciudad de México, El Colegio de México, 1956
 - Sierra, Justo. [[Evolución política del pueblo mexicano]], Ciudad de México, Imprenta Universitaria, 1948
+- Blázquez, Carmen. [[Miguel Lerdo de Tejada. Un liberal veracruzano en la política nacional]], Ciudad de México, El Colegio de México, 1978
+- Powell, T. G., [[El liberalismo y el campesinado en el centro de México (1850 a 1876)]], Ciudad de México, SepSetentas, 1974
+- Aldana, Mario Alfonso Rendón, [[Rebelión agraria de Manuel Lozada. 1873]], Ciudad de México, Fondo de Cultura Económica, 1983
+- Carmagni, Marcello. [[El regreso de los dioses. El proceso de reconstitución de la identidad étnica en Oaxaca, siglos XVII y XVIII]], Ciudad de México, Fondo de Cultura Económica, 1989
+- Thomson, Guy P. C., [[Popular Aspects of Liberalism in Mexico 1848-1888]], Bulletin of Latin American Research 10
+- Bolio, Paoli, [[El senado mexicano]], Ciudad de México, 1987
+- Mecham, J., Lloyd, [[The Jefe Político in Mexico]], Southwestern Social Science Quarterly XIII, 1933
+- Rabasa, Emilio, [[La Constitución y la dictadura]], Ciudad de México, Revista Rebotas, 1912
+- Villegas, Daniel Cossío, [[La constitución de 1857 y sus críticos]], Ciudad de México, Editorial Hermes, 1957
+- Hale, Charles A., [[Mexican Liberalism in the Age of Mora, 1821-1853]], New Haven, Connecticut, Yale University Press, 1968
+- Bazant, Jan, [[Mexico from Independence to 1867]], Leslie Bethell, The Cambridge History of Latin America, vol III
+- Knapp, Frank Averill, [[The Life of Sebastián Lerdo de Tejada. A study of influence and obscurity]], Austin, University of Texas Press, 1951
+- Juárez, Benito. [[Memoria sobre la revolución de diciembre de 1857 y enero de 1858]], Ciudad de México, Imprenta de I. Cumplido, 1860
+- Heliú, Jorge Sayeg, [[El constitucionalismo social mexicano. La integración constitucional de México (1858-1988)]], Ciudad de México, Fondo de Cultura Económica, 1992
+- Hamnett, Brian R., [[Revolución y contrarrevolución en México y el Perú (Liberalismo, realeza y separatismo 1800-1824)]], Ciudad de México, Fondo de Cultura Económica, 1978
+- Farris, N. M., [[Crown and Clergy in colonial Mexico 1759-1821. The crisis of ecclesiastical privilege]], London, Athlone Press, 1986
+- Hales, E. E. Y., [[Revolution and Papacy 1769-1846]], London, Eyre & Spottiswode, 1960
+- Heyer, Friedrich, [[The Catholic Church from 1648 to 1870]], London, Adam & Charles Black, 1969
+- Callahan, Willian J. & Highs, David. [[Church and Society in Catholic Europe in the Eighteenth Century]], Cambridge, Cambridge University Press, 1979
+- Hale, Charles Ac., [[The Transformation of Liberalism in Nineteenth Century Mexico]], Princeton, New Jersey, Princeton University Press, 1989
+- Staples, Anne, [[La Iglesia en la primera república federal mexicana (1824-1835)]], Ciudad de México, SepSetentas, 1976
+- Costeloe, Michael P., [[Church and State in Independent México. A study in the patronage debate 1821-1857]], London, Royal Historical Society, 1978
+- Hales, E. E. Y., [[Pio Nono]], London, Eyre & Spottiswode, 1954
+- Hobsbawm, E. J., [[The Age of Revolution, 1789-1848]], London, Weidenfeld & Nicholson, 1962
+- Chadwick, Owen. [[The Secularization of the European Mind in the 19th Century]], Cambridge, Cambridge University Press, 1975
+- Mares, José Fuentes, [[Juárez. Los Estados Unidos y Europa]], Ciudad de México, Editorial Grijalbo, 1983
+- Cuevas, Luis G., [[El porvenir de México]], Ciudad de México, Editorial Jus, 1954
+- Noriega, Alfonso, [[El pensamiento conservador y el conservadurismo mexicano]], Ciudad de México, UNAM, 1972
+- Ugarte, J. Bravo, [[Diócesis y obispos de la Iglesia mexican (1519-1965)]], Ciudad de México, Editorial Jus, 1965
+- 
