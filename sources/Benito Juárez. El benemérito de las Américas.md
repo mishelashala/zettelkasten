@@ -20,7 +20,6 @@ Bibliography
 - Alatorre, Ángeles Mendieta, [[Margarita Maza de Juárez. Antología, iconografía y efémerides]], Ciudad de México, 1972
 - Velasco Pérez, Carlos, [[Margarita Maza de Juárez. Primera dama de la nación]], Oaxaca
 - Noriega Elío, Cecilia, [[El Constituyente de 1842]], Ciuda de México, UNAM, 1987
-- Bulnes, [[Juárez y las revoluciones]]
 - Tamayo, Jorge L., [[El General Antonio de Leon. Defensor del Molino del Rey]], Ciudad de México
 - Tenenbaum, Bárbara, [[El poder de las finanzas y las finanzas del poder en México durante el sigo XIX]], Siglo XXI, 1988
 - Reina, Leticia. [[Las rebeliones campesinas de México (1819-1906)]], Ciudad de México, Siglo XXI, 1980.
@@ -84,4 +83,21 @@ Bibliography
 - Cuevas, Luis G., [[El porvenir de México]], Ciudad de México, Editorial Jus, 1954
 - Noriega, Alfonso, [[El pensamiento conservador y el conservadurismo mexicano]], Ciudad de México, UNAM, 1972
 - Ugarte, J. Bravo, [[Diócesis y obispos de la Iglesia mexican (1519-1965)]], Ciudad de México, Editorial Jus, 1965
-- 
+- Bazant, Jan. [[La Iglesia, el Estado y la sublevación de Puebla en 1856]], Historia Mexicana XXXV, 1985
+- de la Portilla, Anselmo, [[México en 1856 y 1857]], New York, Imprenta de S. Hallet, 1858
+- Mares, José Fuentes. [[Miramón. El hombre]], Ciudad de México, 1985
+- Reyes, Heroles. [[Liberalismo]]
+- Alba, Víctor. [[Las ideas sociales contemporáneas en México]], Ciudad de México, Fondo de Cultura Económica, 1960
+- Villar, Ernesto de la Torre. [[El triunfo de la república liberal, 1857-1860]], Ciudad de México, Fondo de Cultura Económica, 1960
+- Knowlton, Robert J., [[Church Property and the Mexican Reform, 1856-1910]], DeKalb, Illinois, Northern Illinois University Press, 1976
+- Staples, Anne, [[El Estado y la Iglesia en la República Restaurada y Porfiriato]], Ciudad de México, El Colegio de México, 1989
+- Galindo, Miguel Galindo y. [[La gran década nacional o relación histórica de la Guerra de Reforma, intervención extranjera y gobierno del archiduque Maximiliano, 1857-1867]], Ciudad de México, Fondo de Cultura Económica, 1987
+- Bastien, Jean-Pierre. [[Los disidentes. sociedades protestantes y Revolución en México, 1872-1991]], Ciudad de México, El Colegio de México, 1989
+- Baldwin, Deborah J., [[Protestants]]
+- Cadenhead, Ivie E., [[Benito Juárez y su época]], Ciudad de México, El Colegio de México, 1975
+- Blázquez, Carmen. [[Veracruz liberal 1858-1860]], 1996
+- Knapp, Frank A., [[Sebastián Lerdo de Tejada]], Austin, University of Texas Press, 1951
+- Cadenhead, Ivie E., [[González Ortega and the Presidency of Mexico]], 1952
+- Scholes, Walter V., [[Mexican Politics during the Juárez Regime, 1855-1872]], Columbia, University of Missouri Press, 1957
+- Quiriarte, [[Juárez y el Congreso]]
+- Tyler, Ronnie C., [[Santiago Vidaurri and the Southern Confederacy]]. Austin, Texas State Historical Association, 1973
