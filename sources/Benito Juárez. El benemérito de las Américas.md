@@ -14,7 +14,7 @@ Bibliography
 - Sánchez, Juan, [[Vida literaria de Benito Juárez]], Ciudad de México, UNAM, 1972
 - Ruíz Fernández, Jorge. [[Juárez y sus contemporáneos]], Ciudad de México, 1986
 - Sierra, Justo, [[Juárez. Su obra y su tiempo]], Ciudad de México, UNAM, 1948
-- Tamayo, JOrge L., [[Benito Juárez. documentos, discursos y correspondencia]], Ciudad de México, Secretaría del Ptraimonio Nacional, 1964-1972
+- Tamayo, Jorge L., [[Benito Juárez. documentos, discursos y correspondencia]], Ciudad de México, Secretaría del Ptraimonio Nacional, 1964-1972
 - Bulnes, Francisco. [[Juárez y las revoluciones de Ayutla y de Reforma]], Ciudad de México, 1967
 - Berruezo, María Teresa, [[La participación americana en las Cortes de Cádiz (1810-14)]], Madrid, 1986
 - Alatorre, Ángeles Mendieta, [[Margarita Maza de Juárez. Antología, iconografía y efémerides]], Ciudad de México, 1972
@@ -101,3 +101,24 @@ Bibliography
 - Scholes, Walter V., [[Mexican Politics during the Juárez Regime, 1855-1872]], Columbia, University of Missouri Press, 1957
 - Quiriarte, [[Juárez y el Congreso]]
 - Tyler, Ronnie C., [[Santiago Vidaurri and the Southern Confederacy]]. Austin, Texas State Historical Association, 1973
+- Tamayo, Jorge L., [[Juárez en Chihuahua]], Ciudad de México, Fondo de Cultura Económica, 1970
+- Almada, Francisco R., [[Juárez y Terrazas. Aclaraciones históricas]], Ciudad de México, 1958
+- Sims, Harold D., [[Espejo de caciques. los Terrazas de Chihuahua]], Historia Mexicana, 1968-1969
+- Wasserman, Mark. [[Capitalists, Caciques and Revolution. the native elite and foreign enterprise in Chihuahua, Mexico, 1854-1911]], Chapel Hill, University of North Carolina Press, 1984
+- Dabbs, Jack Autrey, [[The French Army in Mexico, 1861-1867]], La Haya, Mouton 6 Co., 1963
+- Rippy, Fred J., [[The United States and Mexico]], New York, Knopf, A. A., 1931
+- Cline, Howard, [[The United States and Mexico]], New York, Athenum, 1968
+- Zorrilla, Luis G., [[Historia de las relaciones entre México y los Estados Unidos]], Ciudad de México, Biblioteca Porrúa, 1965
+- Romero, Matías, [[Correspondencia de la legación mexicana durante la intervención extranjera, 1860-1868]], Ciudad de México, 1870-1892
+- Vázquez, Josefina Z. & Meyer, Lorenzo. [[México frente a Estados Unidos. Un ensayo histórico, 1776-1980]], Ciudad de México, El Colegio de México, 1982
+- Pahissa, Ángela Moyano, [[México y los Estados Unidos. Origenes de una relación 1819-1861]], Ciudad de México, Diamante, 1987
+- Roeder, Ralph. [[Juárez and his Mexico. A biographical history]], New York, Viking Press, 1947
+- Iglesia Calderón, Fernando. [[Las supuestas traiciones de Juárez]], Ciudad de México, Fondo de Cultura Económica, 1972
+- Schoonover, T. D., [[Mexican Lobby. Matías Romero in Washington, 1861-1867]], Lexington, University of Kentucky Press, 1986
+- Bulnes, Francisco, [[El verdadero Juárez y la verdad sobre la intervención del imperio]], Ciudad de México, Murguía, 1965
+- Hanna, Alfre Jackson & Hanna, Katherine Abbey. [[Napoleón III y México]], Ciudad de México, Fondo de Cultura Económica, 1973
+- Gordon, L., [[Lincoln and Juárez. a brief reassessment of their relationship]], HAHR, 1968
+- Frías y Soto, Hilarión. [[Juárez glorificado y la intervención y el imperio ante la verdad histórica]], Ciudad de México, 1905
+- Flavius McCaleb, Walter. [[The Public Finances of Mexico]], New York, Harper & Brothers, 1921
+- Bazan, Jan. [[Historia de la deuda exterior de México, 1823-1946]], Ciudad de México, El Colegio de México, 1968
+- Barker, Nancy N., [[The French Experience in Mexico. A history of constant misunderstanding]], Chapel Hill, University of North Carolina Press, 1978
