@@ -1,0 +1,26 @@
+## Bibliography
+
+- Alexander Christopher, [[A Pattern Language]], New York, Oxford University Press, 1977
+- Alexander, Christopher, [[A Timeless Way of Building]], New York, Oxford University Press, 1979
+- Anderson, Bruce. "Null Object", UIUC Patterns Discussion Mailing List, January 1995
+- Astels, David, [[Test-Driven Development, a Practical Guider]], Upper Saddle River, Prentice Hall, 2003
+- Barzun, Jacques, [[Simple and Direct]], 4th ed., New York, HarperCollins, 2001
+- Beck, Kent, [[The Smalltalk Best Practice Patterns]], Upper Saddle River, Prentice Hall, 1997
+- Beck, Kent, [[Test-Driven-Development by Example]], Addison-Wesley, 2002
+- Beck, Kent. [[Extreme Programming Explained]], Reading, Addison-Wesley, 1999
+- Bloch, Joshua. [[Effective Java]], Boston, Addison-Wesley, 2001
+- Cunningham, Ward, "Checks: A Pattern Language of Information Integrity". In [[Pattern Languages of Program Design]], eds. James O. Coplien and Douglas C. Schmidt. Reading, Addison-Wesley, 1995
+- Gamma, Erich, Ricahrd Helm, Ralph Johnson, and John Vlissides. [[Design Patterns. Elements of Reusable Object-Oriented Software]], Reading, Addison-Wesley, 1995
+- Evans, Eric. [[Domain-Driven Design. Tackling Complexity in the Heart of Software]], Addison-Wesley, 2003
+- Foote, Brian, and oseph Yoder. "Big Ball of Mud.", In [[Pattern Languages of Program Design]], eds Neil Harrison, Brian Foote, and Hans Rohnert. Boston, Addison-Wesley, 2000
+- Fowler, Martin. [[Refactoring. Improving the Design of Existing Code]], Boston, Addison-Wesley, 2000
+- Fowler, Martin. [[Patterns of Enterprise Application Architecture]], Boston, Addison-Wesley, 2003
+- Fowler, Martin. [[UML Distilled]], 3rd ed. Boston, Addison-Wesley, 2003
+- Gamma, Erich, and Kent Beck. [[Contributing to Eclipse]], Boston, Addison-Wesley, 2003
+- Kerievsky, Joshua. [[Pools of Insight. A Pattern Language for Study Groups]]
+- Kerievsky, Joshua, "Patterns & XP", in [[Extreme Programming Explained]], eds., Giancarlo Succi and Michele Marchesi, Boston, Addison-Wesley, 2001
+- Parnas, David. [[On the Criteria to Be Used in Decomposing Systems into Modules]], Communications of the ACM, 15(2), 1972
+- Roberts, Don, John Brand, and Ralph Johnson. [[A Refactoring Tool for Smalltalk]]
+- Solomon, Maynard. [[Mozart]], New York, HarperCollings, 1995
+- Vlissides, John, [[C++ Report]], April 1998
+- Woolf, Bobby. "The Null Object Pattern", In [[Pattern Languages of Program Design]], eds. Robert C. Martin, Dirk Riehle, and Frank Buschmann, Reading, Addison-Wesley, 1997
