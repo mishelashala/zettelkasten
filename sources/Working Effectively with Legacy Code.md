@@ -162,4 +162,106 @@ Page 13
 
 «When you break dependencies in legacy code, you often have to suspend your sense of aesthetics a bit. Some dependencies break cleanly; others end up looking less than ideal from a design point of view.», p18
 
+## Legacy Code Change Algorithm
+
+	1. Identify change points.
+	2. Find test points.
+	3. Break dependencies.
+	4. Write tests.
+	5. Make changes and refactor
+
+Page 18
+
+## Motivation behind the algorithm
+
+«We wan to make functional changes that deliver value while bringing more of the system under test.», p18
+
+## The end result of the algorithm
+
+«At the end of each programming episode, we should be able to point not only to code that provides some new feature, but also its tests.», p18
+
+## Why we need to break dependencies
+
+«Dependencies are often the most obvious impediment to testing.», p19
+
+## Another form of the legacy code paradox
+
+«Often in legacy code, you have to break dependencies to get tests in place. Ideally, we should have tests that tell us wether the things we do to break dependencies cause problems, but often we don't.», p19
+
+## Working on an ideal system
+
+«Ideally, we wouldn't have to do anything special to a class to start working with it. In an ideal system, we'd be able to create objects of any class in a test harness and start working. We'd be able to create objects, write tests for them, and then move on to other things.», p21
+
+## How we approach systems without tests
+
+«In systems that weren't develop concurrently with unit tests, we often have to break dependencies to get classes into a test harness», p21
+
+## Sensing and Separation
+
+«Generally, when we want to get tests in place, there are two reasons to break dependencies: _sensing_ and _separation_.», p21
+
+## Sensing
+
+«We break dependencies to _sense_ when we can't access values our code computes.», p21
+
+## Separation
+
+«We break dependencies to _separate_ when we cant' even get a piece of code into a test harness to run.», p21
+
+## When sensing is necessary
+
+«We can't sense the effect of our class to methods on this class, and we can't run it separately from the rest of the application.», p22
+
+## Fake objects and sensing
+
+«there is one primary tool for sensing: fake collaborators.»
+
+## Fake Objects
+
+«A _fake object_ is an object that impersonates some collaborator of your class when it is being tested.», p23
+
+## Mock Objects
+
+«Mock objects are fakes that perform assertions internally.», p27
+
+## Benefits of using mocks
+
+«The nice thing about mocks is that we can tell them what calls to expect, and then we tell them to check anyd see if they received those calls.», p28
+
+## Subtle dependencies
+
+«Reuse is tough. Even when pieces of software look independent, they often depend upon each other in subtle ways.», p30
+
+## Seam
+
+«A seam is a place where you can alter behavior in your program without editing in that place.», p31
+
+## Object Seam
+
+«We were able to change the method that is called without changing the method that calls it.», p33
+
+## Benefits of seams
+
+«If we can replace behavior at seams, we can selectively exclude dependencies in our tests.», p33
+
+## Seam implications
+
+«When you have a seam, you have a place where behavior can change.», p36
+
+## Enabling point
+
+«Every seam has an enabling point, a place where you can make the decision to use one behavior or another.», p36
+
+## Method call vs implementation
+
+«The fundamental thing to recognize is that when we look at a call in an object-oriented program, it does not define which method will actually be executed.», p40
+
+## Polymorphism
+
+«Without knowing what object `cell` points to, we just don't know. It could be the `Recalculate` method of `ValueCell` or the `Recalculate` method of `FormulaCell`.», p41
+
+## Not all methods are seams
+
+«In object-oriented languages, not all method calls are seams.», p41
+
 # Bibliography
