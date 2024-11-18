@@ -99,6 +99,67 @@ page 3.
 
 «Covering software means covering it with tests. When we have a good set of tests around a piece of code, we can make changes and find out very quickly whether the effects were good or bad.», p9
 
+## Test to show correctness
 
+«Testing done this way is really "testing to attempt to show correctness."», p10
+
+## Regression testing
+
+«In traditional terms, this is called regression testing. We periodically run tests that check for known good behavior to find out whether our software still works the way that it did in the past.», p10
+
+## We lock behavior in place
+
+«When we have tests that detect change, it is like having a vise around our code. The behavior of the code is fixed in place. When we make changes, we can know that we are changing only one piece of behavior at a time. In short, we're in control of our work.», p10
+
+## Importance of unit tests
+
+«Unit testing is one of the most important components in legacy code work.», p11
+
+## What unit tests care about
+
+«in unit testing, we are usually concerned with the most atomic behavioral units of a system.», p12
+
+## Procedural systems and testing functions
+
+«In procedural systems, it is often hard to test functions in isolation.», p12
+
+## OO systems and testing
+
+«In object-oriented systems, it is a little easier to test classes in isolation, but the fact is, classes don't generally live in isolation.», p12
+
+## The importance of error localization
+
+«As tests get further from what they test, it is harder to determine what a test failure means.», p12
+
+## The importance of fast tests
+
+«if our tests are large, execution time can be too long; our tendency will be to avoid running the tests often enough to really localize errors.», p13
+
+## Qualities of good tests
+
+	1. They run fast
+	2. They help us localize problems
+
+Page 13
+
+## To cover or not to cover, that is the question
+
+«The first thing to notice is that, given a choice, it is always safer to have tests around the changes that we make.», p14
+
+## Legacy Code Dilemma
+
+«When we change code, we should have tests in place. To put tests in place, we often have to change code.», p17
+
+## Breaking dependencies safely
+
+«When we break dependencies, we can often write tests that make more invasive changes safer. The trick is to do these initial refactorings very conservatively.», p17
+
+## Being conservative while breaking dependencies
+
+«Being conservative is the right thing to do when we can possibly introduce errors.», p17
+
+## Ugly design as result of breaking dependencies
+
+«When you break dependencies in legacy code, you often have to suspend your sense of aesthetics a bit. Some dependencies break cleanly; others end up looking less than ideal from a design point of view.», p18
 
 # Bibliography
