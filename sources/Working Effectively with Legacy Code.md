@@ -264,4 +264,151 @@ Page 18
 
 «In object-oriented languages, not all method calls are seams.», p41
 
+## Needed tools for working effectively with legacy code
+
+«What tools do you need when you work with legacy code? You need an editor (or and IDE) and your build system, but you also need a testing framework.», p45
+
+## Benefit of automatic refactoring tools
+
+«Refactoring by hand is fine, but when you have a tool that does some refactoring for you, you have a real time saver.», p45
+
+## When a change is a real refactor
+
+«A change is a refactoring only if it doesn't change behavior. Refactoring tools should verify that a change does not change behavior, and many of them do.», p46
+
+## Breaking dependencies and unit testing pays off
+
+«the work that you do to break dependencies and write tests for your changes is going to take some time, but in most cases, you are going to end up saving time—and a lot of frustration.», p57
+
+## Debugging is faster with tests
+
+«With tests around the code, nailing down functional problems is often easier.», p57
+
+## Changes cluster around
+
+«Typically, changes cluster in systems. If you are changing it today, chances are, you'll have a change close by pretty soon.», p57
+
+## The temptation of taking shortcuts
+
+«When you don't really know how long it is going to take to add a feature and you suspect that it will be longer than the amount of time you have, it is tempting to just hack the feature in the quickest way that you can.», p59
+
+## The "I'll add tests later" trap
+
+«Then if you have enough time, you can go back and do some testing and refactoring. The hard part is actually going back and doing that testing and refactoring.», p59
+
+## Sprout method
+
+«When you need to add a feature to a system and it can be formulated completely as new code, write the code in a new method. Call it from the places where the new functionality needs to be.», p59
+
+## Sprout method algorithm
+
+	1. Identify where you need to make your code change.
+	2. If the change can be formulated as a single sequence of statements in one place in a method, write down a call method that will do the work involved and then comment it out. (I like to do this before I even wreite the method so that I can get a sense of what the method call will look like in context.)
+	3. Determine what local variables you need from the source method, and make them arguments to the call.
+	4. Determine wether the sprouted method will need to return values to source method. If so, change the call so that its return value is assigned to a variable.
+	5. Develop the sprout method using _test-driven development_.
+	6. Remove the comment in the source method to enable the call.
+
+Pages 61-62
+
+## When to use the Sprout Method
+
+«I recommend using _Sprout Method_ whenever you can see the code that you are adding as a distinct piece of work or you can't get tests around a method yet. It is far preferable to adding code inline.», p62
+
+## Implication of using sprout method
+
+«For one thing, when you use it, in effect you essentially are saying that you are giving up on the source method and its class for the moment.», p62
+
+## Is about practical matters
+
+«Giving up on a method or a class is the practical choice sometimes, but it still kind of sad.», p62
+
+## Sprout method separates old from new method
+
+«When you use _Sprout Method_, you are clearly separating new cod from old code.», p62-63
+
+## Sprout Class
+
+«Consider the case in which you have to make changes to a class, but there is just no way that you are going to be able to create objects of that class in a test harness in a reasonable amount of time, so there is no way to sprout a method and write tests for it on that class.», p63
+
+## Sprout Classes and Class Genesis
+
+«Some sprouted classes never fold back into the main concepts in the application. Instead, they become new ones.», p65
+
+## First reason to use Sprout Class
+
+«Essentially two cases lead us to _Sprout Class_. In one case, your changes lead you toward adding an entirely new responsibility to one of your classes.», p66
+
+## Second reason to use Sprout Class
+
+«The other case is the one we led off this chapter with. We have a small bit of functionality that we could place into an existing class, but we can't get the class into a test harness.», p66
+
+## Advantage: Sprout Classes foment les invasive changes
+
+«The key advantage of _Sprout Class_ is that it allows you to move forward with your work with more confidence than you could have if you were making invasive changes.», p67
+
+## Disadvantage: more conceptual complexity
+
+«The key disadvantage of _Sprout Class_ is conceptual complexity.», p67
+
+## Why we are forced to use Sprout Class
+
+«At other times, you move toward it only because your back is against the wall. Things that ideally would have stayed in that one class end up in sprouts just to make safe change possible.», p67
+
+## Temporal coupling
+
+«When you first create a method, it usually does just one thing for a client. Any additional code that you add later is sort of suspicious. Changes are, you're adding it just because it has to execute at the same time as the code you're adding it to. Back in the early days of programming, this was named _temporal coupling_, and it is a pretty nasty thing when you do it excessively.», p67
+
+## Wrap Method
+
+«When you need to add behavior, you can do it in a not-so-tangled way. One of the techniques that you can use is _Sprout Method_, but there is another that is very useful at times. I call it _Wrap Method_.», p67
+
+## Why use wrap method
+
+«_Wrap Method_ is a great way to introduce seams while adding new features.», p69
+
+## Downside: introduce a new method name
+
+«The second (and more real) downside is that you have to make up a new name for the old code that you had in the method.», p69
+
+## Advantage of Wrap Method
+
+«_Sprout Method_ and _Sprout Class_ add code to existing methods and make them longer by at least one line, but _Wrap Method_ does not increase the size of existing methods.», p70
+
+## Another advantage
+
+«Another advantage of _Wrap Method_ is that it explicitly makes the new functionality independent of existing functionality. When you wrap, you are not intertwining cod for one purpose with code for another.», p70
+
+## Wrap Class
+
+«_Wrap Class_ uses pretty much the same concept. If we need to add behavior in a system, we can add it to an existing method, but we can also add it to something else that uses that method. In _Wrap Class_, that something else is another class.», p71
+
+## Wrap Class is a Decorator
+
+«This technique is called the _decorator pattern_.», p72
+
+## Benefits of Decorators
+
+«Decorator allows you to build complex behaviors by composing objects at runtime.», p72
+
+## Benefit of Wrap Class
+
+«The key to _Wrap Class_ is that you are able to add new behavior into a system without adding it to an existing class.», p74
+
+## Don't get discouraged
+
+«If you spend most of your day wading through ugly code, it's very easy to believe that it will always be ugly and that any little thing that you do to make it better is simply not worth it.», p75
+
+## Qualitative Change
+
+«when you feel the difference between good code and bad code in your gut, you are a changed person. You might even find yourself wanting to refactor far in excess of what you need to get the job done, just to make your life easier.», p76
+
+## Understanding and code size
+
+«As the amount of code in a project grows, it gradually surpasses understanding.», p77
+
+## Working in good vs bad systems
+
+«In a well-maintained system, it might take a while to figure out how to make a change, but once you do, the change is usually easy and you feel much more comfortable with the system. In a legacy system, it can take a long time to figure out what to do, and the change is difficult also.», p77
+
 # Bibliography
