@@ -1,0 +1,60 @@
+Pereyra, Carlos. México, 2da Ed., 2023 (1980)
+
+## Bibliography
+
+- Bloch, Mark. [[Introducción a la historia]], Ciudad de México, Fondo de Cultura Económica, 1972
+- Hobsbawm, Eric J., [[Tendencias actuales de la historia social y demográfica]], Ciudad de México, SepSetentas, 1976
+- Chesneaux, Jean. [[¿Hacemos tabla rasa del pasado?]], Ciudad de México, Siglo XXI Editores, 1977
+- Carr, E. H., [[¿Qué es la historia?]], Barcelona, Seix Barral.
+- Febvre, L., [[Combates por la historia]], Barcelona, Ariel, 1970
+- Langlois, C. V. y Seignobos, C., [[Introducción a los estudios históricos]], Buenos Aires, La Pléyade, 1972
+- Vilar, Piere, [[Historia marxista, historia en construcción]], Barcelona, Anagrama, 1974
+- Braudel, F., [[La historia y las ciencias sociales]], Madrid, Alianza, 1968
+- Plumb, J. H., [[La muerte del pasado]], Barcelona, Barral, 1974
+- Lewis, Bernard, [[La historia recordada, rescatada, inventada]], Ciudad de México, Fondo de Cultura Económica, 1979
+- Momigliano, A., [[The Conflict Between Paganism and Christianity in the Fourth Century]], Oxford, 1963
+- Bolgar, R., R., [[The Classical Heritage and its Beneficiaries]], Cambridge, 1954
+- de Sahagún, Bernardino, [[Historia general de las cosas de Nueva España]], edición de Ángel María Garibay, Ciudad de México, Porrúa, 1956
+- de Sahagún, Bernardino, [[Códice Florentino]], edición facsimilar, Archivo General de la Nación, Florencia, Giunti-Barberá Editores, 1976
+- Villoro, Luis, [[Los grandes momentos del indigenismo en México]], Ciudad de México, Ediciones de la Casa Chata, Centro de Investigaciones Superiores del INAH, 1979
+- Aguilar, Héctor, [[En torno a la cultura nacional]], Ciudad de México, Instituto Nacional Indigenista, 1976
+- Brading, David, [[Los orígenes del nacionalismo mexicano]], Ciudad de México, Era, 1980
+- Florescano, Enrique, [[El poder y la lucha por el poder en la histogriafía mexicana]], Ciudad de México, Cuadernos de Trabajo del Departamento de Investigaciones Históricas del INAH, 1980
+- Brandon, S. G. F., [[History, Time and Deity]], New York, Manchester University Press, 1965
+- Chatelet, François, [[El nacimiento de la historia]], Ciudad de México, Siglo XXI Editores, 1979
+- Cardoso, Ciro F. S., y Brignoli, Héctor Pérez,[[Perspectivas de la historiografía contemporánea]], Ciudad de México, Secretaría de Educación Pública, SepSetentas, 1976
+- Vilar, Pierre. [[Crecimiento y desarrollo. Economía e historia. Reflexiones sobre el caso español]], Barcelona, Ariel, 1964
+- Bloch, Marc. [[Les caractères originaux de l'histoire rurale française]], París, 1964
+- Labrousse, Ernest, [[Fluctuaciones económicas e historia social]], Madrid, Tecnos, 1962
+- Braudel, Fernand. [[El mediterráneo y el mundo mediterráneo en la época de Felipe II]], Ciudad de México, Fondo de Cultura Económica, 1976
+- Goubert, Pierre. [[Beauvais et le Beauvaisis de 1600 à 1730]], París, 1960
+- Villar, Pierre, [[La Catalogne dans l'Espagne moderna]], París, 1962
+- Emmanuel Le Roy Ladurie, [[Les payans de Languedoc]], París, 1966
+- Jacques Le Goff y Pierre Nora, [[Faire de l'historie]], París, Gallimard, 1974
+- [[¿Qué es la historia?]], Barcelona, Seix Barral, 1970
+- Revel, Jacques, [[Historie et sciences sociales: les paradigmes des Annales]], en Arnnales, 1979
+- Gutman, H., [[Slavery and the Numbers Game]], Urbana, Illinois, 1975
+- Stones, Lawrence, [[The Revival of Narrative: Reflections on a New Old History]], en Past and Present, 1979
+- Dobb, Maurice, [[Estudios sobre el desarrollo del capitalismo]], Ciudad de México, Siglo XXI Editores, 1979
+- Hilton, Rodney, [[La transición del feudalismo al capitalismo]], Barcelona, Crítica, 1977
+- Andersson, Perry, [[Transiciones de la Antigüedad al feudalismo]], Ciudad de México, Siglo XXI Editores, 1979
+- Kula, Witold, [[Teoría Económica del sistema feudal]], Ciudad de México, Siglo XXI Editores, 1974
+- Wallerstein, Immanuel, [[El moderno sistema mundial]], Ciudad de México, Siglo XXI Editores, 1979
+- Thompson, Edward P., [[La formación histórica de la clase obrera. Inglaterra: 1780-1832]], Barcelona, Laia, 1977
+- Hobsbawm, Eric J., [[Rebeldes primitivos]], Barcelona, Ariel, 1968
+- Porshnev, Boris, [[Los levantamientos populares en Francia en el siglo XVII]], Madrid, Siglo XXI, 1978
+- Le Goff y Pierre Nova, [[L'ecriture de l'histoire]], París, Gallimard, 1975
+- [[Interpretaciones de la Revolución Mexicana]], Ciudad de Mexicana, Nueva Imagen, 1979
+- Marx, Karl. [[Das Kapital]], Tomo I, Vol 2., Ciudad de México, Siglo XXI Editores, 1975
+- Marx, Karl. [[Das Kapital]], Tomo III, Vol 8., Ciudad de México, Siglo XXI Editores, 1991
+- Muriá, José María. [[Sociedad prehispánica y pensamiento europeo]], Ciudad de México, SepSetentas, 1973
+- [[Indianidad y descolonización en América Latina]], Ciudad de México, Nueva Imagen, 1979
+- Portilla, Miguel León, [[La filosofía nahuatl estudiada en sus fuentes]], Ciudad de México, 1956
+- Delorai, Vine, Jr., [[God is red]], New York, Delta Book, 1973
+- Soustelle, Jacques, [[La vida cotidiana de los aztecas en vísperas de la conquista]], Ciudad de México, Fondo de Cultura Económica, 1956
+- [[Utopía y revolución]], Ciudad de México, Nueva Imagen, 1980
+- Reinaga, Fausto, [[La revolución india]], 1969
+- [[América india y Occidente]], 1974
+- [[El pensamiento amáutico]], 1978
+- [[Tawantinsuyo Cinco sigloes de lucha contra España]], Ciudad de México, Nueva Imagen, 1989
+- [[Cuadernos Indios]], 1979
