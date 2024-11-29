@@ -23,7 +23,7 @@ Juan Miguel Zunzunegui
 - Mier, Servando, [[Memorias]], Cien de México, Méxicom 2008
 - Miralles, Juan. [[Y Bernal mintió]], Taurus, México, 2008
 - Ortíz de Montellano, [[Nicán Mopohua]], Universidad Iberoamericana, México, 1990
-- Paz, Octavío, [[El laberinto de la soledad]], FCE, México, 2004
+- Paz, Octavio, [[El laberinto de la soledad]], FCE, México, 2004
 - Ramírez, Santiago, [[El mexicano, psiología de sus motivaciones]], Grijalbo, México, 1997
 - Ramos, Samuel, [[El perfil del hombre y la cultura en México]], Austral, México, 1990
 - Riding, Alan, [[Vecinos distantes]], Joaquín Mortiz, México, 1999
