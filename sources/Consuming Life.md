@@ -21,3 +21,18 @@ Bauman, Zygmunt. (trad. de Mirta Rosenberg y Jaime Arrambide). México, FCE, 200
 - Keane, Jonathan. [[Late capitalists nights]], en _Soundings_, 2006
 - Klima, Ivan. [[Between Security and Insecurity]], New York, Thames and Hudson, 1999
 - Brewer, John & Trentman Frank (eds.), [[Consuming Cultures. Global Perspectives]], New York, Berg, 2006
+- Ekström, Karin M. & Brembeck, Helene (eds.), [[Elusive Consumption]], New York, Berg, 2004
+- Weber, Max. [[Wirtschaft und Gesellshaft]]
+- Weber, Max, (trad.) [[Economía y sociedad]], México, FCE, 1984
+- Douglas, Mary. [[In the Active Voice]], London, Routledge and Kegan Paul, 1988
+- Slater, Don, [[Consumer Culture and Modernity]], Cambridge, Polity, 1997
+- Bertman, Stephen. [[Hyperculture. The Human Cost of Speed]], Westport y London, Praeger, 1998
+- Maffesoli, Michel. [[L'Instant eternal. Le Retour du tragique dans les societés postmodernes]], París, La Table Ronde, 2000
+- Maffesoli, Michel (trad.), [[El instante eterno, El retorno de lo trágico en las sociedades posmodernas]], Barcelona, Paidós, 2001
+- Aubert, Nicole. [[Le Culte de l'urgence. La Société du temps]], París, Flammarion, 2003
+- Rosenzweig, Franz. [[Star of Redepmtion]], trd. de William W. Halo, London, Routledge and Kegan Paul, 1971
+- Rosenzweig, Franz. [[La estrella de la redención]] trad. al Español, Salamanca, Sígueme, 1997
+- Lövy, Michael. [[Fire Alam. Reading Walter Bejamin's "On the Concept of History"]], London, Verso, 2005
+- Lövy, Michael. [[Walter Benjamin. Aviso de un incendio]], trad. al Español, Buenos Aires, FCE, 2003
+- Benjamin, Walter. [[Theses on the concept of history]], en _Selected Writings_, vol 4, trad. de Edmund Jephcott _et al._, Cambridge, Harvard University Press, 2003.
+- Benjamin, Walter. [[Tesis de filosofía de la historia]], en _Angelus Novus_, Barcelona, Edhasa, 1971
