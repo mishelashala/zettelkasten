@@ -41,3 +41,20 @@ Bauman, Zygmunt. (trad. de Mirta Rosenberg y Jaime Arrambide). México, FCE, 200
 - [[Is recycling a waste of time?]], en _Observer Magazine_, 15 de Junio de 2006
 - Eriksen, Thomas Hylland. [[Tyranny of the Moment. Fast and Slow Time in the Information Age]], London, Pluto Press, 2001
 - Ramonet, Ignazio. [[La Tyrannie de la communication]], París, Galilée, 1999
+- Martin, Bill. [[Listening to the Future. The Time of Progressive Rock 1968-1978]], New York, Feedback, 1997
+- Simmer, Georg. [[The metropolis and mental life]], trad. Kurh H. Wolff, New York, Appleton-Centry-Crofts, 1969
+- Kurt H. Wolff, [[El individuo y la libertad. Ensayos de crítica de la cultura]], Barcelona, Península, 1998
+- Munro, Rolland. [[Outside paradise. melancholy and the follies of modernization]], en _Culture and Organization_, 2005
+- Monbiot, George. [[How the harmless wonderer in the woods became a mortal enemy]], en _Guardian_, 23 de Enero de 2006
+- Mathiesen, Thomas. [[Silently Silenced. Essays on the Creation of Acquiescence in Modern Society]], Winchester, Waterside Press, 2004
+- Bauman, Zygmunt. [[Individualized Society]], Cambridge, Polity, 2003
+- Bauman, Zygmunt. (trad.), [[La sociedad individualizada]], Madrid, Cátedra, 2001
+- Bauman, Zygmunt. (trad.), [[Amor Liquido]], Buenos Aires, FCE, 2005
+- Dowling, Colette. [[Cinderella Complex]], New York, Pocket Books, 1991
+- Dowling, Colette. (trad. esp.), [[El complejo de Cenicienta]], Barcelona, Grijalbo, 1982
+- Hocschild, Arlie Russell. [[The Commercialization of Intimate Life]], California, University of California Press, 2003
+- Mort, Frank. [[Competing domains. democratic subjects and consuming subjects in Britain and the United Stated since 1945]]
+- Trentmann, Frank (ed.), [[The Making of the Consumer. Knowledge. Power and Identity in the Modern World]], New York, Berg, 2006
+- Mort, Frank. [[Planning for Social Change]], 1986
+- Mort, Frank. [[Consumer and Leisure Futures]], 1997
+- Mort, Frank. [[Planning for Consumer Change]], 1999
