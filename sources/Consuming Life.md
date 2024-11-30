@@ -36,3 +36,8 @@ Bauman, Zygmunt. (trad. de Mirta Rosenberg y Jaime Arrambide). México, FCE, 200
 - Lövy, Michael. [[Walter Benjamin. Aviso de un incendio]], trad. al Español, Buenos Aires, FCE, 2003
 - Benjamin, Walter. [[Theses on the concept of history]], en _Selected Writings_, vol 4, trad. de Edmund Jephcott _et al._, Cambridge, Harvard University Press, 2003.
 - Benjamin, Walter. [[Tesis de filosofía de la historia]], en _Angelus Novus_, Barcelona, Edhasa, 1971
+- Calvino, Italo. [[Invisible Cities]], trad. de William Weaver, London, Vintage, 1997
+- Calvino, Italo. trad. [[Las ciudades invisibles]], Barcelona, Minotauro, 1993
+- [[Is recycling a waste of time?]], en _Observer Magazine_, 15 de Junio de 2006
+- Eriksen, Thomas Hylland. [[Tyranny of the Moment. Fast and Slow Time in the Information Age]], London, Pluto Press, 2001
+- Ramonet, Ignazio. [[La Tyrannie de la communication]], París, Galilée, 1999
