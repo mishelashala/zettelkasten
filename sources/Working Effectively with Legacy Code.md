@@ -415,5 +415,56 @@ Pages 61-62
 
 «Systems that are broken up into small, well-named, understandable pieces enable faster work.», p78
 
+## Lag Time
+
+«La time is the amount of time that passes between a change that you make and the moment that you get real feedback about the change.», p78
+
+## Independent modules
+
+«You should be able to compile every class or module in your system separately from the others and in its own test harness.», p78
+
+## Benefit of a small lag time
+
+«We can use feedback to try out approaches quickly. Our work becomes more like driving than like waiting at a bus stop. Our concentration is more intense because we aren't constantly waiting for the next chance to do something.», p79
+
+## Find the dependencies that get in the way
+
+«In an object-oriented system, if you have a cluster of classes that you want to build more quickly, the first thing that you to figure out is which dependencies will get in the way.», p80
+
+## Benefit of relying on interfaces
+
+«When your code depends on an interface, that dependency is usually very minor and unobtrusive. Your code doesn't have to change unless the interface changes, and interfaces typically change far less often than the code behind them. When you have an interface, you can edit classes that implement that interface or add new classes that implement the interface, all without impacting code that uses the interface.», p84
+
+## TDD is about doing one thing at a time
+
+«One of the most valuable things about TDD is that it lets us concentrate one one thing at a time.», p94
+
+## Programming by difference
+
+«We can use inheritance to introduce features without modifying a class directly. After we've added the feature, we can figure out exactly how we really want the feature integrated.», p94
+
+## Benefit of programming by difference
+
+«_Programming by Difference_ lets us introduce variations quickly in systems.», p104
+
+## Heuristic: just test it
+
+«The best way to see if you will have trouble instantiating a class in a test harness is to just try to do it. Write a test case and attempt to create an object in it. The compiler will tell you what you need to make it really work.», p107
+
+## Irritating Parameter
+
+«The thing that is really getting in our way when we want to create the validator is the `RGHConnection`. It is an _irritating parameter_.», p108
+
+## Extract Interface and Mock Objects
+
+«In this case, the best way to make a fake object is to use `Extract Interace` (362) on the `RGHConnection` class.», p108
+
+## Test code vs Production code quality
+
+«Test code doesn't have to live up to the same standards as production code.», p110
+
+## Avoid passing Null
+
+«The important thing to remember is this: Don't pass null in production code unless you have no other choice.», p111
 
 # Bibliography
