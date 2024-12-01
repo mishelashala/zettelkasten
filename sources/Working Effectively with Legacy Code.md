@@ -411,4 +411,9 @@ Pages 61-62
 
 «In a well-maintained system, it might take a while to figure out how to make a change, but once you do, the change is usually easy and you feel much more comfortable with the system. In a legacy system, it can take a long time to figure out what to do, and the change is difficult also.», p77
 
+## Manageable systems
+
+«Systems that are broken up into small, well-named, understandable pieces enable faster work.», p78
+
+
 # Bibliography
