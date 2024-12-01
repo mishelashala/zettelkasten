@@ -459,6 +459,10 @@ Pages 61-62
 
 «In this case, the best way to make a fake object is to use `Extract Interace` (362) on the `RGHConnection` class.», p108
 
+## Pass null
+
+«If we don't need anything from them in the tests, we can `Pass Null`.», p131
+
 ## Test code vs Production code quality
 
 «Test code doesn't have to live up to the same standards as production code.», p110
@@ -466,5 +470,61 @@ Pages 61-62
 ## Avoid passing Null
 
 «The important thing to remember is this: Don't pass null in production code unless you have no other choice.», p111
+
+## Breaking dependency technique: Extract Interface
+
+«`Extract Interface` (362) is just one way of breaking a dependency on a parameter.», p135
+
+## How to test a "hidden" method
+
+«If we need to test a private method, we should make it public. If making it public bothers us, in most cases, it means that our class is doing too much and we ought to fix it.», p138
+
+## Testeability as a property of good design
+
+«Good design is testable, and design that isn't testable is bad.», p139
+
+## Pain as friction for change
+
+«the pain that we feel working in a legacy code base can be an incredible impetus to change.», p141
+
+## Command/Query Seperation
+
+«A method should be a command or a query, but not both.», p147
+
+## What is a command
+
+«A cmmand is a method that can modify the state of the object but that doesn't return a value.», p147
+
+## What is a query
+
+«A query is a method that returns a value but that does not modify the object.», p147
+
+## Invisible bugs
+
+«A change in one place can affect behavior someplace else; unless we have a test in place, we might never know about it.», p151
+
+## Silent side-effects
+
+«Effects can also propagate in silent, sneaky ways. If we have an object that accepts some object as a parameter, it can modify its state, and the change is reflected back into the rest of the application.», p164
+
+## The case for encapsulation
+
+«Encapsulation helps us reason about our code. In well-ensapsulated code, there are fewer paths to follow as you try to understand it.», p171
+
+## Tests and understandability
+
+«When we have test cases for a class, we can use them to reason about our code more directly.», p171
+
+## Interception Points
+
+«An _interception point_ is simply a point in your program where you can detect the effects of a particular change.», p174
+
+## Verifying undesired changes in state
+
+«Sometimes the only way you can be sure is by writing tests at the _interception point_ and then going back to the change point to alter the code a little bit and see if the tests fail.», p178
+
+## Higher-Level Interception Points
+
+«In most cases, the best _interception point_ we can have for a change is a public method on the class we're changing.», p178
 
 # Bibliography
