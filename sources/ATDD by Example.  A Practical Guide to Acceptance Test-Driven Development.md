@@ -13,7 +13,7 @@ Markus Gärtner, Addison-Wesley, 1979
 - de Florinier, David, Adzic, Jojko, and de Florinier, Annette. [[The Secret Ninja Cucumber Scrolls]], 2010
 - Duavll, Paul M., Matyas, Steve, and Glover, Andrew. [[Continnious Integration. Improving Software Quality and Reducing Risk]], Addison-Wesley, 2007
 - Evans, Eric. [[Domain-Driven Design. Tackling Complexity in the Heart of Software]], Addison-Wesley, 2003
-- Fowler, Martin, Beck, Kent, Brant, John, Opdyke, William, and Roberts Don. [[Refactoring. Improving the Design of Existing Code. 2nd edition]], Addison-Wesley, 1999
+- Fowler, Martin, Beck, Kent, Brant, John, Opdyke, William, and Roberts Don. [[Refactoring. Improving the Design of Existing Code. 1st ed]], Addison-Wesley, 1999
 - Freeman, Steve, and Pryce, Nat. [[Growing Object-Oriented Software Guided by Tests]], Addison-Wesley, 2009
 - Gamma, Erich, Hel, Richard, Johnson, Ralph, and Vlissides, John M. [[Design Patterns. Elements of Reusable Object-Oriented Software]], Addison-Wesley, 1994
 - Gause, Donald C., and Weinberg, Gerald. [[Exploring Requirements. Quality Before Design]]. Dorset House Publishing Co Inc., U.S., 1989
