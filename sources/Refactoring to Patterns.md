@@ -13,7 +13,7 @@
 - Gamma, Erich, Ricahrd Helm, Ralph Johnson, and John Vlissides. [[Design Patterns. Elements of Reusable Object-Oriented Software]], Reading, Addison-Wesley, 1995
 - Evans, Eric. [[Domain-Driven Design. Tackling Complexity in the Heart of Software]], Addison-Wesley, 2003
 - Foote, Brian, and oseph Yoder. "Big Ball of Mud.", In [[Pattern Languages of Program Design]], eds Neil Harrison, Brian Foote, and Hans Rohnert. Boston, Addison-Wesley, 2000
-- Fowler, Martin. [[Refactoring. Improving the Design of Existing Code]], Boston, Addison-Wesley, 2000
+- Fowler, Martin. [[Refactoring. Improving the Design of Existing Code. 1st ed]], Boston, Addison-Wesley, 2000
 - Fowler, Martin. [[Patterns of Enterprise Application Architecture]], Boston, Addison-Wesley, 2003
 - Fowler, Martin. [[UML Distilled]], 3rd ed. Boston, Addison-Wesley, 2003
 - Gamma, Erich, and Kent Beck. [[Contributing to Eclipse]], Boston, Addison-Wesley, 2003

@@ -202,5 +202,5 @@ Beck, Kent, Addison-Wesley, 2003
 - Alexander, Christopher, [[Notes on the Synthesis of Form]], Cambridge, Harvard University Press, 1970
 - Gamma, Erich; Hel, Richard; Johnson, Ralph; Vlissides, John. [[Design Patterns. Elements of Reusable Object-Oriented Software]], Reading, Addison-Welsey, 1995
 - Beck, K., [[The Smalltalk Best Practice Patterns]], Prentice-Hall, 1997
-- Fowler, Martin, [[Refactoring. Improving the Design of Existing Code]], Reading, Addison-Wesley, 1999
+- Fowler, Martin, [[Refactoring. Improving the Design of Existing Code. 1st ed]], Reading, Addison-Wesley, 1999
 - Weinberg, Gerald. [[Systems Thinking. Quality Software Management]], New York, 1992
