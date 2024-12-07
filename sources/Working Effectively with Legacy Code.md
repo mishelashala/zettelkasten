@@ -527,4 +527,100 @@ Pages 61-62
 
 «In most cases, the best _interception point_ we can have for a change is a public method on the class we're changing.», p178
 
+## Pinch Point
+
+«A _pinch point_ is a narrowing in an _effect sketch_, place where tests against a couple of methods can detect changes in many methods..», p181
+
+## Pinch point as an encapsulation boundary
+
+«A pinch point is a natural encapsulation boundary. When you find a _pinch point_, you've found a narrow funnel for all of the effects of a large piece of code.», p182
+
+## When to use a pinch point
+
+«Writing tests at _pinch points_ is an ideal way to start some invasive work in part of a program.», p183
+
+## Analogy of Pinch points and owning a forest
+
+«Test at a _pinch point_ are kind of like walking several steps int oa forest and drawing a line, saying "I own all this area." After you know that you own all of that area, you can develop it by refactoring and writing more tests. Over time, you can delete the tests at the _pinch point_ and let the tests for each class support your development work.», p184
+
+## The point of regression testing
+
+«automated tests should specify a goal that we'd like to fulfill or attempt to preserve behavior that is already there. In a natural flow of development, tests that _specify_ become tests that _preserver_.», p185
+
+## Put the safety net in place first
+
+«the best approach we can take when we need to make changes is to bolster the area we want to change with tests to provide some kind of safety net.», p185
+
+## Bug finding tests vs characterization test
+
+«If we write tests based on our assumption of what the system is supposed to do, we're back to bug finding again. Bug finding is important, but our goal right now is to get tests in place that help us make changes more deterministically.», p186
+
+## Characterization tests
+
+«A _characterization test_ is a test that characterizes the actual behavior of a piece of code.», p186
+
+## Benefit of Characterization tests
+
+«The tests document the actual current behavior of the system.», p186
+
+## Characterization tests act as a Living documentation
+
+«When we adopt this perspective, our view of our tests is different: They don't have any moral authority; they just sit there documenting what pieces of the system really does.», p188
+
+## Unfamiliar code and fear
+
+«Stepping into unfamiliar code, specially legacy code, can be scarey. Over time, some people become relatively immune to the fear. They develop confidence from confronting and slaying monsters in code over and over again, but it is tough not to be afraid. Everyone runs into demons that they can't slay from time to time.», p209
+
+## Refactoring as a learning tool
+
+«One of the best techniques for learning about code is refactoring. Just get in there and start moving things around and making the code clearer.», p212
+
+## Scratch Refactoring
+
+«Check out the code from your version-control system. Forget about writing tests. Extract methods, move variables, refactor it whatever way you want to get a better understanding of it—just don't check it in again. Throw that code away. This is called _Scratch refactoring_.», p212
+
+## Benefits of Scratch Refactoring
+
+«_Scratch refactoring_ is a great way of getting down the essentials and really learning how a piece of code works.», p212
+
+## Systems decay over time
+
+«Long-lived applications tend to sprawl. They might have started out with a well-thought-out architecture, but over the years, under schedule pressure, they can get to the point where nobody really understands their complete structure.», p215
+
+## Oversimplified abstractions are not lies
+
+«When you say that the simpler thing, it kind of feels like you are lying; you just aren't telling the whole story. But you are telling a simpler story that describes an easier-to-understand architecture.», p217
+
+## The temptation of not creating new abstractions
+
+«In legacy code, it's tempting to avoid creating abstractions. When I'm looking at four or five classes that have about a thousand lines of code apiece, I'm not thinking about adding new classes as much as I'm trying to figure out what has to change.», p224
+
+## Code should reflect the conversations
+
+«Software has to satisfy stronger constraints than just being easy to talk about, but if there isn't a strong overlap between conversation and code, it's important to ask why. The answer is usually a mixcture of two tings: The code hasn't been allowed to adapt to the team's understanding, or the team needs to understand it differently.», p224
+
+## Procedural code and breaking dependencies
+
+«Because breaking dependencies in procedural code is so hard, often the best strategy is to try to get a large chunk of the code under test before doing anything else and then use those tests to get some feedback while developing.», p231
+
+## Strategy add new functions instead of extending existing ones
+
+«In procedural legacy code, it pays to bias toward introducing new functions rather than adding code to old ones.», p236
+
+## Benefit of encapsulation: code easier to reason about
+
+«Clases that are too big often hide too much. Encapsulation is great when it helps us reason about code.», p246
+
+## Over-encapsulation
+
+«However, when we encapsulate too much, the stuff inside rots and festers.», p246
+
+## How to deal with big classes
+
+«The key remedy for big classes is refactoring. It helps us break down classes into sets of smaller classes.», p246
+
+## Strategy: how to refactor big classes
+
+«In real-world cases of big classes, the key is to identify the different responsibilities and then figure out a way to incrementally move toward more focused responsibilities», p249
+
 # Bibliography
