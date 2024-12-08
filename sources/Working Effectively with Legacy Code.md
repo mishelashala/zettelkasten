@@ -671,4 +671,82 @@ Pages 61-62
 
 «Duplication removal is a powerful way of distilling a design. It not only makes a design more flexible, but it also makes changes faster and easier.», p287
 
-# Bibliography
+## Monster Method
+
+«Long methods are a pain, but monster methods are worse. A monster method is a method that is so long and so complex that you really don't feel comfortable touching it.», p289
+
+## Technique: Out Method Object
+
+«it epitomizes the idea of an invented abstraction. When you break out a method object, you create a class whose only responsibility is to do the work of your monster method.» p304
+
+## Hyperaware Editing
+
+«Hyperaware editing is a flow state, a state in which you can just shut out the world and work sensitively with the code.», p310
+
+## Technique: Preserving Signatures
+
+«One thing that I do is _Preserve Signatures_ whenever I can. When you cut/copy and paste entire method signatures from place to place you minimize any chance of errors.», p313
+
+## Technique: Leaning on the compiler
+
+«The key thing about this technique is that you are letting the compile guide you toward the changes you need to make. This doesn't mena that you stop thing about what you need to change; it just means that you can let the compiler do the legwork for you, in some cases.», p315
+
+## How to thrive in legacy systems
+
+«The key to thriving in legacy code is finding what motivates you.», p320
+
+## Heuristic: solve the worst problem first to boost morale
+
+«Pick the ugliest most obnoxious set of classes in the project, and get them under test. When you've tackled the worst problem as a team, you'll feel in control of your situation.», p321
+
+## Breaking Dependencies Technique: Extract Interface
+
+«_Extract Interface_ is often the best choice when it comes to breaking parameter dependencies.», p326
+
+## Alternative: Adapt Parameter
+
+«Use _Adapt Parameter_ when you can't use _Extract Interface_ on a parameter's class or when a parameter is difficult to fake.», p326
+
+## Intention reviling interfaces
+
+«Move toward interfaces that communicate responsibilities rather than implementation details. this makes code easier to read and easier to maintain.», p327
+
+## The point of breaking dependencies
+
+«remember that the goal is to break dependencies well enugh to get tests in place. Your bias should be toward making changes that you feel more confident in rather than changes that give you the best structure.», p328
+
+## Safety (net) first
+
+«Once you have tests in place, you can make invasive changes much more confidently.», p328
+
+## Break Out Method Object
+
+«In a nutshell, the idea behind this refactoring is to move a long method to a new class. Objects that you create using the new class are called method objects because they enbody the code of a single method.», p330
+
+## Expose Static Method
+
+«If you have a method that doesn't use instance data or methods, you can turn it into a static method. When it is static, you can get it under test without having to instantiate the class.», p345
+
+## Lazy Getter
+
+«A _lazy getter_ is a method that looks like a normal getter to all of tis callers. The key difference is that lazy getters create the object they are supposed to return the first time they are called.», p354
+
+## Extract Interface is safe
+
+«_Extract Interface_ is a one of the safest dependency-breaking techniques. If you get a step wrong, the compiler tells you immediately, so there is very little chance of introducing a bug.», p362
+
+## Extract Interface explanation
+
+«You create an interface for a class with declarations for all of the methods that you want to use in some context. When you've done that, you implement the interface to sense or separate, passing a fake object into the class you want to test.», p362
+
+## Technique: Link Substitution
+
+«Object orientation gives us wonderful opportunities to substitute one object for another. If two classes implement the same interface or have the same super-class, you can substitute one for another pretty easily.», p377
+
+## Technique: Push Down Dependency
+
+«When you use _Push Down Dependency_, you make your current class abstract. Then you create a subclass that will be your new production class, and push down all the problematic dependencies into that class.», p392
+
+## Technique: Replace Global References with Getter
+
+«One way to get past dependencies on globals in a class is to introduce getters for each of them in the class.», p399
