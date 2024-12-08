@@ -623,4 +623,52 @@ Pages 61-62
 
 «In real-world cases of big classes, the key is to identify the different responsibilities and then figure out a way to incrementally move toward more focused responsibilities», p249
 
+## Technique: Method Grouping
+
+«The key questions I asked were "Why is this method here?" and "What is it doing for the class?" Then I grouped them into lists, putting together methods that had a similar reason for being there.», p249
+
+## Too many hidden methods hide new classes
+
+«Pay attention to private and protected methods. If a class has many of them, it often indicates that there is another class in the class dying to get out.», p250
+
+## When private methods should not be private
+
+«if you have the urge to test a private method, the method shouldn't be private», p250
+
+## Move methods into separate objects when they don't make sense as a public method
+
+«if making the method publics bothers you, chances are, it is because it is part of a separate responsibility: it should be on another class.», p250
+
+## Method names sometimes lie
+
+«the names of methods don't tell the whole story. Often big classes house methods that do many things at many different levels of abstraction.», p251
+
+## Class names should explain the responsibility of the class
+
+«The _Single Responsibility Principle_ tells us that classes should have a single responsibility. If that's the case, it should have easy to write it down in a single sentence.», p260
+
+## Interface Segregation Principle
+
+«When a class is large, rarely do all of its client use all of its methods. Often we can see different groupings of methods that particular clients use. If we create an interface for each of these groupings and have the large class implement those interfaces, each client can see the bi class through that particular interface.», p263
+
+## Benefits of Interface Segregation Principle
+
+«This helps us hide information and also decreases dependency in the system.», p263
+
+## Downside of Interface Segregation Principle
+
+«Introducing SRP at the interface level requires more work. The clients of your class have to change, and you need tests for them.», p266
+
+## Benefit of removing duplication: orthogonality
+
+«When you remove duplication across classes, you end up with very small focused methods. Each of them does something that no other method does, and that gives us an incredible advantage: orthogonality.», p285
+
+## Orthogonality
+
+«Orthogonality is a fancy word for independence. If you want to change existing behavior in your code and there is exactly one place you have to go to make that change, you've got orthogonality.», p286
+
+## Benefit of removing duplication: clear and flexible design
+
+«Duplication removal is a powerful way of distilling a design. It not only makes a design more flexible, but it also makes changes faster and easier.», p287
+
 # Bibliography
