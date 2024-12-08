@@ -62,7 +62,107 @@
 
 ### How to go faster with refactoring
 
-«The key to effective refactoring is recognizing that you go faster when you take tiny steps, the code is never broken, and you can compose those small steps into substantial change.», p44
+«The key to effective refactoring is recognizing that you go faster when you take tiny steps, the code is never broken, and you can compose those small steps into substantial changes.», p44
+
+### What refactoring is about
+
+«Refactoring is all about applying small behavior preserving steps and making a big change by stringing together a sequence of these behavior-preserving steps.», p45
+
+### Benefit: broken code for small periods of time
+
+«As a result, when I'm refactoring my code doesn't spend much time in a broken state, allowing me to stop at any moment even if I haven't finished.», p46
+
+### Refactoring is about observable behavior
+
+«This is a deliberately loose term, indicating that the code should, overall, do just the same things it did before I started.», p46
+
+### What refactoring is about
+
+«Refactoring is always done to make the code "easier to understand and cheaper to modify".», p46
+
+### Why to refactor
+
+«Without refactoring, the internal design—the architecture—of software tends to decay.», p47
+
+### Eliminating duplication and design
+
+«an important aspect of improving design is to eliminate duplicated code.», p47
+
+### Kent Beck about his skills and habits
+
+«It reminds me of a statement Kent Beck often makes about himself: "I'm not a great programmer; I'm just a good programmer with great habits."», p48
+
+### Design Stamina Hypothesis
+
+«By putting our effort into a good internal design, we increase the stamina of the software effort, allowing us to go faster for longer.», p50
+
+### Change and understanding
+
+«Before I can change some code, I need to understand what it does.», p51
+
+### Using tests to move understanding from the mind to the code
+
+«As Ward Cunningham puts it, by refactoring I move the understanding from my head into the code itself. I then test that understanding by running the software to see if it still works.», p51
+
+### Preserving knowledge in the code
+
+«If I move my understanding into the code, it will be preserved longer and be visible to my colleges.», p51
+
+### Refactoring as an understanding technique
+
+«Then, as the code gets clearer, I find I can see things about the design that I could not see before.», p51
+
+### Refactoring as a tool to reach higher levels of understanding
+
+«When I'm studying code, refactoring leads me to higher levels of understanding that I would otherwise miss.», p51
+
+### Software Paradigm: Accretion
+
+«For a long time, people thought of writing software as a process of accretion:To add new features, we should be mostly adding new code.», p53
+
+### Refactoring should not be dramatic
+
+«Most refactoring effort should be the unremarkable, opportunistic kind.», p53
+
+### Premise about code reviews
+
+«Code reviews help spread knowledge through a development team.», p54
+
+### Conclusion about code reviews
+
+«The logical conclusion of this style is _pair programming_: continuous code review embedded within the process of programming.», p54
+
+### Managers and refactoring
+
+«To a manager who is genuinely savvy about technology and understands the design stamina hypothesis, refactoring isn't hard to justify. Such managers should be encouraging refactoring on a regular basis and be looking for signs that indicate a team isn't doing enough.», p55
+
+### Too much vs too little refactoring
+
+«While it does happen that teams do too much refactoring, it's much rarer than teams not doing enough.», p55
+
+### When not to refactor
+
+«If I run across code that is a mess, but I don't need to modify it, then I don't need to refactor it.», p55
+
+### The purpose of refactoring
+
+«The whole purpose of refactoring is to make use program faster, producing more value with less effort.», p56
+
+### Refactoring is not driven by moral judgments
+
+«I think the most dangerous way that people get trapped is when they try to justify refactoring in terms of "clean code," "good engineering practice," or similar moral reasons.», p56
+
+### Refactoring is driven by economic incentives
+
+«The point of refactoring isn't to show how sparkly a code base is—it is purely economic.», p56
+
+### Refactoring is driven by speed
+
+«We refactor because it makes us faster—faster to add features, faster to fix bugs.», p57
+
+### Code ownership should be shared
+
+«I recommend agains fine-grained strong code ownership. Some organizations like any piece of code to have a single programmer as an owner, and only allow that programmer to change it.», p57
 
 ## Bibliography
 
