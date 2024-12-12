@@ -44,6 +44,108 @@
 
 «The idea of _separation_ is important. Not all problematic relations between relevant entities involve alienation.»
 
+### A separation is not necessarily problematic
+
+«Separations between a subject and object do not necessarily appear problematic. Relations of indifference, for example, might or might not be problematic.»
+
+### Appropriately Problematic Separation
+
+«to be appropriately problematic—appropriate, that is, to constitute examples of alienation—the separations have to obtain between a subject and object that _properly_ belong together.»
+
+### What constitutes an appropriately problematic separation
+
+«the candidate separations have to frustrate or conflict with the proper harmony or connectedness between that subject and object.»
+
+### What constitutes a harmonious relation
+
+«To say that they properly belong together is to suggest that the harmonious or connected relation between the subject and object is rational, natural, or good.»
+
+### What constitutes a conflicting relation
+
+«And, in turn, that the separations frustrating or conflicting with that baseline condition, are correspondingly irrational, unnatural, or bad.»
+
+### The need for establishing a harmonic baseline
+
+«that is not yet to identify what might establish this baseline harmony as, say, rational, natural, or good.»
+
+### Implication: Entities without almost nothing in common
+
+«This basic idea of alienation appears to give us a diverse but distinct set of social and psychological phenomena; picking out a class of entities which might have little in common other than this problematic separation of subject and object.»
+
+### Alienation: A diagnosis without treatment
+
+«the problematic separations might indicate that something is awry with the self or social world, but do not, in themselves, offer an explation of, or suggest a solution to, those ills.»
+
+### The "modesty" of the concept of alienation
+
+«On this account, the basic idea of alienation looks conceptually rather modest.»
+
+### There's no relation between different sources of alienation
+
+«Nor, for instance, need there be any suggestion that the various forms of alienation identified by this account are necessarily related to each other; that, for example, they are all explained by the same underlying factor.»
+
+### Prevalence of alienation in liberal societies
+
+«alienation picks out an array of non-trivial social and psychological ills that are prevalent in modern liberal societies»
+
+### Alienation is different from injustice
+
+«the idea of 'alienation' is distinct from that of 'injustice' on which much modern liberal political philosophy is focused.»
+
+### Implication: there's something deeply wrong with liberal societies
+
+«The implied critical suggestion—that the concept of alienation reveals that something significant is awry with both liberal society and liberal understandings—looks far from trivial.»
+
+### Conflating alienation with fetishism and objetification
+
+«particular accounts of alienation both within and beyond those two traditions, are sometimes said—more or less plausibly—to conflate alienation either with fetishism, or with objectification.»
+
+### Alienation is not fetishism nor objetification
+
+«Even if some particular treatments of alienation do equate the relevant concepts with each other, alienation is better understood as synonymous with neither fetishism nor objectification.»
+
+### They overlap, but they are not synonymous
+
+«Rather, fetishism is only one form that alienation can take, and not all objectification involves alienation.»
+
+### Definition of Fetishism
+
+«'Fetishism' refers here to the idea of human creations which have somehow escaped (we might say that they have inappropriately separated out from) human control, achieved the appearance of independence, and come to enslave or dominate their creators.»
+
+### Fetishism as a feature of modernity
+
+«Marx sometimes treats the phenomenon of fetishism as a distinguishing feature of modernity; where previous historical epochs were characterised by the rule of persons over persons, capitalist society is characterised by the rule of things over persons.»
+
+### The Fetishism of 'Market forces'
+
+«Consider, for instance, the frequency with which 'market forces' are understood and represented within modern culture as something outside of human control, as akin to natural forces which decide our fate.»
+
+### The Fetishism of Religious Consciousness
+
+«The famous, and disarmingly simple, conclusion of Feuerbach's philosophical analysis of religious consciousness is that, in Christianity, individuals are worshipping the predicates of human nature, freed of their individual limitations and project onto an ideal entity. For Feuerbach, however, this is no purely intellectual error, but is rather ripe with social, political, and psychological consequences, as this 'deity' now comes to enslave and dominate us.»
+
+### Religious Consciousness, alienation, and fetishism
+
+«Religious consciousness, on this Feuerbachian account, looks to be a case where alienation takes the form of fetishism. That is, there is both a problematic separation here between subject and object (individuals and their own human nature), and it takes the form of human creation (the idea of species embodied in God) escaping our control, achieving the appearance of independence, and coming to enslave and dominate us.»
+
+### The 'Fetishism' of Capital
+
+«Capital takes on the appearance of an independent social power which determines what is produced, how it is produced, and the economic (and other) relations between producers.»
+
+### Fetishism is a form of alienation
+
+«rather than equating alienation and fetishism, fetishism is better thought of as a particular form that alienation might take.»
+
+### Marxist theory of 'alienated' relation with the natural world
+
+«Consider, for instance, the problematic separation sometimes said to exist between modern individuals and the natural world, as the former think of themselves and behave as if they were isolated, or cut off, or estranged, from the latter.»
+
+### Marxist theory of 'Unalienated' relation with the natural world and others
+
+«the appropriate relation between humankind and nature would involve not our instrumental domination of 'the other', but rather a sympathetic appreciation of our complex interdependence with the natural world of which we are, in reality, a part.»
+
+
+
 ## Bibliography
 
 - Chiaburu, Dan S., Tomas Thundiyil, and Jiexin Wang, 2014, [[Alienation and its Correlates. A Meta-Analysis]], _European Management Journal_, 32 (1): 24–36.
