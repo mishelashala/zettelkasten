@@ -144,7 +144,81 @@
 
 «the appropriate relation between humankind and nature would involve not our instrumental domination of 'the other', but rather a sympathetic appreciation of our complex interdependence with the natural world of which we are, in reality, a part.»
 
+### Alienation from the natural world, but not fetishism
 
+«The inappropriate modern relation between humankind and nature here looks like an example of alienation—there is a problematic separation of self and other—but certain central characteristics of fetishism would appear to be absent.»
+
+### No obvious domination relation
+
+«Moreover, the impact of humankind of this particular separation does not comfortably suit the language of enslavement and domination.»
+
+### We instrumentalize nature, instead of nature having tyranny over us
+
+«Indeed, if anything, our inappropriate separation from the natural world seems to find expression in our own ruthlessly instrumental treatment of nature, rather than in nature's tyranny over us.»
+
+### We objectify the natural world
+
+«In the present context, objectification refers rather to the role of productive activity in mediating the evolving relationship between humankind and the natural world.»
+
+### Our relation with nature
+
+«humans beings confront the natural world from an original position of scarcity, struggling through productive activity of various kinds to change the material form of nature—typically through making things—in ways that make it better reflect and satisfy their own needs and interests.»
+
+### We have a mutually transformative relation with nature
+
+«In that evolving process, both the natural world and humankind come to be transformed.»
+
+### Productive activity implies objectification
+
+«On this account, all productive activity would seem to involve objectification.»
+
+### To Marx not all productive activities take an alienated form
+
+«Marx maintains that productive activity might or might not take an alienated form.»
+
+### Productive work is 'unalienated' in communist societies
+
+«For instance, productive activity in capitalists societies is typically said to take an alienated form; where as productive activity in communist societies is typically predicated to take an unalienated or meaningful form.»
+
+### How alienated work looks like
+
+«Schematically, we might portray alienated labour (characteristic of capitalist society) as: bein forced; not involving self-realisation (not developing and deploying essential human powers); not intended to satisfy the needs of others; and not appropriately appreciated by those others.»
+
+### How 'unalienated' work looks like
+
+«And, schematically, we might portray unalienated or meaningful work (characteristic of communist society) as: being freely chosen; involving self-realisation (the development and deployment of essential human powers); being intended to satisfy the needs of others; and being appropriately appreciated by those others.»
+
+### Work as a 'necessary evil'
+
+«work is seen as a necessary evil, an unpleasant activity unfortunately required for our survival.»
+
+### Christian view: all work takes an alienated form
+
+«It owes its name to Christianity's embrace of the claim that alienated work is part of the human condition: at leas since the Fall, human beings are required to work by the sweat of their brows.»
+
+### The Christian view confuses alienation with objectification
+
+«On Marx's account, or something like it, one might characterise this Christian view as mistakenly equating objectification and alienation, confusing productive activity as such with its stunted and inhuman forms.»
+
+### What this socially alienated confusion tell us about Christianity
+
+«this kind of confusion reflects the alienated social condition of humankind, embodying an emblematic failure to understand that material production is a central realm in which human beings can express, in free and creative ways, the kind of creatures that they are.»
+
+### Some forms of alienation have nothing to do with productive activities
+
+«according to the basic idea defended here, equating alienation and objectification fails to appreciate that certain forms of alienation might have nothing at all to do with productive activity.»
+
+### Fetishism and objectification are not synonymous of alienation
+
+«neither fetishism, nor objectification, are best construed as identical with alienation. Rather than being synonymous, these concepts only partially overlap.»
+
+### How to understand fetishism
+
+«Fetishism can be understood as picking out only a subset—on some accounts perhaps a large subset–of cases of alienation.»
+
+### Objectification without alienation
+
+«And there are forms of objectification which do not involve alienation—outside of productive activity—with no obvious connection to objectification.»
 
 ## Bibliography
 
