@@ -168,6 +168,70 @@
 
 «With CI, each team member integrates with mainline at least once per day. This prevents any branches diverting too far from each other and htus greatly reduces the complexity of merges.», p58
 
+### Self-testing code is about catching bugs fast and early
+
+«The key here is being able to catch an error quickly. To do this, realistically, I need to be able to run a comprehensive test suite on the code–and run it quickly, so that I'm not deterred from running it frequently. This means that in most cases, if I want to refactor, I need to have self-testing code.», p59
+
+### Self-testing code enables bug catching and refactoring
+
+«Self-testing code not only enables refactoring—it also makes it much safer to add new features, since I can quickly find and kill any bugs I introduce.», p59
+
+### Refactoring little by little
+
+«Even when I do have tests, I don't advocate trying to refactor a complicated legacy mess into beautiful code all at once. What I prefer to do is tackle it in relevant pieces. Each time I pass through a section of the code, I try to make it a little bit better—again.», p61
+
+### How to refactor databases
+
+«As with regular refactoring, the key here is that each individual change is small yet captures a complete change, so the system still runs after applying the migration.», p61
+
+### Refactoring enables evolving architures
+
+«The real impact of refactoring on architecture is in how it can be used to form a well-designed code base that can respond gracefully to changing needs.», p62
+
+### Refactoring as a change-driving tool
+
+«As my understanding of the user needs changes, I use refactoring to adapt the architecture to those new demands.», p62
+
+### Always measure performance, don't speculate
+
+«Even if you know exactly what is going on in your system, measure performance, don't speculate. You'll learn something, and nine times out of ten, it won't be that you were right!», p66
+
+### The longer the function, the harder to understand
+
+«Since the early days of programming, people have realized that the longer a function is, the more difficult it is to understand.», p73
+
+### Heuristic: naming functions instead of explanations
+
+«A heuristic we follow is that whenever we feel the need to comment something, we write a function instead. Such a function contains the code that we wanted to comment but is named after the _intention_ of he code rather than the way it works.», p73
+
+### Rationale behind the heuristic
+
+«A good technique is to look for comments. They often signal this kind of semantic distance. A block of code with a comment that tells you what it is doing can be replaced by a method whose name is based on the comment. Even a single line is worth extracting if it needs explanation.», p73
+
+### Code Smell: Divergent Change
+
+«Divergent change occurs when one module is often changed in different ways for different reasons.», p76
+
+### Code Smell: Shotgun Surgery
+
+«Shotgun surgery is similar to divergent change but is the opposite. You whiff this when, every time you make a change, you have to make a lot of little edits to a lot of different classes. When the changes are all over the place, they are hard to find, and it's easy to miss an important change.», p77
+
+### Antidote to Divergent Changes
+
+«The fundamental rule of thumb is to put things together that change together.», p77
+
+### Code Smell: Primitive Obsession
+
+«Strings are particularly common petri dishes for this kind of odor: A telephone number is more than just a collection of characters. If nothing else, a proper type can often include consistent display logic for when it needs to be displayed in a user interface. Representing such types as such a common stench that people call them "stringly typed" variables.», p78
+
+### Polymorphism as an alternative to switch statements
+
+«They'll argue that any switch statement you see is begging for _Replace Conditional with Polymorphism_.», p79
+
+### Benefits of Immutable Data
+
+«Immutable fields don't need to be encapsulated and information derived from immutable data can be represented as fields rather than getting methods.», 83
+
 ## Bibliography
 
 - Scott W. Ambler and Pramod J. Sadalage. [[Refactoring Databases]], Addison-Wesley, 2006
