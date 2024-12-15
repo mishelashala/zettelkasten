@@ -232,6 +232,142 @@
 
 «Immutable fields don't need to be encapsulated and information derived from immutable data can be represented as fields rather than getting methods.», 83
 
+### Time division
+
+«Some time is spent figuring out what ought to be going on, some time is spent designing, but most time is spent debugging.», p85
+
+### Fixing vs finding a bug
+
+«Fixing the bug is usually pretty quick, but finding it is a nightmare.», p85
+
+### Test suits reduce debugging time
+
+«A suite of tests is a powerful bug detector that decapitates the time it takes to find bugs.», p86
+
+### Rule of thumb: run all tests at least once a day
+
+«Run tests frequently. Run those exercising the code you're working on at least every few minutes; run all tests at least daily.», p92
+
+### Testing is an iterative process
+
+«Like most aspects of programming, testing is an iterative activity. Unless you are either very skilled or very lucky, you won't get your tests right the first time.», p93
+
+### Heuristic: write test unit tests for bugs first
+
+«When you get a bug report, start by writing a unit test that exposes the bug.», p99
+
+### Code coverage does not guarantee quality
+
+«test coverage analysis is only good for identifying untested areas of the code, not for assessing the quality of a test suite.», p99
+
+### Over testing vs under testing
+
+«Gut while over-testing does happen, it's vanishingly rare compared to under-testing.», p100
+
+### Motivation behind the "extract to function" refactoring technique
+
+«If you have to spend effort looking at a fragment of code and figuring out _what_ is doing, then you should extr act it into a function and name the function after the "what".», p107
+
+### Side effect: plenty of small functions
+
+«Once I accepted this principle, I developed a habit of writing very small functions—typically, only a few lines long.», p107
+
+### Motivation behind "Extract Variable" refactoring method
+
+«Expressions can become very complex and hard to read. In such situations, local variables my help break the expression down into something more manageable.», p119
+
+### Motivation behind "Introduce Parameter Object" refactoring technique
+
+«I often see groups of data items that regularly travel together, appearing in function after function. Such a group is a data clump, and I like to replace it with a single data structure.», p140
+
+### Motivation behind "Combine Functions into Class" refactoring technique
+
+«When I see a group of functions that operate closely together on a common body of data (usually passed as arguments to the function call), I see an opportunity to form a class.», p144
+
+### Motivation behind "Split Phase" refactoring technique
+
+«When I run into code that's dealing with two different things, I look for a way to split into a separate module.», p154
+
+### Benefit of "Split Phase"
+
+«Each step has a limited scope and I can think of one step without understanding the details of others.», p155
+
+### Why decompose modules: to encapsulate
+
+«Perhaps the most important criteria to be used in decomposing modules is to identify secrets that modules should hide from the rest of the system.», p161
+
+### Motivation behind "Encapsulate Record" refactoring technique
+
+«This is why I often favor objects over records for mutable data. With objects, I can hide what is stored and provide methods for all three values. The user of the object doesn't need to know or care which is stored and which is calculated.», p162
+
+### Motivation behind "Encapsulate Collection" refactoring technique
+
+«I like encapsulating any mutable data in my programs. This makes it easier to see when and how data structures are modified, which then makes it easier to change those data structures when I need to.», p170
+
+### Motivation behind "Hide Delegate" refactoring technique
+
+«Encapsulation means that modules need to know less about other parts of the system. Then, when things change, fewer modules need to be told about the change which makes the change easier to make.», p189
+
+### Motivation behind "Move Function" refactoring technique
+
+«The heart of a good software design is its modularity—which is my ability to make most modifications to a program wile only having to understand a small part of it.», p198
+
+### How to achieve modularity
+
+«To get this modularity, I need to ensure that related software elements are grouped together and the links between them are easy to find and understand.», p198
+
+### Motivation behind "Move Statements into Function" refactoring technique
+
+«If I see the same code executed every time I call a particular function, I look to combine that repeating code into the function itself.», p213
+
+### Motivation behind "Replace Inline Code with Function Call" refactoring technique
+
+«Functions allow me to package up bits of behavior. This is useful for understanding—a named function can explain the purpose of the code rather than its mechanic.», p222
+
+### Motivation behind "Side Statements" refactoring technique
+
+«Code is easier to understand when things that are related to each other appear together. If several lines of code access the same data structure, it's best for them to be together rather than intermingled with code accessing other data structures.», p223
+
+### Motivation behind "Split Loop" refactoring techniques
+
+«if you're doing two different things in the same loop, then whenever you need to modify the loop you have to understand both things.», p228
+
+### Motivation behind "Remove Dead Code" refactoring technique
+
+«unused code is still a significant burden when trying to understand how the software works.», p237
+
+### Motivation behind "Replace Derived Variable with Query" refactoring technique
+
+«Data changes can often couple together parts of code in awkward ways, with changes in one part leading to knock-on effects that are hard to spot. In many situations, it's not realistic to entirely remove mutable data—but I do advocate minimizing the scope of mutable data at much as possible.», p248
+
+### Why value objects are easier to reason about
+
+«Value objects are generally easier to reason about, particularly because they are immutable. In general, immutable data structures are easier to deal with.», p252
+
+### Conditional logic: a common source of complexity
+
+«One of the most common sources of complexity in a program is complex conditional logic.», p260
+
+### How conditionals make code harder to understand
+
+«The problem usually lies in the fact that the code, both in the condition checks and problem usually lies in the fact that the code, both in the condition checks and in the actions, tells me what happens but can easily obscure _why_ it happens.», p260
+
+### Motivation behind "Consolidate Conditional Expression" refactoring technique
+
+«Sometimes, I run into a series of conditional checks where each check is different yet the resulting action is the same. When I see this, I use _and_ and _or_ operators to consolidate them into a single conditional check with a single result.», p263
+
+### What is an assertion
+
+«An assertion is a conditional statement that is assumed to be always true.», p302
+
+### What assertions indicated
+
+«Failure of an assertion indicates a programmer error. Assertion failures should never be checked by other parts of the system. Assertions should be written so that the program functions equally correctly if they are all removed; indeed, some languages provide assertions that can be disabled by a compile-time switch.», p302
+
+### Element of a good API
+
+«A good API clearly separates any functions that update data from those that only read data.», p305
+
 ## Bibliography
 
 - Scott W. Ambler and Pramod J. Sadalage. [[Refactoring Databases]], Addison-Wesley, 2006
