@@ -1,4 +1,4 @@
-Bibliography
+## Bibliography
 
 - Hadot, Pierre. [[The Inner Citadel The Meditations of Marcus Aurelius]]. Traducción de Maria Cucurella Miquel. Barcelona, Alpha Decay, 2013.
 

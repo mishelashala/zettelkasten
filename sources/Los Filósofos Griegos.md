@@ -1,4 +1,4 @@
-Bibliography
+## Bibliography
 
 - F. M. Cornford, [[Before and after Socrates]], Cambridge, 1932.
 - A. H. Armstrong, [[Introduction to ancient philosophy]], Methuen, 1947.

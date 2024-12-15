@@ -1,5 +1,7 @@
 Markus Gärtner, Addison-Wesley, 1979
 
+## Bibliography
+
 - Adzic, Gojko. [[Bridging the Communication Gap. Specification by Example and Agile Acceptance Testing]], Neuri Limited, 2009
 - Adzic, Gojko. [[Specification by Example. How Succesfull Teams Deliver the Right Software]], Manning Publications, 2011
 - Appelo, Jurgen. [[Management 3.0. Leading Agile Developers, Developing Agile Leaders]], Addison-Wesley, 2011

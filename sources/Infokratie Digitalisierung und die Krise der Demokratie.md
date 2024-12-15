@@ -1,4 +1,4 @@
-Bibliography
+## Bibliography
 
 - Arendt, Hannah. [[Elemente und Ursprünge totaler Herrschaft]]. Múnich, Piper, 2006, p. 964. [Hay trad. cast.: [[Los orígenes del totalitarismo]], Madrid, Taurus, 1998, trad. de Guillermo Solana].
 - Azuma, Hiroki. [[General Will 2.0. Rousseau, Freud, Google]]. Nueva York, Vertical, 2014.

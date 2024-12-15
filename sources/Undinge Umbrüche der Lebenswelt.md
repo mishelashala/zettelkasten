@@ -1,4 +1,4 @@
-Bibliography
+## Bibliography
 
 - Giorgio Agamben, [[Profanierungen]], Frankfurt, Suhrkamp, 2005, p. 22. [Traducción extraída de: _Profanaciones_, Barcelona, Anagrama, 2005, p. 34, trad. de Edgardo Dobry.]
 - Giorgio Agamben y Monica Ferrando, [[Das unsagbare Mädchen. Mythos und Mysterium der Kore]], Frankfurt, Fischer, 2012, p. 11. [Hay trad. cast.: _La muchacha indecible. Mito y misterio de Kore_, Madrid, Sexto Piso, 2014, trad. de Ernesto Kavi.]

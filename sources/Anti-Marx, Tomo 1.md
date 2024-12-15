@@ -1,6 +1,6 @@
 Anti-Marx, Tomo 1: Introducción a Marx, Juan Ramón Rallo, 2022
 
-Bibliography
+## Bibliography
 
 - Althusser, Louis. [[For Marx]]. Verso, [1965] 2005.
 - Archibald, Peter. [[Marx and the Missing Link Human Nature]]. The MacMillan Press, 1089. 

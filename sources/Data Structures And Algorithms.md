@@ -1,4 +1,4 @@
-Bibliography:
+## Bibliography:
 
 - Adel'son-Velskii, G. M., and Y. M. Landis [1962]. "An algorithm for the organization of information," Dokl. Akad. Nauk SSSR 146, pp. 263-266 English translation in [[Soviet Math]]. Dokl. 3, pp. 1259-1262.
 

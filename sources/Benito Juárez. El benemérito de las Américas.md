@@ -2,7 +2,7 @@ Brian Hamnett
 Publicación Original: Longman Group UK Limited, 1994
 Traducción: Michael Angstadt Editorial Biblioteca Nueva, Madrid, 2004
 
-Bibliography
+## Bibliography
 
 - Whitecotton, Joseph W., [[The Zapotecs. Princes, Priests, and Peasents]], University of Oklahoma Press, 1977
 - Spores, Ronalds, [[The Mixtecs in Ancient and Colonial Times]], Normal, University of Oklahoma Press, 1984

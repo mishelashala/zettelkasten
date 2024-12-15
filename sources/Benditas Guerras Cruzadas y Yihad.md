@@ -1,4 +1,4 @@
-Bibliography
+## Bibliography
 
 - Flori, Jean, [[Ricardo Corazón de León. El rey cruzado]], Edhasa, Madrid, 2002.
 - Flori, Jean, [[La guerra santa. La formación de la idea de cruzada en el Occidente cristiano]], Trotta, Madrid, 2003.

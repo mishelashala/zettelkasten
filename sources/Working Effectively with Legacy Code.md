@@ -750,3 +750,5 @@ Pages 61-62
 ## Technique: Replace Global References with Getter
 
 «One way to get past dependencies on globals in a class is to introduce getters for each of them in the class.», p399
+
+# Bibliography

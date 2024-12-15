@@ -1,6 +1,6 @@
 Dr. Marshall B. Rosenberg, 2019, Puddle Dancer Press
 
-Bibliography:
+## Bibliography
 
 - Alinsky, Saul D. [[Rules for Radicals A Pragmatic Primer for Realistic Radicals]]. Random House, Nueva York, 1971.
 - Alinsky, Saul D. [[Manual para revolucionarios pragmáticos]], Traficantes de sueños, Barcelona, 2012).

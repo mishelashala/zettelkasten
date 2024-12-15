@@ -601,7 +601,7 @@ Newport, Carl. Deep Work, 2016, p89-90
 
 ---
 
-Bibliography
+## Bibliography
 
 - Allen, David. [[Getting Things Done]]. New York: Viking, 2001.
 - Allen, Mike. “[[How ESPN and ABC Landed Nate Silver]].” _Politico_, July 22, 2013. http://www.politico.com/blogs/media/2013/07/how-espn-and-abc-landed-nate-silver-168888.html.

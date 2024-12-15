@@ -1,4 +1,4 @@
-Bibliography:
+## Bibliography:
 
 - Abrams, M. H. et al. [[The Norton Anthology of English Literature]]. Fifth edition, Volume II. New York: W. W. Norton & Co., 1986.
 - Ayer, A. J. [[Language, Truth, and Logic]] [1936]. Dover, 1946.

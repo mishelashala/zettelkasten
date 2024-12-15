@@ -1,4 +1,4 @@
-Bibliography
+## Bibliography
 
 - Alejandro de Afrodisias. [[Sobre el destino]].
 - Aristóteles. [[Ética nicomaquea]], 4.1.

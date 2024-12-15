@@ -1,4 +1,4 @@
-Bibliography
+## Bibliography
 
 - Ahrens, Sönke. 2014. [[Experiment and Exploration Forms of World-Disclosure From Epistemology to Bildung]]. Contemporary Philosophies and Theories in Education, volume 6. Dordrecht: Springer.
 

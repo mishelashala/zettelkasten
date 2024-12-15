@@ -1,4 +1,4 @@
-Bibliography
+## Bibliography
 
 1. Anscombe, G. E. M., [[Introducción al “Tractatus” de Wittgenstein]], Buenos Aires: El Ateneo, 1977.
 2. Antón Cuadrado, E. de, “[[Plenitud metafísica de la filosofía luliana]]”, Revista de Filosofía (Madrid), 22 (1963).

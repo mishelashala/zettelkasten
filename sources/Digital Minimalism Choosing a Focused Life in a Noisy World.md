@@ -1,4 +1,4 @@
-Bibliography
+## Bibliography
 
 • “Addiction.” _Substance Abuse_, Psychology Today. https://www.psychologytoday.com/basics/addiction. Accessed July 11, 2018.
 

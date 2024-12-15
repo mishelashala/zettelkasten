@@ -1,4 +1,4 @@
-Bibliography
+## Bibliography
 
 - Covey, Stephen R. [[Los 7 hábitos de la gente altamente efectiva]]. Paidós, Barcelona 2012.
 - Diógenes Laercio. [[Vidas y opiniones de los filósofos ilustres]]. Traducción de Carlos García Gual. Alianza, Madrid 2013.
