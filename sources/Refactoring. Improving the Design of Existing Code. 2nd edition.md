@@ -164,6 +164,10 @@
 
 «I recommend agains fine-grained strong code ownership. Some organizations like any piece of code to have a single programmer as an owner, and only allow that programmer to change it.», p57
 
+### The rationale behind CI
+
+«With CI, each team member integrates with mainline at least once per day. This prevents any branches diverting too far from each other and htus greatly reduces the complexity of merges.», p58
+
 ## Bibliography
 
 - Scott W. Ambler and Pramod J. Sadalage. [[Refactoring Databases]], Addison-Wesley, 2006
