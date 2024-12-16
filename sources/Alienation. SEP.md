@@ -220,6 +220,54 @@
 
 «And there are forms of objectification which do not involve alienation—outside of productive activity—with no obvious connection to objectification.»
 
+### Subjective Alienation
+
+«alienation is sometimes characterised in terms of how subjects feel, or think about, or otherwise experience, the problematic here.»
+
+### Objective Alienation
+
+«alienation is sometimes characterised in terms which make no reference to the feelings, thoughts, or experience of subjects.»
+
+### "Objective" Alienation can be controversial as a concept
+
+«Such claims are controversial in a variety of ways, but they assume alienation is about the frustration of that potential, and they make no reference to whether Julieta herself experiences that lack as a loss.»
+
+### Objective alienation without Subjective Alienation (?)
+
+«Maybe Julieta genuinely enjoys her self-realisation-lacking life, and even consciously rejects the goal of self-realisation as involving an overly demanding and unattractive ideal.»
+
+### Subjective Alienation vs Objective Alienation
+
+«Subjective alienation is sometimes disparaged—treated, for example, as concerning 'merely' how an individual 'feels' about 'real' alienation.»
+
+### Subjective alienation as a variety of alienation
+
+«subjective alienation is better understood as full-blown, meaningful, variety of alienation, albeit not the only one. If you genuinely feel alienated, then you really are (subjectively) alienated.»
+
+### For Marx capitalist societies experience both objective and subjective alienation at the same time
+
+«Marx can be characterised as diagnosing contemporary society as corresponding to situation (i); that is, as being a social world which contains objective and subjective alienation.»
+
+### For Marx Subjective and Objective alienation as different, but present at the same time
+
+«Marx allows that objective and subjective alienation are conceptually distinct, but assumes that in capitalist societies they are typically found together sociologically.»
+
+### For Marx Subjective and Objective alienation can occur from each other
+
+«However, there are passages where he deviates from that standard view, and—without abandoning the thought that objective alienation is, in some sense, more fundamental—appears to allow that, on occasion, subjective and objective alienation can also come apart sociologically.»
+
+### For Hegel he lived in a society without objective alienation, but subjective alienation
+
+«Hegel maintains that the modern social world approximates to something more like situation (iii); that is, as being a social world not containing objective alienation, but still containing subjective alienation.»
+
+### For Hegel the modern world feels like a home (zu Hause)
+
+«for Hegel, the social and political structures of the modern social world do constitute a home, because they enable individuals to realise themselves, variously as family members, economic agents, and citizens.»
+
+### 'Pure Subjective Alienation' in the real world
+
+«However, those same individuals fail to understand or appreciate that this is the case, and rather feel estranged from, and perhaps even consciously reject, the institutions of the modern social world. The resulting situation has been characterised as one of 'pure subjective alienation'.»
+
 ## Bibliography
 
 - Chiaburu, Dan S., Tomas Thundiyil, and Jiexin Wang, 2014, [[Alienation and its Correlates. A Meta-Analysis]], _European Management Journal_, 32 (1): 24–36.
