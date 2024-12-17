@@ -268,6 +268,98 @@
 
 «However, those same individuals fail to understand or appreciate that this is the case, and rather feel estranged from, and perhaps even consciously reject, the institutions of the modern social world. The resulting situation has been characterised as one of 'pure subjective alienation'.»
 
+### Where Marx and Hegel agree
+
+«They both aim to bring society closer to situation (iv)—that is, a social world lacking systemic forms of both objective and subjective alienation»
+
+### Where Marx and Hegel disagree
+
+«but, since they disagree about wether we are starting from, they propose different routes to that shared goal.»
+
+### Marx's approach
+
+«For Marx, since we start from situation (i), this requires that the existing world be overturned; that is, that both institutions and attitudes need to be revolutionased (overcoming objective and subjective alienation).»
+
+### Hegel's approach
+
+«For Hegel, since we start from situation (iii), this requires only attitudinal change: we come to recognise that the existing world is already objectively 'a home', and in this way 'reconcile' ourselves to that world, overcoming pure subjective alienation in the process.»
+
+### 'Pure Objective Alienation' in the real world
+
+«Situation (ii) consists of a social world containing objective, but not subjective, alienation—a situation that can be characterised as one of 'pure objective alienation'»
+
+### Marcuse's view on 'pure objective alienation'
+
+«in the pessimistic diagnosis of Herber Marcuse (1898-1979), articulated in _One-Dimensional Man_ (1964), individuals in advanced capitalist societies appear happy in their dysfunctional relationships—they 'identify themselves' with their estranged circumstances and gain 'satisfaction' from them.»
+
+###  'Pure Objective Alienation' without social conflict
+
+«Objective alienation still obtains, but no longer generates social conflict, since the latter is assumed—not implausibly—to require gents who feel, or experience, some form of hostility or rebelliousness towards existing social arrangements.»
+
+### 'Pure Objective Alienation' can disenfranchise people
+
+«Feelings of powerlessness and isolation, for instance, might well generate social withdrawal and individual atomism, rather than radical social engagement and cooperative endeavour, on the part of the relevant agents.»
+
+### Existentialists and 'Pure Objective Alienation'
+
+«existentialists appear to think of (something like) objective alienation as a permanent feature of all human societies.»
+
+### Existentialists feel alienated from the world
+
+«Rejecting both substantive accounts of essential human nature, and the ethical embrace of social relations that facilitate the development and deployment of those human characteristics, they rather maintain that the social world will always remain 'other', can never be a 'home'.»
+
+### Logical conclusion: the social world will never be a home for existentialists
+
+«The preferred outcome here seems to involve individuals embodying a norm of 'authenticity', which amongst other conditions—such as choosing, or committing, to their own projects—may require that they have the 'courage' to 'grasp, accept, and, perhaps even affirm' the fact that the social world is not a home for them.»
+
+### The need for a criteria of 'Impropriety'
+
+«The second of the interesting complexities broached here concerns what we can call the need for a criterion of 'impropriety'—that is, a criterion by which candidate separations might be identified as problematic or not.»
+
+### Human nature as the historical criteria of impropriety
+
+«Historically, this role—identifying whether candidate separations are problematic—has often been played by accounts of our essential human nature. However, motivated by suspicion of that latter idea, theorists of alienation have sometimes sought alternatives to fulfill that role.»
+
+### Naturalistic perspective
+
+«Simply put, separations are problematic if they frustrate, and unproblematic if they facilitate, 'self-realisation'.»
+
+### Why self-realisation is important
+
+«Self-realisation is understood here as a central part of the good life and as consisting in the development and deployment of an individual's essential human characteristics.»
+
+### Separation of individuals goes against nature
+
+«For example, the separations of individuals from each other is, [...], indirectly also a separation from human nature, from the cooperation and sociability that characterises our essential humanity.»
+
+### The need for an alternative criterion of 'impropriety'
+
+«Given the widespread contemporary suspicion of such accounts—not least, by those opposed to what is sometimes called 'essentialism' about human nature—it might be helpful to sketch a recent account of alienation which is not dependent on such assumptions (or, at least, consciously strives to avoid them).»
+
+### Critical Theory's view of alienation
+
+«Alienation is still associated with the frustration of freedom, with disruptions to something like 'self-realisation'. However, this account—unlike its forerunners and associates—is said not to be fatally compromised by a commitment to either 'strongly objectivistic' theories of the life or 'essentialist' conceptions of the self.»
+
+### Concept of Appropriation
+
+«The crucial term of art here is 'appropriation', which Jaeggi uses to refer to the capacity for, and process of, relating to our own actions and projects in ways which engage 'something like self-determination and being the author of one's own life'.»
+
+### When appropriation is successful
+
+«Appropriation is successful—and alienation is absent—when 'one is present in one's actions, steers one's life instead of being driven by it, independently appropriates social roles and is able to identify with one's desires, and is involved in the world'.»
+
+### When appropriation is unsuccessful
+
+«In contrast, appropriation is unsuccessful—and alienation is present—when there is 'an adecquate power and a lack of presence in what one does, a failure to identify with one's own actions and desires and to take part in one's own life'»
+
+### Alienation is the result of systematic disruptions of appropriation
+
+«Alienation is thus identified with systematic disruptions of the process of appropriation—in particular, in those systematic disruptions which lead us to fail to experience our actions and projects as our own.»
+
+### The four main forms of disruptions
+
+«These disruptions are said typically to take one of four forms: first, 'powerlessness' or the experience of losing control over one's own life; second, 'loss of authenticity' specially when one is unable to identify with one's own social roles; third, 'internal division' where one experiences some of one's own desires and impulses as alien; and fourth, 'indifference' or a detachment from one's own previous projects and self-understandings.»
+
 ## Bibliography
 
 - Chiaburu, Dan S., Tomas Thundiyil, and Jiexin Wang, 2014, [[Alienation and its Correlates. A Meta-Analysis]], _European Management Journal_, 32 (1): 24–36.
