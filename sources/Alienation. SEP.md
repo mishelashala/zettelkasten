@@ -360,6 +360,42 @@
 
 «These disruptions are said typically to take one of four forms: first, 'powerlessness' or the experience of losing control over one's own life; second, 'loss of authenticity' specially when one is unable to identify with one's own social roles; third, 'internal division' where one experiences some of one's own desires and impulses as alien; and fourth, 'indifference' or a detachment from one's own previous projects and self-understandings.»
 
+### The purpose of this new criterion
+
+«the conditions for identifying the relevant dysfunctional relation here are intended to be less demanding and controversial than those involving claims about our essential human nature.»
+
+### Immanent Critique
+
+«this account of alienation can be presented as a form of _immanent critique_—that is, as utilising a standpoint which judges individuals and forms of life according to standards that those individuals have themselves propounded or which those forms of lie presupose.»
+
+### Tensions between individual agency and systemic obstructions
+
+«At the individual level, this critique might involve identifying potential tensions between the conditions of treating people as responsible agents, and the obstructions to such agency that characterise alienated selves.»
+
+### Ideals vs concrete implementation
+
+«And at the social level, this critique might involve identifying potential discrepancies between modern ideals of freedom and their actual realisation in the contemporary world.»
+
+### The ethical worth of self-determination is not self-evident
+
+«one might wonder about the ground(s) of normativity; after all, that the kind of subjectivity or self-determination which appropriation embodies is recognised and valued in modern culture does not in itself establish its ethical worth.»
+
+### 'Systemic' problems and solutions seems to rely on the individual level
+
+«one might be sceptical about the degree of social criticism here, since both the sources of, and solutions to, Jaeggi's paradigmatic examples of unsuccessful appropriation ('powerless', 'loss of authenticity', 'internal division', and 'indifference') seem to focus on the 'thoughts and dispositions' of individuals rather than the structures of particular societies»
+
+### Two implicit features present in the theory of alienation
+
+«the claim that alienation is necessarily a negative, but not a wholly negative, phenomenon, is elaborated and defended; and the suggestion that some forms of moral theory or even morality itself might encourage or embody alienation is briefly outlined.»
+
+### Summary of alienation
+
+«Alienation, on the present account, consists in the separation of certain entities—a subject and some object—that properly belong together. As a result, alienation always involves a loss or lack of something of value, namely, the 'proper'—rational, natural, or good—harmony or connectedness between the relevant subject and object.»
+
+### Not so obvious: alienation is not always a negative phenomena
+
+«It is the second part of the claim which looks less obvious: that alienation is not a wholly negative phenomena, that is, that the loss or lack here may not always be the whole story, ethically speaking.»
+
 ## Bibliography
 
 - Chiaburu, Dan S., Tomas Thundiyil, and Jiexin Wang, 2014, [[Alienation and its Correlates. A Meta-Analysis]], _European Management Journal_, 32 (1): 24–36.
