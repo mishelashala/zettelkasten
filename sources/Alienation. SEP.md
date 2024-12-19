@@ -396,6 +396,74 @@
 
 «It is the second part of the claim which looks less obvious: that alienation is not a wholly negative phenomena, that is, that the loss or lack here may not always be the whole story, ethically speaking.»
 
+### Marxist narrative: Primordial Communism and separation
+
+«In the first historical stage (of past pre-capitalist societies) there is a problematic relation, but no separation.»
+
+### Marxist narrative: Future Communist Societies and separation
+
+«And in the third historical stage (of future communist societies) there is a separation but it is a healthy rather than problematic.»
+
+### Marxist narrative: Current Societies and separation
+
+«In this second historical stage of alienation, there is a loss, or lack, of something of value; roughly speaking, it is the loss or lack of the individuals' attachment to their local role and community. (More precisely, we might say that they have lost a sense of, and connection to, the community, and that they lack a healthy sense of, and connection to, the community.)»
+
+### Marxist narrative: We gain individuality by loosing community
+
+«In short, the loss or lack of something of value is not the only feature of the second stage of alienation. There is also an important gain here, namely, the achievemenet of what we can call 'individuality'.»
+
+### Wide claim
+
+«The claim goes beyond the familiar suggestion that alienation from a necessary step in certain Hegelian and Marxist developmental narratives. The suggestion here is that internal to the second stage, the stage of alienation, there is both a problematic separation from community and a positive liberation from engulfment.»
+
+### Missing an important thread
+
+«Those who see only the negative thread in alienation, and fail to see 'what is being achieved within in and distorted by it', will miss an important, albeit subtle, thread in Marx's account of the progressive character of capitalism.»
+
+### Recognising alienation is not wholly negative
+
+«The point emphasised here is that theorists—even critics—of alienation need not to assume that it is a wholly negative phenomena, ethically speaking.»
+
+### Even Marx recognisis the good elements of alienation
+
+«Marx, for example, recognises that the moment of alienation, for all its negative features, also involves the emergence of a good (individuality), which, in due course (and freed from the limitations of historical origins), will be central to the human flourishing achieved in communist society.»
+
+### Some forms of morality encourage alienation
+
+«The broad suggestion is that morality, or certain conceptions of morality, might embody, or encourage, alienation.»
+
+### Valuable forms of problematic separation
+
+«More precisely, morality, or certain conceptions of morality, might embody or encourage a problematic division of self and a problematic separation much that is valuable in our lives.»
+
+### Universalisation as a form of alienation
+
+«Consider, for example, accounts of the moral standpoint as requiring universalisation and equal consideration of all persons (Railton 1984: 138). It could seem that adopting such a standpoint requires individuals to disown or downplay the relevance of their more personal or partial (as opposed to impartial) beliefs and feelings.»
+
+### Marginal place for individual relations
+
+«If these impersonal kinds of moral consideration are to dominate our practical reasoning, then it seems likely that an individual's particular attachments, loyalties, and commitments will have, at best, a marginal place.»
+
+### Forms of morality require a separation of self and the world
+
+«So understood, morality, or certain conceptions of morality, are charged with embodying and encouraging alienation in the form of both a divided self, and a separation of self and world.»
+
+### The obsession over 'operationalising' alienation
+
+«literature is often preoccupied with 'operationalising' the concept—for instance, treating job satisfaction or absenteeism as proxies of alienated work—in order to engineer predictive models in disciplines (including education, psychology, sociology, and management studies) dealing with a variety of real world contexts»
+
+### Empirical dimensions of 'alienation'
+
+«As an example of some of the empirical dimensions of broadly philosophical accounts of alienation, consider Marx's characterisation of capitalist society as characterised by separations which frustrate self-realisation, specially self-realisation in work.»
+
+### Is work under capitalism indeed alienated?
+
+«To come to a considered judgement about the plausibility of his views on this topic, one would have to be in a position to asses, amongst other issues, whether work in capitalist societies is necessarily alienation.»
+
+### Can 'unalienated work' be possible under capitalism?
+
+«One would need to judge not only whether existing work rightly characterised as alienated (as forced, frustrating self-realisation, not intended to satisfy the needs of others, and not appropriately appreciated by those others), but also, if so, whether it could be made meaningful and unalienated without determining the very features which made the relevant society a capitalist one.»
+
 ## Bibliography
 
 - Chiaburu, Dan S., Tomas Thundiyil, and Jiexin Wang, 2014, [[Alienation and its Correlates. A Meta-Analysis]], _European Management Journal_, 32 (1): 24–36.
