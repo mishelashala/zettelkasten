@@ -1,0 +1,82 @@
+## Bibliography
+
+- "[[A C Coding Standard]]." 1991. Unix Review 9, no. 9 (September): 42-43.
+- Abdel-Hamid, Tarek K. 1989. "[[The Dynamics of Software Project Staffing. A System Dynamics Based Simulation Approach]]." IEEE Transactions on Software Engineering SE-15, no. 2 (February): 109-19.
+- Abran, Alain, et al. 2001. [[Swebok. Guide to the Software Engineering Body of Knowledge]]. Trial Version 1.00-May 2001. Los Alamitos, CA: IEEE Computer Society Press.
+- Abrash, Michael. 1992. "[[Flooring It. The Optimization Challenge]]." PC Techniques 2, no. 6 (February/March): 82-88.
+- Ackerman, A. Frank, Lynne S. Buchwald, and Frank H. Lewski. 1989. "[[Software Inspections. An Effective Verification Process]]." IEEE Software, May/June 1989, 31-36.
+- Adams, James L. 2001. [[Conceptual Blockbusting. A Guide to Better Ideas, 4th ed]]. Cambridge, MA: Perseus Publishing.
+- Aho, Alfred V., Brian W. Kernighan, and Peter J. Weinberg. 1977. [[The AWK Programming Language]]. Reading, MA: Addison-Wesley.
+- Aho, Alfred V., John E. Hopcrott, and jetfrey D. Ullman. 1983. [[Data Structures and Algorithms]]. Reading, MA: Addison-Wesley.
+- Albrecht, Allan J. 1979. "[[Measuring Application Development Productivity]]." Proceedings of the Joint SHARE/GUIDE/ IBM Application Development Symposium, October 1979: 83-92.
+- Ambler, Scott. 2003. [[Agile Database Techniques]]. New York, NY: John Wiley & Sons.
+- Anand, N. 1988. "[[Clarify Function!]]" ACM Sigplan Notices 23, no. 6 (June): 69-79.
+- Aristotle. [[The Ethics of Aristotle. The Nicomachean Ethics]]. Trans. by J.A.K. Thomson. Rev. by Hugh Tredennick. Harmond-sworth, Middlesex, England: Penguin, 1976.
+- Armenise, Pasquale. 1989. "[[A Structured Approach to Program Optimization]]." IEEE Transactions on Software Engineering SE-15, no. 2 (February): 101-8.
+- Arnold, Ken, James Gosling, and David Holmes. 2000. [[The Java Programming Language, 3d ed]]. Boston, MA: Addison-Wesley.
+- Arthur, Lowell J. 1988. [[Software Evolution. The Software Maintenance Challenge]]. New York, NY: John Wiley & Sons.
+- Augustine, N. R. 1979. "[[Augustine's Laws and Major System Development Programs]]." Defense Systems Management Review: 50-76.
+- Babich, W. 1986. [[Software Configuration Management]]. Reading, MA: Addison-Wesley.
+- Bachman, Charles W. 1973. "[[The Programmer as Navigator]]." Turing Award Lecture. Communications of the ACM 16, no. 11 (November): 653.
+- Baecker, Ronald M., and Aaron Marcus. 1990. [[Human Factors and Typography for More Readable Programs]]. Reading, MA: Addison-Wesley.
+- Bairdain, E. F. 1964. "[[Research Studies of Programmers and Programming]]." Unpublished studies reported in Boehm 1981.
+- Baker, F. Terry, and Harlan D. Mills. 1973. "[[Chief Programmer Teams]]." Datamation 19, no. 12 (December): 58-61.
+- Barbour, lan G. 1966. [[Issues in Science and Religion]]. New York, NY: Harper & Row.
+- Barbour, lan G. 1974. [[Myths, Models, and Paradigms. A Comparative Study in Science and Religion]]. New York, NY: Harper & Row.
+- Barwell, Fred, et al. 2002. [[Professional VB.NET, 2d ed]]. Birmingham, UK: Wrox.
+- Basili, V. R., and B. T. Perricone. 1984. "[[Software Errors and Complexity. An Empirical Investigation]]." Communications of the ACM 27, no. 1 January): 42-52.
+- Basili, Victor R., and Albert J. Turner. 1975. "[[Iterative Enhancement. A Practical Technique for Software Development]]." TEEE Transactions on Software Engineering SE-1, no. 4 (December): 390-96.
+- Basili, Victor R., and David M. Weiss. 1984. "[[A Methodology for Collecting Valid Software Engineering Data]]." IEEE Transactions on Software Engineering SE-10, no. 6 (November): 728-38.
+- Basili, Victor R., and Richard W. Selby. 1987. "[[Comparing the Effectiveness of Software Testing Strategies]]." IEEE Transactions on Software Engineering SE-13, no. 12 (December): 1278-96.
+- Basili, Victor R., et al. 2002. "[[Lessons learned from 25 years of process improvement. The Rise and Fall of the NASA Software Engineering Laboratory]]," Proceedings of the 24th International Conference on Software Engineering, Orlando, FL.
+- Basili, Victor R., Richard W. Selby, and David H. Hutchens. 1986. "[[Experimentation in Software Engineering]]." IEEE Transactions on Software Engineering SE-12, no. 7 July): 733-43.
+- Basili, Victor, L. Briand, and W.L. Melo. 1996. "[[A Validation of Object-Oriented Design Metrics as Quality Indicators]]," IEEE Transactions on Software Engineer-ing, October 1996, 751-761.
+- Bass, Len, Paul Clements, and Rick Kazman. 2003. [[Software Architecture in Practice, 2d ed]]. Boston, MA: Addison-Wesley.
+- Bastani, Farokh, and Sitharama lyengar. 1987. "[[The Effect of Data Structures on the Logical Complexity of Programs]]." Communications of the ACM 30, no. 3 (March): 250-59.
+- Bays, Michael, 1999. [[Software Release Methodology]]. Englewood Cliffs, NJ: Prentice Hall.
+- Beck, Kent. 2000. [[Extreme Programming Explained. Embrace Change]]. Reading, MA: Addison-Wesley.
+- Beck, Kent. 2003. [[Test-Driven Development. By Example]]. Boston, MA: Addison-Wesley.
+- Beck, Kent. 1991. "[[Think Like An Object]]." Unix Review 9, no. 10 (October): 39-43.
+- Beck, Leland L., and Thomas E. Perkins. 1983. "[[A Survey of Software Engineering Practice. Tools, Methods, and Results]]." IEEE Transactions on Software Engineering SE-9, no. 5 (September): 541-61.
+- Beizer, Boris. 1990. [[Software Testing Techniques, 2d ed]]. New York, NY: Van Nostrand Reinhold.
+- Bentley, Jon, and Donald Knuth. 1986. "[[Literate Programming]]," Communications of the ACM 29, no. 5 (May): 364-69.
+- Bender, Jon, Donald Knuth, and Doug McIlroy. 1986. "[[A Literate Program]]", Communications of the ACM 29, no. 5 (May): 471-83.
+- Bentley, Jon. 1982. [[Writing Efficient Programs]]. Englewood Cliffs, NJ: Prentice Hall.
+- Bentley, Jon. 1988. [[More Programming Pearls. Confessions of a Coder]]. Reading, MA: Addison-Wesley.
+- Bentley, Jon. 1991. "[[Software Exploratorium. Writing Efficient C Programs]]." Unix Review 9, no. 8 (August): 62-73.
+- Bentley, Jon. 2000. [[Programming Pearls, 2d ed]]. Reading, MA: Addison-Wesley.
+- Berczuk, Stephen P. and Brad Appleton. 2003. [[Software Configuration Management Patterns. Effective Teamwork, Practical Integration]]. Boston, MA: Addison-Wesley.
+- Berry, R. E., and B. A. E. Meekings. 1985. "[[A Style Analysis of C Programs]]." Communications of the ACM 28, no. 1 (January): 80-88.
+- Bersoff, Edward H. 1984. "[[Elements of Software Configuration Management]]." TEEE Transactions on Software Engineering SE-10, no. 1 January): 79-87.
+- Bersoff, Edward H., and Alan M. Davis. 1991. "[[Impacts of Life Cycle Models on Software Configuration Management]]." Communications of the ACM 34, no. 8 (August): 104-18.
+- Bersoff, Edward H., et al. 1980. [[Software Configuration Management]]. Englewood Cliffs, NJ: Prentice Hall.
+- Birrell, N. D., and M. A. Ould. 1985. [[A Practical Handbook for Software Development]]. Cambridge, England: Cambridge University Press.
+- Bloch, Joshua. 2001. [[Effective Java Programming Language Guide]]. Boston, MA: Addison-Wesley.
+- BLS 2002. [[Occupational Outlook Handbook 2002-03 Edition]], Bureau of Labor Statistics.
+- BLS 2004. [[Occupational Outlook Handbook 2004-05 Edition]], Bureau of Labor Statistics.
+- Blum, Bruce I. 1989. "[[A Software Environment. Some Surprising Empirical Results]]." Proceedings of the Fourteenth Annual Software Engineering Workshop, November 29, 1989. Greenbelt, MD: Goddard Space Flight Center. Document SEL-89-007.
+- Boddie, John. 1987. [[Crunch Mode]]. New York, NY: Yourdon Press.
+- Boehm, Barry and Richard Turner. 2004. [[Balancing Agility and Discipline. A Guide for the Perplexed]]. Boston, MA: Addison-Wesley.
+- Boehm, Barry W. 1981. [[Software Engineering Economics, 1981]]. Englewood Cliffs, NJ: Prentice Hall.
+- Boehm, Barry W. 1984. "[[Software Engineering Economics, 1984]]." IEEE Transactions on Software Engineering SE-10, no. 1 (January): 4-21.
+- Boehm, Barry W. 1987a. "[[Improving Software Productivity]]." IEEE Computer, September, 43-57.
+- Boehm, Barry W. 1987b. "[[Industrial Software Metrics Top 10 List]]." IEEE Software 4, no. 9 (September): 84-85.
+- Boehm, Barry W. 1988. "[[A Spiral Model of Software Development and Enhancement]]." Computer, May, 61-72.
+- Boehm, Barry W., and Philip N. Papaccio. 1988. "[[Understanding and Controlling Software Costs]]." IEEE Transactions on Software Engineering SE-14, no. 10 (October): 1462-77.
+- Boehm, Barry W., ed. 1989. [[Tutorial. Software Risk Management]]. Washington, DC: IEEE Computer Society Press.
+- Boehm, Barry W., et al. 1978. [[Characteristics of Software Quality]]. New York, NY: North-Holland.
+- Boehm, Barry W., et al. 1984. "[[A Software Development Environment for Improving Productivity]]." Computer, June, 30-44.
+- Boehm, Barry W., T. E. Gray, and T. Seewaldt. 1984. "[[Prototyping Versus Specifying. A Multiproject Experiment]]." IEEE Transactions on Software Engineering SE-10, no. 3 (May): 290-303. Also in Jones 1986b.
+- Boehm, Barry, et al. 2000a. [[Software Cost Estimation with Cocomo II]]. Boston, MA: Addison-Wesley.
+- Boehm, Barry. 2000b. "[[Unifying Software Engineering and Systems Engineering]]," IEEE Computer, March 2000, 114-116.
+- Boehm-Davis, Deborah, Sylvia Sheppard, and John Bailey. 1987. "[[Program Design Languages. How Much Detail Should They Include?]]" International Journal of Man-Machine Studies 27, no. 4: 337-47.
+- Böhm, C., and G. Jacopini. 1966. "[[Flow Diagrams, Turing Machines and Languages with Only Two Formation Rules]]." Communications of the ACM 9, no. 5 (May): 366-71.
+- Booch, Grady. 1987. [[Software Engineering with Ada, 2d ed]]. Menlo Park, CA: Benjamin/Cummings.
+- Booch, Grady. 1994. [[Object Oriented Analysis and Design with Applications, 2d ed]]. Boston, MA: Addison-Wesley.
+- Booth, Rick. 1997. [[Inner Loops. A Sourcebook for Fast 32-bit Software Development]]. Boston, MA: Addison-Wesley.
+- Boundy, David. 1991. "[[A Taxonomy of Programmers]]." ACM SIGSOFT Software Engineering Notes 16, no. 4 (October): 23-30.
+- Brand, Stewart. 1995. [[How Buildings Learn. What Happens After They're Built]]. Penguin USA.
+- Branstad, Martha A., John C. Cherniavsky, and W. Richards Adrion. 1980. "[[Validation, Verification, and Testing for the Individual Programmer]]." Computer, December, 24-30.
+- Brockmann, R. John. 1990. [[Writing Better Computer User Documentation. From Paper to Hypertext. Version 2.0]]. New York, NY: John Wiley & Sons.
+- Brooks, Frederick P., Jr. 1987. "[[No Silver Bullets-Essence and Accidents of Software Engineering]]." Computer, April, 10-19.
+- Brooks, Frederick P., Jr. 1995. [[The Mythical Man-Month. Essays on Software Engineering, Anniversary Edition (2d ed.)]]. Reading, MA: Addison-Wesley.
