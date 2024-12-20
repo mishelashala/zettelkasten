@@ -464,6 +464,54 @@
 
 «One would need to judge not only whether existing work rightly characterised as alienated (as forced, frustrating self-realisation, not intended to satisfy the needs of others, and not appropriately appreciated by those others), but also, if so, whether it could be made meaningful and unalienated without determining the very features which made the relevant society a capitalist one.»
 
+### Claim: Some forms of systemic alienation are not a universal feature of systems
+
+«certain systematic forms of alienation—including alienation in work—are not a universal feature (not last, they will not be a feature of a future communist order)»
+
+### Claim: some systemics forms of alienation are part of pre-capitalist societies
+
+«at least some systemic forms of alienation—presumably including the alienation that Marx identifies as embodied in religious belief—are widespread in pre-capitalist societies.»
+
+### Claim: alienation is greater in capitalist societies
+
+«systematic forms of alienation are greater in contemporary capitalist societies than in pre-capitalist societies.»
+
+### No reason to believe there won't be forms of alienation under communism
+
+«There seems no good textual or theorical reason to lumber Marx with the view that less systematic forms of alienation [...] could never exist under communism.»
+
+### Not enough historical data to measure subjective alienation
+
+«The empirical difficulties of measuring subjective alienation look considerable enough (especially given the limitations of historical data), but alienation for Marx is fundamentally about the frustration of objective human potentials, those separations that prevent self-realisation, perhaps especially self-realisation in work.»
+
+### Marx's view: the reason for alienation is the relations under capitalism
+
+«Marx's view about communism rests crucially on the judgement that is the social relations of capitalist society, and not its material or technical arrangements, which are the cause of systematic forms of alienation.»
+
+### Marx's view: it's about the organisation of productive relations
+
+«he holds that it is not the existence of science, technology, and industrialisation, as such, which are the root of the social and psychological ills of alienation, but rather how those factors tend to be organised and used in a capitalist society.»
+
+### For Marx it looks doable to reach communism
+
+«Marx is confidente, for instance, that the considerable gulf between the gloomy results of adopting machinery in the capitalist present (where it increases the repetitiveness of tasks, narrows talents, promotes 'deskilling', and so on) and the bright promise of its adoption in the communist future (where it will liberate us from uncreative tasks, create greater wealth, develop all-round abilities, and so on) is easily bridged.»
+
+### Marx's utopophobia
+
+«Marx's 'utopophobia'—that is, his reluctance to say very much, in any close detail, about the future shape of socialist society—prevents him from offering any serious discussion about how precisely this might be done.»
+
+### Marx never answered the how
+
+«As a result, even the mildest of sceptics could reasonably worry that a range of difficult empirical and other questions are evaded rather than answered here.»
+
+### Conflating universality of alienation with its existence in modern societies
+
+«This issue—wether, and to what extent, alienation can be overcome in modern societies—is sometimes conflated with the issue of whether, and not to what extent, alienation is historically universal phenomena.»
+
+### Conclusion: you are doomed to suffer alienation in developed societies
+
+«if you happen to live in an economically developed society, then—involuntary Armageddon apart—alienation will remain the fate of you and your successors.»
+
 ## Bibliography
 
 - Chiaburu, Dan S., Tomas Thundiyil, and Jiexin Wang, 2014, [[Alienation and its Correlates. A Meta-Analysis]], _European Management Journal_, 32 (1): 24–36.
