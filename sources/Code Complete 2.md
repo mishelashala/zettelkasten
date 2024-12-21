@@ -358,3 +358,52 @@
 - Nevison, John M. 1978. [[The Little Book of BASIC Style]]. Reading, MA: Addison-Wesley.
 - Newcomer, Joseph M. 2000. "[[Optimization. Your Worst Enemy]]," May 2000, www.flounder.com/optimization.htm.
 - Norcio, A. F. 1982. "[[Indentation, Documentation and Programmer Comprehension]]." [[Proceedings. Human Factors in Computer Systems]], March 15-17, 1982, Gaithersburg, MD: 118-20.
+- Norman, Donald A. 1988. [[The Psychology of Everyday Things]]. New York, NY: Basic Books. (Also published in paperback as The Design of Everyday Things. New York, NY: Doubleday, 1990.)
+- Oman, Paul and Shari Lawrence Pfleeger, eds. 1996. [[Applying Software Metrics]]. Los Alamitos, CA: IEEE Computer Society Press.
+- Oman, Paul W., and Curtis R. Cook. 1990a. "[[The Book Paradigm for Improved Maintenance]]." IEEE Software, January, 39-45.
+- Oman, Paul W., and Curtis R. Cook. 1990b. "[[Typographic Style Is More Than Cosmetic]]." Communications of the ACM 33, no. 5 (May): 506-20.
+- Ostrand, Thomas J., and Elaine J. Weyuker. 1984. "[[Collecting and Categorizing Software Error Data in an Industrial Environment]]." Journal of Systems and Software 4, no. 4 (November): 289-300.
+- Page-Jones, Meilir. 2000. [[Fundamentals of Object-Oriented Design in UML]]. Boston, MA: Addison-Wesley.
+- Page-Jones, Meilir. 1988. [[The Practical Guide to Structured Systems Design]]. Englewood Cliffs, NJ: Yourdon Press.
+- Parikh, G., and N. Zvegintzov, eds. 1983. [[Tutorial on Software Maintenance]]. Los Alamitos, CA: IEEE Computer Society Press.
+- Parikh, Girish. 1986. [[Handbook of Software Maintenance]]. New York, NY: John Wiley & Sons.
+- Parnas, David L. 1972. "[[On the Criteria to Be Used in Decomposing Systems into Modules]]." Communications of the ACM 5, no. 12 (December): 1053-58.
+- Parnas, David L. 1976. "[[On the Design and Development of Program Families]]." IEEE Transactions on Software Engineer-ing SE-2, 1 (March): 1-9.
+- Parnas, David L. 1979. "[[Designing Software for Ease of Extension and Contraction]]." IEEE Transactions on Software Engineer-ing SE-5, no. 2 (March): 128-38.
+- Parnas, David L. 1999. "[[ACM Fellow Profile. David Lorge Parnas]]," ACM Software Engineering Notes, May 1999, 10-14.
+- Parnas, David L., and Paul C. Clements. 1986. "[[A Rational Design Process. How and Why to Fake It]]." IEEE Transactions on Software Engineering SE-12, no. 2 (February): 251-57.
+- Parnas, David L., Paul C. Clements, and D M. Weiss. 1985. "[[The Modular Structure of Complex Systems]]." IEEE Transactions on Software Engineering SE-11, no. 3 (March): 259-66.
+- Perrott, Pamela. 2004. Private communication.
+- Peters, L. J., and L. L. Tripp. 1976. "[[Is Software Design Wicked]]" Datamation, Vol. 22, No. 5 (May 1976), 127-136.
+- Peters, Lawrence J. 1981. [[Handbook of Software Design. Methods and Techniques]]. New York, NY: Yourdon Press.
+- Peters, Lawrence J., and Leonard L. Tripp. 1977. "[[Comparing Software Design Methodologies]]." Datamation, Novem-ber, 89-94.
+- Peters, Tom. 1987. [[Thriving on Chaos. Handbook for a Management Revolution]]. New York, NY: Knopf.
+- Petroski, Henry. 1994. [[Design Paradigms. Case Histories of Error and Judgment in Engineering]]. Cambridge, U.K.: Cambridge University Press.
+- Pietrasanta, Alfred M. 1990. "[[Alfred M. Pietrasanta on Improving the Software Process]]." Software Engineering: Tools, Techniques, Practices 1, no. 1 (May/ June): 29-34.
+- Pietrasanta, Alfred M. 1991a. "[[A Strategy for Software Process Improvement]]." Ninth Annual Pacific Northwest Software Quality Conference, October 7-8, 1991. Oregon Convention Center, Portland, OR
+- Pietrasanta, Alfred M. 1991b. "[[Implementing Software Engineering in IBM]]." Keynote address. Ninth Annual Pacific Northwest Software Quality Conference, October 7-8, 1991. Oregon Convention Center, Portland, OR.
+- Pigoski, Thomas M. 1997. [[Practical Software Maintenance]]. New York, NY: John Wiley & Sons.
+- Pirsig, Robert M. 1974. [[Zen and the Art of Motorcycle Maintenance. An Inquiry into Values]]. William Morrow.
+- Plauger, P. J. 1988. "[[A Designer's Bibliography]]." Computer Language, July, 17-22.
+- Plauger, P.J. 1993. [[Programming on Purpose. Essays on Software Design]]. New York, NY: Prentice Hall.
+- Plum, Thomas. 1984. [[C Programming Guidelines]]. Cardiff, NJ: Plum Hall.
+- Polya, G. 1957. [[How to Solve It. A New Aspect of Mathematical Method, 2d ed]]. Princeton, NJ: Princeton University Press.
+- Post, Ed. 1983. "[[Real Programmers Don't Use Pascal]]," Datamation, July 1983, 263-265.
+- Prechelt, Lutz. 2000. "[[An Empirical Comparison of Seven Programming Languages]]," IEEE Computer, October 2000, 23-29.
+- Pressman, Roger S. 1987. [[Software Engineering. A Practitioner's Approach]]. New York, NY: McGraw-Hill.
+- Pressman, Roger S. 1988. [[Making Software Engineering Happen. A Guide for Instituting the Technology]]. Englewood Cliffs, NJ: Prentice Hall.
+- Putnam, Lawrence H. 2000. "[[Familiar Metric Management - Effort, Development Time, and Defects Interact]]." Downloadable from www.qsm.com.
+- Putnam, Lawrence H., and Ware Myers. 1992. [[Measures for Excellence. Reliable Software On Time, Within Budget]]. Engle-wood Cliffs, NJ: Yourdon Press, 1992.
+- Putnam, Lawrence H., and Ware Myers. 1997. [[Industrial Strength Software. Effective Management Using Measurement]]. Washington, DC: IEEE Computer Society Press.
+- Putnam, Lawrence H., and Ware Myers. 2000. "[[What We Have Learned]]." Downloadable from www.qsm.com, June 2000.
+- Raghavan, Sridhar A., and Donald R. Chand 1989. "[[Diffusing Software-Engineering Methods]]." IEEE Software, July, 81-90.
+- Ramsey, H. Rudy, Michael E. Atwood, and James R. Van Doren. 1983. "[[Flowcharts Versus Program Design Languages. An Experimental Comparison]]." Communications of the ACM 26, no. 6 (June): 445-49.
+- Ratliff, Wayne. 1987. [[Interview in Solution System]]. Raymond, E. S. 2000. "The Cathedral and the Bazaar," www.catb.org/~est/writings/cathedral-bazaar.
+- Raymond, Eric S. 2004. [[The Art of Unix Programming]]. Boston, MA: Addison-Wesley.
+- Rees, Michael J. 1982. "[[Automatic Assessment Aids for Pascal Programs]]." ACM Sig-plan Notices 17, no. 10 (October): 33-42.
+- Reifer, Donald. 2002. "[[How to Get the Most Out of Extreme Programming/Agile Methods]]," Proceedings, XP/Agile Universe 2002. New York, NY: Springer; 185-196.
+- Reingold, Edward M., and Wilfred J. Hansen. 1983. [[Data Structures]]. Boston, MA: Little, Brown.
+- Rettig, Marc. 1991. "[[Testing Made Palatable]]." Communications of the ACM 34, no. 5 (May): 25-29.
+- Riel, Arthur J, 1996. [[Object-Oriented Design Heuristics]]. Reading, MA: Addison-Wesley.
+- Rittel, Horst, and Melvin Webber. 1973 "[[Dilemmas in a General Theory of Planning]]." Policy Sciences 4:155-69.
+- Robertson, Suzanne, and James Robertson 1999. [[Mastering the Requirements Process]]. Reading, MA: Addison-Wesley.
