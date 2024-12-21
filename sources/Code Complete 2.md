@@ -407,3 +407,112 @@
 - Riel, Arthur J, 1996. [[Object-Oriented Design Heuristics]]. Reading, MA: Addison-Wesley.
 - Rittel, Horst, and Melvin Webber. 1973 "[[Dilemmas in a General Theory of Planning]]." Policy Sciences 4:155-69.
 - Robertson, Suzanne, and James Robertson 1999. [[Mastering the Requirements Process]]. Reading, MA: Addison-Wesley.
+- Rogers, Everett M. 1995. [[Diffusion of Innovations, 4th ed]]. New York, NY: The Free Press.
+- Rombach, H. Dieter. 1990. “[Design Measurements. Some Lessons Learned].” IEEE Software, March, 17–25.
+- Rubin, Frank. 1987. “‘[[GOTO Considered Harmful Considered Harmful]].” Letter to the editor. Communications of the ACM 30, no. 3 (March): 195–96. Follow-up letters in 30, no. 5 (May 1987): 351–55; 30, no. 6 (June 1987): 475–78; 30, no. 7 (July 1987): 632–34; 30, no. 8 (August 1987): 659–62; 30, no. 12 (December 1987): 997, 1085.
+- Sackman, H., W. J. Erikson, and E. E. Grant. 1968. “[[Exploratory Experimental Studies Comparing Online and Offline Programming Performance]].” Communications of the ACM 11, no. 1 (January): 3–11.
+- Schneider, G. Michael, Johnny Martin, and W. T. Tsai. 1992. “[[An Experimental Study of Fault Detection in User Requirements Documents]],” ACM Transactions on Software Engineering and Methodology, vol 1, no. 2, 188–204.
+- Schulmeyer, G. Gordon. 1990. [[Zero Defect Software]]. New York, NY: McGraw-Hill.
+- Sedgewick, Robert. 1997. [[Algorithms in C, Parts 1-4, 3d ed]]. Boston, MA: Addison-Wesley.
+- Sedgewick, Robert. 2001. [[Algorithms in C, Part 5, 3d ed]]. Boston, MA: Addison- Wesley.
+- Sedgewick, Robert. 1998. [[Algorithms in C++, Parts 1-4, 3d ed]]. Boston, MA: Addison- Wesley.
+- Sedgewick, Robert. 2002. [[Algorithms in C++, Part 5, 3d ed]]. Boston, MA: Addison- Wesley.
+- Sedgewick, Robert. 2002. [[Algorithms in Java, Parts 1-4, 3d ed]]. Boston, MA: Addison- Wesley.
+- Sedgewick, Robert. 2003. [[Algorithms in Java, Part 5, 3d ed]]. Boston, MA: Addison- Wesley.
+- SEI 1995. [[The Capability Maturity Mode. Guidelines for Improving the Software Process]], Software Engineering Institute, Reading, MA: Addison-Wesley, 1995.
+- SEI, 2003. “[[Process Maturity Profile. Software CMM]]®, CBA IPI and SPA Appraisal Results: 2002 Year End Update,” Soft- ware Engineering Institute, April 2003.
+- Selby, Richard W., and Victor R. Basili. 1991. “[[Analyzing Error-Prone System Structure]].” IEEE Transactions on Software Engineering SE-17, no. 2 (February): 141–52.
+- SEN 1990. “[[Subsection on Telephone Systems]],” Software Engineering Notes, April 1990, 11–14.
+- Shalloway, Alan, and James R. Trott. 2002. [[Design Patterns Explained]]. Boston, MA: Addison-Wesley.
+- Sheil, B. A. 1981. “[[The Psychological Study of Programming]].” Computing Surveys 13, no. 1 (March): 101–20.
+- Shen, Vincent Y., et al. 1985. “[[Identifying Error-Prone Software—An Empirical Study]].” IEEE Transactions on Software En- gineering SE-11, no. 4 (April): 317–24.
+- Sheppard, S. B., et al. 1978. “[[Predicting Programmers’ Ability to Modify Software]].” TR 78-388100-3, General Electric Company, May.
+- Sheppard, S. B., et al. 1979. “[[Modern Coding Practices and Programmer Performance]].” IEEE Computer 12, no. 12 (December): 41–49.
+- Shepperd, M., and D. Ince. 1989. “[[Metrics, Outlier Analysis and the Software Design Process]].” Information and Software Technology 31, no. 2 (March): 91–98.
+- Shirazi, Jack. 2000. [[Java Performance Tuning]]. Sebastopol, CA: O’Reilly & Associates.
+- Shlaer, Sally, and Stephen J. Mellor. 1988. [[Object Oriented Systems Analysis—Modeling the World in Data]]. Englewood Cliffs, NJ: Prentice Hall.
+- Shneiderman, Ben, and Richard Mayer. 1979. “[[Syntactic/Semantic Interactions in Programmer Behavior: A Model and Experimental Results]].” International Journal of Computer and Information Sci- ences 8, no. 3: 219–38.
+- Shneiderman, Ben. 1976. “[[Exploratory Experiments in Programmer Behavior]].” International Journal of Computing and Information Science 5:123–43.
+- Shneiderman, Ben. 1980. [[Software Psychology. Human Factors in Computer and Information Systems]]. Cambridge, MA: Winthrop.
+- Shneiderman, Ben. 1987. [[Designing the User Interface. Strategies for Effective Human-Computer Interaction]]. Reading, MA: Addison-Wesley.
+- Shull, et al. 2002. “[[What We Have Learned About Fighting Defects]],” Proceedings, Metrics 2002. IEEE; 249–258.
+- Simon, Herbert. 1996. [[The Sciences of the Artificial, 3d ed]]. Cambridge, MA: MIT Press.
+- Simon, Herbert. [[The Shape of Automation for Men and Management]]. Harper and Row, 1965.
+- Simonyi, Charles, and Martin Heller. 1991. “[[The Hungarian Revolution]].” BYTE, Au- gust, 131–38.
+- Smith, Connie U., and Lloyd G. Williams. 2002. [[Performance Solutions. A Practical Guide to Creating Responsive, Scalable Software]]. Boston, MA: Addison-Wesley.
+- Software Productivity Consortium. 1989. [[Ada Quality and Style. Guidelines for Professional Programmers]]. New York, NY: Van Nostrand Reinhold.
+- Soloway, Elliot, and Kate Ehrlich. 1984. “[[Empirical Studies of Programming Knowledge]].” IEEE Transactions on Soft- ware Engineering SE-10, no. 5 (Septem- ber): 595–609.
+- Soloway, Elliot, and Sitharama Iyengar, eds. 1986. [[Empirical Studies of Programmers]]. Norwood, NJ: Ablex.
+- Soloway, Elliot, Jeffrey Bonar, and Kate Ehrlich. 1983. “[[Cognitive Strategies and Looping Constructs: An Empirical Study]].” Communications of the ACM 26, no. 11 (November): 853–60.
+- Solution Systems. 1987. [[World-Class Programmers’ Editing Techniques. Interviews with Seven Programmers]]. South Weymouth, MA: Solution Systems.
+- Sommerville, Ian. 1989. [[Software Engineering, 3d ed]]. Reading, MA: Addison-Wesley.
+- Spier, Michael J. 1976. “[[Software Malpractice—A Distasteful Experience]].” Software—Practice and Experience 6:293–99.
+- Spinellis, Diomidis. 2003. [[Code Reading. The Open Source Perspective]]. Boston, MA: Addison-Wesley.
+- SPMN. 1998. [[Little Book of Configuration Management]]. Arlington, VA; Software Program Managers Network.
+- Starr, Daniel. 2003. “[[What Supports the Roof?]]” Software Development. July 2003, 38–41.
+- Stephens, Matt. 2003. “[[Emergent Design vs. Early Prototyping]],” May 26, 2003, www.softwarereality.com/design/early_prototyping.jsp
+- Stevens, Scott M. 1989. “[[Intelligent Interactive Video Simulation of a Code Inspection]].” Communications of the ACM 32, no. 7 (July): 832–43.
+- Stevens, W., G. Myers, and L. Constantine. 1974. “[[Structured Design]].” IBM Systems Journal 13, no. 2 (May): 115–39.
+- Stevens, Wayne. 1981. [[Using Structured Design]]. New York, NY: John Wiley & Sons.
+- Stroustrup, Bjarne. 1997. [[The C++ Programming Language, 3d ed]]. Reading, MA: Ad- dison-Wesley.
+- Strunk, William, and E. B. White. 2000. [[Elements of Style, 4th ed]]. Pearson.
+- Sun Microsystems, Inc. 2000. “[[How to Write Doc Comments for the Javadoc Tool]],” 2000. Available from http://java.sun.com /j2se/javadoc/writingdoccomments/.
+- Sutter, Herb. 2000. [[Exceptional C++. 47 Engineering Puzzles, Programming Problems, and Solutions]]. Boston, MA: Addison- Wesley.
+- Tackett, Buford D., III, and Buddy Van Doren. 1999. “[[Process Control for Error Free Software. A Software Success Story]],” IEEE Software, May 1999.
+- Tenner, Edward. 1997. [[Why Things Bite Back. Technology and the Revenge of Unintended Consequences]]. Vintage Books.
+- Tenny, Ted. 1988. “[[Program Readability. Procedures versus Comments]].” IEEE Transactions on Software Engineering SE- 14, no. 9 (September): 1271–79.
+- Thayer, Richard H., ed. 1990. [[Tutorial. Software Engineering Project Management]]. Los Alamitos, CA: IEEE Computer Soci- ety Press.
+- Thimbleby, Harold. 1988. “[[Delaying Commitment]].” IEEE Software, May, 78–86.
+- Thomas, Dave, and Andy Hunt. 2002. “[[Mock Objects]],” IEEE Software, May/ June 2002.
+- Thomas, Edward J., and Paul W. Oman. 1990. “[[A Bibliography of Programming Style]].” ACM Sigplan Notices 25, no. 2 (February): 7–16.
+- Thomas, Richard A. 1984. “[[Using Comments to Aid Program Maintenance]].” BYTE, May, 415–22.
+- Tripp, Leonard L., William F. Struck, and Bryan K. Pflug. 1991. “[[The Application of Multiple Team Inspections on a Safety-Critical Software Standard]],” Proceed- ings of the 4th Software Engineering Standards Application Workshop, Los Alamitos, CA: IEEE Computer Society Press.
+- U.S. Department of Labor. 1990. “[[The 1990–91 Job Outlook in Brief]].” Occupational Outlook Quarterly, Spring. U.S. Government Printing Office. Document 1990-282-086/20007.
+- Valett, J., and F. E. McGarry. 1989. “[[A Summary of Software Measurement Experiences in the Software Engineering Laboratory]].” Journal of Systems and Soft- ware 9, no. 2 (February): 137–48.
+- Van Genuchten, Michiel. 1991. “[[Why Is Software Late? An Empirical Study of Reasons for Delay in Software Development]].” IEEE Transactions on Software Engineering SE-17, no. 6 (June): 582–90.
+- Van Tassel, Dennie. 1978. [[Program Style, Design, Efficiency, Debugging, and Testing, 2d ed]]. Englewood Cliffs, NJ: Prentice Hall.
+- Vaughn-Nichols, Steven. 2003. “[[Building Better Software with Better Tools]],” IEEE Computer, September 2003, 12–14.
+- Vermeulen, Allan, et al. 2000. [[The Elements of Java Style]]. Cambridge University Press.
+- Vessey, Iris, Sirkka L. Jarvenpaa, and Noam Tractinsky. 1992. “[[Evaluation of Vendor Products. CASE Tools as Methodological Companions]].” Communications of the ACM 35, no. 4 (April): 91–105.
+- Vessey, Iris. 1986. “[[Expertise in Debugging Computer Programs. An Analysis of the Content of Verbal Protocols]].” IEEE Transactions on Systems, Man, and Cybernetics SMC-16, no. 5 (September/Octo- ber): 621–37.
+- Votta, Lawrence G., et al. 1991. “[[Investigating the Application of Capture-Recapture Techniques to Requirements and Design Reviews]].” Proceedings of the Six- teenth Annual Software Engineering Work- shop, December 4–5, 1991. Greenbelt, MD: Goddard Space Flight Center. Doc- ument SEL-91-006.
+- Walston, C. E., and C. P. Felix. 1977. “[[A Method of Programming Measurement and Estimation]].” IBM Systems Journal 16, no. 1: 54–73.
+- Ward, Robert. 1989. [[A Programmer’s Introduction to Debugging C]]. Lawrence, KS: R & D Publications.
+- Ward, William T. 1989. “[[Software Defect Prevention Using McCabe’s Complexity Metric]].” Hewlett-Packard Journal, April, 64–68.
+- Webster, Dallas E. 1988. “[[Mapping the Design Information Representation Terrain]].” IEEE Computer, December, 8–23.
+- Weeks, Kevin. 1992. “[[Is Your Code Done Yet?]]” Computer Language, April, 63–72.
+- Weiland, Richard J. 1983. [[The Programmer’s Craft. Program Construction, Computer Architecture, and Data Management]]. Reston, VA: Reston Publishing.
+- Weinberg, Gerald M. 1983. “[[Kill That Code!]]” Infosystems, August, 48–49.
+- Weinberg, Gerald M. 1998. [[The Psychology of Computer Programming. Silver Anniversary Edition]]. New York, NY: Dorset House.
+- Weinberg, Gerald M., and Edward L. Schulman. 1974. “[[Goals and Performance in Computer Programming]].” Human Fac- tors 16, no. 1 (February): 70–77.
+- Weinberg, Gerald. 1988. [[Rethinking Systems Analysis and Design]]. New York, NY: Dor- set House.
+- Weisfeld, Matt. 2004. [[The Object-Oriented Thought Process, 2d ed]]. SAMS, 2004.
+- Weiss, David M. 1975. “[[Evaluating Software Development by Error Analysis. The Data from the Architecture Research Facility]].” Journal of Systems and Software 1, no. 2 (June): 57–70.
+- Weiss, Eric A. 1972. “[[Review of The Psychology of Computer Programming, by Gerald M. Weinberg]].” ACM Computing Reviews 13, no. 4 (April): 175–76.
+- Wheeler, David, Bill Brykczynski, and Reginald Meeson. 1996. [[Software Inspection. An Industry Best Practice]]. Los Alamitos, CA: IEEE Computer Society Press.
+- Whittaker, James A. 2000 “[[What Is Software Testing? And Why Is It So Hard?]]” IEEE Software, January 2000, 70–79.
+- Whittaker, James A. 2002. [[How to Break Software. A Practical Guide to Testing]]. Boston, MA: Addison-Wesley.
+- Whorf, Benjamin. 1956. [[Language, Thought and Reality]]. Cambridge, MA: MIT Press.
+- Wiegers, Karl. 2002. [[Peer Reviews in Software. A Practical Guide]]. Boston, MA: Ad- dison-Wesley.
+- Wiegers, Karl. 2003. [[Software Requirements, 2d ed]]. Redmond, WA: Microsoft Press.
+- Williams, Laurie, and Robert Kessler. 2002. [[Pair Programming Illuminated]]. Boston, MA: Addison-Wesley.
+- Willis, Ron R., et al. 1998. “[[Hughes Air-craft’s Widespread Deployment of a Continuously Improving Software Process]],” Software Engineering Institute/ Carnegie Mellon University, CMU/SEI- 98-TR-006, May 1998.
+- Wilson, Steve, and Jeff Kesselman. 2000. [[Java Platform Performance. Strategies and Tactics]]. Boston, MA: Addison-Wesley.
+- Wirth, Niklaus. 1995. “[[A Plea for Lean Software]],” IEEE Computer, February 1995.
+- Wirth, Niklaus. 1971. “[[Program Development by Stepwise Refinement]].” Communications of the ACM 14, no. 4 (April): 221–27.
+- Wirth, Niklaus. 1986. [[Algorithms and Data Structures]]. Englewood Cliffs, NJ: Prentice Hall.
+- Woodcock, Jim, and Martin Loomes. 1988. [[Software Engineering Mathematics]]. Reading, MA: Addison-Wesley.
+- Woodfield, S. N., H. E. Dunsmore, and V. Y. Shen. 1981. “[[The Effect of Modularization and Comments on Program Comprehension]].” Proceedings of the Fifth International Conference on Software Engi- neering, March 1981, 215–23.
+- Wulf, W. A. 1972. “[[A Case Against the GOTO]].” Proceedings of the 25th National ACM Conference, August 1972, 791–97.
+- Youngs, Edward A. 1974. “[[Human Errors in Programming]].” International Journal of Man-Machine Studies 6:361–76.
+- Yourdon, Edward, and Larry L. Constan- tine. 1979. [[Structured Design. Fundamentals of a Discipline of Computer Program and Systems Design]]. Englewood Cliffs, NJ: Yourdon Press.
+- Yourdon, Edward, ed. 1979. [[Classics in Software Engineering]]. Englewood Cliffs, NJ: Yourdon Press.
+- Yourdon, Edward, ed. 1982. [[Writings of the Revolution. Selected Readings on Software Engineering]]. New York, NY: Yourdon Press.
+- Yourdon, Edward. 1986a. [[Managing the Structured Techniques. Strategies for Software Development in the 1990s, 3d ed]]. New York, NY: Yourdon Press.
+- Yourdon, Edward. 1986b. [[Nations at Risk]]. New York, NY: Yourdon Press.
+- Yourdon, Edward. 1988. “[[The 63 Greatest Software Books]].” American Programmer, September.
+- Yourdon, Edward. 1989a. [[Modern Structured Analysis]]. New York, NY: Yourdon Press.
+- Yourdon, Edward. 1989b. [[Structured Walk-Throughs, 4th ed]]. New York, NY: Your- don Press.
+- Yourdon, Edward. 1992. [[Decline & Fall of the American Programmer]]. Englewood Cliffs, NJ: Yourdon Press.
+- Zachary, Pascal. 1994. [[Showstopper! ]] The Free Press.
+- Zahniser, Richard A. 1992. “[[A Massively Parallel Software Development Approach]].” American Programmer, January, 34–41.
