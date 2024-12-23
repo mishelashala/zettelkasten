@@ -25,7 +25,7 @@
 - Gilabert, Pablo, and Martin O’Neill. 2019. “[[Socialism. SEP]].” The Stanford Encyclopedia of Philosophy (Fall 2019 Edition), Edward N. Zalta (ed.), URL = https://plato.stanford.edu/archives/fall2019/entries/socialism/.
 - Jaeggi, Rahel. 2014. [[Alienation]]. New York: Columbia University Press.
 - Kandiyali, Jan. 2020. “[[The Importance of Others. Marx on Unalienated Production]].” Ethics 130: 555–87.
-- Leopold, David. 2016. “[[Alienation. SEP]].” The Stanford Encyclopedia of Philosophy (Fall 2018 Edition), Edward N. Zalta (ed.), URL = https://plato.stanford.edu/archives/fall2018/entries/alienation/.
+- Leopold, David. 2016. “[[Alienation. SEP, 2018]].” The Stanford Encyclopedia of Philosophy (Fall 2018 Edition), Edward N. Zalta (ed.), URL = https://plato.stanford.edu/archives/fall2018/entries/alienation/.
 - Mackenzie, Catriona. 2014. “[[Three Dimensions of Autonomy. A Relational Analysis]].” In Autonomy, Oppression, and Gender, edited by A. Veltman and M. Piper, 15–41. Oxford: Oxford University Press.
 - Marx, Karl. 1973. [[Grundrisse]]. London: Penguin.
 - Marx, Karl. 1978a. “On the Jewish Question.” In [[The Marx-Engels Reader, 2nd ed]]., edited by R. Tucker, 26–52. New York: Norton.
