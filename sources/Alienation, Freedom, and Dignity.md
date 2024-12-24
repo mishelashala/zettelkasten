@@ -1,3 +1,41 @@
+## Notes
+
+### Life centered around "absurd" work
+
+«As Castoriadis once put it, capitalism has the peculiarity of having (more than any previous economic system) made work utterly central to people's lives while at the same time having the tendency to render it "absurd"—a site of frustration of people's self-determination and self-realization rather than a medium for their expression.»
+
+### Criticism: lack of control, lack of personal development, "intrumental" relationships
+
+«They do not control their productive activities, their talents and creative potentials are stunted rather than unfolded, and they relate to their bosses, other workers and consumers in primarily instrumental and even hostile ways rather than on terms of mutual service or fellowship.»
+
+### Practical issue: lack of identification
+
+«The lack of identification of people with their working lives—remains an important practical issue.»
+
+###  Presupposition: trans-historical, constant features of human nature is false
+
+«it seems to presuppose a false essentialist picture of human beings as somehow having certain trans-historical, constant features that define them independently of how they shape and see themselves in their various social contexts.»
+
+### The critique of alienation is not clear about its purpose
+
+«it is not clear whether judgments about alienation are prudential judgments about the good life or moral judgments about right and wrong conduct and institutions, and how judgments of the two types should relate in the critique of alienation.»
+
+### Paternalistic view of alienation
+
+«the critique of alienation seems to lead to favoring paternalistic imposition of forms of life on those deemed to be alienated, and thus to disrespect their freedom to author their own lives.»
+
+### Democratic system = alienated work good
+
+«alienated work may not be problematic if the institutions underpinning it are democratically authorized.»
+
+### The argument behind the thesis
+
+«I argue that human dignity grounds a solidaristic requirement to support positive freedom, which enables people to counter alienation.»
+
+### Human dignity; the reason behind re-organizing society
+
+«we have reason to organize social life in such a way that we respond appropriately to the valuable features of individual human beings that give rise to their dignity.»
+
 ## Bibliography
 
 ## References
