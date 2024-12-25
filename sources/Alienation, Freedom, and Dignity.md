@@ -36,6 +36,34 @@
 
 «we have reason to organize social life in such a way that we respond appropriately to the valuable features of individual human beings that give rise to their dignity.»
 
+### Basic idea of alienation
+
+«"alienation" is used to refer to a state or process of separation or division—lack of unity, harmony, or connectedness.»
+
+### When the separation happens
+
+«This disunity occurs between a subject S and some object O in certain circumstances.»
+
+### The subject of alienation
+
+«S is usually taken to be a person or an agent capable of self-knowledge and self-assessment.»
+
+### The object of alienation
+
+«O, in turn, may be aspects of the natural world, other people, or the agent themselves.»
+
+### The conditions of alienation
+
+«C, finally, may range over various material and social background factors.»
+
+### Kinds of alienation
+
+«Alienation may be subjective or objective.»
+
+### Subjective alienation and the attitude of the subject
+
+«Judgements about subjective alienation make ineliminable references to the attitudes of S (to S's desires, beliefs, or experience). They say, for example, that S _feels_ a lack of unity with O.»
+
 ## Bibliography
 
 ## References
