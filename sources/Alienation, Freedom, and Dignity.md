@@ -64,6 +64,42 @@
 
 «Judgements about subjective alienation make ineliminable references to the attitudes of S (to S's desires, beliefs, or experience). They say, for example, that S _feels_ a lack of unity with O.»
 
+### The four (4) possible scenarios
+
+«As pointed out by Leopold, this distinction generates four possible cases for consideration.»
+
+### Scenario A
+
+«There could be (a) subjective alienation and objective alienation»
+
+### Scenario B
+
+«(b) no subjective alienation but objective alienation»
+
+### Scenario C
+
+«(c) subjective alienation but no objective alienation»
+
+### Scenario D
+
+«(d) neither subjective nor objective alienation»
+
+### Marx focuses on Scenario A
+
+«Marx tends to focus on case (a), in which workers fail to develop their capacities for free and solidaristic cooperation and feel dissatisfied with such a condition.»
+
+### Hegel focuses on Scenario C
+
+«Hegel, in turn, tends to focus on (c), saying that agents fail to understand the reasonability of their predicament.»
+
+### Where Marx and Hegel agree and disagree
+
+«Both Marx and Hegel yearn for a society in which (d) holds, but they construe the change leading to differently»
+
+### The difference in methods for both Marx and Hegel
+
+«with Hegel seeing it mostly as a matter of change in self-understanding, and Marx as requiring also a change in material and social circumstances.»
+
 ## Bibliography
 
 ## References
