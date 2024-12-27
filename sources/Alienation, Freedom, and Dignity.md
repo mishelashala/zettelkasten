@@ -100,6 +100,106 @@
 
 «with Hegel seeing it mostly as a matter of change in self-understanding, and Marx as requiring also a change in material and social circumstances.»
 
+### Scenario B: happy without self-realization
+
+«Finally, case (b) has been explored by critical theorists from the Frankfurt School tradition, who are particularly attuned to scenarios in which agents fail to act autonomously and self-realize but happen to be rather content.»
+
+### Marx on alienation
+
+«According to Marx, people are self-alienated when their actual condition is at odds with their human nature—wether they are aware of it or not.»
+
+### Marx on Human Nature
+
+«Marx takes human beings to have certain capacities for activities that are freely chosen, self-conscious, creative, individually differentiated, sensuously sophisticated, and socially cooperative and beneficial.»
+
+### When humans face alienation according to Marx
+
+«They face alienation when, and to the extent that the development and exercise of these capacities is frustrated.»
+
+### Alienated Labor: Scenario 2
+
+«do not control (or even understand) the social process of production, its mechanisms, and results»
+
+### Alienated Labor: Scenario 3
+
+«do not develop and exercise their creative powers and talents»
+
+### Alienated Labor: Scenario 4
+
+«interact with others in ways that are not mutually supportive and cooperative»
+
+### Alienated Labor: Scenario 5
+
+«do not count among the final aims of production the fulfilling of the needs of fellow human beings»
+
+### Alienated Labor: Scenario 6
+
+«do not garner social appreciation or recognition»
+
+### Work as an instrumental activity
+
+«The activity of production is for the workers mostly of instrumental relevance (a means to get a salary to pay for subsistence and other consumption goods)»
+
+### Why alienated work is not intrinsically valuable
+
+«It is not intrinsically valuable because it does not offer a medium to cultivate and deploy their abilities.»
+
+### Instrumentalized social relationships
+
+«The instrumentalizing attitude is also paramount across the human relationships shaping economic life. Other people are relevant mostly as means for self-advancement.»
+
+### How social relationships are structured
+
+«There is a tendency to give only in order to receive, and to give as little as possible to get as much as possible.»
+
+### Where appreciation comes from
+
+«one is mostly appreciated by how much one owns and by the power one has over others, not by the intrinsic significance of what one produces and by the contribution it makes to the well-being of others.»
+
+### Claim: Alienation for everyone
+
+«A social structure pushing people to live in this way generates alienation for everyone, including the oppressors—all are at odds with their inner tendencies towards freedom and cooperative sociality.»
+
+### Descriptive accounts of alienation
+
+«Descriptive claims about alienation report that there is disunity between S and O.»
+
+### Normative accounts of alienation
+
+«Normative claims go further, adding that some disunities are worthy of criticism.»
+
+### Implication of normative accounts of alienation
+
+«Normative accounts of alienation assume, or explicitly put forward, views about the positive value of some instances of unity, and about what the components, form, and justification of the unity should be.»
+
+### Background circumstances in alienation
+
+«Marx argues that facts about the background circumstances C help explain why workers are at odds with themselves and others as they produce.»
+
+### Features of the background circumstances
+
+«Marx highlights three important features of such circumstances: the property relations regarding the control of productive forces, the orientation of production and consumption, and the level of technological development.»
+
+### Alienation occurs when the background circumstances are
+
+«There is alienation if the level of technological development is relatively low, the property relations are not egalitarian, and the orientation of production and consumption is predominantly instrumental and self-centered.»
+
+### Alienations is reduced when the background circumstances change
+
+«alienation is reduced as technological development, coupled with more egalitarian relations of production and non-instrumental orientations, allow people to organize their production and consumption in ways that enable all to steer their own lives and flourish.»
+
+### Types of normative claims of alienation
+
+«Normative accounts may be of at least two kinds: prudential and moral.»
+
+### Prudential's view
+
+«Alienation may be criticized on prudential terms by saying that a lack of unity between S and O is a strike against S's well-being.»
+
+###
+
+«moral criticisms say that the disunity involves wrongdoing, that S is treated by other agents (and perhaps even by S themselves) in ways that contravene duties which are morally justified.»
+
 ## Bibliography
 
 ## References
