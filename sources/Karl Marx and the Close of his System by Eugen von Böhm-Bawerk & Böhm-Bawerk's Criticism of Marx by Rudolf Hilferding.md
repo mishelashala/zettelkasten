@@ -27,5 +27,16 @@
 - Böhm-Bawerk, [[Marx Studien]], 1902
 - Winternitz, "[[Values and Prices a solution of the so-called Transformation Problem]].", Economic Journal for June 1948
 - Marx, [[Capital I]]
+- Loria, "[[L'opera postuma di Carlo Marx]]," Nuova Antologia, Vol. I, February 1895
+- Lexis, [[Jahrbücher für Nationalökonomie]], new series, Vol. XI (1885)
+- Schmidt, [[Die Durchschnittsprofitrate auf Grund des Marxschen Wertgesetzes]], Stuttgart, 1889
+- Böhm-Bawerk, [[Tübinger Zeitschrift für die gesamte Staatswissenschaft]], 1890
+- Loria, [[Jahrbücher für Nationalökonomie]], new series, Vol. XX (1890)
+- Stiebling, [[Dai Wertgesetz und die Profitrate]], New York, 1890
+- Wolf, "[[Das Rätsel der Durchschnittsprofitrate bei Marx]]," Jahrbücher für Nationalökonomie, third series, Vol. II (1891)
+- Schmidt, [[Die Neue Zeit]], 1892-3
+- Fireman, "[[Kritik der Marxschen Werttheorie]]," Jahrbücher für Nationalökonomie, third series, Vol. Ill (1892)
+- Lafargue, Soldi, Coletti, and Graziadei in the [[Critica Sociale]] from July to November, 1894.
+- Adler, [[Grundlagen der Karl Marxschen Kritik der bestehenden Volkswirtchaft]], Tubingen, 1887
 
 ## Bibliography
