@@ -196,7 +196,7 @@
 
 «Alienation may be criticized on prudential terms by saying that a lack of unity between S and O is a strike against S's well-being.»
 
-###
+### Moral criticism
 
 «moral criticisms say that the disunity involves wrongdoing, that S is treated by other agents (and perhaps even by S themselves) in ways that contravene duties which are morally justified.»
 
