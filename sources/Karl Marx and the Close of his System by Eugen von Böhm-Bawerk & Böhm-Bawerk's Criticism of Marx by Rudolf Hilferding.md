@@ -2,7 +2,7 @@
 
 ### Premise of the author
 
-«the Marxian teaching was charge from top to bottom with every kind of contracition both of logic and of fact.», p3
+«the Marxian teaching was charged from top to bottom with every kind of contracition both of logic and of fact.», p3
 
 ### Confronting a model with reality
 
