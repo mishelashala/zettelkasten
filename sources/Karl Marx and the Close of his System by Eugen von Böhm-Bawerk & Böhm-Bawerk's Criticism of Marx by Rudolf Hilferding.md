@@ -294,6 +294,70 @@
 
 «the greater the variable and the less the constant capital employed [...] the higher will be the rate of profit.», p17
 
+### Marxian Claim about the organic composition of capital
+
+«The "organic composition" [...] of the capital is for technical reasons necessarily different in the different "spheres of production."», p19
+
+### Pre-supposition: equal rate of surplus value equals different rates of profits
+
+«According to the preceding argument [...] given an equal rate of surplus value, every branch of production must show a different, a special rate of profit, on the condition certainly, which Marx has hitherto always assumed, that commodities exchange with each other "according to their values," or in proportion to the work embodied in them.», p19-20
+
+### Marxian pre-supposition
+
+«His theory demands that capitals of equal amount, but of dissimilar organic composition, should exhibit different profits.», p20
+
+### The real world "shows the contrary"
+
+«The real world, however, most plainly shows that it is governed by the law that capitals of equal amount, without regard to possible differences of organic composition, yield equal profits.», p20
+
+### General tendency of capital
+
+«there is a law (or general tendency), _although only for capitals possessing the same organic composition_—the same periods of turnover being assumed—that the profits are in proportion to the amounts of the capitals, and therefore equal amounts of capital yield in equal periods of time equal amounts of profit.», p20
+
+> Note: author is quoting Capital, Vol III, p181
+
+### The argument rests on the "law of value"
+
+«The argument rests on the basis which has hitherto generally been the basis of our reasoning, _that commodities are sold according to their values_.», p20
+
+> Note: author is quoting Capital, Vol III, p181
+
+### The average rate does not exist
+
+«the difference in the average rate of profit for different branches of industry _does not exist_ and could not exist without upsetting the whole system of capitalist production.», p20
+
+> Note: author is quoting Capital, Vol III, p181
+
+### Marxian claim: The law of value is incompatible with reality
+
+«_It appears therefore that here the theory of values is irreconcilable with the actual movement of things_, irreconcilable with the actual phenomena of production, and that, on this account, the attempt to understand the latter must be given up.»
+
+> Note: author is quoting Capital, Vol III, p181
+
+### Marx has to get rid of the "law of value"
+
+«To speak plainly his solution is obtained at the cost of the assumption from which Marx has hitherto started, _that commodities exchange according to their values_. This assumption Marx now simply drops.», p21
+
+### Marx solution to different rates of surplus with different organic composition: competition
+
+«Marx goes on to say that all this is not a mere hypothetical assumption, but absolute fact. The operating agent is _competition_.», p23
+
+### Conclusion: composition is originally different
+
+«It is true that owing to the different organic composition of the capitals invested in various branches of production "the rates of profit which obtain in these different branches _are originally very different_"», p23
+
+> Note: author is quoting Capital, Vol III, p186
+
+### Premise: competition brings down the rates of profit
+
+«But "these different rates of profit are reduced by competition to a common rate which is the average of all these different rates"», 
+
+> Note: author is quoting Capital, Vol III, p186
+
+### Average Profit
+
+«The profit corresponding to this common rate, which falls to a given amount of capital, whatever its organic composition may be, is called _average profit._», p23-24finiit
+
 ## References
 
 - Boenigk, ed., [[Staatswissenschaftliche Arbeiten. Festgaben für Karl Knies]], Berlin, 1896.
