@@ -350,13 +350,81 @@
 
 ### Premise: competition brings down the rates of profit
 
-«But "these different rates of profit are reduced by competition to a common rate which is the average of all these different rates"», 
+«But "these different rates of profit are reduced by competition to a common rate which is the average of all these different rates"», p23
 
 > Note: author is quoting Capital, Vol III, p186
 
 ### Average Profit
 
-«The profit corresponding to this common rate, which falls to a given amount of capital, whatever its organic composition may be, is called _average profit._», p23-24finiit
+«The profit corresponding to this common rate, which falls to a given amount of capital, whatever its organic composition may be, is called _average profit._», p23-24
+
+> Note: author is quoting Capital, Vol III, p186
+
+### Price of Production
+
+«That price of a commodity which is equal to its cost price plus its share of the yearly average profit of the capital employed (not merely that consumed) in its production (regard being had to the quickness or slowness of turnover) is its _price of production_», p24
+
+> Note: author is quoting Capital, Vol III, p186
+
+### Exchange relation is determined by the price of production
+
+«And the actual exchange relation of the separate commodities is _no longer determined by their values but by their prices of production_», p24
+
+> Note: author is quoting Capital, Vol III, p231
+
+### Value and price of production coincide accidentally
+
+«Value and price of production are only exceptionally and accidentally coincident, namely, in those commodities which are produced by the aid of a capital, the organic composition of which chances to coincide exactly with the _average_ composition of the whole social capital.», p24
+
+### Capitals of Higher Composition
+
+«According to Marx we call "capitals which contain greater percentage of constant, and therefore a smaller percentage of variable capital than the social average capital, capitals of _higher_ composition"», p24
+
+> Note: author is quoting Capital, Vol III, p193
+
+### Capitals of Lower Composition
+
+«"and contrariwise those capitals in which the constant capital fills a relatively smaller, and the variable a relatively larger space than in the social average capital are called capitals of _lower_ composition"», p24
+
+> Note: author is quoting Capital, Vol III, p193
+
+### Higher composition leads to above value commodities
+
+«in all those commodities which have been created by the aid of capital of "higher" composition than the average composition the price of production will be _above_ their value», p24
+
+### Lower composition leads to under value commodities
+
+«and in the opposite case it will be _under_ the value.», p24
+
+### Average Profit formula
+
+«the average profit is nothing else "than the total amount of surplus value divided among the amounts of capital in every sphere of production in proportion to their quantities"», p25
+
+> Note: author is quoting Capital, Vol III, p205
+
+### The question of the adjustment to a common rate of profits
+
+«Marx, in conclusion, puts and answers one more question, which he regards as the specially difficult question: in what manner "does this adjustment of profits to a common rate of profit take place, since it is evidently a result and not a starting point?», p25
+
+### Answer: In pre-capitalists societies that "doesn't happen"
+
+«He first of all puts forward the view that in a condition of society in which the capitalist system is not yet dominant, and in which, therefore, the laborers themselves are in possession of the necessary means of production, commodities are actually exchanged according to their real value, and the rates of profit could _not_ therefore be equalized.», p25-26
+
+### Marx treats it as a "historical fact"
+
+«Marx thinks he is entitled to assert that it is "quite in accordance with facts to regard the values of commodities as, not only theoretically but also historically, prior to the prices of production"», p26
+
+> Note: author is quoting Capital, Vol III, p209
+
+### The adjustment of rates do take place in capitalist societies
+
+«In societies organized on the capitalist system, however, this changing of values into prices of production and the equalization of the rates of profit which follows certainly do take place.», p26
+
+### Marxian explanation of the adjustments of rates
+
+«"If commodities are . . . sold according to their values . . . very different rates of profit are obtained. . . . Capital withdraws itself, however, from a sphere with a low rate of profit, and throws itself into another which yields a higher profit. By this continual interchange, or, in a word, by its apportionment between the different spheres, as the rate of profit sinks here and rises there, such a relation of supply to demand is created as to make the average profit in the different spheres of production th same, and thus values are changed into prices of production"», p26-27
+
+> Note: author is quoting Capital, Vol III, p230
 
 ## References
 
