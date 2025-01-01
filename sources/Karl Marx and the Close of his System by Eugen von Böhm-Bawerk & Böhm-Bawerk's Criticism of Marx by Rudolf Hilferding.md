@@ -426,6 +426,12 @@
 
 > Note: author is quoting Capital, Vol III, p230
 
+### Eugen vom Böm-Bawerk's critic
+
+«"Either products do actually exchange in the long run in proportion to the labor attaching to them—in which case an equalization of the gains of capital is impossible; or there is an equalization of the gains of capital—in which case it is impossible that products should continue to exchange in proportion to the labor attaching them"», p28
+
+> Note: quoting from "Capital and Interest", p362
+
 ## References
 
 - Boenigk, ed., [[Staatswissenschaftliche Arbeiten. Festgaben für Karl Knies]], Berlin, 1896.
