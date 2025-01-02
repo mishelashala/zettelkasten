@@ -514,6 +514,14 @@
 
 «Every commodity which comes into exchange is at one and the same time a commodity and the price of what is given in exchange for it. The aggregate of commodities therefore is identical with the aggregate of the prices paid for them; or, the price of the whole national produce is nothing else than the national produce itself.», p35
 
+> Note: author is quoting Conrad Schmidt
+
+### Schmidt's own admission of saying "nothing"
+
+«"[...] this tautological declaration denotes no increase of true knowledge, neither does it serve as a special test of the correctness of the alleged law that commodities exchange in proportion to the labor embodied in them."», p35
+
+> Note: author is quoting Conrad Schmidt
+
 ## References
 
 - Boenigk, ed., [[Staatswissenschaftliche Arbeiten. Festgaben für Karl Knies]], Berlin, 1896.
