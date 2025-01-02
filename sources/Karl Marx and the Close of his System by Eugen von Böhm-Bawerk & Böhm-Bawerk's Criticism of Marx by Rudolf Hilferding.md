@@ -522,6 +522,94 @@
 
 > Note: author is quoting Conrad Schmidt
 
+### Marxian confusion
+
+«Here Marx confounds two very different things: an _average of fluctuations,_ and an _average permanently and fundamentally unequal quantities_.», p37
+
+### Böhm-Bawerk's explanation to the phenomena
+
+«In the case of prices of production which deviate from the "values," it is not a question of fluctuations, but of necessary and permanent divergences.», p37
+
+### Same labor but different composition don't yield same average price
+
+«Two commodities, A and B, which contain the same amount of labor, but have been produced by capitals of different organic composition, do not fluctuate round the same average point, say, for example, the average of fifty shillings; but each of them assumes permanently a different level of price», p37
+
+### Averages yield no meaning
+
+«When, however, of two commodities in which the same amount of labor is incorporated, one permanently and regularly maintains a price of forty shillings and the other as permanently  and regularly the price of sixty shillings, a mathematician may indeed strike an average of fifty shillings between the two; but such an average has an entirely different meaning, or, to be more accurate, has no meaning at all with regard to our law.», p38
+
+### Averages refute, not confirm the "law of value"
+
+«it is evident that necessary and permanent differences of prices in commodities of the same cost in labor, but of unequal composition as regards capital, cannot by such playing with "average" and "deviations that cancel each other" be turned into a confirmation of the alleged law of value instead of a refutation.», p38
+
+### Paraphrasing of the second argument of Marx's defense
+
+«Marx claims for the law of value that it "governs the movement of prices," and he considers that this is proved by the fact that where the working time necessary for the production of the commodities decreases, there also prices fall; and that where it increases prices also rise, other circumstances remain equal.»
+
+> Note: author is paraphrasing from Capital, Vol. III, p208
+
+### Labor is one of many factors determining prices
+
+«in the case of "other circumstances remaining equal" prices rise and fall according to the amount of labor expended proves clearly neither more nor less than that labor is one factor in determining prices.», p39
+
+### For Marx labor is the only factor determining exchange relations
+
+«by his law of value Marx had asserted much more. He had asserted that, barring occasional and momentary fluctuations of demand and supply, the labor expended was the sole factor which governed the exchange relations of commodities.», p39
+
+### Extreme conditions for the "law of value" to be true
+
+«Evidently it could only be maintained that _this_ law governs the movement of prices if a permanent alteration in prices could not be produced or promoted by any other cause than the alteration in the amount of working time.», p39
+
+### Marx own doctrine contradicts itself
+
+«an alteration in prices must occur when, for instance, the expenditure of labor remains the same, but when, owing to such circumstances as the shortening of the processes of production, the organic composition of the capital is changed.», p39
+
+> Note: the author is paraphrasing Marx
+
+### Contrary proposition
+
+«prices rise or fall when, other conditions remain equal, the length of time during which the capital is invested increases or decreases.», p39-40
+
+### Final blow to the second argument of Marx's defense
+
+«If it is impossible to prove by the latter proposition that the length of time during which the capital is invested is the sole factor that governs exchange relations, it is equally impossible to regard the fact that alterations in the amounts of the labor expended affect the movements of prices as a confirmation of the alleged law that labor alone governs the exchange relations.», p40
+
+### Paraphrasing third argument of Marx's defenses
+
+«Marx affirms, and must affirm, that "the rates of profits are originally very different" [...], and that their adjustment to a general rate of profits is primarily "a result, and cannot be a starting point"», p40
+
+> Note: author is quoting from Capital, Vol. III, p186; Capital, Vol. III, p205
+
+### Implicit claim: specific conditions in which the law of value reigns
+
+«This thesis further contains the claim that there exist certain "primitive" conditions in which the change of values into prices of production which leads to the adjustment of the rates of profits has not yet taken place, and which therefore are still under the complete and literal dominion of the law of value. A certain region is consequently claimed for this law in which its authority is perfectly absolute.»
+
+### The two conditions necessary for the adjustment of the rates of profit
+
+«According to Marx the adjustment of the rate of profit is dependent on two assumptions: first, on a capitalist system of production being in operation [...]; and secondly, on the leveling influence of _competition_ being in _effective action_», p40-41
+
+> Note: author is paraphrasing from Capital, Vol. III, p206; Capital, Vol. III, p187, p204, p212, p230, p231
+
+### First condition for the law of value to hold true: a pre-capitalist society
+
+«By a very detailed account of the processes which obtain in a condition of society where capitalist production does not yet prevail, but "where the means of production belong to the worker," he shows the prices of commodities in this stage to be exclusively determined by their values.», p41
+
+### Marx is treating the premise as the conclusion
+
+«the hypothetical part describes very consistently how exchange would present itself in those primitive conditions of society _if_ everything took place according to the Marxian law of value; but that this description contains no shadow of proof, or even of an attempt at proof, _that_ under the given assumptions things must so take place. Marx relates, "supposes," asserts, but he gives no word of proof.», p43
+
+### The consequent doesn't follow from the premise
+
+«He consequently makes a bold, not to say naïve jump, when he proclaims as an ascertained result (as though he had successfully worked out a line of argument) that it is, _therefore_, quite consistent with facts to regard values, historically also, as prior to prices of production.», p43
+
+### Marx didn't prove his supposition
+
+«As a matter of fact it is beyond question that Marx has not proved by his "supposition" the historical existence of such a condition.», p43
+
+### Backward thinking
+
+«He has only hypothetically deduced it from his theory; and as to the credibility of that hypothesis we must, of course, be free to form our own judgment.», p43
+
 ## References
 
 - Boenigk, ed., [[Staatswissenschaftliche Arbeiten. Festgaben für Karl Knies]], Berlin, 1896.
