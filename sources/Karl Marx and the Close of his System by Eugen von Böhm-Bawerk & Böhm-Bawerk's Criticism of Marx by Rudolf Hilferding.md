@@ -426,11 +426,93 @@
 
 > Note: author is quoting Capital, Vol III, p230
 
-### Eugen vom Böm-Bawerk's critic
+### Eugene vom Böm-Bawerk's critic
 
 «"Either products do actually exchange in the long run in proportion to the labor attaching to them—in which case an equalization of the gains of capital is impossible; or there is an equalization of the gains of capital—in which case it is impossible that products should continue to exchange in proportion to the labor attaching them"», p28
 
 > Note: quoting from "Capital and Interest", p362
+
+### Marx responses to the critique
+
+«And he even goes so far as to say, with the same directness and clearness, that the several commodities do not actually exchange with each other in proportion to the labor they contain, but that they exchange in that varying proportion to the labor which is rendered necessary by the equalization of the gains of capital.», p29
+
+### Eugene von Böm-Bawerk's questioning of the response
+
+«does it not prove that the equal average rate of profit can only manifest itself if, and because, the alleged law of value does not hold good?», p29
+
+### Reiterating the Labor Value Theory
+
+«In the first volume it was maintained, with great emphasis, that all value is based on labor and labor alone, and that values of commodities were in proportion to the working time necessary for their production.», p29
+
+### Reiterating labor as the common exchange factor
+
+«The value was declared to be "the common factor which appears in the exchange relation of commodities"», p29
+
+> Note: author is quoting Capital, Vol. I, p45
+
+### Rare exceptions in the "law of value"
+
+«Apart, therefore, from temporary and occasional variations which "appear to be a breach of the law of the exchange of commodities" [...], commodities which embody the same amount of labor _must_ on principle, in the long run, exchange for each other.», p30
+
+> Note: author is quoting from Capital, Vol. I, p177
+
+### Contradiction in the volume 3 of the Capital
+
+«And now in the third volume we are told briefly and dryly that what, according to the teaching of the first volume, _must_ be, is not and never can be; that individual commodities do and must exchange with each other in a proportion different from that of the labor incorporated in them, and this not accidentally and temporarily, but out necessity and permanently.», p30
+
+### Marx's defense of the contradiction
+
+«Marx does not omit to interpolate in numerous places the express declaration that, in spite of exchange relations being directly governed by prices of production, which differ from the values, all is nevertheless moving within the lines of the law of value and this law, "in the last resort" at least, governs prices.», p31
+
+### Marx's first argument for his defense
+
+«event if the _separate_ commodities are being sold above or below their values, these reciprocal fluctuations cancel each other, and in the community itself—taking into account all the branches of production—the _total of the prices of production_ of the commodities produced still remains _equal to the sum of their values_», p32
+
+> Note: author is paraphrasing from Capital, Vol. III, p188
+
+### Marx's second argument of his defense
+
+«the law of value governs the _movement of prices_, since the diminution or increase of the requisite working time makes the prices of production rise or fall»
+
+> Note: author is paraphrasing from Capital, Vol. III, p208, p211
+
+### Marx's third argument of his defense
+
+«the law of value, Marx affirms, governs with undiminished authority the exchange of commodities in _certain "primary" stages_, in which the change of values into prices of production has not yet been accomplished.», p32
+
+### Marx's fourth argument of his defense
+
+«in a complicated economic system the law of value regulates prices of production at least _indirectly and in the last resort_, since the total value of the commodities, determined by the law of value, determines the total surplus value. The latter, however, regulates the amount of the average profit, and therefore the general rate of profit.», p32
+
+> Note: author is paraphrasing from Capital, Vol. III, p212
+
+### The composition of the capital affects exchange relation
+
+«It is admitted by Marx that separate commodities exchange with each other either over or under their value accordingly as the share of constant capital employed in their production is above or below average.», p32-33
+
+### Deviations "cancel each other"
+
+«"In the same proportion in which one part of the commodities is sold above its value another part will be sold under its value"», p33
+
+> Note: author is quoting Capital, Vol. III, p185
+
+### Marx's argument
+
+«Meanwhile it resolves itself into this—that by as much as there is too much surplus value in one commodity there is too little in another, and therefore the _deviations from value_ which lurk in the prices of production _reciprocally cancel each other_ In capitalist production as a whole _'the general law maintains itself as the governing tendency,'_ only in a very complex and approximate manner, as the constantly changing average of perpetual fluctuations.»
+
+> Note: author is quoting from Capital, Vol. III, p190
+
+### Schmidt also arrived at the same conclusion thru a different method
+
+«Schmidt also, while he employed a different line of argument from Marx, arrived at the same conclusion that separate commodities _cannot_ exchange with each other in proportion to the labor attaching to them.», p33-34
+
+### Schmidt also questioned the validity of the law of value
+
+«He too was obligated to ask the question whether, in face of this fact, the validity of Marx's law of value could any longer be maintained, and he supported his affirmative opinion on the very argument that has just been given.», p34
+
+### Schmidt's solution
+
+«Every commodity which comes into exchange is at one and the same time a commodity and the price of what is given in exchange for it. The aggregate of commodities therefore is identical with the aggregate of the prices paid for them; or, the price of the whole national produce is nothing else than the national produce itself.», p35
 
 ## References
 
@@ -472,5 +554,8 @@
 - Lafargue, Soldi, Coletti, and Graziadei in the [[Critica Sociale]] from July to November, 1894.
 - Adler, [[Grundlagen der Karl Marxschen Kritik der bestehenden Volkswirtchaft]], Tubingen, 1887
 - W. Sombart, [[Archiv für Soziale Gesetzgebung, Volume VII]], 1895
+- Conrad Schmidt, [[Die Durchschnitts Profitrate auf Grundlage des Marxschen Wert Gesetzes]], Stuttgart, 1889
+- Böhm-Bawerk [[Tübinger Zeitschrift für die gesamte Staatswissenschaft]], 1890
+- "[[Zur Kritik des Ökonomischen Systems von Karl Marx]]," Archiv für soziale Gesetzgebung, Vol. VII (1895)
 
 ## Bibliography
