@@ -610,6 +610,10 @@
 
 «He has only hypothetically deduced it from his theory; and as to the credibility of that hypothesis we must, of course, be free to form our own judgment.», p43
 
+### The problem of unequal rates of profit
+
+«He asserts this in the form (which is also correct) that the "surplus value" which the laborers in both branches of production obtain over and aobve their necessary maintenance, calculated on the means of production advanced, shows _unequal rates of profit_.», p46
+
 ## References
 
 - Boenigk, ed., [[Staatswissenschaftliche Arbeiten. Festgaben für Karl Knies]], Berlin, 1896.
