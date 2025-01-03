@@ -614,6 +614,116 @@
 
 «He asserts this in the form (which is also correct) that the "surplus value" which the laborers in both branches of production obtain over and aobve their necessary maintenance, calculated on the means of production advanced, shows _unequal rates of profit_.», p46
 
+### The obvious question about the unequal rates of profit
+
+«why should not this inequality be made to disappear by competition just as in "capitalist" society?», p46
+
+### Marx's answer
+
+«The essential point (he says) is that both laborers should receive the same surplus value for the same working time; or, to be more exact, that for the _same working time_ "they should receive the _same values_ after deducting the value of the advanced constant element," and on this assumption the difference in the rates of profit would be a "matter of indifference, just as it is a matter of indifference to the wage earner by what rate of profit the quantity of surplus value squeezed out of him is represented."», p46
+
+### Böhm-Bawerk's grounds for rejection of the answer
+
+«If I do not get a thing, then it may certainly be a matter of indifference to me whether that thing, whic I do not get, estimated on the capital of another person, represents a higher or lower percentage. But when I get a thing as a settled right, as the worker, on the non-capitalistic hypothesis, is supposed to get the surplus value as profit, then it certainly is not a matter of indifference to me by what scale that profit is to be measured or distributed.», p46
+
+### For Böhm-Bawerk the answer doesn't make sense
+
+«when, therefore, the somewhat improbable fact is affirmed that unequal rates of profit can exist permanently side by side without being equalized by competition, the reason for this certainly cannot be found in the assumption that the height of rate of profit is a matter of no importance whatever to the persons interested in it.», p47
+
+### Marx saying it's a matter of indifference is not realistic
+
+«To what worker today would it be a matter of indifference whether he received his weekly wages on Saturday evening, or a year, or three years hence?», p47
+
+### Marxian Hypothesis limited correspondence with reality
+
+«Still, however, conditions and relationships are found in the "modern world" which correspond at least approximately to those assumed in the Marxian hypothesis. They are found, as Marx himself specially indicates [...], in the case of the peasant propietor, who himself cultivates his own land, and in the case of the artisan.», p47
+
+> Note: author is referencing Capital, Vol. III, p209
+
+### Marxian Hyphotesis: In the case of peasants proprietor constant capital makes no difference in surplus value and wages
+
+«According to the Marxian hypothesis, it ought to be a matter of observation that the incomes of these persons do not in the least depend on the amounts of capital they employed in production. They should each receive the same amount of wages and surplus value, whether the capital representing their means of production was 10 shillings or 10,000 shillings.», p47-48
+
+### Real world experience indicates that the bigger the constant capital, the bigger the income
+
+«the prevailing impression does not confirm Marx's hypothesis, but tends, on the contrary, to the view that in general and as a whole an ampler income is yielded by those branches of industry in which work is carried on with a considerable capital, than by those which have at their disposal only the hands of the producers.», p48
+
+### Contrary to what Marx claims the law of value is nowhere to be found
+
+«according to the Marxian theory, the law of value ought to be seen to be completely dominant, no trace of the process alleged by Marx is to be found.», p48
+
+### How rates of profit should behave before the equalization
+
+«there must be traces of the actual fact that _before_ the equalization of the rates of profit the branches of production with the relatively greater amounts of constant capital have won and do win the smallest rates of profit, while those branches with the smaller amounts of constant capital win the largest rates of profit.», p49
+
+### No historical evidence of equalization of rates of profit
+
+«As a matter of fact, however, there are no traces of this to be found anywhere, either in the historical past or in the present.», p49
+
+### Böhm-Bawerk's final blow the the third argument of Marx's defense
+
+«the law of value, which, it is conceded, must give up its alleged control over prices of production in an economy where competition is in full force, has never exercised and could never exercise a real sway even in primitive conditions.», p51
+
+### Summary of the refutation of the first three arguments of Marx's defense
+
+«The application of the law of value to the sum total of all commodities and prices of commodities instead of their several exchange relations (first argument) has been proved to be pure nonsense. The movement of prices (second argument) does not really obey the alleged law of value, and just as little does it exercise a real influence in "primitive conditions" (third argument).», p51
+
+### Fourth argument in Marx's defense
+
+«the "prices of production," which govern the actual formation of prices, are for their part in their turn under the influence of the law of value, which therefore, through the prices of production, governs the actual exchange relation. The values are "behind the prices of production and determine them in the last resort"», p51-52
+
+> Note: author is quoting Capital, Vol. III, p244
+
+### What is a price of production according to Marx
+
+«The prices of production are, as Marx often expresses it, only "changed values" or "changed forms of value"», p52
+
+> Note: author is quoting from Capital, Vol. III, p193, p199, p204
+
+### Marx's argument: the law of value determines the prices of production
+
+«"_The average rate of profit which determines the price of production must_, however, always be approximately equal to the amount of _surplus value_ which falls to a given capital as an aliquot part of the total social capital . . . Now, as the total value of the commodities governs the total surplus value, and this again determines the amount of the average profit and consequently the general rate of profit—as a general law or a law governing fluctuation—the _law of value regulates the prices of production_."», p52
+
+### The average rate of profit only determines the prices of production partially
+
+«Marx says at the outset that the average rate of profit determines the prices of production. In Marx's sense this is correct but not complete.» p52
+
+### Elements of the price of production
+
+«The price of production of a commodity is first of all composed of the "cost price" to the employer of the means of production and of the average profit on the capital employed.», p52
+
+### Elements of the cost of price of the means of production
+
+«The cost of price of the means of production consists again of two component parts: the outlay of variable capital, that is, the money immediately paid in wages, and the outlay for consumed or used-up constant capital—raw material, machines, and the like.», p52
+
+### In a capitalist society the cost price of means of production correspond to other prices of production + surplus
+
+«As Marx rightly explains, [...], in a society in which the values have already been changed into prices of production, the purchase or cost price of these means of production does not correspond with their value but with the total amount which has been expended by the producers of these means of production in wages and material appliances, plus the average profit on this expenditure.», p52-53
+
+### The two components of prices of production
+
+«If we continue this analysis we come at last [...] to resolve the price of production into two components or determinants: (1) the sum total of the wages paid during the different stages of production, which taken altogether represent the actual cost price of the commodities; and (2) the sum total of the _profits_ on all these wage outlays calculated _pro rata temporis_, and according to the average rate of profit.», p53
+
+> Note: author is paraphrasing from Capital, Vol. III, p195
+
+### Paraphrasing the two components of prices of production
+
+«_one_ determinant of the price of production of a commodity is the average profit incidental to its production. Of the other determinant, the total of wages paid», p53
+
+### How to calculate the total expenditure in wages
+
+«It is evident that the total expenditure in wages is a product of the quantity of labor employed multiplied by the average rate of the wages.», p53
+
+### For Marx rate of wages has no effect in the value of commodities
+
+«Marx repeatedly and most emphatically denies that the rate of wages has any influence on the value of the commodities», p53
+
+> Note: author is referencing Capital, Vol. III, p243
+
+### Only the first determinant of prices of production is in harmony with the law of value
+
+«only the amount of labor employed is in harmony with the law of value, while in the second component, rate of wages, a determinant alien to the law of value enters among the determinants of the pieces of production.», p53-54
+
 ## References
 
 - Boenigk, ed., [[Staatswissenschaftliche Arbeiten. Festgaben für Karl Knies]], Berlin, 1896.
