@@ -724,6 +724,23 @@
 
 «only the amount of labor employed is in harmony with the law of value, while in the second component, rate of wages, a determinant alien to the law of value enters among the determinants of the pieces of production.», p53-54
 
+### The law of value determines the aggregate value
+
+«the _law of value_ determines the _aggregate value_ of the whole of the commodities produced in the society», p56
+
+### The aggregate value determines the aggregate surplus value
+
+«the _aggregate value_ of the commodities determines the _aggregate surplus value_ contained in them», p56
+
+### The aggregate surplus value determines the average rate of profit
+
+«the latter distributed over the total social capital determines the _average rate of profit_»
+, p56
+
+### The law of value regulates the price of production
+
+«In this way the first link in this sequence, the _law of value_, regulates the last link, the _price of production_.», p56
+
 ## References
 
 - Boenigk, ed., [[Staatswissenschaftliche Arbeiten. Festgaben für Karl Knies]], Berlin, 1896.
