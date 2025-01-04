@@ -741,6 +741,53 @@
 
 «In this way the first link in this sequence, the _law of value_, regulates the last link, the _price of production_.», p56
 
+### The surplus that goes in is different from the one that comes out
+
+«he [Marx] says emphatically in numerous places that the amount of surplus value which enters into the price of production of a commodity is independent of and indeed fundamentally different from "the surplus value actually created in the sphere in which the separate commodity is produced"»
+
+> Note: emphasis added by me
+> Note: author is quoting from Capital Vol. III, p198 & p195
+
+### Marx links the law of value to the aggregate value of all commodities
+
+«He [Marx] therefore does not after all connect the influence ascribe to the law of value with the characteristic function of the law of value, in virtue of which this law determines the exchange relations of the _separate commodities_, but only with another assumed function [...], namely, the determination of the aggregate value _of all commodities_.», p56
+
+### The law of value doesn't make sense when applied to the aggregate
+
+«If the idea and the law of value are to be brought to bear—and Marx certainly means that they should—on the exchange relations of goods, then there is no sense in applying the idea and law to an aggregate which as such cannot be subject to those relations.», p56-57
+
+### Böhm-Bawerk's rationale
+
+«As no exchange of this aggregate takes place, there is naturally neither a measure nor a determinant for its exchange, and therefore it cannot give material for a "law of value".», p57
+
+### The average value does not represent the total of the surplus value
+
+«That aggregate value, therefore, does not in any case rule the amount of the total surplus value by itself alone. It can at the most supply only _one_ determinant of tis amount, by the side of which stands a second alien determinant, the rate of wages.», p57
+
+### Wages can deviate permanently
+
+«the wages (apart from purely temporary oscillations) may permanently deviate from the rate which should correspond to the quantity of work incorporated in the necessary means of subsistence, or to the strict requirements of the law of value.», p58
+
+### Wages are a determinant of value, contradicting the law of value
+
+«Therefore at least _one_ determinant alien to the law of value is already a factor in determining the total surplus value.», p58
+
+### The amount of existing capital also determines the rate of profit
+
+«The factor, aggregate surplus value, thus determined, "regulates," according to Marx, the average rate of profit, but obviously only in so far as the aggregate surplus value furnishes _one_ determinant, while another—the amount of capital existing in a given society—acts as a second determinant, entirely independent of the first and of the law of value.», p58
+
+### The average rate of profit regulates the average profit
+
+«We must, therefore, further conclude that the average rate of profit regulates the amount of the concrete average profit which accrues from the production of a special commodity.», p59
+
+### Extreme condition for this to occur
+
+«But this, again, is only true with the same restrictions [...]. That is to say, the total amount of the average profit which accrues from the production of a separate commodity is the product of two factors: the quantity of invested capital multiplied by the average rate of profit.», p59
+
+### The quantity of capital invested is partially determined by the average rate of profit which is incompatible with the law of value
+
+«The quantity of the capital to be invested in the different stages is again determined by two factors, namely, by the quantity of the work to be remunerated (a factor which is of course not out of harmony with Marx's law of value), and also by the rate of wages to be paid; and with this latter factor, as we have just convinced ourselves, a factor alien to the law of value comes into play.», p59
+
 ## References
 
 - Boenigk, ed., [[Staatswissenschaftliche Arbeiten. Festgaben für Karl Knies]], Berlin, 1896.
