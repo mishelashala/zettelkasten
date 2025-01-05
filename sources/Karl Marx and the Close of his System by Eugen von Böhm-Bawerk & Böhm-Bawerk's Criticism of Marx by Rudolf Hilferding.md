@@ -788,6 +788,10 @@
 
 «The quantity of the capital to be invested in the different stages is again determined by two factors, namely, by the quantity of the work to be remunerated (a factor which is of course not out of harmony with Marx's law of value), and also by the rate of wages to be paid; and with this latter factor, as we have just convinced ourselves, a factor alien to the law of value comes into play.», p59
 
+### Reformulation of the average profit
+
+«the average profit [...] must regulate the price of production of the commodity. This is true with the correction that the average profit is only _one_ factor determining prices side by side with the expended wages in which, [...], there is an element, which is foreign to Marx's law of of value, and which co-operates in determining prices.», p59
+
 ## References
 
 - Boenigk, ed., [[Staatswissenschaftliche Arbeiten. Festgaben für Karl Knies]], Berlin, 1896.
