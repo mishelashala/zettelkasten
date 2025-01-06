@@ -792,6 +792,18 @@
 
 «the average profit [...] must regulate the price of production of the commodity. This is true with the correction that the average profit is only _one_ factor determining prices side by side with the expended wages in which, [...], there is an element, which is foreign to Marx's law of of value, and which co-operates in determining prices.», p59
 
+### The proposition Marx was trying to prove
+
+«prices of production are governed "in the last resort" by the principle that quantity of labor is the only condition which determines the exchange relations of commodities.», p59
+
+### The two components of the price of production
+
+«We find that the price of production is, first of all, made up of two components. One, the expended wages, is the product of two factors, of which the first—the quantity of work—is in harmony with the substrance of the Marxian "value," and the other—the rate of wages—is not.», p60
+
+### Marx's unfit solution
+
+«Marx himself could only affirm of the second component—the total amount of accruing average profit—that it was connected with the law of value by means of a violent perversion of this law, alleging its operation in a domain in which no exchange relations exist at all.», p60
+
 ## References
 
 - Boenigk, ed., [[Staatswissenschaftliche Arbeiten. Festgaben für Karl Knies]], Berlin, 1896.
