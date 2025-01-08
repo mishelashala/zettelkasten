@@ -804,6 +804,14 @@
 
 «Marx himself could only affirm of the second component—the total amount of accruing average profit—that it was connected with the law of value by means of a violent perversion of this law, alleging its operation in a domain in which no exchange relations exist at all.», p60
 
+### Foreign elements to the law of value bring it down
+
+«The "aggregate surplus value" would have to co-operate with a completely foreign element, the mass of social capital, in determining the average rate of profit; and, finally, the latter would have to co-operate with a partially foreign element, expended wages, in determining the accruing total profit.», p60
+
+### Böhm-Bawerk's conclusion
+
+«The quantity of labor which, according to the Marxian law of value, must entirely and exclusively govern the exchange relations of commodities proves itself as a matter of fact to bhe only _one_ determinant of the prices of production side by side with other determinants. It has a strong, a tolerably direct influence on the one component of prices of production which consist of expended wages; a much more remote, weak, and for the most part, even problematical influence upon the second component, the average profit.», p60-61
+
 ## References
 
 - Boenigk, ed., [[Staatswissenschaftliche Arbeiten. Festgaben für Karl Knies]], Berlin, 1896.
