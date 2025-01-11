@@ -812,6 +812,10 @@
 
 «The quantity of labor which, according to the Marxian law of value, must entirely and exclusively govern the exchange relations of commodities proves itself as a matter of fact to bhe only _one_ determinant of the prices of production side by side with other determinants. It has a strong, a tolerably direct influence on the one component of prices of production which consist of expended wages; a much more remote, weak, and for the most part, even problematical influence upon the second component, the average profit.», p60-61
 
+### Reality disagrees with the 'law of value'
+
+«facts show that it is _not_ only the quantity of labor, or the factors in harmony with it, which determine the exchange relations.», p61
+
 ## References
 
 - Boenigk, ed., [[Staatswissenschaftliche Arbeiten. Festgaben für Karl Knies]], Berlin, 1896.
