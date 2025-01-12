@@ -816,6 +816,114 @@
 
 «facts show that it is _not_ only the quantity of labor, or the factors in harmony with it, which determine the exchange relations.», p61
 
+### Marx is clear about the matter
+
+«This is what Marx does. He declares most emphatically that nothing can be at the root of exchange relations but quantity of labor alone», p62
+
+### The contradiction between the first and the third volume
+
+«From the exclusive position of quantity of labor as the sole determinant of exchange relations he deduces in two volumes the most weighty and practical conclusions [...] in order, in the third volume, to develop a theory of prices of production which substantially recognizes the influence of other determinants as well.», p62
+
+### Marx ignoring phenomena
+
+«He is silent about the co-ordinate influence of foreign determinants as well as about the influence of the amount of social capital on the rate of profit, and about the alteration of prices through a change in the organic composition of the capital, or in the rate of wages.», p62
+
+### Marx ignores these phenomena on purpose to avoid admmiting the contradiction even exists
+
+«It is characteristic that in the passages devoted to the justification of his law of value Marx passes silently over these other influences, and only mentions in a one-sided way the part played by quantity of labor, in order to deduce from the first and undisputed premise, that quantity of labor co-operates at many points to determine the prices of production, the utterly unjustifiable conclusion that, in the "last resort," the law of value, which proclaims the sole dominion of labor, determines the prices of production. This is to evade the admission of the contradiction; it is not to escape from the contradiction itself.», p63
+
+### To be aware of a contradiction is not enough
+
+«To be aware that there is a defect in a system, which may possibly be accidental only and peculiar to the author, requires a comparatively low degree of critical intelligence.», p64
+
+### How to overthrow a system of ideas
+
+«A firmly rooted system can only be effectually overthrown by discovering with absolute precision the point at which the error made its way into the system and the manner in which it spread and branched itself out.», p64
+
+### How Marx reached that conclusion?
+
+«the proposition that all value depends solely upon incorporated quantities of labor?», p65
+
+### Is not self-evident that value and effort are related
+
+«Value and effort [...] are not ideas so intimately connected that one is force immediately to adopt the view that effort is the basis of value.», p65
+
+### Where does exchange value comes from
+
+«The fundamental proposition which Marx puts before his readers is that the exchange value of commodities [...] finds its origin and its measure in the quantity of labor incorporated in the commodities.»
+
+### For Böhm-Bawerk, Marx was aware of the facts contradicting his doctrine
+
+«The reasoning of the third volume proves that he was quite aware of the nature of the empirical facts, and that they were opposed to this proposition.», p66
+
+### For Böhm-Bawerk, Marx was aware of how cost of production influenced prices
+
+«He knew that the prices of commodities were not in proportion to the amount of incorporated labor, but to the total cost of production, which comprises other elements.», p66
+
+### Marx never goes deep into the idea of supply and demand
+
+«"the deeper analysis" of the two social forces, "demand and supply"—which would have led to this internal connection—"is not apposite here", [...] where the "here" refers only to a digression on the influence of supply and demand on the formation of prices. In reality, however, nowhere in the whole Marxian system is a really "deep" and thorough analysis attempted.», p67
+
+### Marx ignoring evidence
+
+«But here again we notice something strange. Marx does not, as might have been expected, pass over this second possible and natural method of investigation with an easy carelessness. He studiously avoids it, and with a full consciousness of what the results of following it would be, and that they would not be favorable to his thesis.», p67
+
+### Marx renames "supply and demand" to "competition"
+
+«In the third volume, [...], he actually brings forward, under their roughly collective name of "competition," those motives operative in production and exchange, [...]», p67-68
+
+### Marx "proves" that "competition" don't determine prices, but something else
+
+«and demonstrates that these motives do not in reality lead to an adjustment of the prices to the quantities of labor incorporated in the commodities, but that, on the contrary, they force them away from this level to a level which implies at least one other co-ordinating factor.», p67-68
+
+### It makes sense logically, but doesn't map out to reality
+
+«Now Marx, instead of proving his thesis from experience or from its operant motives [...] prefers another, [...] the method of a purely logical proof, a dialectic deduction from the very nature of exchange.», p68
+
+### It's Aristotle's fault
+
+«Marx had found in old Aristotle the idea that "exchange cannot exist without equality, and equality cannot exist without commensurability"», p68
+
+> Note: author is quoting Capital, Vol. I, p68
+
+### He expands on Aristotle's idea
+
+«He conceives the exchange of two commodities under the form of an equation, and from this infers that "a common factor of the same amount" must exist in the things exchanged and thereby equated, and then proceeds to search for this common factor to which the two equated things must as exchange values be "reducible"», p68
+
+> Note: Author is quoting from Capital, Vol. I, p43
+
+### For Böhm-Bawerk, exchange is the result of an inequality, not of equality
+
+«Where equality and exact equilibrium obtain, no change is likely to occur to disturb the balance. When, therefore, in the case of exchange the matter terminates with a change of ownership of commodities, it points rather to the existence of some inequality or preponderance which produces the alteration.», p68
+
+### Consensus between economists
+
+«And as a matter of fact modern political economists agree that the old scholastico-theological theory of "equivalence" in the commodities to be exchanged is untenable.», p69
+
+### How Marx "found" the common factor of exchange
+
+«He passes in review the various properties possessed by the objects made equal in exchange, and according to the method of exclusion separates all those which cannot stand the test, until at last only one property remains, that of being the product of labor.», p69
+
+### Marx utilizes "negative proof"
+
+«Marx tries to convince us that he has found the sought-for property, by a purely negative proof, by showing that it is not any of the other properties.», p69
+
+### Marx cheats.
+
+«From the beginning he only puts into the sieve those exchangeable things which contain the property which he desires finally to sift out as the "common factor," and he leaves all the others outside. He acts as one who urgently desiring to bring a white ball out of an urn takes care to secure this result by putting in white balls only.», p70
+
+### His theory of labor value doesn't apply to natural resources
+
+«Now it stands to reason that if exchange really means an equalization, which assumes the existence of a "common factor of the same amount," this common factor must be sought and found in every species of goods which is brought into exchange, not only in products of labor but also in gifts of nature, such as the soil, wood in trees, water power, coal beds, stone quarries, petroleum reserves, mineral waters, gold mines, etc.», p70
+
+### Marx's method is flawed
+
+«To exclude the exchangeable goods which are not products of labor in the search for the common factor which lies at the root of exchange value is, under the circumstances, a great error of method.», p70
+
+### Natural gifts are common and important commodities
+
+«The exclusion of the gifts of nature [...] is the less to be justified because many natural gifts, such as the soil, are among the most important objects of property and commerce, and also because it is impossible to affirm that in nature's gifts exchange values are always established arbitrarily and by accident.», p71
+
 ## References
 
 - Boenigk, ed., [[Staatswissenschaftliche Arbeiten. Festgaben für Karl Knies]], Berlin, 1896.
