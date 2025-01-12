@@ -928,6 +928,50 @@
 
 «Marx also takes care to avoid mentioning or explaining the fact that he excludes from his investigation a part of exchangeable goods. [...] He omits to call his readers' attention to the fact that his idea of "commodities" is narrower than that of exchangeable goods as a whole.», p71
 
+### Marx puts his thumb in the scale to mislead us
+
+«He very cleverly prepares us for the acceptance of the subsequent limitation of the investigation to commodities by placing at the beginning of his book the apparently harmless general phrase that "the wealth of the society in which a capitalist system of production appears as an immense _collection of commodities_», p71
+
+### Why leaving the gifts of nature is wrong
+
+«For the gifts of nature, inclusive of the soil, constitute a by no means insignificant, but on the contrary a very important element of national wealth.», p71-72
+
+### Marx limits the range of commodities without telling us
+
+«On the next page (p. 44), however, Marx directs his search for the "common factor" only to the "exchange value of _commodities_," without hinting, even in the faintest whisper, that he was thereby limited the field of research to a part only of the things possessing exchange value.», p72
+
+### Marx extends his thesis from the particular to the general
+
+«And immediately, on the next page (p. 45), the limitation is again abandoned and the results just obtained in the narrower area are applied to the wider sphere of values in use, or goods. "A _value in use_, or a _good_, has therefore only a value because abstract human labor is stored up or materialized in it."», p72-72
+
+### Marx limited the definition of commodity in order to get the results he wanted
+
+«If Marx had not confined his research at the decisive point, to products of labor, but had sought for the common factor in the exchangeable gifts of nature as well, it would have become obvious that work cannot be the common factor.», p73
+
+### Marx was a smart weasel
+
+«This trick could only have been performed, as Marx performed it, by gliding unnoticed over the knotty point with a light and quick dialectic.», p73
+
+### Firs intentional exclusion of other common factors by Marx
+
+«Marx excludes all "geometrical, physical, chemical, or other natural properties of the commodities," for "their physical properties only come into consideration in so as far as they make the commodities useful—make them values in use, therefore". _On the other hand, the exchange relation of commodities evidently involves our disregarding their values in use"_; because "_within this relation_ [the exchange relation] _one value in use is worth exactly as much as every other, provided only it is present in proper proportions_"», p73-74
+
+> Note: author is quoting Capital, Vol. I, p44
+
+### The problem with Marx's thinking
+
+«They confuse abstraction from the genus, and abstraction from the specific forms in which the genus manifests itself.», p74
+
+### Other common factors in commodities
+
+«"If the use value of commodities be disregarded"—these are Marx's words—"there remains in them _only one other property, that of being products of labor_." Is it so? [...] is there only one other property? Is not the property of being scarce in proportion to demand also common to all exchangeable goods? Or that they are subjects of demand and supply? Or that they are appropriated? Or that they are natural products?», p75
+
+### Marx has not provided positive evidence for his claim
+
+«Why then, [...], may not the principle of value reside in any one of these common properties as well as in the property of being products of labor? For in support of this latter proposition Marx has not adduced a shred of positive evidence.», p75-76
+
+> Note: see "negative thinking"
+
 ## References
 
 - Boenigk, ed., [[Staatswissenschaftliche Arbeiten. Festgaben für Karl Knies]], Berlin, 1896.
