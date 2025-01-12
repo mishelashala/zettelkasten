@@ -924,6 +924,10 @@
 
 «The exclusion of the gifts of nature [...] is the less to be justified because many natural gifts, such as the soil, are among the most important objects of property and commerce, and also because it is impossible to affirm that in nature's gifts exchange values are always established arbitrarily and by accident.», p71
 
+### Marx doesn't include all exchangeable goods
+
+«Marx also takes care to avoid mentioning or explaining the fact that he excludes from his investigation a part of exchangeable goods. [...] He omits to call his readers' attention to the fact that his idea of "commodities" is narrower than that of exchangeable goods as a whole.», p71
+
 ## References
 
 - Boenigk, ed., [[Staatswissenschaftliche Arbeiten. Festgaben für Karl Knies]], Berlin, 1896.
