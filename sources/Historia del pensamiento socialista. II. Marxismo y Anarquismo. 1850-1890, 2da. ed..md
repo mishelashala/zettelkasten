@@ -28,3 +28,45 @@ Título Original: A History of Socialist Thought. Marxism and Anarchism, 1850-18
 - T. Kirkup, [[History of Socialism]] (1892; revisada por E. R. Pease, 1913)
 - J. Rae, [[Contemporary Socialism]] (1884)
 - É. de Laveleye, [[The Socialism of Today]] (trad. inglesa con un apéndice sobre el socialismo en Inglaterra de G. H. Orpen, 1884)
+- Engles & Marx, [[Revolución y contrarrevolución en Alemania]], 1851 en el _New York Daily Tribune_ (1896)
+- [[Las luchas de clases en Francia, 1848-1850]], 1850 en _Neue Rheinische Zeitung_,
+- Weydemeyer, J., [[El dieciocho brumario de Luis Bonaparte]], 1852 en _Die Revolution_, Nueva York
+- Marx, Karl. [[Erklärungen und Schriften zum Kölner Kommunistenprozess]], 1851-2
+- Burns, Emilie, [[Handbook of Marxism]], (1935)
+- Poutras, C. H., [[Démocraties et capitalisme]], 1848-60, en la serie _Peuples et civilisations_
+- Plamenatz, J. P., [[The Revolutionary Movement in France, 1815-71]] (1952)
+- Fisher, H. A. L., [[The Republican Tradition in Europe]] (1911)
+- Dolléans, É., [[Histoire du mouvement ouvrier, vol. I]] (1936)
+- Mehring, F., [[Geschichte der deutschen Sozialdemokratie]] (1897-1898; ed. revisada, 1922)
+- Cole, G. D. H., [[Chartist Portraits]] (1941)
+- Slosson, P. W., [[The Decline of Chartism]] (1916)
+- Maccoby, S., [[English Radicalism, 1832-1852]] (1935)
+- Maccoby, S., [[English Radicalism, 1853-18886]]
+- Rothstein, T., [[From Chartism to Labourism]] (1929)
+- Raven, C. E., [[Christian Socialism, 1848-1854]] (1920)
+- Jones, Benjamin. [[Co-operative Production]] (2 vols., 1894)
+- Nitti, F. S., [[Catholic Socialism]] (1895)
+- Moon, P. T., [[The Labor Problem and the Catholic Social Movement in France]] (1921)
+- Robert, Charles. [[Biographie d'un homme utile]] (1878)
+- Leclaire, [[De la Misère et des moyens à employer pour la faire cesser]] (1850)
+-  Gaumont, J., [[Histoire générale de la coopération en France]] (1923-1924)
+- Prudhommeaux, D. F., [[Twenty-eight Years of Co-partnership at Guise]] (ed. revisada, 1908)
+- Honegger, H., [[Godin und das Familistère von Guise]] (1919)
+- Fay, C. R., [[Co-operation at Home and Abroad, vol. I]] (1908)
+- Godin, [[Solutions sociales]] (1871)
+- Godin, [[La Richesse au service du peuple]] (1874)
+- Godin, [[Le Gouvernement]] (1883)
+- Godin, [[Mutualité sociale et association du capital et du travail]] (1891)
+- Godin, [[The Association of Capital with Labor]], New York, 1881
+- Gonner, E. C. K., [[The Social Philosophy of Rodbertus]] (1899)
+- Dietzel, H., [[Karl Rodbertus]] (2 vols., 1886-1888)
+- Jentsch, E. G., [[Rodbertus]] (1899)
+- Adler, G., [[Rodbertus, der Begründer des wissenschaftlichen Socialismus]] (1884)
+- Rodbertus, [[Sociale Briefe an von Kirchmann]] (1850-1851), 
+- Rodbertus, [[Overproduction and Crises]] (1898)
+- Rodbertus, [[Neue Briefe über Grundrente, Rentenprinzip und sociale Frage]] (ed. de R. Michels, 1926).
+- Allix, E., [[L'uvre économique de Karl Marlo]] (1898)
+- Biermann, W. E., [[Karl Georg Winkelblech]] (1909)
+- Schäffle, A. E. F., [[Kapitalismus und Socialismus]] (1870)
+- Rae, J., [[Contemporary Socialism]] (1884)
+- Marlo, [[Untersuchungen über die Organisation der Arbeit]] (3 vols., 1848-1859)
