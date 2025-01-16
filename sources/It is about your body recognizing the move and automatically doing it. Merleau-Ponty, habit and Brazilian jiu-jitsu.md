@@ -56,4 +56,30 @@ Hogeveen, B. (2013). In _Fighting Scholars. Ethnographies of Habitus in Martial 
 
 > Note: author is quoting Weiner
 
+### Habit is not solely biological
+
+«Habit is not pure biological instinct, it is not simply a reflex, but is rather won of diligence, patience and repeated encounters with the same.», p87
+
+### The novice vs the habit body
+
+«Unlike the novice grappler, the habit body is geared with this space and efficiently perceives openings. It is equipped to deliver effectual responses from among a vast network of techniques at its disposal.», p88
+
+### Timing as an embodied mechanism
+
+«Hockey and Allen-Collinson (2009, 224) make the case that timing is an embodied 'sense of rhythm and timing requires a highly developed awareness of sensations emanating from organs (including the skin), ligaments, tendons and muscles as they move'.», p88
+
+### Hoaning habit thru interactions with the other
+
+«Through interaction with the other, my habit body has been honed. Feeling their weight, experiencing their strength and witnessing their movement in relation to my own enhance my timing and polishes my technique.», p88
+
+### A state of being-in-the-world
+
+«A grappler's body programme is a way of being-in-the-world that has incorporated the nuances and intricacies of their art. Their bodies understand», p90
+
+### Habits permit pre-reflective being
+
+«Habits permit pre-reflective being.», p93
+
+## References
+
 ## Bibliography
