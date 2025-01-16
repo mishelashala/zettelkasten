@@ -972,6 +972,46 @@
 
 > Note: see "negative thinking"
 
+### Marx's dialectical method is flawed
+
+«If Marx had chanced to reverse the order of the examination, the same reasoning which led to the exclusion of the value in use would have excluded labor; and then the reasoning which resulted in the crowning of labor might have led him to declare the value in use to be the only property left, and therefore to be the sought-for common property, and value to be "the cellular tissue of value in use."», p77
+
+### Marx is too smart for this mistakes
+
+«It would have been impossible for a thinker such as he was [...] to have followed such tortuous and unnatural methods had he been engaged, with a free and open mind, in really investigating the actual connection of things, and in forming his own conclusions with regard to them; it would have been impossible for him to fall successively by mere accident into all the errors of thought and method which I have described, and to arrive at the conclusion that labor is the source of value as the natural outgrowth, not the desired and predetermined result, of such a mode of inquiry.», p77
+
+### Labor value theory is pure opinion
+
+«the grounds of his conviction are not those which he gives in his system. They were in reality opinions rather than thought out conclusions.», p78
+
+### Opinion of authority, nothing more
+
+«Above all they were opinions derived from authority. Smith and Ricardo, the great authorities, as was then at least believed, had taught the same doctrine. They had not _proved_ it any more than Marx.», p78
+
+### Where Smith and Marx agree
+
+«Smith, in the same way as Marx in his third volume, taught that in a developed economic system values and prices gravitate towards a level of costs which besideds labor comprises an average profit of capital.», p78
+
+### Where Ricardo and Marx agree
+
+«And Ricardo, too, in the celebrated fourth section of the chapter "On Value," clearly and definetely stated that by the side of labor, mediate or immediate, the amount of capital invested and the duration of the investment exercise a determining influence on the value of the goods.», p78
+
+### Mental gymnastics
+
+«In order to maintain without obvious contradiction their cherished philosophical principle that labor is the "true" source of value, they were obliged to beat a retreat to mythical times and places in which capitalists and landed proprietors did not exist.», p78
+
+### Impossible circumstances that made the claim unfalseable
+
+«There they could maintain it without contradiction, for there was nothing to restrain them. Experience, which does not support the theory, was not there to refute them. Nor were they restrained by a scientific, psychological analysis, for like Marx they avoided such an analysis.», p78
+
+### Why Marx chose the dialectical method to prove his premise
+
+«It is clear that he could not rely simply on the classical writers for this, as they had not proved anything; and we also know that he could not appeal to experience, or attempt an economico-psychological proof, for these methods would have straightway led him to a conclusion exactly opposite to the one he wished to establish. So he turned to dialectical speculation, which was, moreover, in keeping with the bent of his mind.», p79
+
+### Treating the premise as the conclusion
+
+«He knew the result that he wished to obtain, and must obtain, and so he twisted and manipulated the long-suffering ideas and logical premises with admirable skill and subtlety until they actually yielded the desired result in a seemingly respectable syllogistic form.», p79
+
 ## References
 
 - Boenigk, ed., [[Staatswissenschaftliche Arbeiten. Festgaben für Karl Knies]], Berlin, 1896.
