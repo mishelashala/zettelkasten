@@ -1012,6 +1012,92 @@
 
 «He knew the result that he wished to obtain, and must obtain, and so he twisted and manipulated the long-suffering ideas and logical premises with admirable skill and subtlety until they actually yielded the desired result in a seemingly respectable syllogistic form.», p79
 
+### The real life experience vs the theory
+
+«it is obvious even to the casual observer that this proposition cannot maintain itself in the face of certain facts. The day's product of a sculptor, of a cabinet maker, of a violin-maker, of an engineer, etc., certainly does not contain an equal value but a much higher value than the day's product of a common workman or factory hand, although in both the same amount of working time is "embodied."», p80
+
+### It's about "unskilled labor"
+
+«he declares that labor in the sense of his proposition means the "expenditure of simple [unskilled] labor power, an average of which is possessed in his physical organism by every ordinary man, without special cultivation"; or in other words "_simple average labor_"», p80
+
+> Note: author is quoting from Capital, Vol. I, p51 y p46
+
+### Skilled labor vs Unskilled labor
+
+«"Skilled labor," he continues, "_counts only as concentrated or rather multiplied unskilled labor_, so that a small quantity of skilled labor is equal to a larger quantity of unskilled labor."», p81
+
+### The proportions are determined by social processes
+
+«"The different proportions in which different kinds of labor are reduced to unskilled labor as their unit of measure are fixed by a social process beyond the control of the producers, and therefore seem given to them by tradition."», p81
+
+### Unskilled labor as the common factor between commodities
+
+«the labor of five days is obviously not "the same amount" as the labor of one day. Therefore Marx, in the case before us, is no longer speaking of labor as such but of unskilled labor. The common factor must therefore be the possession of an equal amount of labor of a particular kind, namely, unskilled labor.», p81-82
+
+### Different kinds of labor
+
+«for in sculpture there is no "unskilled labor" at all embodied, much less therefore unskilled labor equal to the amount in the five days' labor of the stone-breaker. The plain truth is that the two products embody _different kinds_ of labor in _different amounts_»,, p82
+
+### The exchange relations determines the standard of reduction
+
+«Here we stumble against the very natural but for the Marxian theory the very compromising circumstance that the standard of reduction is determined solely _by the actual exchange relations themselves_.», p83
+
+### Böhm-Bawerk's question about the standard of reduction
+
+«in what proportions skilled is to be translated into terms of simple labor in the valuation of their products is not determined, nor can it be determined a priori by any property inherent in the skilled labor itself, but it is the actual result alone which decides the actual exchange relations.», p83
+
+### why different amounts of labor yield different values
+
+«The real subject of inquiry is the exchange relations of commodities: why, for instance, a statuette which has cost a sculptor one day's labor should exchange for a cart of stones which has cost a stone-breaker five day's labor, and not for a larger or smaller quantity of stones, in the breaking of which ten or three days' labor have been expended.», p83
+
+### Marx is arguing in circles
+
+«He [Marx] says the exchange relation is this, and no other—because one day of sculptor's work is reducible exactly to five days of unskilled work. And why is it reducible to exactly five? Because experience shows that it is so reduced by a social process. And why is this a social process? The same process that has to be explained, that very process by means of which the product of one day of sculptor's labor has been made equal to the value of the product of five days of common labor.», p83-84
+
+> Node: emphasis is ours
+
+### The Marxian non-answer: because it is what it is
+
+«Bu if as a matter of fact it were exchanged regularly agains the product of only three days of simple labor, Marx would equally bid us accept the rate of reduction of 1:3 as the one derived from experience, and would found upon it and explain by it the assertion that a statuette must be equal in exchange to the product of exactly three days of a stone-breaker's work—not more and not less.», p84
+
+### Marx doesn't have an answer other than: it is what it is
+
+«In short, it is clear that we shall never learn in this way the actual reasons why products of different kinds of work should be exchanged in this or that proportion. They exchange in this way, Marx tell us, though in slightly different words, because, according to experience, they do exchange in this way!», p84
+
+### Grabski's argument
+
+«"It is not fiction but a fact," says Grabski, "that an hour of skilled labor contains several hours of unskilled labor." For "in order to be consistent, we must also take into account the labor which was used in acquiring the skill."», p84
+
+### Flawed reasoning from Grabski
+
+«With the very same reasoning one could affirm and argue the proposition that the quantity of material contained in commodities constitutes the principle and measure of exchange value—that commodities exchange in proportion to the _quantity of material incorporated in them_.», p85
+
+### Using Grabski and Marx line of reasoning to reach a nonsensical conclusion
+
+«Ten pounds of material in one kind of commodity exchange against ten pounds of material in another kind of commodity. If the natural objection were raised that this statement was obviously false because ten pounds of gold do not exchange against ten pounds of iron but against 40,000 pounds, or against a still greater number of pounds of coal», p85
+
+### Using the same logic as Marx to get out of the trouble
+
+«we may reply after the manner of Marx that it is the amount of _common average material_ that affects the formation of value, that acts as unit of measurement.», p86
+
+### The two flaws in Marxian thinking
+
+«the impartial reader will easily recognize one more in these two arguments the two ingredients of the Marxian recipe—the substitution of "to count" for "to be," and the explanation in a circle which consist in obtaining the standard of reduction from the actually existing social exchange relations which themselves need explanation.», p86
+
+### Marx accept "exceptions" to his law of value
+
+«This hypothetical abstraction he [Marx] combines with a uncommonly clever dialectical move.  He [Marx] gives certain actual deviations from the law, from which a theorist may really venture to abstract, namely, the accidental and temporary fluctuations of the market prices round their normal fixed level.», p87
+
+> note: emphasis is ours
+
+### Dialectical move to pretend the exceptions to his law of value are not important
+
+«And on the occasions when Marx explains his intention to disregard the deviations of the prices from the values he does not fail to direct the reader's attention to those "accidental circumstances" which have to be ignored as "the constant oscillations of the market prices," whose "rise and fall compensate each other," and which "reduce themselves to an average price as their inner law."», p87
+
+### Deviating the eye from the error of method
+
+«By this reference he gains the reader's approval of his abstraction, but the fact that he does not abstract merely from accidental fluctuations but also from regular, permanent, typical "deviations," whose existence constitutes an integral part of the rule to be elucidated, is not closely observant, and he glides unsuspectingly over the author's fatal error of method.», p87
+
 ## References
 
 - Boenigk, ed., [[Staatswissenschaftliche Arbeiten. Festgaben für Karl Knies]], Berlin, 1896.
