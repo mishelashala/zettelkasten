@@ -1098,6 +1098,14 @@
 
 «By this reference he gains the reader's approval of his abstraction, but the fact that he does not abstract merely from accidental fluctuations but also from regular, permanent, typical "deviations," whose existence constitutes an integral part of the rule to be elucidated, is not closely observant, and he glides unsuspectingly over the author's fatal error of method.», p87
 
+### What the Marxist theory of surplus value tries to explain
+
+«Marx's theory of surplus value aims at nothing else than the explanation, as he conceives it, of the profits of capital.», p87
+
+### The problem with the theory of surplus value
+
+«But the profits of capital lie exactly in those regular deviations of the prices of commodities from the amount of their mere costs in labor. If, therefore, we ignore those deviations, we ignore just the principal part of what has to be explained.», p87
+
 ## References
 
 - Boenigk, ed., [[Staatswissenschaftliche Arbeiten. Festgaben für Karl Knies]], Berlin, 1896.
