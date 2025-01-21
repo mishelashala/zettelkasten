@@ -1164,6 +1164,54 @@
 
 «I think the fallacy here is obvious, and that it is not less obvious that the same kind of fallacy lies at the root of the arguments by which Marx reasons away the influence of supply and demand on the level of permanent prices.», p97
 
+### Next challenge for Marx: why prices tend toward prices of production and not quantity of labor
+
+«he [Marx] is confronted by the task of explaining why the permanent prices of commodities do not gravitate toward the incorporated quantity of labor but towards the "prices of production" which deviate from it.»
+
+### Marxian "Solution" to  prices tend toward prices of production and not quantity of labor
+
+«Competition reduces the original rates of profit, which were different fro the different branches of production according to the different organic compositions of the capitals, to a common average rate of profit, and consequently the prices must in the long run gravitate towards the prices of production yielding the one equal average profit.», p97
+
+### Böhm-Bawerk's question on competition
+
+«If, according to Marx, the relation of supply and demand exerts no influence at all on the level of permanent prices, how can competition, which is identical with this relation, be the power which shifts the level of the permanent prices from the level of "value" to a level of so different as the of the price of production?», p98
+
+### What competition tell us about the the labor value theory
+
+«Do we not rather see, in this force and inconsistent appeal to competition as the _deus ex machina_ which drives the permanent prices from that center of gravitation which is in keeping with the theory of embodied labor to another center, an involuntary confession that the social forces which govern actual life contain in themselves, and bring into action, some elementary determinants of exchange relations which _cannot_ be reduced to working time, and that consequently the analysis of the original theory which yielded working time alone as the basis of exchange relations was an incomplete one which di not correspond with the facts?», p98
+
+### The contradiction in the concept of "competition"
+
+«he [Marx], at that time, appealed to competition as a factor which tends to push the prices of commodities towards their "values." And now we learn, on the contrary, that competition is a force which pushes the prices of commodities away from their values and on to their prices of production.», p99
+
+### Marx derived everything from dialectic not facts
+
+«Herein lies, I believe, the alpha and omega of all that is fallacious, contradictory, and vague in the treatment of his subject by Marx. His system is not in close touch with facts. Marx has not deduced from facts the fundamental principles of his system, either by means of a sound empiricism or a solid economic-psychological analysis; he founds it on no firmer ground than a formal dialectic.», p101
+
+### The fatal flaw of Marxian system
+
+«This is the great radical fault of the Marxian system at its birth; from it all the rest necessarily springs.», p101
+
+### Werner Sombart's interpretation
+
+«[The] apology [from Werner Sombart], however, shows one peculiar feature. In order to be able to defend Marx's doctrines he has first to put a new interpretation upon them.», p102
+
+> Note: emfasis es nuestro
+> 
+### Marxian law of value is not in harmony with reality
+
+«Sombart admits [...] that the Marxian law of value is false if it claims to be in harmony with actual experience.», p102
+
+### Sombart's admision
+
+«The "outlawed value" has only "one place of refuge left—_the thought of the theorical economist_... If we want to sum up the characteristics of Marx's value, we would say, _his value is a fact not of experience but of thought_"», p102
+
+> Note: author is quoting from [[Zur Kritik des Ökonomischen Systems von Karl Marx]] in _Archiv für soziale Gesetzgebung, Vol. VII_ (1895), p555
+
+### Me too, bro
+
+«first we must stop for a moment to consider the admission that the Marxian value has no existence in the world of real phenomena. I am somewhat curious to know whether the Marxists will ratify this admission.», p103
+
 ## References
 
 - Boenigk, ed., [[Staatswissenschaftliche Arbeiten. Festgaben für Karl Knies]], Berlin, 1896.
@@ -1203,9 +1251,9 @@
 - Fireman, "[[Kritik der Marxschen Werttheorie]]," Jahrbücher für Nationalökonomie, third series, Vol. Ill (1892)
 - Lafargue, Soldi, Coletti, and Graziadei in the [[Critica Sociale]] from July to November, 1894.
 - Adler, [[Grundlagen der Karl Marxschen Kritik der bestehenden Volkswirtchaft]], Tubingen, 1887
-- W. Sombart, [[Archiv für Soziale Gesetzgebung, Volume VII]], 1895
+- Sombart, Wernern. [[Archiv für Soziale Gesetzgebung, Volume VII]], 1895
 - Conrad Schmidt, [[Die Durchschnitts Profitrate auf Grundlage des Marxschen Wert Gesetzes]], Stuttgart, 1889
 - Böhm-Bawerk [[Tübinger Zeitschrift für die gesamte Staatswissenschaft]], 1890
-- "[[Zur Kritik des Ökonomischen Systems von Karl Marx]]," Archiv für soziale Gesetzgebung, Vol. VII (1895)
+- Sombart, Werner. "[[Zur Kritik des Ökonomischen Systems von Karl Marx]]," Archiv für soziale Gesetzgebung, Vol. VII (1895)
 
 ## Bibliography
