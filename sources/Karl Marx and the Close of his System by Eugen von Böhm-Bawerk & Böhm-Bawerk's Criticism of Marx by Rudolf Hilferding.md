@@ -1106,6 +1106,64 @@
 
 «But the profits of capital lie exactly in those regular deviations of the prices of commodities from the amount of their mere costs in labor. If, therefore, we ignore those deviations, we ignore just the principal part of what has to be explained.», p87
 
+### The dishonest approach of the defenders of the law of value
+
+«"they [the adherents of the exploitation theory] first ignore the exceptions in order to proclaim their law of value as universal. And after thus assuming its universality they again draw attention to the exceptions in order to brand them as offenses agains the law."», p88
+
+> Note: author is quoting "Capital and Interest", p388
+
+### Internal logical consistency, but it breaks when faced with the real world
+
+«By his maneuver of abstraction Marx certainly gained a great tactical advantage for his own version of the case. He, "by hypothesis," shut out from his system the disturbing real world, and did not therefore, so long as he could maintain this exclusion, come into conflict with it; and he does maintain it through the greater part of the first volume, through the whole of the second volume, and through the first quarter of the third volume.», p88
+
+### How Marx plays the game
+
+«Marx is free to use good logic here because, by means of hypothesis, he has in advance made the facts to square with his ideas, and can therefore be true to the latter without knocking up agains the former.», p88
+
+### Why Marx is considered a good intellectual
+
+«However wrong the starting point may be, these middle parts of the system, by their extraordinary logical consistency, permanently establish the reputation of the author as an intellectual force of the first rank.», p88-89
+
+### Marx had to admit at the end that the law of value doesn't hold true
+
+«He had at last to confess to his readers that in actual life commodities do not exchange, regularly and of necessity, in proportion to the working time incorporated in them, but in part exchange above and in part below this proportion, according as the capital invested demands a smaller or a larger amount of the average profit», p89
+
+### The challenges Marx had to face
+
+«In the first place he [Marx] had to justify himself to his readers for having in the earlier parts of his work and for so lon taught that labor was the sole determinant of exchange relations; and secondly—what was perhaps the more difficult task—he had also to give his readers a theorical explanation of the facts which were hostile to his theory, an explanation which certainly could not fit into his labor theory of value without leaving a residuum, but which must not, on the other hand, contradict it.», p89
+
+### How Marx approached the situation
+
+«Marx had to do violence to facts in order to deduce a theorem which could not be straightforwardly deduced from them, and he had to do still greater violence to logic and commit the most incredible fallacies into the bargain.», p89-90
+
+### The two breaking points in the Marxian system
+
+«The first place is just at the beginning when the theory first separates itself from the facts, and the second is after the first quarter of the third volume when facts are again brought within the horizon of the reader.», p90
+
+### Definition of Competition
+
+«"COMPETITION," as I have already hinted, is a sort of collective name for all the psychical motives and impulses which determine the action of the dealers in the market, and which thus influence the fixing of prices.», p91
+
+### Marx doesn't consider "competition" relevant
+
+«Marx is now, for the most part, engaged in the endeavor to give to competition and the forces operating in it the lowest possible place in his system. He either ignores it, or, if he does not do this, he tries to belittle the manner and degree of its influence where and whenever he can.», p91
+
+### The labor value theory ignores completely the role of competition when determining value
+
+«Every impartial person knows and sees that that the influence which the quantity of labor employed exerts on the permanent level of prices of goods [...] acts only through the play of supply and demand, that is to say, through competition.», p91
+
+### How Marx views supply and demand: as irregular market prices
+
+«He [Marx] starts by saying that when one of the two factors preponderates over the other, demand over supply, for instance, or vice versa, irregular market prices are formed which deviate from "market value," which constitutes the "point of equilibrium" for these market prices.», p93
+
+### A hot air balloon under the Marxian perspective
+
+«At a certain height both forces, density of the balloon and density of the surrounding air, are in equipoise. They, therefore, "cease to act," they "cease to explain anything," they do not affect the degree of ascent, and if we wish to explain this we must do it by "something else than the agency of these two forces."», p96
+
+### That is the reasoning behind Marx's idea of supply and demand
+
+«I think the fallacy here is obvious, and that it is not less obvious that the same kind of fallacy lies at the root of the arguments by which Marx reasons away the influence of supply and demand on the level of permanent prices.», p97
+
 ## References
 
 - Boenigk, ed., [[Staatswissenschaftliche Arbeiten. Festgaben für Karl Knies]], Berlin, 1896.
