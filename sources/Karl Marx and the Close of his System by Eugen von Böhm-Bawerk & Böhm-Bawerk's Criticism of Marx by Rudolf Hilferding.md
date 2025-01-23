@@ -1235,6 +1235,106 @@
 
 «Sombart's nomenclature, therefore, involves the claim either that that property of things, namely the being a product of labor, which is alone taken into consideration, is the deciding factor for all cases of value in the ordinary scientific sense, and thus represents, for example the phenomena of exchange value; or, without any _arrière pensé_ of this kind, his nomenclature may be a purely arbitrary one; and, unfortunately for nomenclatures of that kind, there is as guide no fixed compulsory law, but only good judgment and a sense of fitness.», p107
 
+### Böhm-Bawerk's problem with abstraction
+
+«My esteemed opponent [Werner Sombart] will certainly admin that we cannot make any abstraction we like to suit any scientific purpose we like. For instance, to start by conceiving the different bodies as "nothing but masses," which is legitimate in certain dynamic problems, would be plainly inadmissible in regard to acoustic or optical problems.», p108
+
+### Logic and thought should not be excluded from contact with reality
+
+«even in science "thoughts" and "logic" cannot wholly depart from facts.», p108
+
+### Labor is not the most important element in commodities
+
+«Labor is certainly _not_ the objectively most important circumstance for many goods, especially as regards exchange relations.», p109
+
+### Examples of commodities that are valued independently of human labor
+
+«We may mention, as instances, trunks of old oak trees, beds of coal, and plots of land», p109
+
+### Other factors impact considerably the exchange relations
+
+«and even if it be admitted that it is so for the greater part of commodities, still the fact must be emphasized that the influence of the other factors, which are determining factors along with labor, is so important that actual exchange relations diverge considerably from the line which would correspond with the embodied labor by itself.», p109
+
+### Conflating labor with exchange relations is a methodological mistake
+
+«if work is not the sole important factor in exchange relations and exchange value, bu only _one_, even though the most powerful, important factor among others—a _primus interpares_, as it were—then, according to what has been already said, it is simply incorrect and inadmissible to base upon labor alone a conception of value which is synonymous with exchange value», p110
+
+### Analogy: physicist doing the same
+
+«it is just as wrong and inadmissible as if a natural philosopher were to base the "active force" on the mass of the bodies alone, and were by abstraction to eliminate velocity from his calculation.», p110
+
+### Sombart claims the law of value only exists in thought, then he says it operates in the real world
+
+«he [Werner Sombart] unexpectedly makes a clever sally into the concrete world when he again maintains that his conception of value is adequate to the objectively most relevant fact, or, in more pretentious words, that "_a technical fact which objectively governs_ the economic of existence of human society has found in its adequate economic expression"»
+
+> Note: author is quoting from "Zur Kritik des Ökonomischen Systems von Karl Marx" in _Archiv für soziale Gesetzgebung, Vol. VII (1895)_, p577
+
+### If the labor value theory operates in the world, then it must be in harmony with the facts and abandon the realm of thought
+
+«Either the Marxian value claims to be in harmony with actual facts, in which case it should come out boldly with this assertion and not seek to escape the thorough test of facts by entrenching itself behind the position that it had not meant to affirm any actual fact but only to construct "an aid for our thought"», p111
+
+### If the labor value theory operates in the realm of thought, then it must abandon the idea of operating in the real world
+
+«or else it does seek to protect itself behind this rampart, it does avoid the thorough test of fact, and in that case it ought not to claim by the indirect means of vague assertions a kind of concrete significance which could justify belonging to it only if it had stood the testing by facts which it expressly avoided.», p111
+
+### non-labor-based goods are exchanged with labor-based products
+
+«Sombart sees and knows as well as I do that not only products of labor, but pure products of nature too, are put into quantitative relation in exchange, and are therefore practically commensurable with each other as well as with the products of labor.»
+
+### The common factor has yet to be found
+
+«as has also been admitted, products of labor do _not_ exchange in proportion to the labor embodied in them. Should not that rather be a sign to the unbiased theorist that, in spite of Marx, the true common denominator—the true common factor in exchange—has still to be sought for, and sought for in another direction than that taken by Marx?», p112
+
+### Marx ignores the individual in his methodology
+
+«Marx does not trace out the motives which determine individual subjects as economic agents in their mode of action, but he seeks the objective factors, the "economic conditions," which are _independent_ of the will, and, I may add, often also of the knowledge, of the individual.», p113
+
+### Marx hasn't proved objectively nor subjectively that his theory is right
+
+«He [Marx] has not proved his fundamental proposition that labor alone governs exchange relations either objectively, from the external, tangible, objective world of facts (with which on the contrary this proposition is in opposition), or subjectively, from the motives of the exchanging parties; but he gives it to the world in the form of an abortive dialectic, more arbitrary and untrue to facts than has probably ever before been known in the history of our science.», p115
+
+> Note: emphasis is ours
+
+### Marx cannot escape subjectivism when dealing with exchange relations
+
+«Marx did not hold fast to the "objective" pale. He could not help referring to the motives of the operators as to an active force in his system. He does this pre-eminently by his appeal to "competition".», p116
+
+### We are still stucked with Marxism, so...
+
+«What will be the final judgment of the world? Of that I have no manner of doubt. The Marxian system has a past and a present, but no abiding future.», p117
+
+### Dialectical scientific systems are doomed
+
+«Of all sorts of scientific systems those which, like the Marxian system, are based on a hollow dialectic, are most surely doomed.», p117
+
+### Reality imposes itself
+
+«A clever dialectic may take a temporary impression on the human mind, but cannot make a lasting one. In the long run facts and the secure linking of causes and effects win the day.», p117
+
+### Marx didn't win with facts, but with feelings
+
+«In the very young social sciences it was able to attain influence, great influence, and it will probably only lose it very slowly, and that because it has its most powerful support not in the convinced intellectual of its disciples, but in their hearts, their wishes, and their desires.», p117
+
+### The contradictions were made evident too late
+
+«If the teaching and the definitions of the third volume had been presented to the world simultaneously with the first volume, there would have been few unbiased readers, I think, who would not have felt the logic of the first volume to be somewhat doubtful.», p117
+
+### The contradictions would not have stopped, nor will stop, socialists
+
+«But even when this will have happened socialism will certainly not be overthrown with the Marxian system,—neither practical nor theorical socialism. As there was socialism before Marx, so there will be one after him.», p117
+
+### Böhm-Bawerk "predicted" future attempts to save socialism
+
+«There will try to replace the supports which have become rotten. What purification of fermenting ideas will result from this connection the future will show.», p118
+
+### Marx and Hegel's shared destiny
+
+«Marx, however, will maintain a permanent place in the history of the social sciences for the same reasons and with the same mixture of positive and negative merits as his prototype Hegel.», p118
+
+### Both were mistaken geniuses
+
+«The specific theorical work of each was a most ingeniously conceived structure, built up by a fabulous power combination, of innumerable storeys of thought, held together by marvelous mental grasp, but—a house of cards.», p118
+
 ## References
 
 - Boenigk, ed., [[Staatswissenschaftliche Arbeiten. Festgaben für Karl Knies]], Berlin, 1896.
