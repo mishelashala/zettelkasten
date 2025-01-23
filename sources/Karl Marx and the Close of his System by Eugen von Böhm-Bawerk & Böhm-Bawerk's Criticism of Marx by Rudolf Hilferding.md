@@ -1212,6 +1212,29 @@
 
 «first we must stop for a moment to consider the admission that the Marxian value has no existence in the world of real phenomena. I am somewhat curious to know whether the Marxists will ratify this admission.», p103
 
+### The labor value theory claim to exist in the real world
+
+«If you maintain that the same quantity of labor _exists_ in things made equal in exchange, and that these things _must_ be reducible to equal amounts of labor, you are claiming for these conditions an existence in the real world and not merely in thought.», p104
+
+### Marx claims the law of value to be something a kin to a natural law
+
+«he [Marx] claims that his law of value possesses the character and the potency of a _law of nature_, "it forces its way as the law of gravity does when the house comes down over one's head."», p105
+
+> Note: emphasis is ours
+> Note: author is quoting from Capital, Vol. I, p86
+
+### The theory of value labor is dead weight
+
+«For either Marx has maintained his law of value in the literal sense, that it corresponds with reality, and if so we agree with Sombart's view that, maintained in this sense, it is false; or he did not ascribe any real authority to it, and then, in my opinion, it cannot be construed in any sense whatever which would give it the smallest scientific importace. Iti s practically and theoretically a nullity.», p106
+
+### What Sombart mean with fact of thought
+
+«What, then, according to Sombart, does the existence of value as a "fact of thought" mean? It means that the "idea of value is an aid to our thought which we employ in order to make the phenomena of economic life comprehensible."», p106
+
+### Sombart's definition of value is vague and arbitrary
+
+«Sombart's nomenclature, therefore, involves the claim either that that property of things, namely the being a product of labor, which is alone taken into consideration, is the deciding factor for all cases of value in the ordinary scientific sense, and thus represents, for example the phenomena of exchange value; or, without any _arrière pensé_ of this kind, his nomenclature may be a purely arbitrary one; and, unfortunately for nomenclatures of that kind, there is as guide no fixed compulsory law, but only good judgment and a sense of fitness.», p107
+
 ## References
 
 - Boenigk, ed., [[Staatswissenschaftliche Arbeiten. Festgaben für Karl Knies]], Berlin, 1896.
