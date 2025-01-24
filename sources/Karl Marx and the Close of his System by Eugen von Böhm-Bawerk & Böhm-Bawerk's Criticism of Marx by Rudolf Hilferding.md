@@ -1335,6 +1335,157 @@
 
 «The specific theorical work of each was a most ingeniously conceived structure, built up by a fabulous power combination, of innumerable storeys of thought, held together by marvelous mental grasp, but—a house of cards.», p118
 
+## Böhm-Bawerk's criticism of Marx by Rudolf Hilferding
+
+### Böhm-Bawerk's thought he won the discussion
+
+«He [Böhm-Bawerk] believes he has proved the untenability of economic Marxism, and confidently announces that "the beginning of the end of the labor theory of value" has been inaugurated by the publication of the third volume of _Capital_.», p122
+
+> Note: part of the preface written by Rudolf Hilferding
+> Note: emphasis is ours
+
+### Refuting Marxism requires refuting the entire system
+
+«But since the Marxist system has to be dealt with in its entirety, this discussion must be more detailed than that which is requisite to meet the objects of the eclectics, objections based upon misunderstanding and concerned only with individual details.», p122
+
+### BW: The most fragile point of Marxism
+
+«according to Böhm-Bawerk the most vulnerable point in the Marxist theory is to be found in the logical and systematic process of distillation by means of which Marx obtains the sought-for "common factor" in labor.», p123-124
+
+### BW: The common factor must be present in all exchange goods
+
+«this common factor must be sought and found in every species of goods which is brought into exchange, not only in products of labor, but also in gifts of nature, such as the soil, wood in trees, water power, etc.», p124
+
+### BW: The capital sin in Marx's method
+
+«To exclude these exchangeable goods is a gross error of method», p124
+
+### BW: Marx avoid mentioning this important detail
+
+«Marx is like wise careful to avoid mentioning that he excludes from investigation a part of exchangeable goods.», p124
+
+### BW: exchangeable goods are not the same as Marxian commodities
+
+«He omits to call his readers' attention to the fact that his idea of "commodities" is narrower than that of exchangeable goods as a whole.», p124
+
+### BW: Exchangeable goods lead to a different common factor
+
+«if he had sought for the common factor in the "exchangeable" gifts of nature as well, it would have become obvious that labor cannot be the common factor.», p124
+
+### BW: The first Marxian fallacy
+
+«Marx excludes all "geometrical, physical, chemical, or other natural qualities of the commodities," for "their physical qualities claim our attention only in so far as they affect the utility of the commodities—make them use values.», p125
+
+### BW: The second Marxian fallacy
+
+«the exchange relation of commodities is evidently characterized by the abstraction of their use values," because "within this relation (the exchange relation) one use value is as good as another provided only it be present in the proper proportion."», p125
+
+> Note: author is quoting Capital, Vol. I, p44
+
+### BW: The problem with the second Marxian fallacy
+
+«He [Marx] confuses the disregarding of a genus with the disregarding of the specific forms in which the genus manifests itself.», p125
+
+### BW: Special form of value can be disregarded, but not use of value
+
+«The special forms under which use value may appear may be disregarded, but the use value of the commodity in general must never be disregarded.», p125
+
+### You can disregard a commodity that has no use value for you, or others
+
+«Having ceased for me to be a use value, it matters nothing to me that it has a use value for others, possesses utility for this or that other person.», p126
+
+### We only exchange when a commodity doesn't have a use of value for us
+
+«I do not exchange it until the moment arrives when it has ceased to possess a use value for me.», p126
+
+### It applies also to the production of commodities
+
+«Here the individual produces commodities of but one kind, commodities of which one specimen at most can possess a use value for him, whereas in the mass the commodities have for him such value.», p126
+
+### Use value to others is one of the necessary conditions for exchange
+
+«It is a precondition to the exchangeability of the commodities that they should posses utility for others», p126
+
+> Note: "No use value to me is the other necessary condition for exchange"
+
+### Value use is not a "measure"
+
+«but since for me they are devoid of utility, the use value of my commodities is in no sense a _measure_ even for my individual estimate of value», p126
+
+### Value use is not an "objective measure"
+
+«and still less it is a measure of an objective estimate of value.», p126
+
+### Use value enables exchangeability
+
+«the use value consist of the capacity of these commodities to be exchanged for other commodities», p126
+
+### Wrong Implication: exchange value determines use value
+
+«this would imply that the extent of the "use value" is now determined by the extent of the exchange value», p125
+
+### Use value determines exchange value
+
+«not the extent of the exchange value by the extent of the use value.», p125
+
+### (Marxian) Commodities are produced to be exchanged
+
+«As long as goods are not produced for the purpose of exchange, are not produces as commodities», p126
+
+### (Marxian) goods are exchanged incidentally
+
+«as long, [...], as exchange is no more than an occasional incident wherein superfluities only are exchange, goods confront one another solely as use values.», p125
+
+### Value use and exchange value are distinguished as different when goods are produced with the purpose of exchange in mind
+
+«From that moment the distinction becomes firmly established between the utility of an object for the purposes of consumption, and its utility for the purpose of exchange. Its value use becomes distinguished from its exchange value.», p127
+
+> Note: author is quoting Capital, Vol. I, p100
+
+### Exchange value is the commodification of use value
+
+«for "value" is nothing more than an economic modification of use value.», p127
+
+### Labor is a necessary (but not sufficient) to make something useful
+
+«Labor must be done on most things in order to render them useful.», p129
+
+### A good becomes a commodity when the use value and value become alienated (separated/contrasted)
+
+«A good does not become a commodity merely in virtue of being the product of labor. But only in so far as it is a _commodity_ does a good exhibit the contrasted qualities of use value and value.», p129
+
+### In other word: a good becomes a commodity when it enters an exchange relationship with other goods (exchangeable)
+
+«a good becomes a commodity solely through entering into a relationship with other goods, a relationship which becomes manifest in the act of exchange, and which, quantitatively regarded, appears as the exchange value of the good.», p129
+
+### Being a exchange value is what makes a good a commodity
+
+«The quality of functioning as an exchange value thus determines the commodity character of the good.», p129
+
+### Commodities don't enter the realm of exchange by themselves
+
+«But a commodity cannot of its own initiative enter into relationships with other commodities», p129
+
+### Owners must have relationship with the goods that allows them consider the mere idea of exchange
+
+«the material relationship between commodities is of necessity the expression of a personal relationship between their respective owners.», p129
+
+### Private ownership and division creates atomized individuals
+
+«whereas private ownership and the division of labor reduces society into its atoms», p130
+
+### Exchange of products make use social again
+
+«the exchange of products restore to society its social interconnections.», p130
+
+### What the term commodity hides behind
+
+«it is the expression of social relationships between mutually independent producers in so far as these relationships are effected through the instrumentality of goods.», p130
+
+### A commodity is a product of society
+
+«A commodity, however, can be the expression of social relationships only in so far as it is itself contemplated as a product of society, as a thing on which society has stamped its imprint.», p130
+
 ## References
 
 - Boenigk, ed., [[Staatswissenschaftliche Arbeiten. Festgaben für Karl Knies]], Berlin, 1896.
