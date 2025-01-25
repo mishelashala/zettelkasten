@@ -1,34 +1,38 @@
-## Notes
+## Bibliographical Information
+
+von Böhm-Bawerk, Eugene. Hilferding, Rudolf. "Karl Marx and the Close of his System by Eugen von Böhm-Bawerk & Böhm-Bawerk's Criticism of Marx by Rudolf Hilferding", (Ed. Augustus M. Kelley), New York, 1949
+
+## Notes from "Karl Marx and the Close of his System"
 
 ### Premise of the author
 
-«the Marxian teaching was charged from top to bottom with every kind of contracition both of logic and of fact.», p3
+«the Marxian teaching was charged from top to bottom with every kind of contraction both of logic and of fact.», p3
 
 ### Confronting a model with reality
 
 «General principles can be very prettily put forward in the "general Sections" of a book, but whether they really possess the convincing power ascribe to them by their author can only be ascertained when in the construction of the system they are brought face to face with all the facts in detail.», p4
 
-### What determines the value of commodities
+### [x] What determines the value of commodities
 
 «Max had taught in his first volume that the whole value of commodities was based on the labor embodied in them», p4
 
-### The "law of value"
+### [x] The "law of value"
 
 «and that by virtue of this "law of value" they must exchange in proportion to the quantity of labor which they contain», p4
 
-### Where does profit comes from
+### [x] Where does profit comes from
 
 «that, further, the profit or surplus value falling to the capitalist was the fruit of extortion practiced on the worker», p4
 
-### Surplus "doesn't come" from constant capital
+### [x] Surplus "doesn't come" from constant capital
 
 «the amount of surplus value was not in proportion to the whole amount of the capital employed by the capitalist», p4
 
-### Surplus "comes" from variable capital
+### [x] Surplus "comes" from variable capital
 
 «but only to the amount of the "variable" part—that is, to that part of capital paid in wages», p4
 
-### Constant capital "adds no surplus value"
+### [x] Constant capital "adds no surplus value"
 
 «while the "constant capital," the capital employed in the purchase of the means of production added no surplus value.», p4
 
@@ -58,101 +62,101 @@
 
 «But the preface of the editor, Friedrich Engels, not only contained the reiterated positive assertion that the solution was given in the manuscript left by Marx.», p5
 
-### Marx's dishonest definition of commodities
+### [x] Marx's dishonest definition of commodities
 
 «he limits from the beginning to _commodities_, by which, according to him, we are not to understand all economic goods, but only those _products of labor_ which are made for the market.», p9
 
-### Definition of commodity
+### [x] Definition of commodity
 
 «A commodity is, on one side, a useful thing, which by its properties satisfies human wants of some kind; and on the other, it forms the material medium of exchange value.», p9
 
-### Definition of Exchange Value
+### [x] Definition of Exchange Value
 
-«"Exchange value presents itself in the first instance as the quantitative relation, the proportion, in which values in use of one kind are exchanged for values in use of another kind, a relation which constantly changes with time and place."»
+«"Exchange value presents itself in the first instance as the quantitative relation, the proportion, in which values in use of one kind are exchanged for values in use of another kind, a relation which constantly changes with time and place."», p9-10
 
 > Note: Author is quoting Capital Vol. I
 
-### Implication of Exchange Value
+### [x] Implication of Exchange Value
 
 «Exchange value, therefore, appears to be something accidental. And yet there must be in this changing relation something that is stable and unchanging», p10
 
-### What do commodities have in common?
+### [x] What do commodities have in common?
 
 «"[...] there exists a common factor of the same magnitude in two different things, in a quarter of wheat and in cwt. of iron. The two things are therefore equal to a third which is in itself neither the one nor the other. Each of the two, so far as it is an exchange value, must therefore be reducible to that third."», p10
 
-### The common factor "is not a physical property"
+### [x] The common factor "is not a physical property"
 
 «"This common factor," Marx goes on, "cannot be a geometrical, physical, chemical or other natural property of the commodities.», p10
 
-### Physical properties determine values of use
+### [x] Physical properties determine values of use
 
 «Their physical properties come into consideration for the most part only in so far as they make the commodities useful, and so make them values in use.», p10
 
-### Values of use "don't determine" exchange relation
+### [x] Values of use "don't determine" exchange relation
 
 «But, on the other hand, the exchange relation of commodities is obviously determined without reference to their values in use.», p10
 
-### Values in use and exchange values are mutually exclusive
+### [x] Values in use and exchange values are mutually exclusive
 
 «As values in use commodities are above everything of different qualities; as exchange values they can only be of different quantities, and they can, therefore, contain no atom of value in use.», p10
 
-### Common factor by elimination: being products of labor
+### [x] Common factor by elimination: being products of labor
 
 «If then we abstract from the value in use of commodities, there remains to them only one common property, that of being products of labor.», p10
 
-### First implication of abstracting the value in use: no more physical properties
+### [x] First implication of abstracting the value in use: no more physical properties
 
 «For if we abstract from the value in use of a commodity, we at the same time abstract from the material constituents and forms which give it a value in use. It is no longer a table, or a house, or yarn, or any other useful thing. All its physical qualities have disappeared.», p11
 
-### Second implication of abstracting the value in use: no more labor embodied in them
+### [x] Second implication of abstracting the value in use: no more labor embodied in them
 
 «Nor is it any longer the product of the labor or the carpenter, or the mason, or the spinner, or of any other particular productive industry. With the useful character of the labor products there disappears the useful character of the labors embodied in them, and there vanish also the different concrete forms of these labors.», p11
 
-### Result: abstract human labor
+### [x] Result: abstract human labor
 
 «They are no longer distinguished from each other, but are all reduced to identical human labor—abstract human labor.», p11
 
-### Implication: value "is not the same with" exchange value
+### [x] Implication: value "is not the same with" exchange value
 
 «It is in dialectical form not identical with exchange value», p11
 
-### Marxian value: logical distilled form of value
+### [x] Marxian value: logical distilled form of value
 
 «It is a kind of logical distillation from it.», p11
 
-### Exchange value: manifestation of the value of commodities
+### [x] Exchange value: manifestation of the value of commodities
 
 «"the exchange value is the only form in which the value of commodities can manifest itself or be expressed"», p11
 
 > Note: they are quoting from Capital, Vol. I, p45
 
-### Value is measured by duration of labor
+### [x] Value is measured by duration of labor
 
 «As labor is the substance of value so the amount of the value of all goods is measured by the quantity of labor contained in them, which is, in its turn, measured by its duration», p11
 
-### Value is measured by socially necessary labor time
+### [x] Value is measured by socially necessary labor time
 
 «but not by that particular duration, or working time, which the individual who made the commodity has happened to need, but by the working time that is socially necessary.», p11-12
 
-### Definition of "socially necessary labor time"
+### [x] Definition of "socially necessary labor time"
 
 «Marx defines this last as the "working time required to produce a value in use under the normal conditions of production, and with the degree of skill and intensity of labor prevalent in a given society"»
 
 > Note: they are quoting Capital, Vol. I, p46
 
-### Only socially necessary labor determines value
+### [x] Only socially necessary labor determines value
 
 «"It is only the quantity of socially necessary labor, or the working time socially necessary for the production of a value in use, which determines the amount of the value."»
 
-### Single commodity vs class of commodity
+### [x] Single commodity vs class of commodity
 
 «The single commodity is here to be regarded as an average specimen of its class.», p12
 
-### Same labor means same value
+### [x] Same labor means same value
 
 «Commodities, therefore, in which equal quantities of labor are embodied, or which can be produced in the same working time, have the same value.», p12
 
-### The "law of value"
+### [x] The "law of value"
 
 «It states, and must state, after what has gone before, that commodities are exchanged in proportion to the socially necessary working time incorporated in them.», p12
 
@@ -162,33 +166,33 @@
 
 > Note: they are quoting Capital, Vol. I, p177, p184, p217; Capital Vol. III, p221
 
-### Fluctuations in prices "cancel each other over time"
+### [x] Fluctuations in prices "cancel each other over time"
 
 «these "constant oscillations of market prices . . . compensate and cancel each other, and reduce themselves to the average price as their inner law"», p12
 
 > Note: author is quoting from Capital, Vol. I, p184n
 
-### The "law of value" imposes itself over time
+### [x] The "law of value" imposes itself over time
 
 «"In the long run "the socially necessary working time always asserts itself by main force, like an overruling natural law, in the accidental and ever fluctuating exchange relations"», p12
 
 > Note: author is quoting from Capital, Vol. I, p86
 
-### The "law of value" as an "eternal law"
+### [x] The "law of value" as an "eternal law"
 
 «Marx declares this law to be the "eternal law of the exchange of commodities", [...], and "the rational element" and "the natural law of equilibrium"», p12-13
 
 > Note: author is quoting from Capital Vol. I, p215; Capital, Vol. III, p221
 
-### The doctrine of surplus values is derived from the theory of value
+### [x] The doctrine of surplus values is derived from the theory of value
 
 «On these principles of the theory of value Marx founds the second part of the structure of his teaching, his renowned doctrine of surplus value.», p13
 
-### Doctrine of surplus value: where does profit come from?
+### [x] Doctrine of surplus value: where does profit come from?
 
 «In this part he traces the source of the gain which capitalists obtain from their capital.», p13
 
-### How capitalists operate
+### [x] How capitalists operate
 
 «Capitalists lay down a certain sum of money, convert it into commodities, and then—with or without an intermediate process of production—convert these back again into more money.», p13
 
@@ -1335,7 +1339,7 @@
 
 «The specific theorical work of each was a most ingeniously conceived structure, built up by a fabulous power combination, of innumerable storeys of thought, held together by marvelous mental grasp, but—a house of cards.», p118
 
-## Böhm-Bawerk's criticism of Marx by Rudolf Hilferding
+## Notes from "Böhm-Bawerk's criticism of Marx" by Rudolf Hilferding
 
 ### Böhm-Bawerk's thought he won the discussion
 
