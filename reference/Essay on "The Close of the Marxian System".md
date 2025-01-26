@@ -186,6 +186,124 @@ For Böhm-Bawerk the purpose of his doctrine of _surplus value_ is to know where
 
 Böhm-Bawerk explains the capitalist cycle as follows: «Capitalists lay down a certain sum of money, convert it into commodities, and then—with or without an intermediate process of production—convert these back again into more money.» (Böhm-Bawerk, 1949, p13).
 
+### Profit doesn't come from buying commodities under their value
+
+Böhm-Bawerk explains us that under the Marxian system profit doesn't come from the seller buying commodities at a price below market price: «He [Marx] first declares that the surplus value cannot originate either in the fact that the capitalist, as a buyer, buys commodities regularly under their value» (Böhm-Bawerk, 1949, p13, _clarification is ours_).
+
+In other words, _profit_, in the Marxian system, doesn't come from the capitalist buying a commodity _A_ with an exchange value of _x_ at price _x - y_, and then selling that same commodity at _x_. In this scenario the _profit_ of the capitalist would be _y_.
+
+### Profit doesn't come from selling commodities over their value
+
+But since that is ruled out impossible within the Marxian system we could be tempted to think that it can come from selling the commodities _over their value_. But, Böhm-Bawerk leaves clear that, within the Marxian system, that is also impossible. He tells us that sources of _profit_ doesn't align with «the fact that the capitalist, as a seller, sells them over their value.» (Böhm-Bawerk, 1949, p13).
+
+Therefore, it is impossible for a capitalist to buy a _commodity_ _A_ at value _x_ and then sell it at _x + y_, making the profit of the capitalist _y_.
+
+### Theory of surplus value relies on the "law of value"
+
+These two scenarios bring us the immediate question: but why? Within the Marxian system, the "law of value" is always reigning supreme, therefore _commodities_ **always** exchange _at their value_. The "law of value" rules out impossible those two scenarios: buying under value, and selling over value.
+
+Marx tells us explicitly that «The owner of the money must buy the commodities at their value, then sell them at their value» (Marx, 1894, p185).
+
+### If the "law of value" is false, then the doctrine of surplus value is false
+
+Therefore, the doctrine of surplus value is completely dependent of the "law of value". If the "law of value" is false, then the doctrine of _surplus value_ is false. This is a point that Böhm-Bawerk doesn't explore in his work, but it is deducible from his explanation of the Marxian system and Marx's own words.
+
+### The problem Marx is trying to solve
+
+Marx continues by telling us that «and yet at the end of the process [the capitalist] must draw out more money than he put in. Such is the conditions of the problem» (Marx, 1894, p185).
+
+This problem, again, is: where does profit originates?
+
+### The problem is the result of the "law of value"
+
+Marx operates under the premise that the "law of value" is true, therefore, he looks perplexed at this "magic trick" that originates: money coming out nowhere.
+
+But if we remove the law of value, in other words, if we declare the law of value as false, then problem disappears. Without the "law of value" then the possibility of buying _commodities_ _under_ their value, and/or selling commodities _over_ their value can become an excellent explanation for the source of _profit_.
+
+### The dishonest conflation of profit and surplus value
+
+This is a good moment to make a parenthesis. In the same way that Marx purposely limits the range of a _commodity_ to get the result he wants, he conflates _profit_ and _surplus value_.
+
+Within the Marxian system _surplus value_ and _profit_ are used interchangeably. But they are not the same. The term _surplus value_ is a loaded term. It implies that extra _value_ has been added to a _commodity_. And, as discussed earlier, _labor_ is what determines _value_ within the Marxian system.
+
+By **always** using _surplus value_ when talking about _profit_ Marx is limiting the sources of _profit_ exclusively to _labor_, ruling out other possible sources. By doing so he gets the conclusion he already wanted, just as he did with the definition of _commodity_.
+
+By ruling out the "law of value" as false, we then can discuss other sources of profit, rendering the whole doctrine of _surplus value_ as false.
+
+### The theory of exploitation depends on the theory of surplus value
+
+Just as the doctrine of _surplus value_ relies on the "law of value" and the _labor value theory_ being true, the doctrine of _exploitation_ relies on the doctrine of _surplus value_ being true.
+
+If the "law of value" is false, or the theory of _labor value theory_ is false, then the doctrine of _surplus value_ is false. If the theory of _surplus value_ is false, then the theory of _exploitation_ is false.
+
+### Labor power as the source of surplus value
+
+But we are getting ahead of ourselves. Let's get back to the problem of identifying the source of _surplus value_.
+
+Böhm-Bawerk tells us that, in fact, Marx found a solution: labor power. He tells us that «there is one commodity whose value in use possesses that peculiar property of being a source of exchange value. This commodity is the capacity of labor, labor power.» (Böhm-Bawerk, 1949, p13-14).
+
+### Labor power as a commodity
+
+He continues by saying that «[labor power] is offered for sale in the market under the twofold condition that the laborer is personally free, for otherwise it would not be his labor power only that would be for sale, but his whole person as a slave; and that the laborer is destitute of», here he's quoting Marx, «all the means necessary for the realizing of his labor power".» (Böhm-Bawerk, 1949, p14, _clarification is ours_).
+
+In other words, laborers sell their _labor power_ as a _commodity_ in the market as free men under two conditions. The first one: they sell their whole body as slaves; the second one: they have to sell it because they don't own the means of production necessary to realize their labor as independent agents.
+
+### Laborers send their labor power because they don't own means of production
+
+Böhm-Bawerk makes emphasis in the second condition by stating «for otherwise [they] would prefer to produce on [their] own account and to offer for sale [their] products rather than [their] labor power» (Böhm-Bawerk, 1949, p14, _clarification is ours_).
+
+This is a crucial point in the Marxian system: the idea that laborers are forced to sell their _labor force_ instead of selling their _commodities_ because they don't have any other option. In other words, they are trapped in their condition of laborers because of the material conditions. Change the material conditions by granting them control over the means of production and they gladly and without hesitation would sell their commodities one hundred percent of the time over selling their labor power.
+
+### Surplus value comes from trading labor power
+
+Böhm-Bawerk continues by saying that «it is by trading in this commodity that the capitalist obtains the _surplus value_.» (Böhm-Bawerk, 1949, p14).
+
+Here, we can see the circular logic in action again. By conflating the term _surplus value_ with _profit_ Marx glides us to the conclusion he wants.
+
+If _profit_ cannot come from other sources but _surplus value_, and _surplus value_ is _labor added_ to a commodity, then he already had his conclusion prepared without having to search for it: _surplus value_ can only come from _labor power_.
+
+### The regulation of labor power
+
+_Labor power_ by virtue of being a commodity «is regulated like any other commodity by the working time necessary for its reproduction», (Böhm-Bawerk, 1949, p14).
+
+In this context the "working time necessary for its reproduction" would mean the minimum amount of food, shelter, and rest a worker would need in order to replenish his energies.
+
+###
+
+Böhm-Bawerk then tells us that «If the capitalist has concluded this purchase, the value in use of the labor power belongs to him and he realizes it by causing the laborer to work for him.» (Böhm-Bawerk, 1949, p14).
+
+Meaning that once acquired the labor power through a financial transaction the capitalist can use that labor power as he wishes.
+
+«But if [the capitalist]», Böhm-Bawerk continues ,«made [the laborer] work only so many hours a day as are embodied in the labor power itself, and as must have been paid for in the buying of the same, no surplus value would arise» (Böhm-Bawerk, 1949, p14).
+
+Here, Böhm-Bawerk, explains the concept of _appropriation of surplus value_ by the capitalist.
+
+This premise relies both in the "law of value" being and the doctrine of _surplus value_ of being true. It relies on the "law of value" because all _commodities_ **must** exchange by their equal.
+
+In the case of the "law of value": if a capitalist is buying eight hours of work, then the laborer must give the equivalent _value_ in commodities. And viceversa, if a laborer is selling eight hours work, then capitalist must receive the equivalent _value_ in _commodities_.
+
+And in the case of the doctrine of _surplus value_: if the laborer adds three extra hours of labor to an commodity, then he must receive those three hours of work from the capitalist in exchange.
+
+This two conditions would lead to an "equilibrium" in which each part is receiving exactly the same value, therefore, producing no surplus value for the capitalist nor the laborer. Equals exchanging for equals.
+
+### The real source of profit: unpaid labor
+
+«But this is not the way in which capitalists act», Böhm-Bawerk tells us. «Even if they have bought the labor power for a price which only corresponds to six hour's working time, they yet make the laborer work the whole day for them.» (Böhm-Bawerk, 1949, p14).
+
+This is where the _modus operandi_ of the capitalists is described. Under the interpretation of the Marxian system _profit_ comes from unpaid labor. The capitalist pays for certain amount of hours, but then make the laborer work for longer.
+
+### Profit breaks the "law of value"
+
+«And now in the product made during this day there are incorporated more hours of labor than the capitalist was obligated to pay for.» (Böhm-Bawerk, 1949, p14).
+
+This is where the "law of value" is broken for the Marxian system. Given that the "law of value" states that equals must be exchanged for equals, by receiving more from the laborer than what they are exchanging for they create a disequilibrium.
+
+That disequilibrium can be expressed as follows: the laborer is producing _X_ value in commodities, but the capitalist is giving to the laborer _Y_. But _Y_ is not equal to _X_, but _X - Z_. Therefore they would not be exchanging _X_ for _Y_, in other words _X_ for _X_, but _X_ for _X - Z_. That _Z_ is the _surplus value_ added by the worker that is being not remunerated to him, in other words, it is being appropriated by the capitalist.
+
+### [unfinished thought] repercussion
+
+There's an important implication here. Since Marx declares that his "law of value" is akin to "natural law" and that "it imposes itself in the long run" it obvious that this behavior violates something fundamental. Perhaps this is the source of the disdain Marxists feel for the concept of _profit_: from the idea of "cheating" or "breaking a natural law".
+
 ---
 
 ### Where does surplus value comes from

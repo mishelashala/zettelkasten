@@ -196,35 +196,35 @@ von Böhm-Bawerk, Eugene. Hilferding, Rudolf. "Karl Marx and the Close of his Sy
 
 «Capitalists lay down a certain sum of money, convert it into commodities, and then—with or without an intermediate process of production—convert these back again into more money.», p13
 
-### Profit "doesn't come" from buying under value or selling over value
+### [x] Profit "doesn't come" from buying under value or selling over value
 
 «He first declares that the surplus value cannot originate either in the fact that the capitalist, as a buyer, buys commodities regularly under their value, nor in the fact that the capitalist, as a seller, sells them over their value.», p13
 
-### Solution: labor power
+### [x] Solution: labor power
 
 «The solution Marx finds in this, that there is one commodity whose value in use possesses that peculiar property of being a source of exchange value. This commodity is the capacity of labor, labor power.», p13-14
 
-### Laborers sell themselves as slaves in the market
+### [x] Laborers sell themselves as slaves in the market
 
 «It is offered for sale in the market under the twofold condition that the laborer is personally free, for otherwise it would not be his labor power only that would be for sale, but his whole person as a slave», p14
 
-### Laborers have to sell their labor power because they don't own the means of production
+### [x] Laborers have to sell their labor power because they don't own the means of production
 
 «and that the laborer is destitute of "all the means necessary for the realizing of his labor power"», p14
 
-### Otherwise they would not need the capitalist
+### [x] Otherwise they would not need the capitalist
 
 «for otherwise he would prefer to produce on his own account and to offer for sale his products rather than his labor power.», p14
 
-### Capitalists obtain surplus value from trading labor power
+### [x] Capitalists obtain surplus value from trading labor power
 
-«It is by trading in this commodity that the capitalist obtains the surplus value»
+«It is by trading in this commodity that the capitalist obtains the surplus value», p14
 
-### How "it works"
+### [x] How "it works"
 
 «and he does in the following way: the value of the commodity, "labor power," is regulated like any other commodity by the working time necessary for its reproduction», p14
 
-### Only paying what is minimally necessary for the subsistence of the worker
+### [x] Only paying what is minimally necessary for the subsistence of the worker
 
 «by the working time which is needed to create so much means of subsistence as is required for the maintenance of the worker.», p14
 
@@ -234,11 +234,11 @@ von Böhm-Bawerk, Eugene. Hilferding, Rudolf. "Karl Marx and the Close of his Sy
 
 > Note: clarification added by me
 
-### Working more hours than the hours they are getting payed
+### [x] Working more hours than the hours they are getting payed
 
 «But this is not the way in which capitalists act. Even if they have bought the labor power for a price which only corresponds to six hour's working time, they yet make the laborer work the whole day for them.», p14
 
-### Capitalists pay less than what they receive back
+### [x] Capitalists pay less than what they receive back
 
 «And now in the product made during this day there are incorporated more hours of labor than the capitalist was obligated to pay for.», p14
 
