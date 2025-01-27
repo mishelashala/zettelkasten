@@ -268,11 +268,13 @@ _Labor power_ by virtue of being a commodity «is regulated like any other commo
 
 In this context the "working time necessary for its reproduction" would mean the minimum amount of food, shelter, and rest a worker would need in order to replenish his energies.
 
-###
+### The capitalist buys the labor power to make it work for him
 
 Böhm-Bawerk then tells us that «If the capitalist has concluded this purchase, the value in use of the labor power belongs to him and he realizes it by causing the laborer to work for him.» (Böhm-Bawerk, 1949, p14).
 
 Meaning that once acquired the labor power through a financial transaction the capitalist can use that labor power as he wishes.
+
+### Following the "law of value" would lead to no profit
 
 «But if [the capitalist]», Böhm-Bawerk continues ,«made [the laborer] work only so many hours a day as are embodied in the labor power itself, and as must have been paid for in the buying of the same, no surplus value would arise» (Böhm-Bawerk, 1949, p14).
 
