@@ -1,3 +1,5 @@
+## 1. Chapter One: The Theory of Value and Surplus Value
+
 ### The Marxian definition of commodities
 
 Böhm-Bawerk states that Marx limits the definition of commodities in order to distinguish them from other economic goods, he tells us that «[Marx] limits from the beginning to _commodities_, by which, according to him, we are not to understand all economic goods, but only those _products of labor_ which are made for the market.» (Böhm-Bawerk, 1949, p9, _Emphasis is ours_).
@@ -302,9 +304,241 @@ This is where the "law of value" is broken for the Marxian system. Given that th
 
 That disequilibrium can be expressed as follows: the laborer is producing _X_ value in commodities, but the capitalist is giving to the laborer _Y_. But _Y_ is not equal to _X_, but _X - Z_. Therefore they would not be exchanging _X_ for _Y_, in other words _X_ for _X_, but _X_ for _X - Z_. That _Z_ is the _surplus value_ added by the worker that is being not remunerated to him, in other words, it is being appropriated by the capitalist.
 
+### Necessary Working Time
+
+Böhm-Bawerk tell us that under the Marxian system the working time of the laborer is divided in two parts: «In the first part—the "necessary working time"—the worker produces the means necessary for his own support, or the value for those means» (Böhm-Bawerk, 1949, p16).
+
+This part of the working time is the "minimum necessary" for the laborers to buy food, clothing, housing, and to replenish their energy to continue working.
+
+Böhm-Bawerk continues telling us that «this part of his labor he receives an equivalent in wages.» (Böhm-Bawerk, 1949, p16).
+
+This may seems like an obvious thing that is not worth pointing out: the laborers do some labor, the capitalist pays them. But, this subtle phrase: "this part of his labor he receives an equivalent in wages" hints an implication in the Marxian system. The idea that the capitalist _only_ pays the laborers this part of their working time, just enough to continue replenishing they labor power, not less, not more.
+
+### Surplus Working Time
+
+This is made much more clear when Böhm-Bawerk tells us that «During the second part—the "surplus working time"—he is exploited, he produces "surplus value" without receiving any equivalent for it.», (Böhm-Bawerk, 1949, p16).
+
+### Surplus value is the result of unpaid working time
+
+From this "unpaid" _surplus working time_ the capitalist gets his _surplus value_.
+
+Böhm-Bawerk cites Marx himself in order to ratify this point: «All surplus value is in substance the embodimient of unpaid working time» (Marx, 1887).
+
+### For Marx surplus value ONLY comes from "living work"
+
+This conclusion has some implications, that Böhm-Bawerk will explore in detail. One of those implications is that _surplus value_ (_value_ added to a _commodity_) can only come from the work done from the laborer, and never from the means of production (machinery, tools, etc).
+
+Böhm-Bawerk tells us that «new surplus value can only be created by the living work which the capitalist gets the worker to perform.» (Böhm-Bawerk, 1949, p16).
+
+This is in line with the Marxian system of thought, if we remember _human labor_ is the common factor among all _commodities_, and the _value_ of commodities has been established to come from _human labor_. Therefore, any added (_surplus_) _value_ can only come from new _labor_ embodied in _commodities_. And since _value_ is measured in _working time_, then it easy to conclude, within the Marxian system of thought, that all _surplus value_ is only the result of the _working time_ embodied in them by the laborer.
+
+### For Marx surplus value NEVER comes from the means of production
+
+And by following this line of thought we reach an obvious conclusion: if _surplus value_ can only come from _working time_ (human labor), then we can rule out any other mean as the source of _surplus value_.
+
+This is precisely what Böhm-Bawerk tells us: «The value of the means of production which are used is maintained, and it reappears in a different from in the value of the product, but adds no surplus value.» (Böhm-Bawerk, 1949, p16).
+
+This other form of "value" is what Marx would call "faux frais". Böhm-Bawerk never explicitly talks about it, and it is out of the scope of this essay, but the idea is clear: the means of production don't add _surplus value_ since it can only come from _human labor_ (Böhm-Bawerk, 1949, p16).
+
+Just to leave no room for interpretation, Böhm-Bawerk quotes Marx saying: «That part of the capital, therefore, which is converted into the means of production, that is, into raw material, auxiliary material, and implements of labor, does not alter the amount of its value in the process of production» (Marx, 1887).
+
+### The rate of surplus value
+
+From these two elements, the "necessary working time" and the "surplus working time" we can derive a rate, or proportion. Böhm-Bawerk says that «the proportion in which the surplus value stands to the advanced variable part of capital (in which alone the surplus value "makes good its value") Marx calls the _rate of surplus value_.»
+
+We can express it arithmetically like this:
+
+$$
+Rate\ of\ Surplus\ Value = \frac{Necessary\ Working\ Time}{Surplus\ Working\ Time}
+$$
+
+### Rate of surplus value as a proxy for level of exploitation
+
+The _rate of surplus value_ within the Marxian system is used as a proxy for degree of exploitation a laborer is experiencing. Böhm-Bawerk tells us that «[the rate of surplus value] is identical with the proportion in which the surplus working time stands to the necessary working time, or the unpaid labor to the paid, and serves Marx, therefore, as an exact expression for the degree of exploitation of labor» (Böhm-Bawerk, 1949, p16-17, _clarification is ours_).
+
+The greater the _rate of surplus value_ the greater the degree of exploitation the laborer is under.
+
+### The rate of surplus value is not the same as the rate of profit
+
+One would be inclined to think that there's in an equivalence between the _rate of profit_ and the _rate of surplus value_. Böhm-Bawerk tells us that under the Marxian system, that is not the case, that the _rate of surplus value_ is «Totally different from this the rate of profit» (Böhm-Bawerk, 1949, p17).
+
+### How the rate of profit is calculated
+
+How so? To that Böhm-Bawerk clarifies the matter by stating that «The capitalist calculates the surplus value, which he appropriates, not only upon the variable capital but upon the total amount of capital employed» (Böhm-Bawerk, 1949, p17).
+
+### How the amount of capital employed is calculated
+
+The total _amount of capital employed_ is the sum of both _variable capital_ and _constant capital_, or using a different terminology _laborers' wages_ and the cost of _means of production_.
+
+
+$$
+Total\ Amount\ of\ Capital\ Employed = {Laborers'\ Wages} + {Cost\ of\ Means\ of\ Production}
+$$
+
+### The formula for the rate of profit
+
+From the relationship between _variable capital_ and _constant capital_ Böhm-Bawer decudes that «the greater the variable and the less the constant capital employed [...] the higher will be the rate of profit.» (Böhm-Bawerk, 1949, p17).
+
+According to the formula:
+
+$$
+Rate\ of\ Profit = \frac{Variable\ Capital}{Constant\ Capital}
+$$
+
+If we have in a _commodity_ **A** twice as much _variable capital_ than a commodity **B** but the same amount of _constant capital_, then the rate of _profit_ in _commodity_ **A** is twice as much as in _commodity_ **B**.
+
+$$
+Rate\ of\ Profit\ of\ commodity\ A = \frac{Variable\ Capital\ (100)}{Constant\ Capital\ (100)} = \frac{100}{100} = 1
+$$
+
+$$
+Rate\ of\ Profit\ of\ commodity\ B = \frac{Variable\ Capital\ (200)}{Constant\ Capital\ (100)} = \frac{200}{100} = 2
+$$
+
+## 2. Chapter Two: The Theory of The Average Rate of Profit and of the Price of Production
+
+### Organic Composition of Capital
+
+Böhm-Bawerk doesn't stop to define what is the "organic composition" of capital. But this is a good point to introduce the concept. Simply put, it is the amount of capital that is invested in each part of the production process, in other words how much is invested in _variable capital_ and how much in _constant capital_.
+
+### Different organic composition of capital in different spheres
+
+Böhm-Bawerk paraphrases Marx by telling us that «The "organic composition" [...] of the capital is for technical reasons necessarily different in the different "spheres of production"» (Böhm-Bawerk, 1949, p19).
+
+### Every branch of production has a special rate of profit
+
+Then, Böhm-Bawerk introduces use to the concept of _special rate of profit_ by stating that «given an equal rate of surplus value, every branch of production must show a different, a special rate of profit, on the condition certainly, which Marx has hitherto always assumed, that commodities exchange with each other "according to their values," or in proportions to the work embodied in them.»
+
+### Equal amount of capital, but different organic composition leads to different rates of profit
+ 
+One important thing to notice, Böhm-Bawerk tells us, is that «[the Marxian] theory demands that capitals of equal amount, but of dissimilar organic composition should exhibit different profits.» (Böhm-Bawerk, 1949, p20).
+
+### The real worlds shows the contrary
+
+This is one of the central critiques Böhm-Bawerk has of the Marxian system: reality doesn't match with the description that Marx gives us. Böhm-Bawerk states that «The real world, however, most plainly shows that it is governed by the law that capitals of equal amount, without regard to possible differences of organic composition, yield equal profits.» (Böhm-Bawerk, 1949, p20).
+
+Unfortunately, Böhm-Bawerk doesn't provide any evidence to back up such statement. But for the sake of argument, let's consider it to be true.
+
+### The general tendency of capital
+
+For Böhm-Bawerk this contradiction with reality puts the Marxian system in a predicament: if reality says otherwise, then the Marxian system is false.
+
+Böhm-Bawerk tells us that Marx is aware of such contradiction of reality and quotes him from the third volume of the capital as follows: «there is a law (or general tendency), _although only for capitals possessing the same organic composition_—the same periods of turnover being assumed—that the profits are in proportion to the amounts of the capitals, and therefore equal amounts of capital yield in equal periods of time equal amounts of profit.» (Marx, 1894).
+
+This is what in the Marxian system of thought is called the _general tendency of capital_.
+
+### The general tendency of capital relies on the "law of value"
+
+The citation continues with «The argument rests on the basis which has hitherto generally been the basis of our reasoning, _that commodities are sold according to their values_» (Marx, 1894).
+
+That means that as long as the "law of value" holds true, then the _general tendency of capital_ will hold true.
+
+### An different average rate of profit in different economic branches is impossible
+
+Böhm-Bawerk continues with his quoting of Marx with: «the difference in the average rate of profit for different branches of industry _does not exist_ and could not exist without upsetting the whole system of capital production» (Marx, 1894).
+
+At this point it is not clear, yet, in the exposition of Böhm-Bawerk of the Marxian system why that would be the case, but we'll ignore it in the meantime.
+
+### Marx pointing the only way out of the contradiction
+
+The citation from Marx by Böhm-Bawerk concludes with: «_It appears therefore that here the theory of values is irreconcilable with the actual movement of things_, irreconcilable with the actual phenomena of production, and that, on this account, the attempt to understand the latter must be given up.» (Marx, 1894).
+
+From this Böhm-Bawerk, and us, can conclude that not only Marx was aware of the contradiction of his doctrine of _general tendency of capital_ and reality. But that also it was in contradiction with his law of value. And, to make matters worse, in order to cling into the doctrine of _general tendency of capital_ he had to accept that the _law of value_ did not hold true and did not imposes itself in the long ron as a "natural law".
+
+That is precisely what Böhm-Bawerk tell us Marx does: «To speak plainly his solution is obtained at the cost of the assumption from which Marx has hitherto started, _that commodities exchange according to their values_. This assumption Marx now simply drops.» (Böhm-Bawerk, 1949, p21)
+
+### Dropping the law of value makes the whole system tumble
+
+Dropping the "law of value" is a hard blow to the marxian system. As we saw earlier a lot of doctrines (_surplus value_, _exploitation_, and _surplus working time_) rely on it. It jeopardises the whole Marxian system.
+
+If the "law of value" is not true, then the capitalist can buy _commodities_ _under their price_ value, or sell them _over their price value_ allowing _profit_ to come from sources different than _unpaid working time_. Rendering the doctrine of _surplus value_ dead in the water.
+
+And if the doctrine of _surplus value_ is false, and the capitalist is receiving profit from other sources then the capitalist is not _exploiting_ the laborer by means of appropriating _working time_ from the laborer.
+
+### Solution proposed by Marx
+
+Böhm-Bawerk copies a table directly from the capital in order to explain Marx's solution. Böhm-Bawerk explains us that «this tables shows, in the different spheres of production where the exploitation of labor has been the same, very different rates of profit, corresponding to the different organic composition of the capitals.» (Böhm-Bawerk, 1949, p21).
+
+In order to have a better understanding of the table Böhm-Bawerk tells that «c denotes constant capital and v variable». (Böhm-Bawerk, 1949, p21).
+
+Finally Böhm-Bawerk tells us that «constant capital–_the "used up c"_—goes into the value of the product, while the whole _"employed c"_ is taken into account in reckoning the rate of profit.» (Böhm-Bawerk, 1949, p21).
+
+| Capitals       | Surplus Value | Used up C | Value of the commodities | Cost Price of the Commodities | Price of the commodities | Profit Rate, Percent | Deviation of the Price from the Value |
+|----------------|---------------|-----------|--------------------------|-------------------------------|--------------------------|----------------------|---------------------------------------|
+| I   80c + 20v  | 20            | 50        | 90                       | 70                            | 92                       | 22                   | +2
+| II  70c + 30v  | 30            | 51        | 111                      | 81                            | 103                      | 22                   | -8
+| III 60c + 40v  | 40            | 51        | 131                      | 91                            | 113                      | 22                   | -18
+| IV  85c + 15v  | 15            | 40        | 70                       | 55                            | 77                       | 22                   | +7
+| I 80c + 20v    | 5             | 10        | 20                       | 15                            | 37                       | 22                   | +17
+
+From the table can see how different branches of production can have the same rate of surplus value, but different rates of profit.
+
+This would indicate that the average rate of profit is false, but Böhm-Bawerk quotes Marx himself giving the solution to this phenomena.
+
+First Marx says that «Taken together the commodities are sold 2 + 7 + 17 = 26 over their value, and 8 + 18 under their value» (Marx, 1894).
+
+This at first glance hints us at what Böhm-Bawerk already has told us: Marx has abandoned the "law of value". In other words, it is not true that _commodities_ are always exchanged at their _values_. Or, in other words: _commodities_ can be sold _under_ and _over_ their _values_.
+
+Marx continues by telling us that «[...] the variations in price mutually cancel each other, either through an equal division of the surplus value or by cutting down the average profit of 22 percent on the invested capital to the respective cost prices of the commodities, I to V; in the same proportion _in which one part of the commodities is sold over its value another part will be sold under its value. And now their sale at such prices makes it possible that the rate of profit for I to V should be equal_, 22 percent, without regard to the different organic composition of the capital I to V» (Marx, 1894).
+
+Let's break down the method that Marx is describing us. We already have established that the rate of profit is a fixed 22%:
+
+$$
+\text{Average Profit Rate (fixed): }
+R_p = 0.22 \quad \text{(22\%)}
+$$
+
+From the table we can deduce that the cost price of the _commodities_ is calculated as the _sum_ of the _variable capital_ and the _constant capital_:
+
+$$
+\text{Cost Price of Commodities: }
+K = C + V
+$$
+
+From the table we can also deduce that the _value of the commodity_ is calculated as the sum of the _cost price of commodities_, and _surplus_:
+
+$$
+\text{Value of the Commodities: } V_C = K + S = C + V + S
+$$
+
+The _profit_ is defined as the _cost price of the commodities_ times the _rate of profit_:
+
+$$
+\text{Profit: }
+P = K \times R_p
+$$
+
+Then the _redistributed_ _price of the commodities_ is the _cost price of the commodities_ plus the _profit_:
+
+$$
+\text{Price of Commodities (Redistributed): }
+P_C = K + P
+$$
+
+And finally from there we can define the _deviation of the price from the value_ as the _price of the commodities_ minus the _value of the commodities_:
+
+$$
+\text{Deviation of the Price from the Value: }
+D = P_C - V_C
+$$
+
+In order to verify that these formulas hold true we just need to derive all the values from the _variable capital_, _constant capital_, and _surplus value_:
+
+| Capitals       | Calculated K (C + V) | Surplus Value (S) | Value of the Commodities (V_C) | Calculated V_C (K + S) | Price of Commodities (P_C) | Calculated P_C (K + P) | Calculated Profit | Calculated D (P_C - V_C) |
+|----------------|----------------------|-------------------|--------------------------------|------------------------|----------------------------|------------------------|-------------------|--------------------------|
+| I 80c + 20v    | 100                  | 20                | 90                             | 120                    | 92                         | 92                     | 22                | +2                       |
+| II 70c + 30v   | 100                  | 30                | 111                            | 130                    | 103                        | 103                    | 22                | -8.                      |
+| III 60c + 40v  | 100                  | 40                | 131                            | 140                    | 113                        | 113                    | 22                | -18.                     |
+| IV 85c + 15v   | 100                  | 15                | 70                             | 115                    | 77                         | 77                     | 22                | +7                       |
+| V 80c + 20v    | 100                  | 5                 | 20                             | 105                    | 37                         | 37                     | 22                | +17                      |
+
+From these calculations we can see that the math that Marx follows is sound.
+
 ### [unfinished thought] repercussion
 
 There's an important implication here. Since Marx declares that his "law of value" is akin to "natural law" and that "it imposes itself in the long run" it obvious that this behavior violates something fundamental. Perhaps this is the source of the disdain Marxists feel for the concept of _profit_: from the idea of "cheating" or "breaking a natural law".
+
+This is also a common pattern in the Marxian system of thinking. When something is declared as a law it is common to encounter examples that contradict such law in logic or the physical world. But, instead of revisiting the validity of "the law", Marx dismisses such scenarios.
 
 ---
 

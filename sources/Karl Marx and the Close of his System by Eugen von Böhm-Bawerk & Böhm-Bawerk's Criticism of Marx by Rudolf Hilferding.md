@@ -246,99 +246,99 @@ von Böhm-Bawerk, Eugene. Hilferding, Rudolf. "Karl Marx and the Close of his Sy
 
 «He has, therefore, a greater value than the wages he has paid, and the difference is "surplus value," which falls to the capitalists.», p14
 
-### Surplus is the result of unpaid working hours
+### [x] Surplus is the result of unpaid working hours
 
 «Surplus value, therefore, according to Marx, is due to the fact that the capitalist makes the laborer work for him a part of the day without paying him for it.», p15
 
-### The "necessary working time" covers the cost of living of the worker
+### [x] The "necessary working time" covers the cost of living of the worker
 
 «In the first part—the "necessary working time"—the worker produces the means necessary for his own support, or the value for those means; and for this part of his labor he receives an equivalent in wages.», p16
 
-### The capitalist appropriates the "surplus working time"
+### [x] The capitalist appropriates the "surplus working time"
 
 «During the second part—the "surplus working time"—he is exploited, he produces "surplus value" without receiving any equivalent for it.», p16
 
-### Conclusion: surplus value comes from unpaid work to the worker
+### [x] Conclusion: surplus value comes from unpaid work to the worker
 
 «"All surplus value is in substance the embodiment of unpaid working time"», p16
 
 > Note: author is quoting Capital, Vol. I, p585
 
-### For Marx surplus always comes from "living work"
+### [x] For Marx surplus always comes from "living work"
 
 «new surplus value can only be created by the living work which the capitalist gets the worker to perform.», p16
 
-### For Marx surplus never comes from the "means of production"
+### [x] For Marx surplus never comes from the "means of production"
 
 «The value of the means of production which are used is maintained, and it reappears in a different form in the value of the product, but adds no surplus value.», p16
 
-### Capital converted to constant capital never produces value
+### [x] Capital converted to constant capital never produces value
 
 «That part of the capital, therefore, which is converted into the means of production, that is, into raw material, auxiliary material, and implements of labor, does not alter the amount of its value in the process of production"», p16
 
 > Note: author is quoting Capital, Vol. I, p233
 
-### Rate of surplus value
+### [x] Rate of surplus value
 
 «the proportion in which the surplus value stands to the advanced variable part of capital (in which alone the surplus value "makes good its value") Marx calls the _rate of surplus value_.», p16
 
-### Rate of surplus value as an expression of degree of exploitation
+### [x] Rate of surplus value as an expression of degree of exploitation
 
 «It is identical with the proportion in which the surplus working time stands to the necessary working time, or the unpaid labor to the paid, and serves Marx, therefore, as an exact expression for the degree of exploitation of labor.», p16-17
 
-### Rate of surplus value and rate of profit are different
+### [x] Rate of surplus value and rate of profit are different
 
 «Totally different from this is the rate of profit.», p17
 
-### How rate of profit is calculated
+### [x] How rate of profit is calculated
 
 «The capitalist calculates the surplus value, which he appropriates, not only upon the variable capital but upon the total amount of capital employed.», p17
 
-### Logical conclusion: greater variable capital implies higher rate of profiter
+### [x] Logical conclusion: greater variable capital implies higher rate of profiter
 
 «the greater the variable and the less the constant capital employed [...] the higher will be the rate of profit.», p17
 
-### Marxian Claim about the organic composition of capital
+### [x] Marxian Claim about the organic composition of capital
 
 «The "organic composition" [...] of the capital is for technical reasons necessarily different in the different "spheres of production."», p19
 
-### Pre-supposition: equal rate of surplus value equals different rates of profits
+### [x] Pre-supposition: equal rate of surplus value equals different rates of profits
 
 «According to the preceding argument [...] given an equal rate of surplus value, every branch of production must show a different, a special rate of profit, on the condition certainly, which Marx has hitherto always assumed, that commodities exchange with each other "according to their values," or in proportion to the work embodied in them.», p19-20
 
-### Marxian pre-supposition
+### [x] Marxian pre-supposition
 
 «His theory demands that capitals of equal amount, but of dissimilar organic composition, should exhibit different profits.», p20
 
-### The real world "shows the contrary"
+### [x] The real world "shows the contrary"
 
 «The real world, however, most plainly shows that it is governed by the law that capitals of equal amount, without regard to possible differences of organic composition, yield equal profits.», p20
 
-### General tendency of capital
+### [x] General tendency of capital
 
 «there is a law (or general tendency), _although only for capitals possessing the same organic composition_—the same periods of turnover being assumed—that the profits are in proportion to the amounts of the capitals, and therefore equal amounts of capital yield in equal periods of time equal amounts of profit.», p20
 
 > Note: author is quoting Capital, Vol III, p181
 
-### The argument rests on the "law of value"
+### [x] The argument rests on the "law of value"
 
 «The argument rests on the basis which has hitherto generally been the basis of our reasoning, _that commodities are sold according to their values_.», p20
 
 > Note: author is quoting Capital, Vol III, p181
 
-### The average rate does not exist
+### [x] The average rate does not exist
 
 «the difference in the average rate of profit for different branches of industry _does not exist_ and could not exist without upsetting the whole system of capitalist production.», p20
 
 > Note: author is quoting Capital, Vol III, p181
 
-### Marxian claim: The law of value is incompatible with reality
+### [x] Marxian claim: The law of value is incompatible with reality
 
 «_It appears therefore that here the theory of values is irreconcilable with the actual movement of things_, irreconcilable with the actual phenomena of production, and that, on this account, the attempt to understand the latter must be given up.»
 
 > Note: author is quoting Capital, Vol III, p181
 
-### Marx has to get rid of the "law of value"
+### [x] Marx has to get rid of the "law of value"
 
 «To speak plainly his solution is obtained at the cost of the assumption from which Marx has hitherto started, _that commodities exchange according to their values_. This assumption Marx now simply drops.», p21
 
