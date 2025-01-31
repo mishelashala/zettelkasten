@@ -346,47 +346,47 @@ von Böhm-Bawerk, Eugene. Hilferding, Rudolf. "Karl Marx and the Close of his Sy
 
 «Marx goes on to say that all this is not a mere hypothetical assumption, but absolute fact. The operating agent is _competition_.», p23
 
-### Conclusion: composition is originally different
+### [x] Conclusion: composition is originally different
 
 «It is true that owing to the different organic composition of the capitals invested in various branches of production "the rates of profit which obtain in these different branches _are originally very different_"», p23
 
 > Note: author is quoting Capital, Vol III, p186
 
-### Premise: competition brings down the rates of profit
+### [x] Premise: competition brings down the rates of profit
 
 «But "these different rates of profit are reduced by competition to a common rate which is the average of all these different rates"», p23
 
 > Note: author is quoting Capital, Vol III, p186
 
-### Average Profit
+### [x] Average Profit
 
 «The profit corresponding to this common rate, which falls to a given amount of capital, whatever its organic composition may be, is called _average profit._», p23-24
 
 > Note: author is quoting Capital, Vol III, p186
 
-### Price of Production
+### [x] Price of Production
 
 «That price of a commodity which is equal to its cost price plus its share of the yearly average profit of the capital employed (not merely that consumed) in its production (regard being had to the quickness or slowness of turnover) is its _price of production_», p24
 
 > Note: author is quoting Capital, Vol III, p186
 
-### Exchange relation is determined by the price of production
+### [x] Exchange relation is determined by the price of production
 
 «And the actual exchange relation of the separate commodities is _no longer determined by their values but by their prices of production_», p24
 
 > Note: author is quoting Capital, Vol III, p231
 
-### Value and price of production coincide accidentally
+### [x] Value and price of production coincide accidentally
 
 «Value and price of production are only exceptionally and accidentally coincident, namely, in those commodities which are produced by the aid of a capital, the organic composition of which chances to coincide exactly with the _average_ composition of the whole social capital.», p24
 
-### Capitals of Higher Composition
+### [x] Capitals of Higher Composition
 
 «According to Marx we call "capitals which contain greater percentage of constant, and therefore a smaller percentage of variable capital than the social average capital, capitals of _higher_ composition"», p24
 
 > Note: author is quoting Capital, Vol III, p193
 
-### Capitals of Lower Composition
+### [x] Capitals of Lower Composition
 
 «"and contrariwise those capitals in which the constant capital fills a relatively smaller, and the variable a relatively larger space than in the social average capital are called capitals of _lower_ composition"», p24
 
@@ -396,7 +396,7 @@ von Böhm-Bawerk, Eugene. Hilferding, Rudolf. "Karl Marx and the Close of his Sy
 
 «in all those commodities which have been created by the aid of capital of "higher" composition than the average composition the price of production will be _above_ their value», p24
 
-### Lower composition leads to under value commodities
+### [x] Lower composition leads to under value commodities
 
 «and in the opposite case it will be _under_ the value.», p24
 

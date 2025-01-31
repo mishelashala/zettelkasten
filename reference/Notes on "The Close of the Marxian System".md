@@ -524,15 +524,236 @@ $$
 
 In order to verify that these formulas hold true we just need to derive all the values from the _variable capital_, _constant capital_, and _surplus value_:
 
-| Capitals       | Calculated K (C + V) | Surplus Value (S) | Value of the Commodities (V_C) | Calculated V_C (K + S) | Price of Commodities (P_C) | Calculated P_C (K + P) | Calculated Profit | Calculated D (P_C - V_C) |
-|----------------|----------------------|-------------------|--------------------------------|------------------------|----------------------------|------------------------|-------------------|--------------------------|
-| I 80c + 20v    | 100                  | 20                | 90                             | 120                    | 92                         | 92                     | 22                | +2                       |
-| II 70c + 30v   | 100                  | 30                | 111                            | 130                    | 103                        | 103                    | 22                | -8.                      |
-| III 60c + 40v  | 100                  | 40                | 131                            | 140                    | 113                        | 113                    | 22                | -18.                     |
-| IV 85c + 15v   | 100                  | 15                | 70                             | 115                    | 77                         | 77                     | 22                | +7                       |
-| V 80c + 20v    | 100                  | 5                 | 20                             | 105                    | 37                         | 37                     | 22                | +17                      |
+| Capitals       | Calculated K (C + V) | Surplus Value (S) | Value of the Commodities (K + S) | Calculated (K + S) | Price of Commodities (K + P) | Calculated (K + P) | Calculated Profit | Calculated D (P_C - V_C) |
+|----------------|----------------------|-------------------|----------------------------------|--------------------|----------------------------|------------------------|-------------------|--------------------------|
+| I 80c + 20v    | 100                  | 20                | 90                               | 120                | 92                         | 92                     | 22                | +2                       |
+| II 70c + 30v   | 100                  | 30                | 111                              | 130                | 103                        | 103                    | 22                | -8.                      |
+| III 60c + 40v  | 100                  | 40                | 131                              | 140                | 113                        | 113                    | 22                | -18.                     |
+| IV 85c + 15v   | 100                  | 15                | 70                               | 115                | 77                         | 77                     | 22                | +7                       |
+| V 80c + 20v    | 100                  | 5                 | 20                               | 105                | 37                         | 37                     | 22                | +17                      |
 
 From these calculations we can see that the math that Marx follows is sound.
+
+### Different compositions of capital in fact lead to different rates of profit
+
+Böhm-Bawerk tells us that at first glance it looks like different organic compositions of capital invested in different branches of productions in fact product very different rates of profit (Böhm-Bawerk, 1949, p23).
+
+### How these results are nullified
+
+But, Böhm-Bawerk tells us that even when that is the case Marx says that this phenomena is not important, an he quotes Marx on this, saying that because «these different rates of profit are reduced by competition to a common rate which is the average of all these different rates» (Marx, 1894).
+
+At this point Böhm-Bawerk hasn't explained yet what Marx means with competition, but later down the road he will define it as the law of "supply and demand".
+
+We can define the `average rate of profit` as follows:
+
+$$
+\text{Average Rate of Profit: }
+R_p = \frac{\text{Total } S}{\text{Total } C + \text{Total } V}
+$$
+
+It is essentially the aggregate of the _surplus value_ divided by the aggregate of _constant capital_ plus the aggregate of _variable capital_.
+
+### The concept of average profit
+
+The quote from Marx continues with: «The profit corresponding to this common rate, which falls to a given amount of capital, whatever organic composition may be, is called _average profit_» (Marx, 1894).
+
+Marx doesn't want us to consider how different organic compositions of capital produce different rates of profit individually, but as an average. And when considered as an average these "deviations" get "neutralized".
+
+We can define the formula for the _average profit_ as follows:
+
+$$
+\text{Average Profit: }
+P_{\text{avg}} = (C + V) \times R_p
+$$
+
+The _average profit_ is the sum of the _constant capital_ and _variable capital_ of an individual _commodity_ multiplied by the _average rate of profit_.
+
+Or using the constant we had already defined earlier:
+
+$$
+\text{Average Profit: }
+P_{\text{avg}} = K \times R_p
+$$
+
+The _cost price of a commodity_ times the _rate of profit_ of that commodity.
+
+### The price of production of a commodity
+
+The quote continues with: «The price of commodity which is equal to its cost price plus its share of the yearly average profit of the capital employed (not merely that consumed) in its production (regard being had to the quickness or slowness of turnover) is its _price of production_» (Marx, 1894).
+
+We can then distill the formula for _price of production_ as follows:
+
+$$
+\text{Price of Production: }
+P_{\text{prod}} = (C + V) + [(C + V) \times R_p]
+$$
+
+The _price of production_ of a _commodity_ is the sum of the _constant capital_ and _variable capital_, plus the same multiplied by the _rate of profit_.
+
+Or, following the formulas defined above, the price of production is the _cost price of a commodity_ plus the _average rate of profit_:
+
+$$
+\text{Price of Production: }
+P_{\text{prod}} = K + P_{\text{avg}}
+$$
+
+One thing to notice is that the _price of production_ and the _value_ of the commodities now are different. This point will be relevant in a moment.
+
+### Calculating the values
+
+Let's run through the formulas. First let's calculate the _average profit_:
+
+$$
+\text{Average Profit} = \frac{\text{Total Profit}}{\text{Number of Capitals}} = \frac{110}{5} = 22
+$$
+
+Now we let's calculate  the _average rate of profit_:
+
+$$
+R_p = \frac{\text{Total Surplus Value (S)}}{\text{Total Capital (C + V)}} = \frac{110}{500} = 0.22
+$$
+
+Finally we can calculate the _price of production_ for each individual _commodity_:
+
+| Capitals       | Calculated K (C + V) | Surplus Value (S) | Average Profit (P_avg) | Price of Production (P_prod) |
+|----------------|----------------------|-------------------|------------------------|------------------------------|
+| I 80c + 20v    | 100                  | 20                | 22                     | 122.0                        |
+| II 70c + 30v   | 100                  | 30                | 22                     | 122.0                        |
+| III 60c + 40v  | 100                  | 40                | 22                     | 122.0                        |
+| IV 85c + 15v   | 100                  | 15                | 22                     | 122.0                        |
+| V 80c + 20v    | 100                  | 5                 | 22.                    | 122.0                        |
+
+With these results one may be tempted to think that the results are consistent. But there's a great error of method on Marx's part.
+
+### The error of method in the calculation of prices of production
+
+What Marx is trying to determine with these equations is how to calculate the **price of production** for each commodity. But there's a circularity in his equations.
+
+First, the **total surplus value** depends on the prices of individual commodities, which in turn depend on their **prices of production**.
+
+Second, to calculate the **prices of production**, we need the **average profit rate**, which itself requires the **total surplus value**.
+
+This leaves us with a set of undetermined equations. In other words: without knowing the **prices of production**, we cannot determine the **total surplus value**. And, without the **total surplus value**, we cannot determine the **average profit rate**. And without the **average profit rate**, we cannot determine the **prices of production**.
+
+This leads to a set of interdependent or **circular equations** where the unknowns (prices of production and average profit rate) cannot be resolved in isolation.
+
+### Prices of production determine the exchange relations, not values
+
+Marx finally tells us that «the actual exchange relation of the separate commodities is _no longer determined by their values but by their prices of production_» (Marx, 1894).
+
+Here Marx is here is again abandoning his own "law of value". Once again, the "law of value" says that _commodities_ are always exchanged in relation to their equivalents in _values_. But here, he is doing a one eighty and is telling us that _commodities_ are exchanged by their _prices of production_ and not by their _values_, which, as we can see, are different.
+
+### Values turn into prices of production according to Marx
+
+Marx tells us that «the value changes into prices of production» (Marx, 1894).
+
+This is relevant to the discussion because Marx seems to claim that both _values_ and _prices of production_ match. Which, leaving the matter of his equations being undetermined, don't.
+
+The implication here is that we can use _price of production_ as _value_, meaning that the _price of production_ is the form that _value_ takes.
+
+### The unrealistic conditions in which values turn into prices of production
+
+Böhm-Bawek tells us that «Value and price of production are only exceptionally and accidentally coincident» (Böhm-Bawerk, 1949, p24). Meaning that _value_ and _price of production_ will be the same only in exceptionally rare occasions, and by mere coincidence.
+
+What are those conditions under which _value_ and _price of production_ will coincide? Böhm-Bawerk tells us that only on «those commodities which are product by the aid of capital, the organic composition of which chances to coincide exactly with the _average_ composition of the whole social capital.»
+
+Let's look at a set of examples:
+
+| Capitals      | Surplus Value (S) | Total Capital (C + V) | Value (C + V + S) | Price of Production (P_prod) |
+|---------------|-------------------|-----------------------|-------------------|------------------------------|
+| I 50c + 50v   | 20                | 100                   | 120               | 120                          |
+| II 60c + 40v  | 20                | 100                   | 120               | 120                          |
+| III 70c + 30v | 20                | 100                   | 120               | 120                          |
+| IV  80c + 20v | 20                | 100                   | 120               | 120                          |
+| V   90c + 10v | 20                | 100                   | 120               | 120                          |
+
+In all these cases, the **organic composition** of the capitals match the **average composition**, ensuring that the **value** and **price of production** align. Only on those rare and accidental conditions Marx's equations would lead to a coincidence between _prices of production_ and _value_.
+
+### Capitals of Higher Composition
+
+Böhm-Bawerk tell us that Marx is aware of such circumstances, so he comes up with names for each scenario.
+
+He quotes Marx saying that «capitals which contain greater percentage of constant, and therefore a smaller percentage of variable capital than the social average capitals», are named,  «capitals of _higher_ composition» (Marx, 1894).
+
+### Capitals of Lower Composition
+
+The quote from Marx continues exemplifying that «those capitals in which the constant capital fills a relatively smaller, and the variable a relatively larger space than in the social average capital are called capitals of _lower_ composition» (Marx, 1894).
+
+### Higher composition allows selling commodities over their value
+
+Böhm-Bawerk tells us that Marx accepts as a fact that «in all those commodities which have been created by the aid of capital of "higher" composition than the average composition the price of production will be _above_ their value» (Böhm-Bawerk, 1949, p24).
+
+### Lower composition allows selling commodities under their value
+
+And by extension, «the opposite case will be [sold] _under_ the value» (Böhm-Bawerk, 1949, p24, _clarification is ours_).
+
+### Capitals of Lower and Higher composition violate the law of value
+
+These two kinds of capital, once again, force Marx to abandon the "law of value". If a _commodity_ with a _higher composition_ of capital can be sold _over_ its _value_, then the "law of value" doesn't hold true. And _vice versa_, if a _commodity_ with a _lower composition_ of capital can be sold _under_ its _value_, then the "law of value" doesn't hold true neither.
+
+### Total surplus value created by society and its relationship with the individual capitalist
+
+Böhm-Bawerk tells us that Marx defines the relationship between capitalists and the total _surplus value_ created by society as a whole.
+
+The quote from Marx starts with «Although the capitalists of the different spheres of production in selling their commodities get back the value of the capital used up in the production of these commodities they do not thereby recover the _surplus value_, and therefore profit, created in their own particular spheres, by the production of these commodities, but only so much surplus value, and therefore profit, as falls by an equal division to every aliquot part of the whole capital, from the total surplus value or total profit which the entire capital of society has created in a given time, in all the spheres of production taken together. Every 100 of invested capital, what- ever its composition, secures in every year, or other period of time, the profit which, for this period, falls due to a 100 as a given part of the total capital. So far as profit is concerned, the different capitalists are in the position of simple members of a joint stock company, in which the profits are divided into equal shares on every 100, and therefore for the different capitalists vary only according to the amount of capital invested by each in the common undertaking, according to the relative extent of his participation in the common business, according to the number of his shares» (Marx, 1894)
+
+### Capitalist get the money they invested in production back
+
+Let's clarify that large paragraph. First Marx tells us that "Although the capitalists of the different spheres of production in selling their commodities get back the value of the capital used up in the production of these commodities" meaning that when capitalists sell their goods, they recover the money they originally spent on production (e.g., raw material, labor, machinery depreciation).
+
+### They don't keep the surplus value created in that specific industry
+
+Then Marx continues with "they do not thereby recover the _surplus value_, and therefore profit, created in their own particular spheres, by the production of these commodities" meaning that even though they generate _surplus value_ (profit) in their own industries, they don't keep exactly what their industry produced.
+
+### The total surplus value is gathered in a common pool and then distributed across capitalists in that industry
+
+"but only so much surplus value", Marx continues, ", and therefore profit, as falls by an equal division to every aliquot part of the whole capital, from the total surplus value or which the capital of has created in a given time, in all the spheres of production taken together." Meaning that instead, the total surplus value generated by all industries is pooled together and then distributed equally across all capitalists, baed on their amount of capital they have invested.
+
+### Every amount invested in that industry gets the same average rate of profit for all capitalists
+
+Marx states that for "Every 100 of invested capital, whatever its composition, secures in every year, or other period of time, which, for this period, falls due to a 100 as a given part of the total capital." Meaning that regardless of that industry, every $100 of investment earns the same percentage of profit, based on the _average profit rate_ for all capitalists combined.
+
+### Capitalists in an industry operate like shareholders in a company
+
+Now Marx tells us that "So far as profit is concerned, the different capitalists are in the position of simple members of a joint stock company" Meaning that capitalists function like shareholders in a company, where profits are distributed based on the amount each person has invested.
+
+### Capitalists get profits based on how much they invested in the economy as a whole
+
+Finally he says "...in which the profits are divided into equal shares on every 100, and therefore for the different capitalists vary only according to of capital invested by each in the common undertaking, according to of his in the common business, according to the number of his shares". Meaning that just like shareholders get dividends based on how many shares they own, capitalists receive profits based on how much capital they have invested in the economy as a whole.
+
+### Definition of Average Rate of Profit
+
+Böhm-Bawerk quotes Marx saying that the _average rate of profit_ is «the total amount of surplus value divided among the amounts of capital in every sphere of production in proportion to their quantities» (Marx, 1894).
+
+We can break down that statement as the following set of mathematical definitions:
+
+$$
+\text{Total Surplus Generated in the Economy} =
+S_{\text{total}}
+$$
+
+$$
+\text{Total Capital Invested in all Industries} =
+C_{\text{total}}
+$$
+
+$$
+\text{Capital invested by capitalist in i} =
+{C_i}
+$$
+
+$$
+\text{Profit received by capitalist in i} =
+p_i = \frac{C_i}{C_{\text{total}}}
+$$
+
+### Marx answers the question with another question
+
+Böhm-Bawerk once again tells us that Marx answers the question with another question «does this adjustment of profits to a common rate of profit take place, since it is evidently a result and not a starting point?» (Böhm-Bawerk, 1949, p25)
+
+### In pre-capitalist societies rates of profit don't equalized according to Marx
+
+Böhm-Bawerk tells us that Marx answers this question taking us back to pre-capitalist societies, societies in which laborers not only own the means of production, but commodities are exchanged by according to their _values_. And due to these two conditions, _rates of profit_ could _not_ be equalized (Böhm-Bawerk, 1949, p25-26).
 
 ### [unfinished thought] repercussion
 
@@ -541,28 +762,6 @@ There's an important implication here. Since Marx declares that his "law of valu
 This is also a common pattern in the Marxian system of thinking. When something is declared as a law it is common to encounter examples that contradict such law in logic or the physical world. But, instead of revisiting the validity of "the law", Marx dismisses such scenarios.
 
 ---
-
-### Where does surplus value comes from
-
-From those two definitions an obvious question arises: if value is determined by the labor embodied in them, and commodities are exchanged in proportion with the labor they contain. Then, where does profit comes from?
-
-### It doesn't come from the constant capital
-
-He then tells us that for the Marxian system of thought «the amount of surplus value was not in proportion to the whole amount of the capital employed by the capitalist» (Böhm-Bawerk, 1949, p4), in other words: surplus value doesn't come from the investment in capital made by the capitalist on means of production (machinery, tools, land, etc.). This is what is referred as constant capital in the Marxian system.
-
-### It comes from variable capital
-
-But if it doesn't come from the capital, where does it come from? He then complements the first statement by saying «but only to the amount of the "variable" part—that is, to that part of capital paid in wages» (Böhm-Bawerk, 1949, p4). Meaning that surplus value can only come from the workers. This is what is referred as variable capital in the Marxian system.
-
-### Böhm-Bawerk makes re-emphasises this point
-
-He stresses this point at the end of the sentence by saying «the "constant capital," the capital employed in the purchase of the means of production added no value.» (Böhm-Bawerk, 1949, p4). This leaves no room for interpretation. The Marxian system is very clear cut about the topic.
-
-Surplus value can only come from variable capital, not from constant capital. Period.
-
-### [uncomplete thought] how does the capitalist ends up keeping the surplus value
-
-Böhm-Bawerk argues that the Marxist view on this is clear: «the profit or surplus value falling to the capitalist was the fruit of extortion practiced on the worker.» (Böhm-Bawerk, 1949, p4)
 
 ## Works Cited
 
