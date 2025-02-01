@@ -400,31 +400,31 @@ von Böhm-Bawerk, Eugene. Hilferding, Rudolf. "Karl Marx and the Close of his Sy
 
 «and in the opposite case it will be _under_ the value.», p24
 
-### Average Profit formula
+### [x] Average Profit formula
 
 «the average profit is nothing else "than the total amount of surplus value divided among the amounts of capital in every sphere of production in proportion to their quantities"», p25
 
 > Note: author is quoting Capital, Vol III, p205
 
-### The question of the adjustment to a common rate of profits
+### [x] The question of the adjustment to a common rate of profits
 
 «Marx, in conclusion, puts and answers one more question, which he regards as the specially difficult question: in what manner "does this adjustment of profits to a common rate of profit take place, since it is evidently a result and not a starting point?», p25
 
-### Answer: In pre-capitalists societies that "doesn't happen"
+### [x] Answer: In pre-capitalists societies that "doesn't happen"
 
 «He first of all puts forward the view that in a condition of society in which the capitalist system is not yet dominant, and in which, therefore, the laborers themselves are in possession of the necessary means of production, commodities are actually exchanged according to their real value, and the rates of profit could _not_ therefore be equalized.», p25-26
 
-### Marx treats it as a "historical fact"
+### [x] Marx treats it as a "historical fact"
 
 «Marx thinks he is entitled to assert that it is "quite in accordance with facts to regard the values of commodities as, not only theoretically but also historically, prior to the prices of production"», p26
 
 > Note: author is quoting Capital, Vol III, p209
 
-### The adjustment of rates do take place in capitalist societies
+### [x] The adjustment of rates do take place in capitalist societies
 
 «In societies organized on the capitalist system, however, this changing of values into prices of production and the equalization of the rates of profit which follows certainly do take place.», p26
 
-### Marxian explanation of the adjustments of rates
+### [x] Marxian explanation of the adjustments of rates
 
 «"If commodities are . . . sold according to their values . . . very different rates of profit are obtained. . . . Capital withdraws itself, however, from a sphere with a low rate of profit, and throws itself into another which yields a higher profit. By this continual interchange, or, in a word, by its apportionment between the different spheres, as the rate of profit sinks here and rises there, such a relation of supply to demand is created as to make the average profit in the different spheres of production th same, and thus values are changed into prices of production"», p26-27
 

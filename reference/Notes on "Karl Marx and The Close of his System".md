@@ -749,11 +749,29 @@ $$
 
 ### Marx answers the question with another question
 
+What is the question that Marx was trying to answer with this explanation of the transformation of values into prices of production? The question of how different spheres of production lead us to an average rate of profit.
+
 Böhm-Bawerk once again tells us that Marx answers the question with another question «does this adjustment of profits to a common rate of profit take place, since it is evidently a result and not a starting point?» (Böhm-Bawerk, 1949, p25)
 
 ### In pre-capitalist societies rates of profit don't equalized according to Marx
 
 Böhm-Bawerk tells us that Marx answers this question taking us back to pre-capitalist societies, societies in which laborers not only own the means of production, but commodities are exchanged by according to their _values_. And due to these two conditions, _rates of profit_ could _not_ be equalized (Böhm-Bawerk, 1949, p25-26).
+
+### Marx treats this premise as a fact
+
+Böhm-Bawerk tells that Marx treats his premise as an assertion when says that it is «quite in accordance with facts to regard the values of commodities as, not only theoretically but also historically, prior to the prices of production» (Marx, 1894).
+
+### Pre-capitalist societies are not relevant to the discussion
+
+«In societies organized on the capitalist system,», Böhm-Bawerk tells us,«, however, this changing of values into prices of production and the equalization of the rates of profit which follows certainly do take place» regardless of the pre-capitalist state of the world (Böhm-Bawerk, 1949, p26).
+
+###
+
+Böhm-Bawerk quotes Marx explaining how the process of equalization of the rate of profits occur. According to Marx «If commodities are . . . sold according to their values . . . very different rates of profit are obtained» (Marx, 1894). This as discussed earlier, is in accordance with the idea of prices of production converging with their values.
+
+The quote from Marx continues with «Capital withdraws itself, however, from a sphere with a low rate of profit, and throws itself into another which yields a higher profit.» (Marx, 1894). Here is where the equalization occurs.
+
+Finally, Marx tell us that «By this continual interchange, or, in a word, by its apportionment between the different spheres, as the rate of profit sinks here and rises there, such a relation of supply and demand is created as to make the average rate profit in the different spheres of production the same, and thus values are changed into prices of production» (Marx, 1894). In other words, investments with a larger profit rate will be demanded more, and investments with a lower profit rate will be demanded less. This demand makes investment flow from one sphere of production to another.
 
 ### [unfinished thought] repercussion
 
