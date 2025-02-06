@@ -2,59 +2,58 @@ Bauman, Zygmunt. (trad. de Mirta Rosenberg y Jaime Arrambide). México, FCE, 200
 
 ## Bibliography
 
-- Dodson, Sean, [[Show and tell online]], en _Technology Guardian_, 2 de Marzo de 2006
-- Lewis, Paul. [[Teenage networking websites face anti-paedophile investigation]], en _Guardian_, 3 de Julio del 2003
-- Enriquez, Eugène. [[L'idéal type de l'individu hypermoderne. l'individu perverse?]], en Nicole Aubert (ed.), L'Individu hypermoderne, Tolouse, Erès, 2004
-- Booth, Nick, [[Press 1 if you're ppor, 2 if you're loaded]], en _Guardian_, 2 de Marzo de 2006
-- Travis, Ala, [[Immigration shake-up will bat most unskilled workers from outside EU]], en _Guardian_, 8 de Marzo de 2006
-- Kracauer, Siegrid. [[Die Angestellen]], en _Frankfurt Allgemeine Zeitung_, 1929
-- Kracauer, Siegfried. [[The Salaried Masses. Duty and Distraction in Weimar Germany]], London, Verson, 1998
-- Greer, Germaine, [[The Future of Feminism]], Maastricht, Studium Generale, Universiteit Maastricht, 2004
-- Andrews, Edmund L., [[Vague law and hard lobbying add up to billions for big oil]], en _The New York Times_, 27 de Marzo de 2006
-- Hochschild, Arlie Russel. [[The Time Bind. When Work Becomes Home and Home Becomes Work]], New York, Henry Holt, 1997
-- Slater, Don. [[Consumer Culture and Modernity]], Cambridge, Polity, 1997
-- Simmel, Georg. [[Die Grosstädte und das Geistesleben]], 1902-1903
-- Wolf, Kurt H., [[Classic Essays on the Culture of Cities]], New York, Appleton-Century-Crofts, 1969
-- [[Why today's singles are logging on in search for love at first byte]], en _The Times_, 5 de Enero de 2006
-- Bristow, Jennie. [[Are we addicted to love?]]
-- Appleton, Josie. [[Shopping for love]]
-- Keane, Jonathan. [[Late capitalists nights]], en _Soundings_, 2006
-- Klima, Ivan. [[Between Security and Insecurity]], New York, Thames and Hudson, 1999
-- Brewer, John & Trentman Frank (eds.), [[Consuming Cultures. Global Perspectives]], New York, Berg, 2006
-- Ekström, Karin M. & Brembeck, Helene (eds.), [[Elusive Consumption]], New York, Berg, 2004
-- Weber, Max. [[Wirtschaft und Gesellshaft]]
-- Weber, Max, (trad.) [[Economía y sociedad]], México, FCE, 1984
-- Douglas, Mary. [[In the Active Voice]], London, Routledge and Kegan Paul, 1988
-- Slater, Don, [[Consumer Culture and Modernity]], Cambridge, Polity, 1997
-- Bertman, Stephen. [[Hyperculture. The Human Cost of Speed]], Westport y London, Praeger, 1998
-- Maffesoli, Michel. [[L'Instant eternal. Le Retour du tragique dans les societés postmodernes]], París, La Table Ronde, 2000
-- Maffesoli, Michel (trad.), [[El instante eterno, El retorno de lo trágico en las sociedades posmodernas]], Barcelona, Paidós, 2001
-- Aubert, Nicole. [[Le Culte de l'urgence. La Société du temps]], París, Flammarion, 2003
-- Rosenzweig, Franz. [[Star of Redepmtion]], trd. de William W. Halo, London, Routledge and Kegan Paul, 1971
-- Rosenzweig, Franz. [[La estrella de la redención]] trad. al Español, Salamanca, Sígueme, 1997
-- Lövy, Michael. [[Fire Alam. Reading Walter Bejamin's "On the Concept of History"]], London, Verso, 2005
-- Lövy, Michael. [[Walter Benjamin. Aviso de un incendio]], trad. al Español, Buenos Aires, FCE, 2003
-- Benjamin, Walter. [[Theses on the concept of history]], en _Selected Writings_, vol 4, trad. de Edmund Jephcott _et al._, Cambridge, Harvard University Press, 2003.
-- Benjamin, Walter. [[Tesis de filosofía de la historia]], en _Angelus Novus_, Barcelona, Edhasa, 1971
-- Calvino, Italo. [[Invisible Cities]], trad. de William Weaver, London, Vintage, 1997
-- Calvino, Italo. trad. [[Las ciudades invisibles]], Barcelona, Minotauro, 1993
-- [[Is recycling a waste of time?]], en _Observer Magazine_, 15 de Junio de 2006
-- Eriksen, Thomas Hylland. [[Tyranny of the Moment. Fast and Slow Time in the Information Age]], London, Pluto Press, 2001
-- Ramonet, Ignazio. [[La Tyrannie de la communication]], París, Galilée, 1999
-- Martin, Bill. [[Listening to the Future. The Time of Progressive Rock 1968-1978]], New York, Feedback, 1997
-- Simmer, Georg. [[The metropolis and mental life]], trad. Kurh H. Wolff, New York, Appleton-Centry-Crofts, 1969
-- Kurt H. Wolff, [[El individuo y la libertad. Ensayos de crítica de la cultura]], Barcelona, Península, 1998
-- Munro, Rolland. [[Outside paradise. melancholy and the follies of modernization]], en _Culture and Organization_, 2005
-- Monbiot, George. [[How the harmless wonderer in the woods became a mortal enemy]], en _Guardian_, 23 de Enero de 2006
-- Mathiesen, Thomas. [[Silently Silenced. Essays on the Creation of Acquiescence in Modern Society]], Winchester, Waterside Press, 2004
-- Bauman, Zygmunt. [[Individualized Society]], Cambridge, Polity, 2003
-- Bauman, Zygmunt. (trad.), [[La sociedad individualizada]], Madrid, Cátedra, 2001
-- Bauman, Zygmunt. (trad.), [[Amor Liquido]], Buenos Aires, FCE, 2005
-- Dowling, Colette. [[Cinderella Complex]], New York, Pocket Books, 1991
-- Dowling, Colette. (trad. esp.), [[El complejo de Cenicienta]], Barcelona, Grijalbo, 1982
-- Hocschild, Arlie Russell. [[The Commercialization of Intimate Life]], California, University of California Press, 2003
-- Mort, Frank. [[Competing domains. democratic subjects and consuming subjects in Britain and the United Stated since 1945]]
-- Trentmann, Frank (ed.), [[The Making of the Consumer. Knowledge. Power and Identity in the Modern World]], New York, Berg, 2006
-- Mort, Frank. [[Planning for Social Change]], 1986
-- Mort, Frank. [[Consumer and Leisure Futures]], 1997
-- Mort, Frank. [[Planning for Consumer Change]], 1999
+- Appiah, Kwame Anthony, [[The Ethics of Identity]]. Princeton: Princeton University Press, 2005.
+- Aitkenhead, Decca, "[[Sex now]]." _Guardian Weekend_, 15 April 2006.
+- Anders, Günther,  [[Die Antiquiertheit des Menschen]]. (Original 1956; quoted from the French translation _L’Obsolescence de l’homme. Sur l’âme à l’époque de la deuxième révolution industrielle_, Éditions Inrea, 2001, pp. 30, 32).
+- Aubert, Nicole, [[Le Culte de l’urgence. La Société malade du temps]]. Paris: Flammarion, 2003.
+- Auletta, Kenneth, [[The Underclass]]. New York: Random House, 1982.
+- Banfield, Edward, [[The Unheavenly City. The Nature and Future of our Urban Crisis]]. Boston: Little, Brown, 1968.
+- Benjamin, Walter,  "Theses on the Concept of History." In [[Selected Writings, Volume 4 (1938–1940)]], translated by Edmund Jephcott et al. Cambridge, MA: Harvard University Press, 2003.
+- Bertman, Stephen, [[Hyperculture. The Human Cost of Speed]]. Westport, CT: Praeger, 1998.
+- Belk, Russell W., "The Human Consequences of Consumer Culture." In [[Elusive Consumption]], edited by Karin M. Ekström and Helene Brembeck, Berg, 2004.
+- Bourdieu, Pierre, [[Pascalian Meditations]]. Cambridge: Polity Press.  _(Epigraph)_
+- Calvino, Italo, [[Invisible Cities]]. Translated by William Weaver. London: Vintage, 1997.
+- Campbell, Colin, "I Shop Therefore I Know That I Am: The Metaphysical Basis of Modern Consumerism." In [[Elusive Consumption]], edited by Karin M. Ekström and Helene Brembeck, Oxford: Berg, 2004.
+- Christie, N.,  [[Crime Control as Industry]]. London: Routledge, 1993.
+- Cook, Daniel Thomas,  "[[Beyond either/or]]." _Journal of Consumer Culture_ 2 (2004): 149.  
+- Cook, Daniel Thomas, [[The Commodification of Childhood]]. Durham: Duke University Press, 2004.
+- de Gaulejac, Vincent, "Le sujet manqué. L’Individu face aux contradictions de l’hypermodernité." In [[L’Individu hypermoderne]], edited by Nicole Aubert, Erès, 2004.
+- Dean, Jodi, "[[Communicative Capitalism. Circulation and the Foreclosure of Politics]]." _Cultural Politics_ (March 2005): 51–73.
+- Douglas, Mary, [[In the Active Voice]]. London: Routledge and Kegan Paul, 1988.
+- Dowling, Colette, [[The Cinderella Complex. Women's Hidden Fear of Independence]]. New York: Pocket Books, 1991.
+- Ehrenberg, Alain, [[La Fatigue d’être soi]]. Paris: Odile Jacob, 1998.
+- Eriksen, Thomas Hylland, [[Tyranny of the Moment/ Fast and Slow Time in the Information Age]]. London: Pluto Press, 2001.
+- Finkielkraut, A., [[L’Humanité perdue. Essai sur le XXe siècle]]. Paris: Seuil, 1996.
+- Frank, Thomas, [[Marché de droit divin. Capitalisme sauvage et populisme de marché]]. Marseille: Agone, 2003.
+- Furedi, Frank. "[[Consuming Democracy. Activism, Elitism and Political Apathy]]." Available at [www.geser.net/furedi.html](http://www.geser.net/furedi.html).
+- Gans, H. J., [[The War against the Poor. The Underclass and Antipoverty Policy]]. New York: Basic Books, 1995.
+- Hochschild, Arlie Russell.  [[The Commercialization of Intimate Life. Notes from Home and Work]]. Berkeley: University of California Press, 2003.
+- Hostyński, Lesław, [[Wartości w świecie konsumpcji]]. Lublin: Wydawnictwo Uniwersytetu Marii Curie-Skłodowskiej, 2006.
+- Jay, Martin. "The Ambivalent Virtues of Mendacity." In [[Education and the Spirit of Time]], edited by Olli-Pekka Moisio and Juha Suoranta, Sense, 2006.
+- Jauréguiberry, Francis. "Hypermodernité et manipulation de soi." In [[L’Individu hypermoderne]], edited by Nicole Aubert, Erès, 2004.
+- Keane, John. "Late Capitalist Nights." [[Soundings]] (Summer 2006): 66–75.
+- Livingstone, J., "Modern Subjectivity and Consumer Culture." In [[Consuming Desires. Consumption, Culture and the Pursuit of Happiness]], edited by S. Strasser, C. McGovern, and M. Judt, Cambridge University Press, 1998.
+- Lasch, Christopher. "The Age of Limits." In [[History and the Idea of Progress]], edited by Arthur M. Melzer, Jerry Weinberger, and M. Richard Zinman, Cornell University Press, 1955.
+- Lardellier, Pascal. "Rencontres sur internet. L’amour en révolution." In [[L’Individu contemporain. Regards sociologiques]], edited by Xavier Molénat, Éditions Sciences Humaines, 2006.
+- Löwy, Michael. [[Fire Alarm. Reading Walter Benjamin's “On the Concept of History”]]. London: Verso, 2005.
+- Lawson, Neil.  [[Dare More Democracy]]. _Compass_, c.2000.
+- Martin, Bill. [[Listening to the Future. The Time of Progressive Rock 1968–1978]]. Chicago: Open Court, 1997.
+- Mead, L. M.,  [[The New Politics of Poverty. The Nonworking Poor in America]]. New York: Basic Books, 1992.
+- Monbiot, George. "[[How the Harmless Wanderer in the Woods Became a Mortal Enemy]]." _The Guardian_, 23 January 2006.
+- Mort, Frank. "Competing Domains: Democratic Subjects and Consuming Subjects in Britain and the United States since 1945." In [[The Making of the Consumer. Knowledge, Power and Identity in the Modern World]], edited by Frank Trentmann, Oxford: Berg, 2006.
+- Maffesoli, Michel. [[L’Instant éternel. Le Retour du tragique dans les sociétés postmodernes]]. Paris: La Table Ronde, 2000.
+- Myrdal, Gunnar. [[Economic Theory and Underdeveloped Countries]]. London: Duckworth, 1957.
+- Mrozek, Sławomir. [[Male listy]]. Noir sur Blanc, 2002.
+- Orwell, George, [[A Collection of Essays]]. New York: Harcourt Brace Jovanovich, 1953.
+- Perkins, Anne. "[[Collective Failure]]." _Guardian Work_, 22 April 2006.
+- Ramonet, Ignacio. [[La Tyrannie de la communication]]. Paris: Galilée, 1999.
+- Rosenzweig, Franz. [[The Star of Redemption]]. Translated by William W. Hallo. London: Routledge and Kegan Paul, 1971.
+- Munro, Rolland. "[[Outside Paradise. Melancholy and the Follies of Modernization]]." _Culture and Organization_ 4 (2005): 275–289.
+- Seiter, Ellen. [[Sold Separately. Children and Parents in Consumer Culture]]. New Brunswick: Rutgers University Press, 1993.
+- Slater, Don. [[Consumer Culture and Modernity]]. Cambridge: Polity, 1997.
+- Sennett, Richard. Interview by Daniel Leighton, "[[The Culture of the New Capitalism]]." _Renewal_ 1 (2006).
+- Simmel, Georg. "[[The Metropolis and Mental Life]]." In _Classic Essays on the Culture of Cities_, edited by Richard Sennett, translated by Kurt H. Wolff. New York: Appleton-Century-Crofts, 1969.
+- Trentmann, Frank. "[[Genealogy of the consumer]]." In _Consuming Cultures, Global Perspectives_, edited by John Brewer and Frank Trentmann, Oxford: Berg, 2006.
+- Tarkowska, Elżbieta. "[[Zygmunt Bauman o czasie i procesach temporalizacji]]." _Kultura i Społeczeństwo_ 3 (2005): 45–65.
+- Weber, Max, [[The Theory of Social and Economic Organization]]. Translated by A. R. Henderson and Talcott Parsons. London: Hodge, 1947.
+- DeLuca, Tom, [[The Two Faces of Political Apathy]]. Philadelphia: Temple University Press, 1995.
