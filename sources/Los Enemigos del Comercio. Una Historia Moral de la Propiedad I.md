@@ -3,7 +3,7 @@
 - ABERCROMBIE N., HILL S. Y TURNER B. S., [[The Dominant Ideology]], Allen & Unwin, Londres, 1980. Edición en español: La tesis de la ideología dominante, Siglo XXI, Madrid, 1987.
 
 - ADORNO, T. W., [[Filosofía y superstición]], Alianza/Taurus, Madrid, 1972.  
-—, [[Minima moralia]], Taurus, Madrid, 1987.  
+—, [[Minima Moralia. Reflections from Damaged Life]], Taurus, Madrid, 1987.  
 —, [[The Authoritarian Personality]], Wiley & Sons, Nueva York, 1964, 2 vols.  
 — y HORKHEIMER, M., [[Dialéctica del iluminismo, Sudamericana]], Buenos Aires, 1987. 
 

@@ -1,0 +1,92 @@
+Título original: Liquid Modernity, Zygmunt Bauman, 2000. (trad. Mirta Rosenberg, Colaboracion en la trad. Jaime Arrambide Squirru).
+
+## Bibliography
+
+- Adorno, Theodor.  [[Negative Dialectics]]. Translated by E. B. Ashton. London: Routledge, 1973. 
+- Adorno, Theodor. [[Minima Moralia. Reflections from Damaged Life]]. Translated by E. F. N. Jephcott. London: Verso, 1974 (pp. 25–26; 33–34; 68).  
+- Adorno, Theodor &  Horkheimer, Max.  [[Dialectics of Enlightenment]]. Translated by John Cumming. London: Verso, 1986 (pp. 213–215).
+- Applebaum, Eileen & Rosemary Batt. [[The New American Workplace]]. Ithaca: Cornell University Press, 1993.
+- Attali, Jacques. [[Chemins de sagesse. Traité du labyrinthe]]. Paris: Fayard, 1996 (pp. 19, 60, 23; also see pp. 79–80, 84, 109).
+- Atkinson, Paul and David Silverman.
+"[[Kundera's Immortality. The Interview Society and the Invention of the Self]]." _Qualitative Inquiry_ 3 (1997): 304–325.
+- Auge, Marc. [[Non-lieux. Introduction à l'anthropologie de la surmodernité]]. Paris: Seuil, 1992.
+- Bauman, Zygmunt. [[Globalization. The Human Consequences]]. Cambridge: Polity Press, 1998, pp. 20–21.
+- Bairoch, Paul. [[Mythes et paradoxes de l'histoire économique]]. Paris: La Découverte, 1994.
+- Besset, Jean‐Paul and Pascale Kremer. "[[Le Nouvel Attrait pour les résidences ‘sécurisées’.]]" _Le Monde_, 15 May 1999, p. 10.
+- Bianchi, Marina. [[The Active Consumer. Novelty and Surprise in Consumer Choice]]. London: Routledge, 1998, p. 6.
+- Bell, Daniel. [[The End of Ideology]]. Cambridge, Mass.: Harvard University Press, 1988, pp. 230–235.
+- Bird, Chris. "[[Serbs Flee Kosovo Revenge Attacks]]." _The Guardian_, 17 July 1999.
+- Bourdieu, Pierre. [[Contre‐feux: Propos pour servir la résistance contre l'invasion néo‐libérale]]. Paris: Liber, 1998, p. 97 (also pp. 95–101).  
+- Bourdieu, Pierre. [[Sur la télévision]]. Paris: Liber, 1996, p. 85.  
+- Bourdieu, Pierre.  (Ed.) [[La Misère du monde]]. Paris: Seuil, 1993.
+- Camus, Albert. [[The Rebel]]. Translated by Anthony Bower. London: Penguin, 1971, pp. 226–227.
+- Cohen, Daniel. [[Richesse du monde, pauvreté des nations]]. Paris: Flammarion, 1997 (or 1998), pp. 31; also pp. 82–83.
+- Cohen, Philippe. [[Protéger ou disparaître. Les élites face à la montée des insécurités]]. Paris: Gallimard, 1999, pp. 7–9.
+- Clair, Jean. "[[De Guernica à Belgrade]]." _Le Monde_, 21 May 1999, p. 16.
+- Conway, David. [[Classical Liberalism. The Unvanquished Ideal]]. New York: St Martin’s Press, 1955, p. 48.
+- Crick, Bernard. "[[Meditation on Democracy, Politics, and Citizenship]]." Unpublished manuscript.
+- de Certeau, Michel. [[The Practice of Everyday Life]]. Berkeley: University of California Press, 1984.
+- [[Crosswell, Tim]]. "[[Imagining the Nomad. Mobility and the Postmodern Primitive]]." In _Space and Social Theory_, edited by Georges Benko and Ulrich Strohmayer, pp. 362–363. Oxford: Blackwell, 1997.
+- Debord, Guy. [[Comments on the Society of the Spectacle]]. Translated by Malcolm Imrie. London: Verso, 1990, pp. 9, 13, 16.
+- Deleuze, Gilles and Guattari, Felix. [[Anti-Oedipus. Capitalism and Schizophrenia]] (also cited as [[Oedipus Complex. Capitalism and Schizophrenia]]). Translated by Robert Hurley. New York: Viking Press, 1977 (p. 42; see also p. 5).
+- Durkheim, Émile. (Original) [[Sociologie et philosophie]] (1924). Quoted in Anthony Giddens’ translation in [[Emile Durkheim. Selected Writings]], Cambridge: Cambridge University Press, 1972, p. 115.  
+- Durkheim, Émile. [[Emile Durkheim. Selected Writings]]. Edited and translated by Anthony Giddens. Cambridge: Cambridge University Press, 1972 (see pp. 94, 115).
+- Drucker, Peter. [[The New Realities]]. London: Heinemann, 1989, pp. 10, 15.
+- Flew, Anthony. [[The Logic of Mortality]]. Oxford: Blackwell, 1987, p. 3.
+
+- Ferguson, Harvie. [[The Lure of Dreams. Sigmund Freud and the Construction of Modernity]]. London: Routledge, 1996, p. 205.  
+- Ferguson, Harvie. "[[Watching the World Go Round. Atrium Culture and the Psychology of Shopping]]." In [[Lifestyle Shopping. The Subject of Consumption]], edited by Rob Shields. London: Routledge, 1992, p. 31.  
+-  Ferguson, Harvie. "[[Glamour and the End of Irony]]." _The Hedgehog Review_, Fall 1999, pp. 10–16.
+- Flusty, Steven. "[[Building Paranoia]]." In [[Architecture of Fear]], edited by Nan Elin. New York: Princeton Architectural Press, 1997, pp. 48–49.
+- Foucault, Michel. "[[Of Other Spaces]]." _Diacritics_ 1 (1986): 26.
+- Fromm, Erich. [[Fear of Freedom]]. London: Routledge, 1960, pp. 51, 67.
+- Friedman, Jeffrey. "[[What's Wrong with Libertarianism]]." _Critical Review_, Summer 1997, pp. 407–467.
+- Girard, René. [[La Violence et le sacre]]. Paris: Grasset, 1972. (Quoted after Patrick Gregory’s translation in _Violence and the Sacred_. Baltimore: Johns Hopkins University Press, 1979, pp. 8, 12–13.)
+- Glassner, Barry. "[[Fitness and the Postmodern Self]]." _Journal of Health and Social Behaviour_ 30 (1989).
+- Hobsbawm, Eric. [[The Age of Extremes]]. London: Michael Joseph, 1994, p. 428.  
+- Hobsbawm, Eric. "[[The Cult of Identity Politics]]." _New Left Review_ 217 (1998): 40.  
+- Hobsbawm, Eric. "[[The Nation and Globalization]]." _Constellations_, March 1998, pp. 4–5.
+- Illich, Ivan. "[[L’Obsession de la santé parfaite]]." _Le Monde diplomatique_, March 1999, p. 28.
+- Jowitt, Kenneth. [[New World Disorder]]. Berkeley: University of California Press, 1992, p. 306.
+- Kolakowski, Leszek. "[[Z lewa, z prawa]]." In _Moje stuszne poglądy na wszystko_. Kraków: Znak, 1999, pp. 321–327.
+- Kociatkiewicz, Jerzy and Monika Kostera. "[[The Anthropology of Empty Space]]." _Qualitative Sociology_ 1 (1999): 43, 48.
+- Lasch, Christopher. [[The Culture of Narcissism]]. New York: W. W. Norton and Co., 1979, p. 97. 
+– Lasch, Christopher. [[The Minimal Self]]. London: Pan Books, 1985, pp. 29, 32, 34.
+- Lewin, Leif. "[[Man, Society, and the Failure of Politics]]." _Critical Review_, Winter–Spring 1998, p. 10.
+- Lipietz, Alain. "[[The Next Transformation]]." In _The Milano Papers: Essays in Societal Alternatives_, edited by Michele Cangiani. Montreal: Black Rose Books, 1996, pp. 116–117.
+- MacLaughlin, Jim. "[[Nation‐Building, Social Closure and Anti‐Traveller Racism in Ireland]]." _Sociology_, February 1999, pp. 129–151.
+- Marcuse, Herbert. "[[Liberation from the Affluent Society]]." Quoted in [[Critical Theory and Society. A Reader]], edited by Stephen Eric Bronner and Douglas MacKay Kellner. London: Routledge, 1989, p. 277.
+- McGreal, Chris. "[[Fortress Town to Rise on Cape of Low Hopes]]." _The Guardian_, 22 January 1999.
+- Melosik, Zbyszko and Tomasz Szkudlarek. [[Kultura, Tożsamość i Demokracja: Migotanie Znaczeń]]. Kraków: Impuls, 1998, p. 89.
+- Miller, David. [[A Theory of Shopping]]. Cambridge: Polity Press, 1998, p. 141.
+- Parenti, Michael. [[Inventing Reality. The Politics of the Mass Media]]. New York: St Martin’s Press, 1986, p. 65.
+- Peyrefitte, Alain. [[Du “Miracle” en économie. Lefons au Collège de France]]. Paris: Odile Jacob, 1998, p. 230.  
+- Peyrefitte, Alain. [[La Société de confiance. Essai sur les origines du développement]]. Paris: Odile Jacob, 1998, pp. 514–516.
+- Polanyi, Karl. [[The Great Transformation]]. Boston: Beacon Press, 1957, particularly pp. 56–57 and chapter 6.
+- Radner, Hilary. "[[Producing the Body. Jane Fonda and the New Public Feminine]]." In _Constructing the New Consumer Society_, edited by Pekka Sulkunen et al., New York: Macmillan, 1997, pp. 116–122.
+- Reich, Robert. [[The Work of Nations]]. New York: Vintage Books, 1991.
+- Ruelle, David. [[Hasard et chaos]]. Paris: Odile Jacob, 1991, pp. 90, 113.
+- Sennett, Richard. [[The Corrosion of Character. The Personal Consequences of Work in the New Capitalism]]. New York: W. W. Norton & Co., 1998, pp. 23, 24, 42–43, 50, 61–62, 82, 138.  
+- Sennett, Richard. [[The Fall of Public Man. On the Social Psychology of Capitalism]]. New York: Vintage Books, 1978, pp. 39 ff., 260 ff., 264.  
+- Sennett, Richard. [[The Uses of Disorder. Personal Identity and City Life]]. London: Faber & Faber, 1996, pp. 34–36, 194.  
+- Sennett, Richard. "[[The Myth of Purified Community]]." In [[The Uses of Disorder. Personal Identity and City Life]], London: Faber & Faber, pp. 36, 39.
+- Schulze, Gerhard. "[[From Situations to Subjects. Moral Discourse in Transition]]." In [[Constructing the New Consumer Society]], edited by Pekka Sulkunen, John Holmwood, Hilary Radner, and Gerhard Schulze, New York: Macmillan, 1997, p. 49.
+- Seabrook, Jeremy. [[The Leisure Society]]. Oxford: Blackwell, 1988, p. 183. 
+- Seabrook, Jeremy. [[The Race for Riches. The Human Costs of Wealth]]. Basingstoke: Marshall Pickering, 1988, pp. 168–169.
+- Serres, Michel. [[Genesis]]. Ann Arbor: University of Michigan Press, 1995.
+- Shields, Rob. "[[Spatial Stress and Resistance. Social Meanings of Spatialization]]." In [[Space and Social Theory]], edited by Georges Benko and Ulrich Strohmayer, p. 194. Oxford: Blackwell, 1997.
+- Thompson, Michael. [[Rubbish Theory. The Creation and Destruction of Value]]. Oxford: Oxford University Press, 1979, pp. 113–119.
+- Thrift, Nigel. "[[The Rise of Soft Capitalism]]." _Cultural Values_, III, April 1997, pp. 29–57 (also see pp. 39–40, 52).
+- Touraine, Alain. "[[Can We Live Together, Equal and Different?]]" _European Journal of Social Theory_, November 1998, p. 177 (also cited as European Journal of Social Theory 2/1998, p. 177).
+- Tseelon, Efrat. "[[Fashion, Fantasy and Horror]]." _Arena_ 12 (1998): 117.
+- Uusitalo, Liisa. "[[Consumption in Postmodernity]]." In _The Active Consumer_, edited by Marina Bianchi, London: Routledge, 1998, p. 221.
+- Vernet, Daniel. "[[Les Balkans Face au Risque d'une Tourmente Sans Fin]]." _Le Monde_, 15 May (c. 1999), p. 18.
+- Vetlesen, Arne Johan. "[[Genocide. A Case for the Responsibility of the Bystander]]." July 1998 (manuscript).  
+- Vetlesen, Arne Johan. "[[Yugoslavia, Genocide and Modernity]]." January 1999 (manuscript).
+- Weber, Max. [[The Theory of Social and Economic Organization]]. Translated by A. R. Henderson and Talcott Parsons. New York: Hodge, 1947, pp. 112–114.
+- Yack, Bernard. "[[Can Patriotism Save Us from Nationalism? Rejoinder to Virioli]]." _Critical Review_ 12/1–2 (1998): 203–206.
+- Young, Jock. [[The Exclusive Society]]. London: Sage, 1999, pp. 164–165.
+- Zukin, Sharon. [[The Culture of Cities]]. Oxford: Blackwell, 1995, pp. 38–39, 263.
+- Boseley, Sarah. "[[Warning of Fake Stalking Claims]]." _The Guardian_, 1 February 1999.
+- Lenin, V. I., "[[Ocherednye zadachi sovetskoi vlasti]]." _Sochilenia_, 27, February–July 1918; Moscow: GIPL, 1950, pp. 229–230.
+- Mitchell, William C. and Randy T. Simmons. [[Beyond Politics. Markets, Welfare, and the Failure of Bureaucracy]]. Boulder, Colo.: Westview Press, 1994, p. xiii.  

@@ -2,54 +2,58 @@ Bauman, Zygmun. Globalization. The human Consequences. México, 3era Edición, F
 
 ## Bibliography:
 
-- Dunlap, J., Albert, [[How I Saved Bad Companies and Made Good Companies]]. New York, Time Books, 1996.
-- Duclos, Denis, [[La cosmocratie, nouvelle classe planétaire]], Le Monde Diplomatique, 1997.
-- Melucci, Alberto. [[The Playing Self. Person and Meaning in the Planetary Society]], Cambridge, Cambridge University Press, 1996.
-- Virilio, Paul. [[Un monde surexposé. Fin de l'histoire ou fin de la géographie?]], Le Monde Diplomatique, 1997.
-- Benedikt, Michael. [[On Cyberspace and Virtual Reality]], Man and Information Technology, 1994.
-- Luke, Timothy, W., [[Identity, Meaning and Globalization. Detraditinalization in Postmodern Space-Time Compression]], Detraditionalization, Oxford, Blackwell, 1996.
-- VIrilio, Paul. [[The Lost Dimension]], New York, Semiotext(e), 1991.
-- Wertheim, Magaret. [[The Pearly Gates of Cyberspace]], Architecture of Fear, New York, Princeton Architectural Press, 1997.
-- Flusty, Steven. [[Building Paranoia]], Architecture of Fear, New York, Princeton Architectural Press, 1997.
-- Hebdige, Dick. [[Hiding in the Light]], London, Routledge, 1988.
-- Bateson, Gregory. [[Steps on an Ecology of Mind]], Frogmore, Paladin, 1973.
-- Christie, Nils. [[Civility and State]]
-- Leach, Edmund. [[Anthropological aspects of language. animal categories and verbal abuse]], New Directions in the Study of Language, University of Chicago Press, 1964.
-- Habermas, Jürgen. [[The philosophical Discourse of Modernity]], Cambridge, MIT Press, 1987
-- Sennet, Richard. [[Uses of Disorder. Personal Identity and City Life]], London, Faber & Faber, 1996.
 - Baczko, Bronislaw. [[Utopian Lights. The Evolution of the Idea of Social Progress]], New York, Paragon House, 1989
-- Baczko, Bronislaw. [[Histoire des Sévarambes]].
-- Elin, Nan. [[Shelter from the Storm, or Form Follows Fear and Vice Versa]], Architecture of Fear, New York, Princeton Architectural Press
-- Poster, Mark. [[Database as discourse, or electronic interpellations]], Detraditionalization
-- Mathiesen, Thomas. [[The Viewer of Society. Michael's Focoult 'Panopticon' Revisited]], Theoretical Criminology, 1997
-- Gerbner, George y Gross, Larry. [[Living with television. the violence profile]], Journal of Communication
-- Sennet, Richard. [[Something in the city. The Spectre of Uselessness and the Search for a Placie in the World]], Times Literary Supplement, 1995
-- Woollacot, Martin. [[Bosses must learn to behave better again]], The guardian, 1997
-- Cable, Vincent. [[The worlds new fissures. Identities in Crisis]]. London, Demos, 1996
-- Melucci, Alberto. [[Challenging Codes. Collective Action in the Information Age]]. Cambridge University Press, 1996
-- Von Wright, George Henrik. [[The Crisis of Social Science and the Withering Away of the Nation State]]. Associations 1, 1997
-- Castodiaris, Cornelius. [[Pouvoir, politique, autonomie]]. Le Monde Morcelé, Paris, Seiio, 1990
-- Hobsbawn, Eric. [[Some Reflections on the 'Break-up of Britain']], New Left Review, 1997.
-- Castoriadis, Cornelius. [[La crise des sociétés occidentales]], La Montée de l'ingsignificance, 1996
-- [[Sept pieves du puzzle neoliberal. la quatrième guerre mondiale a comence]], Le Monde Diplomatique, 1997
-- Passet, René. [[Ces promesses des technologies de l'inmagériel]]. Le Monde Diplomatique, 1997
-- Fitoussi, Jean-Paul, [[Europe. le commencent d'une aventure]], Le Monde, 1997
-- Offe, Claus. [[Modernity and the State. East, West]]. Cambridge, Polity Press, 1996
-- Taylor, Mark C., y Saarinen, Esa. [[Imageologies. Media Philosophy]], London, Routledge
-- Heller, Agnes. [[Where are we at home?]], Thesis Eleven, 1995
-- Seabrook, Jeremy. [[Landscapes of Poverty]], Oxford, Blackwell, 1985
-- Friedman, Johnathan. [[Global crises, the struggle for Cultural Identity and Intellectual Porkbarrelling. Cosmopolitan vs Locals, Ethnics and Nationals in an Era of De-hegemonisation]], Debating Cultural Hybridity, London, Zed Books, 1997
+- Bateson, Gregory. [[Steps on an Ecology of Mind]], Frogmore, Paladin, 1973.
+- Balls, Graham & Jenkins, Milly. "[[Too Much for Them, Not Enough for Us]]." _Independent on Sunday_, 21 July 1996.
+- Benedikt, Michael. [[On Cyberspace and Virtual Reality]], Man and Information Technology, 1994.
 - Bourdieu, Pierre. [[L'architecte de l'euro passe aux aveux]], Le Monde Diplomatique, 1997
 - Burszta, Wojciech J., [[Czytanie kultury]], Lódź, 1996
-- Christie, Nils. [[Crime Control as Industry. Towards Gulag, Western Style?]], London, Routledge, 1993
-- Petrella, Ricardo. [[Une machine infernale]], Le Monde Diplomatique, 1997
-- Seabrook, Jeremy. [[The Race for Riches. The Human Cost of Wealth]], Basingstoke, Marshall Pickering, 1998.
-- Weber, Max. [[The Protestant Ethic and The Spirit of Capitalism]], trad. por Talcott Parsons, London, George Allen & Unwin, 1976
+- Cable, Vincent. [[The worlds new fissures. Identities in Crisis]]. London, Demos, 1996
 - Carroll, John. [[Ego and Soul. a Sociology of the Modern West in Search of Meaning]]
-- Sellin, Thorsten, [[Pioneering in Penology. the Amsterdam Houses of Corrections in the Sixteenth and Seventeenth Centuries]], University of Philadelphia Press, 1944
-- Mathiesen, Thomas. [[Prison on Trial. A Critical Assessment]], London, Sage, 1990
+- Castoriadis, Cornelius. [[La crise des sociétés occidentales]], La Montée de l'ingsignificance, 1996
+- Castoriadis, Cornelius. "[[Pouvoir, politique, autonomic]]." In _le monde morcelé._ Paris: Seuil, 1990, p. 124.  
+- Christie, Nils. [[Civility and State]]. Unpublished manuscript.
+- Christie, Nils. [[Crime Control as Industry. Towards Gulag, Western Style?]] London: Routledge, 1993, pp. 86–87.  
+– Christie, Nils. "[[Penal Geography]]." Unpublished manuscript.
 - Clemmer, Donald. [[The Prison Community]], New York, Holt, Reinhart & Winston, 1940
+- Duclos, Denis, [[La cosmocratie, nouvelle classe planétaire]], Le Monde Diplomatique, 1997.
+- Dunlap, J., Albert, [[How I Saved Bad Companies and Made Good Companies]]. New York, Time Books, 1996.
+- Elin, Nan. [[Shelter from the Storm, or Form Follows Fear and Vice Versa]], In _Architecture of Fear_, edited by Nan Elin. New York: Princeton Architectural Press, 1997, pp. 13, 26.
+- Fitoussi, Jean-Paul, [[Europe. le commencent d'une aventure]], Le Monde, 1997
+- Flusty, Steven. [[Building Paranoia]], Architecture of Fear, New York, Princeton Architectural Press, 1997.
+- Friedman, Johnathan. [[Global crises, the struggle for Cultural Identity and Intellectual Porkbarrelling. Cosmopolitan vs Locals, Ethnics and Nationals in an Era of De-hegemonisation]], Debating Cultural Hybridity, London, Zed Books, 1997
+- Gerbner, George y Gross, Larry. [[Living with television. the violence profile]], _Journal of Communication_ 26 (1976): 173–198.
+- Habermas, Jürgen. [[The philosophical Discourse of Modernity]], Cambridge, MIT Press, 1987
+- Heller, Agnes. [[Where are we at home?]], Thesis Eleven, 1995
+- Hebdige, Dick. [[Hiding in the Light]], London, Routledge, 1988.
+- Hobsbawm, Eric. "[[Some Reflections on the ‘Break-up of Britain’]]." _New Left Review_ 105 (1977).
+- Kapuscinski, Ryszard. [[Lapidarium III]]. Warsaw, 1996.
+- Keegan, Victor. "[[Highway Robbery by the Super‐Rich]]." _The Guardian_, 22 July 1996.
+- Korn, Richard R., McCorkle, Lloyd W., [[Resocialization within walls]], Annals of the American Academy of Political and Social Science, 1954
+- Leach, Edmund. [[Anthropological aspects of language. animal categories and verbal abuse]], New Directions in the Study of Language, University of Chicago Press, 1964.
+- Luke, Timothy, W., [[Identity, Meaning and Globalization. Detraditinalization in Postmodern Space-Time Compression]], Detraditionalization, Oxford, Blackwell, 1996.
+- Marcos, Sous‐Commandant. "[[Sept Pieces du Puzzle Neolibéral. La Quatriéme Guerre Mondiale a Commencé]]." _Le Monde Diplomatique_, August 1997, pp. 4–5.
 - Marti, Serge. [[Le FMI critique les méthodes anti-chômage de Bonn et Paris]]. Le Monde, 1997
+- Mathiesen, Thomas. [[Prison on Trial. A Critical Assessment]], London, Sage, 1990
+- Mathiesen, Thomas. [[The Viewer of Society. Michael's Focoult 'Panopticon' Revisited]], Theoretical Criminology, 1997
+- Melucci, Alberto. [[The Playing Self. Person and Meaning in the Planetary Society]], Cambridge, Cambridge University Press, 1996.
+- Melucci, Alberto. [[Challenging Codes. Collective Action in the Information Age]]. Cambridge University Press, 1996
+- O'Brien, Richard. [[Global Financial Integration. The End of Geography]]. London: Chatham House/Pinter, 1992.
+- Offe, Claus. [[Modernity and the State. East, West]]. Cambridge, Polity Press, 1996
+- Passet, René. [[Ces promesses des technologies de l'inmagériel]]. Le Monde Diplomatique, 1997
+- Petrella, Ricardo. [[Une machine infernale]], Le Monde Diplomatique, 1997
+- Poster, Mark. [[Database as discourse, or electronic interpellations]], Detraditionalization edited by Paul Heelas, Scott Lash, and Paul Morris. Oxford: Blackwell, 1996, pp. 284, 291.
+- Sellin, Thorsten, [[Pioneering in Penology. the Amsterdam Houses of Corrections in the Sixteenth and Seventeenth Centuries]], University of Philadelphia Press, 1944
+- Seabrook, Jeremy. [[Landscapes of Poverty. The Human Cost of Wealth]], Oxford, Blackwell, 1985
+- Seabrook, Jeremy. [[The Race for Riches. The Human Cost of Wealth]], Basingstoke, Marshall Pickering, 1988.
+- Sennet, Richard. [[Uses of Disorder. Personal Identity and City Life]], London, Faber & Faber, 1996.
+- Sennet, Richard. [[Something in the city. The Spectre of Uselessness and the Search for a Placie in the World]], Times Literary Supplement, 1995
+- Taylor, Mark C., y Saarinen, Esa. [[Imageologies. Media Philosophy]], London, Routledge
+- Virilio, Paul. [[Un monde surexposé. Fin de l'histoire ou fin de la géographie?]], Le Monde Diplomatique, 1997.
+- Virilio, Paul. [[The Lost Dimension]], New York, Semiotext(e), 1991.
+- Veirasse, D., [[Histoire des Sévarambe]]. [Publication details not provided.]
+- Von Wright, George Henrik. [[The Crisis of Social Science and the Withering Away of the Nation State]]. Associations 1, 1997
+- Weber, Max. [[The Protestant Ethic and The Spirit of Capitalism]], trad. por Talcott Parsons, London, George Allen & Unwin, 1976
+- Wertheim, Magaret. [[The Pearly Gates of Cyberspace]], Architecture of Fear, New York, Princeton Architectural Press, 1997.
+- Woollacott, Martin. "[[Bosses Must Learn to Behave Better Again]]." _The Guardian_, 14 June 1997.
 - Zucchini, Laurent. [[Ségrégation ordinaire à Washington]], Le Monde, 1997
-- Mathiesen, [[Prison on Trials]]
-- McCorkle, Lloyd W., Korn, Richard R., [[Resocialization within walls]], Annals of the American Academy of Political and Social Science, 1954

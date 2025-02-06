@@ -90,4 +90,32 @@ USA
 
 «The object-oriented method is, before anything else, a system architecture method which helps designers produce systems whose structure remains both simple (even for large systems) and decentralized.», p7
 
+### Definition of Reusability
+
+«Reusability is the ability of software elements to serve for the construction of many different applications.», p8
+
+### The need for reusability
+
+«The need for reusability comes from the observation that software systems often follow similar patterns; it should be possible to exploit this commonality and avoid reinventing solutions to problems that have been encountered before. By capturing such a pattern, a reusable software element will be applicable to many different developments.», p7
+
+### Why favor reusability
+
+«solving the reusability problem essentially means that less software must be written, and hence that more effort may be devoted (for the same total cost) of improving the other factor,s such as correctness and robustness.», p7
+
+### Definition of Compatibility
+
+«Compatibility is the ease of combining software elements with others.», p8
+
+### Why compatibility is important
+
+«we do not develop software elements in a vacuum: they need to interact with each other.»
+
+### What causes compatibility problems
+
+«But they too often have trouble interacting because they make conflicting assumptions about the rest of the world.», p8
+
+### Definition of Efficiency
+
+«Efficiency is the ability for a software system to place as few demands as possible on hardware resources, such as processor time, space occupied in internal and external memories, bandwith used in communication devices.», p9
+
 ## Bibliography
