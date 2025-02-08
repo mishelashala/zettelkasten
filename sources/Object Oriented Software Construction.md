@@ -118,4 +118,16 @@ USA
 
 «Efficiency is the ability for a software system to place as few demands as possible on hardware resources, such as processor time, space occupied in internal and external memories, bandwith used in communication devices.», p9
 
+### Efficiency and Correctness
+
+«efficiency does not matter much if the software is not correct», p9
+
+### Efficiency and Reusability
+
+«the concern for efficiency must be balanced with other goals such as extendibility and reusability; extreme optimizations may make the software so specialized as to be unfit for change and reuse.», p9
+
+### Optimize when efficiency affects correctness
+
+«In osme cases efficiency may affect correctness. A specification may state that the computer response to a certain event must occur no later than a specified time», p10
+
 ## Bibliography
