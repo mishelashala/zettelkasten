@@ -130,4 +130,20 @@ USA
 
 «In osme cases efficiency may affect correctness. A specification may state that the computer response to a certain event must occur no later than a specified time», p10
 
+### Definition of Portability
+
+«Portability is the ease of transferring software products to various hardware and software environments.», p11
+
+### What probelm Portability addresses
+
+«Portability addresses variations not just of the physical hardware but more generally of the **hardware-software machine**, the one that we really program, which includes the operating system, the window system if applicable, and other fundamental tools.», p11
+
+### Definition of Ease of Use
+
+«Ease of use is the ease with which people of various backgrounds and qualifications can learn to use software products and apply them to solve problems. It also covers the ease of installation, operation and monitoring.», p11
+
+### Structural Simplicity and Ease of Use
+
+«one of the keys to ease of use is structural simplicity. A well-designed system, built according to a clear, well thought-out structure, will tend to be easier to learn and use than a messy one.», p11
+
 ## Bibliography
