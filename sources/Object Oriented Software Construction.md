@@ -146,4 +146,20 @@ USA
 
 «one of the keys to ease of use is structural simplicity. A well-designed system, built according to a clear, well thought-out structure, will tend to be easier to learn and use than a messy one.», p11
 
+### Prudent Design
+
+«Good user interface designers follow a prudent policy. They make as limited assumptions about their users as they can.», p12
+
+### User Interface Design Principle
+
+«Do not pretend you know the user; you don't.», p12
+
+### Definition of Functionality
+
+«Functionality is the extent of possibilities provided by a system.», p12
+
+### Definition of Timeliness
+
+«Timeliness is the ability of a software system to be released when or before its users want it.», 14
+
 ## Bibliography
