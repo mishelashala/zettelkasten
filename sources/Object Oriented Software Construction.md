@@ -162,4 +162,20 @@ USA
 
 «Timeliness is the ability of a software system to be released when or before its users want it.», 14
 
+### Quality: Verifiability
+
+«is the ease of preparing acceptance procedures, specially test data, and procedures for detecting failures and tracing them to errors during the validation and operation phases.», p14
+
+### Quality: Integrity
+
+«is the ability of software systems to protect their various components (programs, data) againts unauthorized access and modification.», p14
+
+### Quality: Repairability
+
+«is the ability to facilitate the repair of defects.», p14
+
+### Quality: Economy
+
+«is the ability of a system to be completed on or below its assigned budget.», p14
+
 ## Bibliography
