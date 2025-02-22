@@ -1,0 +1,62 @@
+## Notes
+
+## Bibliography
+
+- Aberle, D. F. (1962), «[[A Note on Relative Deprivation Theory as Applied to Millenarian and Other Cult Movements]]», en S. L. Thrupp (ed.), Millennial Dreams in Action. Studies in Revolutionary Religious Movements, La Haya, pp. 209-214.
+- Adas, M. (1979), [[Prophets of Rebellion. Millenarian Protest Movements against the European Colonial Order]], Chapel Hill.
+- Adler, Y. (2013), «[[Religion, Judaism. Purity in the Roman Period]]», en D. M. Master (ed.), The Oxford Encyclopedia of the Bible and Archaeology, Oxford, vol. 2, pp. 240-247.
+- Aguirre, R. et al. (2009), [[Qué se sabe de Jesús de Nazaret]], Estella.
+- Aichele, G. (1998), «[[Jesus’ Violence]]», en T. Pippin y G. Aichele (eds.), Violence, Utopia, and the Kingdom of God, Londres/Nueva York, pp. 72-91.
+- Aland, K. (2001), [[Synopsis quattuor evangeliorum]], Stuttgart.
+- Alexander, G. (ed.) (1972), [[Hermann Samuel Reimarus. Apologie oder Schutzschrift für die vernünftigen Verehrer Gottes, 2 vols.]], Fráncfort.
+- Alexander, G. (1972a), «[[Wie kam Lessing zur Handschrift der Wolfenbüttler Fragmente?]]», Philob 16, pp. 160-172.
+- Alexander, G. (1979), «[[Neue Erkenntnisse zur Apologie von Hermann Samuel Reimarus]]», ZVHG 6, pp. 145-159.
+- Alföldy, G. (1996), «[[Subject and Ruler, Subjects and Methods. An Attempt at a Conclusion]]», en A. Small (ed.), Subject and Ruler: The Cult of the Ruling Power in Classical Antiquity, Ann Arbor, pp. 254-256.
+- Alles, G. D. (2001), «[[Toward a Genealogy of the Holy. Rudolf Otto and the Apologetics of Religion]]», JAAR 69, pp. 323-341.
+- Álvarez Cineira, D. (1999), [[Die Religionspolitik des Kaisers Claudius und die paulinische Mission]], Friburgo.
+- Allison, D. C. (1982), «[[The Pauline Epistles and the Synoptic Gospels. The Pattern of the Parallels]]», NTS 28, pp. 1-32.
+- Allison, D. C. (1994), «[[Mark 12.28-31 and the Decalogue]]», en C. A. Evans y W. R. Stegner (eds.), The Gospels and the Scriptures of Israel, Sheffield, pp. 270-278.
+- Allison, D. C. (1994a), «[[A Plea for Thoroughgoing Eschatology]]», JBL 113, pp. 651-668.
+- Allison, D. C. (1998), [[Jesus of Nazareth, Millenarian Prophet]], Mineápolis.
+- Allison, D. C. (2005), [[Resurrecting Jesus. The Earliest Christian Tradition and Its Interpreters]], Nueva York.
+- Allison, D. C. (2005a), «[[Jesus]]», en L. Jones (ed.), Encyclopedia of Religion, Second Edition, vol. 7, Farmington Hills, pp. 4843-4852.
+- Allison, D. C. (2009), [[The Historical Christ and the Theological Jesus]], Grand Rapids.
+- Allison, D. C. (2010), [[Constructing Jesus. Memory, Imagination, and History]], Londres.
+- Allison, D. C. (2010a), «[[How to Marginalize the Criteria of Authenticity]]», en T. Holmén y S. E. Porter (eds.), The Handbook of the Study of the Historical Jesus, Leiden, vol. 1, pp. 3-30.
+- Ashton, J. (2000), [[The Religion of Paul the Apostle]], Suffolk.
+- Auerbach, E. (1950), [[Mímesis. La representación de la realidad en la literatura occidental]], México (orig. alem. 1946).
+- Auffarth, C. (2006), «[[Das angemessene Bild Gottes. Der Olympische Zeus, antike Bildkonvention und die Christologie]]», en N. Kreutz y B. Schweizer (eds.), Tekmeria: Archäologische Zeugnisse in ihrer kulturhistorischen und politischen Dimension. Beiträge für Werner Gauer, Münster, pp. 1-23.
+- Auffarth, C. (2010), «[[The Materiality of God’s Image. Olympian Zeus and the Ancient Christology]]», en J. N. Bremmer y A. Erskine (eds.), The Gods of Ancient Greece: Identities and Transformation, Liverpool, pp. 465-480.
+- Aune, D. E. (1990), «[[Heracles and Christ. Heracles Imagery in the Christology of Early Christianity]]», en D. L. Balch et al. (eds.), Greeks, Romans, and Christians. Essays in Honor of A. J. Malherbe, Mineápolis, pp. 3-19.
+- Aune, D. E. (2002), «[[Assessing the Historical Value of the Apocryphal Jesus Tradition. A Critique of Conflicting Methodologies]]», en J. Schröter y R. Brucker (eds.), Der historische Jesus: Tendenzen und Perspektiven der gegenwärtigen Forschung, Berlín, pp. 243-272.
+- Aune, D. E. (2013), «[[Christian Beginnings and Cognitive Dissonance Theo​ry]]», en id., Jesus, Gospel Tradition, and Paul in the Context of Jewish and Greco-Roman Antiquity: Collected Essays II, Tubinga, pp. 149-181.
+- Aus, R. D. (1994), [[Samuel, Saul and Jesus. Three Early Palestinian Jewish Christian Gospel Haggadoth]], Atlanta.
+- Aus, R. D. (2000), [[The Stilling of the Storm. Studies in Early Palestinian Judaic Traditions]], Nueva York.
+- Aus, R. D. (2010), [[Feeding the Five Thousand. Studies in the Judaic Background of Mark 6.30-44 par. and John 6.1-15]], Lanham, [n. v.].
+- Austin, N. J. E. y Rankov, N. B. (1995), [[Exploratio. Military and Political Intelligence in the Roman World from the Second Punic War to the Battle of Adrianople]], Londres/Nueva York.
+- Avalos, H. (2015), [[The Bad Jesus. The Ethics of New Testament Ethics]], Sheffield.
+- Bakker, F. L. (2009), [[The Challenge of the Silver Screen. An Analysis of the Cinematic Portraits of Jesus, Rama, Buddha, and Muhammad]], Leiden.
+- Bammel, E. (1984), «[[The Trial before Pilate]]», en E. Bammel y C. F. D. Moule (eds.), Jesus and the Politics of His Day, Cambridge, pp. 415-451.
+- Bammel, E. y Moule, C. F. D. (eds.) (1984), [[Jesus and the Politics of His Day]], Cambridge.
+- Barbaglio, G. (2004), «[[L’attuale ricerca storica su Gesù. un’opera monumentale]]», CS 25, pp. 877-889.
+- Bardet, S. (2002), [[Le Testimonium Flavianum. examen historique, considérations historiographiques]], París.
+- Barker, G. A. y Gregg, S. E. (2010), [[Jesus beyond Christianity. the Classic Texts]], Oxford.
+- Barnes Tatum, W. (2005), [[Jesus at the Movies. A Guide to the First Hundred Years]], Santa Rosa.
+- Barnett, S. J. (2003), [[The Enlightenment and Religion]], Mánchester.
+- Barr, J. (1988), «[[Abba isn’t Daddy!]]», JTS 39, pp. 28-47. Barrett, C. K. (21978), The Gospel According to Saint John, Londres.  
+- Batsch, C. (2004), «[[Le “pacifisme des esséniens”, un mythe historiographique]]», RQ 83, pp. 457-468.  
+- Bauckham, R. (2006), [[Jesus and the Eyewitnesses. The Gospels as Eyewitness Testimony]], Grand Rapids.
+- Bauckham, R. (2008), [[Jesus and the God of Israel]], Grand Rapids.
+- Bauer, W. (1909), [[Das Leben Jesu im Zeitalter der neutestamentlichen Apokryphen]], Tubinga.
+- Baum, A. D. (1999), «[[Die Diskussion der Authentizität von Her​renworten in altkirchlicher Zeit. Ein Beitrag zur Geschichte der Leben-Jesu-Forschung]]», ThB 30, pp. 303- 317.
+- Baur, F. C. (1847), [[Kritische Untersuchungen über die kanonischen Evangelien, ihr Verhältnis zu einander, ihren Charakter und Ur​sprung]], Tubinga.
+- Bazzana, G. (2011), «[[Basileia and Debt Relief. The Forgiveness of Debts in the Lord’s Prayer in the Light of Documentary Papyri]]», CBQ 73, pp. 511-525.
+- Bazzana, G. (2015), «[[Q 22.28-30. Judgment or Governance in the Sayings Gospel Q?]]», en M. Tiwald (ed.), Q in Context I, Gotinga, pp. 169-183.
+- Beare, F. W. (1981), [[The Gospel According to Matthew]], Blackwell.
+- Beard, M. et al. (1996), [[Religions of Rome, vol. 1. A History]], Cambridge.
+- Beavis, M. A. (2004), «[[The Kingdom of God, “Utopia” and Theocracy]]», JSHJ 2, pp. 91-106.
+- Bedard, S. J. (2008), «[[Hellenistic Influence on the Idea of Resurrection in Jewish Apocalyptic Literature]]», JGRCJ 5, pp. 174-189.
+- Belo, F. (31976), [[Lecture matérialiste de l’Évangile de Marc]], París (ed. cast.: Lectura materialista del evangelio de Marcos, 1975).
+- Ben-Chorin, S. (1967), [[Bruder Jesus. Der Nazarener in jüdischer Sicht]], München (ed. cast.: Hermano Jesús, 2003).
+- Benfatto, M. (2017), «[[Il Gesù del Ḥizzuk Emunah. Fra ricostruzione critica e costruzione polemica]]», en A. Destro y M. Pesce (eds.), Texts, Practices, and Groups. Multidisciplinary Approaches to the History of Jesus’ Followers in the First Two Centuries First Annual Meeting of Bertinoro (24 October 2014), Turnhout, pp. 807-827.
+- Benfatto, M. (2018), [[Gesù nella letteratura polemica ebraica anticristiana. Studi sul Sefer Ḥizzuq Emunah di Yiṣḥaq ben Avraham Troqi]] (c. 1533-1594) [tesis doctoral], Universidad de Bolonia.
