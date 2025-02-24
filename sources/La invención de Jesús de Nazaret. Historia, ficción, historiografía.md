@@ -244,95 +244,220 @@
 - Del Valle, C. (ed.) (1992), [[Polémica judeo-cristiana. Estudios]], Madrid.
 - Derrett, J. D. M. (1988), «[[Moving Mountains and Uprooting Trees (Mk 11.22; Mt 17.20; 21.21; Lk 17.6)]]», BibOr 30, pp. 231-244.
 - Descamps, A. (1987), [[Jésus et l’Église. Études d’exégèse et de théologie]], Lovaina.
-
-Desroche, H. (1963), «Les messianismes et la catégorie de l’échec», CIS 35, pp. 61-84.
-
-Destro, A. y Pesce, M. (2014), La morte di Gesù. Indagine su un mistero, Milán.  
-Dewey, A. J. (2017), Inventing the Passion. How the Death
-
-of Jesus Was Remembered, Salem.  
-Dewey, J. (1994), Orality and Textuality in Early Christian
-
-Literature, Atlanta.
-
-D’Holbach, P. H. T. (1770), Tableau des saints, ou Examen de l’es​prit, de la conduite, des maximes & et du mérite des personnages que le Christianisme révere & propose pour modeles, Londres.
-
-— (1776), Le christianisme dévoilé, Londres.
-
-— (1778), Histoire critique de Jésus Christ ou analyse raisonnée des évangiles, Ámsterdam (ed. orig. 1770; ed. cast.: Historia crítica de Jesucristo, 2014).
-
-Dibelius, M. (1911), Die urchristliche Überlieferung von Johannes dem Täufer, Gotinga.
-
-Diderot, D. (1765), «Intolérance», en Encyclopédie ou Diction​naire raisonné des sciences, des arts et des métiers, vol. 8, Neuf​chastel, pp. 843-844.
-
-Díez de Velasco, F. (32002), Introducción a la historia de las religiones, Madrid.
-
-Díez Macho, A. (1968), Neophyti 1. Targum Palestinense Ms de la Biblioteca Vaticana. Tomo I: Génesis, Madrid/Barcelona.
-
-Díez Macho, A. et al. (1984), Apócrifos del Antiguo Testamento. Tomo IV: Ciclo de Henoc, Madrid.
-
-Dihle, A. (1962), Die goldene Regel: eine Einführung in die Ge​schichte der antiken und frühchristlichen Vulgärethik, Gotinga.
-
-Dilthey, W. (2005), Das Erlebnis und die Dichtung. Lessing, Goe​the, Novalis, Hölderlin, en id., Gesammelte Schriften XXVI. Band, Gotinga.
-
-Dirlmeier, F. (1935), «Theophilía – Philotheîa», Phil 90, pp. 57-77 y 176-193.
-
-Dobos, K. D. (2016), «The Impact of the Conversos on Jewish Polemical Activity in Baroque Italy. Was Yehuda Aryeh me-Modena’s Magen we-Herev Destined for a Converso Audience?», ASE 33, pp. 413-434.
-
-Dodd, C. H. (1938), History and the Gospel, Nueva York.  
-— (1963), Historical Tradition in the Fourth Gospel,
-
-Cambridge.  
-— (1970), The Founder of Christianity, Nueva York (ed.
-
-cast.: El fundador del cristianismo, 1974).  
-Doherty, E. (2009), Jesus: Neither God nor Man. The Case
-
-for a Mythical Jesus, Ottawa.  
-Donaldson, T. L. (1997), Paul and the Gentiles: Remapping
-
-the Apostle’s Convictional World, Mineápolis.
-
-Dormeyer, D. (1974), Die Passion Jesu als Verhaltensmodell: Literarische und theologische Analyse der Traditions- und Redaktionsgeschichte der Markuspassion, Münster.
-
-Downing, F. G. (1988), Christ and the Cynics. Jeus and Other Radical Preachers in First Century Tradition, Sheffield.
-
-Drew, M. F. (ed.) (1910), The Passion Play of Ober- Ammergau: The Great Atonement at Golgotha, Londres.
-
-Dunham, B. (1964), Heroes and Heretics. A Social History of Dissent, Nueva York (ed. cast.: Héroes y herejes, 1969).
-
-Dunn, J. D. G. (1982), «The Relationship between Paul and Jerusalem according to Galatians 1 and 2», NTS 28, pp. 461-478.
-
-— (2003), Jesus Remembered. Christianity in the Making Volume 1, Grand Rapids (ed. cast.: Jesús recordado, 2009).
-
-— (2005), A New Perspective on Jesus. What the Quest for the Historical Jesus Missed (ed. cast.: Redescubrir a Jesús de Nazaret, 2006).  
-Dupuis, Ch.-F. (1794), L’origine de tous les cultes ou
-
-religion universelle, París.  
-Edelstein, E. J. y Edelstein, L. (1945), Asclepius. Collection
-
-and Interpretation of the Testimonies, 2 vols., Baltimore. Ehrman, B. D. (2001), Jesús, el profeta judío apocalíptico,
-
-Barcelona (orig. ingl. 1999).
-
-— (2006), The Lost Gospel of Judas Iscariot, Nueva York.
-
-— (2011), The Orthodox Corruption of Scripture. The Effect of Early Christological Controversies on the Text of the New Testament, Oxford.
-
-— (2012), Did Jesus Exist? The Historical Argument for Jesus of Nazareth, Nueva York.
-
-— (2013), Forgery and Counterforgery. The Use of Literary Deceit in Early Christian Polemics, Oxford.
-
-— (2014), How Jesus Became God, Nueva York.
-
-Eisler, R. (1929-1930), IĒSOUS BASILEUS OU BASILEUSAS. Die messianische Unabhängigkeitsbewegung vom Auftreten Johannes des Täufers bis zum Untergang Jakobs des Gerechten, 2 vols., Heidelberg.
-
-Eliade, M. (1988), Historia de las creencias y de las ideas religiosas II: de Gautama Buda al triunfo del cristianismo, Madrid (orig. fra. 1978).
-
-Elliott, J. H. (2002), «Jesus Was Not an Egalitarian. A Critique of an Anachronistic and Idealist Theory», BTB 32, pp. 75-91.
-
-— (2003), «The Jesus Movement Was Not Egalitarian but Family-oriented», BInt 11, pp. 173-210.
-
-Elliott, J. K. (1982), Questioning Christian Origins, Londres. Emerton, J. A. (1958), «The Origin of the Son of Man
-
-Imagery», JTS 9, pp. 225-242.
+- Desroche, H. (1963), «[[Les messianismes et la catégorie de l’échec]]», CIS 35, pp. 61-84.
+- Destro, A. y Pesce, M. (2014), [[La morte di Gesù. Indagine su un mistero]], Milán.  
+- Dewey, A. J. (2017), [[Inventing the Passion. How the Death of Jesus Was Remembered]], Salem.  
+- Dewey, J. (1994), [[Orality and Textuality in Early Christian Literature]], Atlanta.
+- D’Holbach, P. H. T. (1770), [[Tableau des saints, ou Examen de l’es​prit, de la conduite, des maximes & et du mérite des personnages que le Christianisme révere & propose pour modeles]], Londres.
+- D’Holbach, P. H. T. (1776), [[Le christianisme dévoilé]], Londres.
+- D’Holbach, P. H. T. (1778), [[Histoire critique de Jésus Christ ou analyse raisonnée des évangiles]], Ámsterdam (ed. orig. 1770; ed. cast.: Historia crítica de Jesucristo, 2014).
+- Dibelius, M. (1911), [[Die urchristliche Überlieferung von Johannes dem Täufer]], Gotinga.
+- Diderot, D. (1765), «[[Intolérance]]», en Encyclopédie ou Diction​naire raisonné des sciences, des arts et des métiers, vol. 8, Neuf​chastel, pp. 843-844.
+- Díez de Velasco, F. (32002), [[Introducción a la historia de las religiones]], Madrid.
+- Díez Macho, A. (1968), [[Neophyti 1. Targum Palestinense Ms de la Biblioteca Vaticana. Tomo I. Génesis]], Madrid/Barcelona.
+- Díez Macho, A. et al. (1984), [[Apócrifos del Antiguo Testamento. Tomo IV. Ciclo de Henoc]], Madrid.
+- Dihle, A. (1962), [[Die goldene Regel. eine Einführung in die Ge​schichte der antiken und frühchristlichen Vulgärethik]], Gotinga.
+- Dilthey, W. (2005), [[Das Erlebnis und die Dichtung. Lessing, Goe​the, Novalis, Hölderlin]], en id., Gesammelte Schriften XXVI. Band, Gotinga.
+- Dirlmeier, F. (1935), «[[Theophilía – Philotheîa]]», Phil 90, pp. 57-77 y 176-193.
+- Dobos, K. D. (2016), «[[The Impact of the Conversos on Jewish Polemical Activity in Baroque Italy. Was Yehuda Aryeh me-Modena’s Magen we-Herev Destined for a Converso Audience?]]», ASE 33, pp. 413-434.
+- Dodd, C. H. (1938), [[History and the Gospel]], Nueva York.  
+- Dodd, C. H. (1963), [[Historical Tradition in the Fourth Gospel]], Cambridge.  
+- Dodd, C. H. (1970), [[The Founder of Christianity]], Nueva York (ed. cast.: El fundador del cristianismo, 1974).  
+- Doherty, E. (2009), [[Jesus. Neither God nor Man. The Case for a Mythical Jesus]], Ottawa.  
+- Donaldson, T. L. (1997), [[Paul and the Gentiles. Remapping the Apostle’s Convictional World]], Mineápolis.
+- Dormeyer, D. (1974), [[Die Passion Jesu als Verhaltensmodell. Literarische und theologische Analyse der Traditions- und Redaktionsgeschichte der Markuspassion]], Münster.
+- Downing, F. G. (1988), [[Christ and the Cynics. Jeus and Other Radical Preachers in First Century Tradition]], Sheffield.
+- Drew, M. F. (ed.) (1910), [[The Passion Play of Ober-Ammergau. The Great Atonement at Golgotha]], Londres.
+- Dunham, B. (1964), [[Heroes and Heretics. A Social History of Dissent]], Nueva York (ed. cast.: Héroes y herejes, 1969).
+- Dunn, J. D. G. (1982), «[[The Relationship between Paul and Jerusalem according to Galatians 1 and 2]]», NTS 28, pp. 461-478.
+- Dunn, J. D. G. (2003), [[Jesus Remembered. Christianity in the Making Volume 1]], Grand Rapids (ed. cast.: Jesús recordado, 2009).
+- Dunn, J. D. G. (2005), [[A New Perspective on Jesus. What the Quest for the Historical Jesus Missed]] (ed. cast.: Redescubrir a Jesús de Nazaret, 2006).  
+- Dupuis, Ch.-F. (1794), [[L’origine de tous les cultes ou religion universelle]], París.  
+- Edelstein, E. J. y Edelstein, L. (1945), [[Asclepius. Collection and Interpretation of the Testimonies, 2 vols]]., Baltimore.
+- Ehrman, B. D. (2001), [[Jesús, el profeta judío apocalíptico]], Barcelona (orig. ingl. 1999).
+- Ehrman, B. D. (2006), [[The Lost Gospel of Judas Iscariot]], Nueva York.
+- Ehrman, B. D. (2011), [[The Orthodox Corruption of Scripture. The Effect of Early Christological Controversies on the Text of the New Testament]], Oxford.
+- Ehrman, B. D. (2012), [[Did Jesus Exist? The Historical Argument for Jesus of Nazareth]], Nueva York.
+- Ehrman, B. D. (2013), [[Forgery and Counterforgery. The Use of Literary Deceit in Early Christian Polemics]], Oxford.
+- Ehrman, B. D. (2014), [[How Jesus Became God]], Nueva York.
+- Eisler, R. (1929-1930), [[IĒSOUS BASILEUS OU BASILEUSAS. Die messianische Unabhängigkeitsbewegung vom Auftreten Johannes des Täufers bis zum Untergang Jakobs des Gerechten, 2 vols]]., Heidelberg.
+- Eliade, M. (1988), [[Historia de las creencias y de las ideas religiosas II: de Gautama Buda al triunfo del cristianismo]], Madrid (orig. fra. 1978).
+- Elliott, J. H. (2002), «[[Jesus Was Not an Egalitarian. A Critique of an Anachronistic and Idealist Theory]]», BTB 32, pp. 75-91.
+- Elliott, J. H. (2003), «[[The Jesus Movement Was Not Egalitarian but Family-oriented]]», BInt 11, pp. 173-210.
+- Elliott, J. K. (1982), [[Questioning Christian Origins]], Londres.
+- Emerton, J. A. (1958), «[[The Origin of the Son of Man Imagery]]», JTS 9, pp. 225-242.
+- Erasmo de Rotterdam (1984), [[Elogio de la locura]] (ed. de Pedro Rodríguez Santidrián), Madrid.
+- Erasmo de Rotterdam (1995), [[Enquiridion. Manual del caballero cristiano]] (ed. de Pedro Rodríguez Santidrián), Madrid.
+- Ericksen, R. P. (1985), [[Theologians under Hitler]], New Haven.
+- Eschner, C. (2010), [[Gestorben und hingegeben «für» die Sünder. Die griechische Konzeption des Unheil abwendenden Sterbens und deren paulinische Aufnahme für die Deutung des Todes Jesu Christi, 2 vols]]., Neukirchen-Vluyn.
+- Eubank, N. (2010), «[[A Disconcerting Prayer. On the Originality of Luke 23.34a]]», JBL 129, pp. 521-536.
+- Evans, C. A. (1994), «[[Jesus in Non-Christian Sources]]», en B. Chilton y C. A. Evans (eds.), Studying the Historical Jesus. Evaluations of the State of Current Research, Leiden, pp. 443-478.
+- Evans, C. A. (2000), «[[Mark’s Incipit and the Priene Calendar Inscription. From Jewish Gospel to Greco-Roman Gospel]]», JGRCJ 1, pp. 67-81.
+- Evans, C. A. (2006), «[[Assessing Progress in the Third Quest of the Historical Jesus]]», JSHJ 4, pp. 35-54.
+- Evans, C. A. (2006a), «[[Messianic Hopes and Messianic Figures in Late Antiquity]]», JGRCJ 3, pp. 9-40.
+- Eve, E. (2005), «[[Meier, Miracle, and Multiple Attestation]]», JSHJ 3, pp. 23-45.
+- Facchini, C. (2018) «[[Il Gesù di Leon Modena. Per una storia materiale ed urbana del Magen we-herev di Leon Modena]]», ASE 35, pp. 161-185.
+- Facchini, C. (2018a), «[[“The Immortal Traveler”. How Historiography Changed Judaism]]», ARG 20, pp. 111-134.
+- Farmer, W. R. (1956), [[Maccabees, Zealots and Josephus. An Inquiry into Jewish Nationalism in the Greco-roman Period]], Nueva York.
+- Favret-Saada, J. y Contreras, J. (2004), [[Le christianisme et ses juifs 1800-2000]], París.
+- Feldman, L. H. (1984), «[[Josephus as Biblical Interpreter]]», JQR 75, pp. 212-252.
+- Fenske, W. (2003), [[Wie Jesus zum Arier wurde]], Darmstadt.
+- Festinger L. (1957), [[A Theory of Cognitive Dissonance]], Stanford.
+- Festinger, L. et al. (1956), [[When Prophecy Fails]], Mineápolis.
+- Fetterley, J. (1978), [[The Resisting Reader. A Feminist Approach to American Fiction]], Bloomington.
+- Fiensy, D. A. y Hawkins, R. K. (eds.) (2013), [[The Galilean Economy in the Time of Jesus]], Atlanta.
+- Fiensy, D. A. y Strange, J. R. (eds.) (2014-2015), [[Galilee in the Late Second Temple and Mishnaic Periods, 2 vols]]., Mineápolis.
+- Fierro, A. (2012), [[Después de Cristo]], Madrid.  
+- Fischer, M. et al. (1996), [[Roman Roads in Judaea II. The Jaffa-Jerusalem Roads]], Oxford.
+- Fishman, T. (2003), «[[Changing Early Modern Jewish Discourse About Christianity. The Efforts of Rabbi Leon Modena]]», en D. Malkiel (ed.), The Lion Shall Roar: Leon Modena & His World, Jerusalén, pp. 159-194.
+- Fitzgerald, T. (2000), «Experience», en W. Braun y R. T. McCutcheon (eds.), [[Guide to the Study of Religion]], Londres/Nueva York, pp. 125-139.
+- Fitzmyer, J. (1985), «[[Abba and Jesus’ Relation to God]]», en À Cause de l’Évangile: Études offertes à Jacques Dupont, París, pp. 15-38.
+- Fitzmyer, J. (1986), [[The Gospel According to Luke, vol. II]], Nueva York (ed. cast.: El Evangelio según Lucas IV, 2005).
+- Fitzmyer, J. (2002), «[[The Sacrifice of Isaac in Qumran Literature]]», Bib 83, pp. 211-29.
+- Fjärstedt, B. (1974), [[Synoptic Traditions in 1 Corinthians]], Upsala.
+- Fletcher-Louis, C. (1996), «[[4Q374. A Discourse on the Sinai Tradition. The Deification of Moses and Early Christology]]», DSD 3, pp. 236-252.
+- Foley, J. M. (2002), [[How to Read an Oral Poem]], Urbana.
+- Förster, N. (2012), [[Jesus und die Steuerfrage]], Tubinga.
+- Fossum, J. E. (1985), [[The Name of God and the Angel of the Lord]], Tubinga.
+- Fossum, J. E. (1991), «[[The New Religionsgeschichtliche Schule. The Quest for Jewish Christology]]», en E. Lovering (ed.), Society of Biblical Literature Seminar Papers 1991, Atlanta, pp. 638-646.
+- Foucault, M. (1975), [[Surveiller et punir. Naissance de la prison]], París (ed. cast.: Vigilar y castigar, 1986).
+- France, R. T. (2002), [[The Gospel of Mark. A Commentary on the Greek Text]], Cambridge.
+- Fredriksen, P. (1988), [[From Jesus to Christ. The Origins of the New Testament Images of Jesus]], New Haven.
+- Fredriksen, P. (1991), [[Jesus of Nazareth, King of the Jews]], Nueva York.
+- Fredriksen, P. (1995), «[[Did Jesus Oppose the Purity Laws?]]», BR 11, pp. 8-25 y 42-47.
+- Fredriksen, P. (1995a), «[[What you see is what you get/ Context and Content in Current Research on the Historical Jesus]]», ThT 52, pp. 75-97.
+- Fredriksen, P. (2006), «[[Mandatory Retirement. Ideas in the Study of Christian Origins Whose Time Has Come to Go]]», SR 35, pp. 241-243.
+- Frend, W. H. C. (1984), [[The Rise of Christianity]], Londres.
+- Freud, S. (1973), «[[Lecciones introductorias al psicoanálisis]]», en Obras completas. Tomo II, Madrid (orig. alem. 1917).
+- Frey, J. (2006), «[[Die Apokalyptik als Herausforderung der neutestamentlichenWissenschaft. Zum Problem. Jesus und die Apo​ka​lyp​tik]]», en M. Becker y M. Ohler (eds.), Apokalyptik als Herausforderung neutestamentlichen Theologie, Tubinga, pp. 23-94.
+- Freyne, S. (1998), [[Galilee. From Alexander the Great to Hadrian 323BCE to 135CE]], Edimburgo.
+- Freyne, S. (2014), «[[Traces of the Emperor/Ruler Cult in First and Second Century Galilee and Samaria]]», en G. Van Belle y J. Verheyden (eds.), Christ and the Emperor. The Gospel Evidence, Lovaina, pp. 1-30.
+- Friedman, J. (1979), «[[The Reformation and Jewish Antichristian Polemics]]», BHR 41, pp. 83-97.
+- Fuchs, H. (1950), «[[Tacitus über die Christen]]», VC 4, pp. 65- 93.
+- Fuchs, H. (1963), «[[Nochmals. “Tacitus über die Christen”]]», MusH 20, pp. 221-228.
+- Funk, R. W., Hoover, R. W. y Jesus Seminar (1993), [[The Five Gospels. the Search for the Authentic Words of Jesus]], Nueva York.
+- Gabba, E. (22001), «[[The Social, Economic and Political History of Palestine 63BCE-CE 70]]», en W. Horbury et al. (eds.), The Cambridge History of Judaism, vol. 3: The Early Roman Period, Cambridge, pp. 94-168.
+- Garber, Z. (2011), «[[The Jewish Jesus. A Partisan’s Imagination]]», en id. (ed.), The Jewish Jesus. Revelation, Reflection, Reclamation, West Lafayette, pp. 13-19.
+- Garbini, G. (1986), [[Storia e ideologia nell’Israele antico]], Brescia.
+- García Martínez, F. (2002), «[[The Sacrifice of Isaac in 4Q225]]», en E. Noort y E. Tigchelaar (eds.), The Sacrifice of Isaac: The Aqedah (Genesis 22) and Its Interpretations, Leiden, pp. 44-57.  
+- Garrett, S. (2008), [[No Ordinary Angel. Celestial Spirits and Christian Claims about Jesus]], New Haven.
+- Garroway, J. (2010), «[[The Law-Observant Lord. John Chrysos​tom’s Engagement with the Jewishness of Christ]]», JECS 18, pp. 591-615.
+- Garroway, J. (2012), «[[The Circumcision of Christ. Rom 15.7-13]]», JSNT 34, pp. 303-322.
+- Gaston, Ll. (1993), «[[The Uniqueness of Jesus as a Methodological Problem]]», en B. H. McLean, Origins and Method. Towards a New Understanding of Judaism and Christianity, Sheffield, pp. 271-281.
+- Gawlick, G. (1989), «[[Reimarus und der englische Deismus]]», en K. Gründer y K. H. Rengstorf (eds.), Religionskritik und Religiosität in der deutschen Aufklärung, Heidelberg, pp. 43-54.
+- Geiger, G. (1997), «[[Falsche Zitate bei Matthäus und Lukas]]», en C. M. Tuckett (ed.), The Scriptures in the Gospels, Lovaina, pp. 479-486.
+- Gelardini, G. (2011), «[[The Contest for a Royal Title. Herod versus Jesus in the Gospel According to Mark (6,14-29. 15,6-15)]]», ASE 28, pp. 93-106.
+- Georgi, D. (1990), «[[Leben-Jesu-Theologie/Leben-Jesu Forschung]]», TRE 20, pp. 566-575.
+- Georgi, D. (1992), «[[The Interest in Life of Jesus Theology as a Paradigm for the Social History of Biblical Criticism]]», HTR 85, pp. 51-83.
+- Gerdmar, A. (2010), [[Roots of Theological Anti-Semitism. German Biblical Interpretation and the Jews, from Herder and Semler to Kittel and Bultmann]], Leiden/Boston.
+- Gerhardsson, B. (21964), [[Memory and Manuscript. Oral Tradition and Written Transmission in Rabbinic Judaism and Early Christianity]], Upsala-Lund.
+- Gerhardsson, B. (2001), [[The Reliability of the Gospel Tradition]], Peabody.
+- Gericke, W. (1992), «[[Hermann Samuel Reimarus und die Grundliteratur seiner Zeit]]», PN 18, pp. 118-131.
+- Gianotto, C. (2008), «[[Il Vangelo secondo Tommaso e il problema storico di Gesù]]», en E. Prinzivalli (ed.), L’enigma Gesù. Fonti e metodi della ricerca storica, Milán, pp. 68- 93.
+- Gibbon, E. (1896-1900), [[The History of the Decline and Fall of the Roman Empire]], ed. John Bagnell Bury, 7 vols., Londres (ed. orig. 1776-1788) (ed. cast.: Historia de la decadencia y ruina del Imperio romano, 1984).
+- Gieschen, C. A. (1998), [[Angelomorphic Christology. Antecedents and Early Evidence]], Leiden.
+- Gigon, O. (21979), [[Sokrates. Sein Bild in Dichtung und Geschichte]], Tubinga/Basilea.
+- Ginzburg, C. (1970), [[Il nicodemismo. Simulazione e dissimulazione nell’Europa del ‘500]], Turín.
+- Ginzburg, C. (2008), [[Mitos, emblemas, indicios]], Barcelona, pp. 185-239 (orig. it. 1986).
+- Gladigow, B. (1998), «[[Macht]]», en H. Cancik et al., Handbuch religionswissenschaftlicher Grundbegriffe IV, Stuttgart, pp. 68-77.
+- Gnilka, J. (1995), [[Jesús de Nazaret, mensaje e historia]], Barcelona (orig. alem. 1990).
+- Goguel, M. (1910), «[[Juifs et Romains dans l’histoire de la passion]]», RHR 62, pp. 165-182 y 295-322 (ed. cast.: Judíos y romanos en la historia de la Pasión. El problema histórico del arresto de Jesús [estudio preliminar, traducción y epílogo de F. Bermejo Rubio], Madrid/Salamanca, 2018).
+- Gomá Lanzón, J. (2011), [[Necesario pero imposible]], Madrid.
+- González Salinero, R. (2000), [[El antijudaísmo cristiano occidental (siglos IV-V)]], Madrid.
+- González Salinero, R. (2015), «[[El grafito de Alexámeno. Recuperando el Debate sobre la caricatura anticristiana del Palatino (inv. 381403)]]», en S. López Quero y J. M. Maestre (eds.), Studia Angelo Urbano Dicata, Alcañiz/Madrid, pp. 323-340.
+- Goodacre, M. (2006), «[[Scripturalization in Mark’s Crucifixion Narrative]]», en G. Van Oyen y T. Shepherd (eds.), The Trial and Death of Jesus. Essays on the Passion Narrative in Mark, Lovaina, pp. 33-47.
+- Goodacre, M. (2012), «[[Criticizing the Criterion of Multiple Attestation]]», en C. Keith y A. Le Donne (eds.), Jesus, Criteria, and the Demise of Authenticity, Londres/Nueva York, pp. 152-169.
+- Goodenough, E. R. (1928), «[[The Political Philosophy of Hellenistic Kingship]]», YCS 1, pp. 55-102.
+- Goodenough, E. R. (1953-1968), [[Jewish Symbols in the Greco-Roman Period]], Princeton.
+- Gradel, I. (2002), [[Emperor Worship and Roman Religion]], Oxford.
+- Graf, F. (2004), «[[Trick or Treat? On Collective Epiphanies in Antiquity]]», ICS 29, pp. 111-130.
+- Grant, R. M. (1961), [[The Earliest Lives of Jesus]], Nueva York.
+- Green, J. B. (2001), «[[Crucifixion]]», en M. Bockmuehl (ed.), The Cambridge Companion to Jesus, Cambridge, pp. 87- 101.
+- Grossman, W. (1974), «[[Edelmann und das “öffentliche Schweigen” des Reimarus und Lessing. Toleranz und Politik des Geistes]]», ZKG 85, pp. 358-368.
+- Grundmann, W. (1940), [[Jesus der Galiläer und das Judentum]], Leip​zig.
+- Grundmann, W. (1942), [[Germanentum, Christentum und Judentum. Studien zur Erforschung ihres gegenseitigen Verhältnisses]], Leipzig.
+- Grünewald, T. (1999), [[Räuber, Rebellen, Rivalen, Rächer: Studien zu Latrones im römischen Reich]], Maguncia.
+- Guetta, A. (2000), «[[Leone Modena’s Magen we-ḥerev as an Anti-Catholic Apologia]]», JSQ 7, pp. 296-318 (reimp. en Italian Jewry in the Early Modern Era. Essays in Intellectual History, Boston 2014).
+- Guevara, H. (1985), [[Ambiente político del pueblo judío en tiempos de Jesús]], Madrid.
+- Guignebert, C. (1969), [[Jésus]], París (ed. orig. 1933).
+- Guijarro, S. (1998), [[Fidelidades en conflicto. La ruptura con la familia por causa del discipulado y de la misión en la tradición sinóptica]], Salamanca.
+- Guijarro, S. (2017), «[[La Galilea del tiempo de Jesús. Las excavaciones de Magdala y el “Documento Q”]]», RevBib 79, pp. 89-125.
+- Gullotta, D. (2017), «[[On Richard Carrier’s Doubts. A Response to Richard Carrier’s On the Historicity of Jesus. Why We Might Have Reason for Doubt]]», JSHJ 15, pp. 310- 346.
+- Gunkel, H. (1903), [[Zum religionsgeschichtlichen Verständnis des Neuen Testaments]], Gotinga.
+- Guthrie, W. K. C. (1950), [[The Greeks and Their Gods]], Londres.
+- Gutwirth, E. (1984), «[[History and Apologetics in Fifteenth Century Hispano-Jewish Thought]]», Helm 35, pp. 231-242.
+- Haensch, R. (1997), [[Capita provinciarum. Statthaltersitze und Provinzialverwaltung in der römischen Kaiserzeit]], Maguncia.
+- Hägerland, T. (2006), «[[Jesus and the Rites of Repentance]]», NTS 52, pp. 166-187.
+- Hägerland, T. (2012) [[Jesus and the Forgiveness of Sins. An Aspect of his Prophetic Mission]], Cambridge.
+- Hagner, D. A. (1984), [[The Jewish Reclamation of Jesus: An Analysis and Critique of the Modern Jewish Study of Jesus]], Grand Rapids.
+- Hahn, F. (1974), [[Christologische Hoheitstitel]], Gotinga (ed. orig. 1963).
+- Halbwachs, M. (1950), [[La mémoire collective]], París.
+- Hamerton-Kelly, R. G. (1992), «[[Sacred Violence and the Messiah. The Markan Passion Narrative as a Redefinition of Messianology]]», en J. H. Charlesworth (ed.), The Messiah: Developments in Earliest Judaism and Christianity, pp. 461-493.
+- Hamori, E. J. (2008), [[When Gods Were Men. The Embodied God in Biblical and Near Eastern Literature]], Berlín.
+- Hanson, K. C. y Oakman, D. (1998), [[Palestine in the Time of Jesus. Social Structures and Social Conflicts]], Mineápolis.
+- Harris, M. (1981), [[Vacas, cerdos, guerras y brujas]], Madrid (orig. ingl. 1974).
+- Harvey, A. E. (1982), [[Jesus and the Constraints of History]], Londres.
+- Hawting, G. R. (1999), [[The Idea of Idolatry and the Emergence of Islam]], Cambridge.
+- Hayman, P. (1991), «[[Monotheism – A Misused Word in Jewish Studies?]]», JJS 42, pp. 1-15.
+- Hazard, P. (21961), [[La crise de la conscience européenne 1680-1715]], París (ed. orig. 1935).
+- Head, P. M. (2004), «[[The Nazi Quest for an Aryan Jesus]]», JSHJ 2, pp. 55-89.
+- Headland, T. N. et al. (eds.) (1990), [[Emics and Etics. The Insider/Outsider Debate]], Newbury Park.
+- Helms, R. (1988), [[Gospel Fictions]], Amherst.
+- Hengel, M. (1968), [[Nachfolge und Charisma. Eine exegetisch-religionsgeschichtliche Studie zu Mt 8, 21f. und Jesu Ruf in die Nach​folge]], Berlín (ed. cast.: Seguimiento y carisma, 1981).
+- Hengel, M. (1970), [[War Jesus Revolutionär?]], Stuttgart.
+- Hengel, M. (1973), [[Judentum und Hellenismus]], Tubinga.
+- Hengel, M. (1974), [[Christus und die Macht—Die Macht Christi und die Ohnmacht der Christen]], Stuttgart.
+- Hengel, M. (1975), [[Der Sohn Gottes. Die Entstehung der Christologie und die jüdisch-hellenistische Religionsgeschichte]], Tubinga (ed. cast.: El hijo de Dios, 1977).
+- Hengel, M. (21976), [[Die Zeloten. Untersuchungen zur jüdischen Freiheitsbewegung in der Zeit von Herodes I. bis 70 n. Chr.]], Leiden (ed. orig. 1961).
+- Hengel, M. (1977), [[Crucifixion in the Ancient World and the Folly of the Message of the Cross]], Filadelfia.
+- Hengel, M. (1979), [[Zur urchristlichen Geschichtsschreibung]], Stuttgart.
+- Hengel, M. (1981), [[The Atonement. A Study of the Origins of the Doctrine in the New Testament]], Londres.
+- Hengel, M. (1989), [[The Hellenization of Judaea in the First Century]], Londres.
+- Hengel, M. (1995), [[Studies in Early Christology]], Edimburgo.  
+- Hennell, Ch. C. (21841), [[An Inquiry concerning the Origin of Christianity]], Londres (ed. orig. 1838).
+- Henrichs, A. (2010), «[[What Is a Greek God?]]», en J. N. Bremmer y A. Erskine, The Gods of Ancient Greece. Identities and Transformations, Edimburgo, pp. 19-39.
+- Herman, G. (2011), «[[Greek Epiphanies and the Sensed Presence]]», Hist 60, pp. 127-157.
+- Herman, G. (2019), «[[The Sensed Presence as an Analytical Tool in Historical Research]]», en J. Lauwers et al. (eds.), Psychology and the Classics, Berlín, en prensa.  
+- Herzog, W. R. (2000), [[Jesus, Justice, and the Reign of God]], Louisville.
+- Heschel, S. (1998), [[Abraham Geiger and the Jewish Jesus]], Chicago.
+- Heschel, S. (2008), [[The Aryan Jesus. Christian Theologians and the Bible in Nazi Germany]], Princeton.
+- Heschel, S. (2011), «[[Historiography of Antisemitism versus Anti-Judaism. A Response to Robert Morgan]]», JSNT 33, pp. 257-279.
+- Hezser, C. (2001), [[Jewish Literacy in Roman Palestine]], Tubinga.
+- Hezser, C. (2010), «[[Private and Public Education]]», en ead., The Oxford Handbook of Jewish Daily Life in Roman Palestine, Oxford, pp. 465-481.
+- Hiers, R. H. (1973), [[The Historical Jesus and the Kingdom of God]], Gainesville.
+- Hills, J. V. (1998), «[[The Jewish Genius. Jesus According to John Meier]]», Forum 1, pp. 327-347.
+- Hoehner, H. W. (1972), [[Herod Antipas]], Cambridge.
+- Höistad, R. (1948), [[Cynic Hero and Cynic King]], Upsala.
+- Hollenbach, P. W. (1989), «[[The Historical Jesus Question in North America Today]]», BTB 19, pp. 11-22.
+- Holmén, T. (2001), «[[A Theologically Disinterested Quest? On the Origins of the “Third Quest” for the Historical Jesus]]», STh 55, pp. 175-197.
+- Holmén, T. (2008), «[[Authenticity Criteria]]», en C. A. Evans (ed.): Encyclopedia of the Historical Jesus, Londres/Nueva York, pp. 43-54.
+- Hooker, M. D. (1971), «[[Christology and Methodology]]», NTS 17, pp. 480-487.
+- Hooker, M. D. (1972), «[[On Using the Wrong Tool]]», Th 75, pp. 570-81.
+- Horbury, W. (1986), «[[The Twelve and the Phylarchs]]», NTS 32, pp. 503-527.
+- Horbury, W. (1998), [[Jewish Messianism and the Cult of Christ]], Londres.
+- Horbury, W. (2003), [[Messianism among Jews and Christians. Twelve Biblical and Historical Studies]], Londres.
+- Horbury, W. (2004), «[[Jewish and Christian Monotheism in the Herodian Age]]», en L. T. Stuckenbruck y W. E. S. North (eds.), Early Je​wish and Christian Monotheism, Londres/Nueva York, pp. 16-44.
+- Horkheimer, M. y Adorno, T. W. (1998), [[Dialéctica de la Ilustración]], Madrid (orig. alem. 1947).
+- Horsley, R. A. (1985), «[[Popular Messianic Movements around the Time of Jesus]]», CBQ 47, pp. 435-463.
+- Horsley, R. A. (1986), «[[Ethics and Exegesis. “Love your Enemies” and the Doctrine of Non-Violence]]», JAAR 54, pp. 3-31.
+- Horsley, R. A. (1993), [[Jesus and the Spiral of Violence. Popular Jewish Resistance in Roman Palestine]], Mineápolis.
+- Horsley, R. A. (1994), «[[The Death of Jesus]]», en B. Chilton y C. A. Evans (eds.), Studying the Historical Jesus. Evaluations of the State of Current Research, Leiden 1994, pp. 395-422.
+- Horsley, R. A. (2003), [[Jesus and Empire. The Kingdom of God and the New World Disorder]], Mineápolis.
+- Horsley, R. A. (2012), [[The Prophet Jesus and the Renewal of Israel. Moving beyond a diversionary Debate]], Grand Rapids.
+- Horsley, R. A. (ed.) (2004), [[Hidden Transcripts and the Arts of Resistance: Applying the Work of James C. Scott to Jesus and Paul]], Leiden.
+- Howell, M. y W. Prevenier (2001), [[From Reliable Sources. An Introduction to Historical Methods]], Ithaca.
+- Hudson, W. (2009), [[The English Deists. Studies in Early Enlightenment]], Londres.
+- Huizenga, L. A. (2009), «[[Obedience Unto Death. The Matthean Gethsemane and Arrest Sequence and the Aqedah]]», CBQ 71, pp. 507-529.
+- Hume, D. (1980), [[Investigación sobre el conocimiento humano]], Madrid (orig. ingl. 1748).
+- Hurtado, L. W. (1979), «[[New Testament Christology. A Critique of Bousset’s Influence]]», ThS 40, pp. 306-317.
+- Hurtado, L. W. (21998), [[One God, One Lord. Early Christian Devotion and Ancient Jewish Monotheism]], Londres/Nueva York.
+- Hurtado, L. W. (2003), [[Lord Jesus Christ. Devotion to Jesus in Earliest Christianity]], Grand Rapids (ed. cast.: Señor Jesucristo, 2008).
+- Hurtado, L. W. (2005), [[How on Earth Did Jesus Become a God? Historical Questions about Early Devotion to Jesus]], Grand Rapids (ed. cast. parcial: ¿Cómo llegó Jesús a ser Dios?, 2013).
+- Iggers, G. G. (2012), [[La historiografía del siglo XX. Desde la objetividad científica al desafío posmoderno]], Santiago de Chile (orig. ingl. 1997).
+- Israel, J. I. (2001), [[Radical Enlightenment. Philosophy and the Making of Modernity]], Oxford.
+- Isaac, J. (1962), [[L’enseignement du mépris]], París.  
+- Jacobs, A. (2007), «[[Dialogical Differences. (De-)Judaizing Jesus’ Circumcision]]», JECS 15, pp. 291-335.  
+- Jaffé, D. (2009), [[Jésus sous la plume des historiens juifs du XXe siècle]], París.  
+- James, W. (1986), [[Las variedades de la experiencia religiosa]], Barcelona (orig. ingl. 1902).
+- Jensen, M. H. (2006), [[Herod Antipas in Galilee]], Tubinga.
+- Jeremias, J. (1958), «[[The Present Position in the Controversy Concerning the Problem of the Historical Jesus 1]]», ExpT 69, pp. 333-339.
