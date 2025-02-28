@@ -461,3 +461,114 @@
 - James, W. (1986), [[Las variedades de la experiencia religiosa]], Barcelona (orig. ingl. 1902).
 - Jensen, M. H. (2006), [[Herod Antipas in Galilee]], Tubinga.
 - Jeremias, J. (1958), «[[The Present Position in the Controversy Concerning the Problem of the Historical Jesus 1]]», ExpT 69, pp. 333-339.
+- Jeremias, J. (1976), [[Palabras desconocidas de Jesús]], Salamanca (orig. alem. 19633).
+- Jeremias, J. (1981), [[Abba. El mensaje central del Nuevo Testamento, Salamanca]] (orig. alem. 1966).
+- Johnson, L. T. (1996), [[The Real Jesus. The Misguided Quest for the Historical Jesus and the Truth of the Traditional Gospels]], San Francisco.
+- Johnson, M. D. (1986), «[[Power Politics and New Testament Scholarship in the National Socialist Period]]», JES 23, pp. 1- 24.
+- Joseph, S. J. (2010), «[[The Ascetic Jesus]]», JSHJ 8, pp. 146- 181.
+- Joseph, S. J. (2011), «[[“Blessed is Whoever is Not Offended by Me”. The Subversive Appropriation of (Royal) Messianic Ideology in Q 3-7]]», NTS 57, pp. 307-324.
+- Joseph, S. J. (2014), [[The Nonviolent Messiah. Jesus, Q and the Enochic Tradition]], Mineápolis.
+- Jossa, G. (1980), [[Gesù e i movimenti di liberazione della Palestina]], Brescia.
+- Juster, J. (1914), [[Les Juifs dans l’Empire Romain: leur condition juridique, économique et sociale, 2 vols.]], Nueva York.
+- Kaestli, J.-D. (1998), «[[L’utilisation de l’Évangile de Thomas dans la recherche actuelle sur les paroles de Jésus]]», en D. Marguerat et al. (eds.), Jésus de Nazareth. Nouvelles approches d’une énigme, Ginebra, pp. 373-395.
+- Kähler, M. (31961), [[Der sogenannte historische Jesus und der ge​schichtliche, biblische Christus]], Leipzig (orig. 1892).
+- Kalish, R. A. y Reynolds, D. (1973), «[[Phenomenological Reality and Post-Death Contact]]», JSSR 12, pp. 209-221.
+- Kantiréa, M. (2007), [[Les dieux et les dieux augustes. Le culte impérial en Grèce sous les Julio-claudiens et les Flaviens]], París.
+- Käsemann, E. (61970), «[[Das Problem des historischen Jesus]]» (1954), en Exegetische Versuche und Besinnungen, Gotinga, vol. I, pp. 187-214.
+- Kaufmann, W. (1983), [[Crítica de la religión y la filosofía]], México (orig. ingl. 1958).
+- Kautsky, K. (1908), [[Der Ursprung des Christentums. Eine historische Untersuchung]], Stuttgart (ed. cast.: El cristianismo. Sus orígenes y fundamentos, 1973).
+- Kazen, T. (2010), [[Issues of Impurity in Early Judaism]], Winona Lake.
+- Kazen, T. (2013), [[Scripture, Interpretation, or Authority? Motives and Arguments in Jesus’ Halakic Conflicts]], Tubinga.
+- Keith, C. (2011) [[Jesus’ Literacy. Scribal Culture and the Teacher from Galilee]], Londres.
+- Keith, C. y Le Donne, A. (eds.) (2012), [[Jesus, Criteria, and the Demise of Authenticity]], Londres/Nueva York.
+- Kelber, W. (1983), [[The Oral and the Written Gospel]], Filadelfia.
+- Kessler, E. (2004), [[Bound by the Bible. Jews, Christians and the Sacrifice of Isaac]], Cambridge.
+- Kittel, G. (1933), [[Theologisches Wörterbuch zum Neuen Testament]], Erster Band, Stuttgart.
+- Klassen, W. (1970), «[[Jesus and the Zealot Option]]», CJT 16, pp. 12-21.
+- Klausner, J. (1925), [[Jesus of Nazareth. His Life, Times, and Teaching]], Londres (orig. hebr. 1922; ed. cast.: Jesús de Nazaret, 1989).
+- Klawans, J. (2000), [[Impurity and Sin in Ancient Judaism]], Nueva York.
+- Klawans, J. (2002), «[[Interpreting the Last Supper. Sacrifice, Spiritualizacion, and Anti-Sacrifice]]», NTS 48, pp. 1-17.
+
+- Klawans, J. (2006), [[Purity, Sacrifice, and the Temple. Symbolism and Supersessionism in the Study of Ancient Judaism]], Oxford.
+
+— (2017), «The Pseudo-Jewishness of Pseudo-Phocylides», JSP 26, pp. 201-233.
+
+Klein, Ch. (1975), Theologie und Antijudaismus. Eine Studie zur deutschen theologischen Literatur der Gegenwart, Múnich.
+
+Klein, D. (2009), Hermann Samuel Reimarus (1694-1768): Das theologische Werk, Tubinga.
+
+Klijn, A. F. J. (1992), Jewish-Christian Gospel Tradition, Leiden.
+
+Kloppenborg, J. (1996), «The Sayings Gospel Q and the Quest of the Historical Jesus», HTR 89, pp. 307-344.
+
+— (2005), «As One Unknown, Without a Name? Co-opting the Apocalyptic Jesus», en J. S. Kloppenborg y J. W. Marshall, Apocalypticism, Anti-Semitism and the Historical Jesus. Subtexts in Criticism, Londres/Nueva York, pp. 1-23.
+
+— (2008), «The Growth and Impact of Agricultural Tenancy in Jewish Palestine», JESHO 51, pp. 31-66.
+
+— (2014), Synoptic Problems. Collected Essays, Tubinga. Koestermann, E. (1967), «Ein folgenschwerer Irrtum des
+
+Tacitus (Ann. 15,44,2ff.)?», Hist 16, pp. 456-469.  
+Kors, A. C. (1976), «The Myth of the Coterie Holbachique»,
+
+FHS 9, pp. 573-595.  
+Köster, H. (1990), Ancient Christian Gospels. Their History
+
+and Development, Londres.
+
+Kozodoy, M. (2015), The Secret Faith of Maestre Honoratus: Profayt Duran and Jewish Identity in Late Medieval Iberia, Filadelfia [n. v.].
+
+Kuch, H. (1978), «Zum Euripides-Rezeption im Hellenismus», Klio 60, pp. 191-202.
+
+Kuhn, H.-W. (1982), «Die Kreuzesstrafe während der frühen Kaiserzeit. Ihre Wirklichkeit und Wertung in der Umwelt des Christentums», ANRW 25.1, Berlín/Nueva York, pp. 648-793.
+
+Kümmel, W. G. (1994), Vierzig Jahre Jesusforschung (1950- 1990), Bonn.
+
+Künzi, M. (1970), Das Naherwartungslogion Matthäus 10, 23. Ge​schichte seiner Auslegung, Tubinga.
+
+Lakatos, I. (1970), «Falsification and the Methodology of Scientific Research Programmes», en I. Lakatos y A. Musgrave (eds.), Criticism and the Growth of Knowledge, Cambridge, pp. 91-195.
+
+Landes, R. (2004), «Millennialism», en J. R. Lewis (ed.), The Oxford Handbook of New Religious Movements, Oxford.
+
+Lannert, B. (1989), Die Wiederentdeckung der neutestamentlichen Eschatologie durch Johannes Weiss, Tubinga.
+
+Lanternari, V. (1960), Movimenti religiosi di libertà e di salvezza dei popoli oppressi, Milán.
+
+Lapide, P. (1974), Der Rabbi von Nazareth. Wandlungen des jüdi​schen Jesusbildes, Tréveris.
+
+Lasker, D. J. (1996), «Jewish-Christian Polemics at the Turning Point: Jewish Evidence from the Twelfth Century», HTR 89, pp. 161-173.
+
+Lawson, E. T. y McCauley, R. N. (1990), Rethinking Religion: Connecting Cognition and Culture, Cambridge.
+
+Le Donne, A. (2011), Historical Jesus. What Can We Know and How Can We Know It?, Grand Rapids.
+
+— (2012), «The Quest of the Historical Jesus: A Revisionist History through the Lens of Jewish-Christian Relations», JSHJ 10, pp. 63-86.
+
+Lee, A. H. I. (2005), From Messiah to Preexistent Son: Jesus’ Self-consciousness and Early Christian Exegesis of Messianic Psalms, Tubinga.
+
+Légasse, S. (1994), Le procès de Jésus. L’histoire, París.
+
+Lémonon, J. (1981), Pilate et le gouvernement de la Judée, París.
+
+Lessing, G. E. (1976), Werke. Siebenter Band. Theologiekritische Schriften I und II, Múnich.
+
+Levene, D. S. (2012), «Defining the Divine in Rome», TAPA 142, pp. 41-81.
+
+Levenson, J. D. (1993), The Death and Resurrection of the Beloved Son. The Transformation of Child Sacrifice in Judaism and Christianity, New Haven.
+
+— (2006), Resurrection and the Restoration of Israel: the Ultimate Victory of the God of Life, New Haven.
+
+Levine, A. J. (2006), The Misunderstood Jew: The Church and the Scandal of the Jewish Jesus, Nueva York.
+
+Liberati, A. M. y Silverio, E. (2010), I servizi segreti in Roma antica. Informazioni e sicurezza dagli initia Urbis all’impero universale, Roma.
+
+Lierman, J. (2004), The New Testament Moses. Christian Perceptions of Moses and Israel in the Setting of Jewish Religion, Tubinga.
+
+Lietzmann, H. (1958), «Der Prozeß Jesu», en id., Kleine Schriften II: Studien zum Neuen Testament, Berlín, pp. 251- 276.
+
+Lieu, J. (2015), Marcion and The Making of a Heretic, Cambridge.
+
+Linnemann, E. (1970), Studien zur Passionsgeschichte, Gotinga.
+
+Litwa, M. D. (2012), We Are Being Transformed. Deification in Paul’s Soteriology, Berlín.
+
+— (2014), Iesus Deus. The Early Christian Depiction of Jesus as a Mediterranean God, Mineápolis.
