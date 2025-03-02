@@ -502,57 +502,31 @@
 - Köster, H. (1990), [[Ancient Christian Gospels. Their History and Development]], Londres.
 - Kozodoy, M. (2015), [[The Secret Faith of Maestre Honoratus: Profayt Duran and Jewish Identity in Late Medieval Iberia]], Filadelfia [n. v.].
 - Kuch, H. (1978), «[[Zum Euripides-Rezeption im Hellenismus]]», Klio 60, pp. 191-202.
+- Kuhn, H.-W. (1982), «[[Die Kreuzesstrafe während der frühen Kaiserzeit. Ihre Wirklichkeit und Wertung in der Umwelt des Christentums]]», ANRW 25.1, Berlín/Nueva York, pp. 648-793.
+- Kümmel, W. G. (1994), [[Vierzig Jahre Jesusforschung (1950- 1990)]], Bonn.
+- Künzi, M. (1970), [[Das Naherwartungslogion Matthäus 10, 23. Ge​schichte seiner Auslegung]], Tubinga.
+- Lakatos, I. (1970), «[[Falsification and the Methodology of Scientific Research Programmes]]», en I. Lakatos y A. Musgrave (eds.), Criticism and the Growth of Knowledge, Cambridge, pp. 91-195.
+- Landes, R. (2004), «[[Millennialism]]», en J. R. Lewis (ed.), The Oxford Handbook of New Religious Movements, Oxford.
+- Lannert, B. (1989), [[Die Wiederentdeckung der neutestamentlichen Eschatologie durch Johannes Weiss]], Tubinga.
+- Lanternari, V. (1960), [[Movimenti religiosi di libertà e di salvezza dei popoli oppressi]], Milán.
+- Lapide, P. (1974), [[Der Rabbi von Nazareth. Wandlungen des jüdi​schen Jesusbildes]], Tréveris.
+- Lasker, D. J. (1996), «[[Jewish-Christian Polemics at the Turning Point: Jewish Evidence from the Twelfth Century]]», HTR 89, pp. 161-173.
+- Lawson, E. T. y McCauley, R. N. (1990), [[Rethinking Religion. Connecting Cognition and Culture]], Cambridge.
+- Le Donne, A. (2011), [[Historical Jesus. What Can We Know and How Can We Know It?]], Grand Rapids.
+- Le Donne, A. (2012), «[[The Quest of the Historical Jesus: A Revisionist History through the Lens of Jewish-Christian Relations]]», JSHJ 10, pp. 63-86.
+- Lee, A. H. I. (2005), [[From Messiah to Preexistent Son: Jesus’ Self-consciousness and Early Christian Exegesis of Messianic Psalms]], Tubinga.
+- Légasse, S. (1994), [[Le procès de Jésus. L’histoire]], París.
+- Lémonon, J. (1981), [[Pilate et le gouvernement de la Judée]], París.
+- Lessing, G. E. (1976), [[Werke. Siebenter Band. Theologiekritische Schriften I und II]], Múnich.
+- Levene, D. S. (2012), «[[Defining the Divine in Rome]]», TAPA 142, pp. 41-81.
+- Levenson, J. D. (1993), [[The Death and Resurrection of the Beloved Son. The Transformation of Child Sacrifice in Judaism and Christianity]], New Haven.
+- Levenson, J. D. (2006), [[Resurrection and the Restoration of Israel: the Ultimate Victory of the God of Life]], New Haven.
+- Levine, A. J. (2006), [[The Misunderstood Jew. The Church and the Scandal of the Jewish Jesus]], Nueva York.
+- Liberati, A. M. y Silverio, E. (2010), [[I servizi segreti in Roma antica. Informazioni e sicurezza dagli initia Urbis all’impero universale]], Roma.
+- Lierman, J. (2004), [[The New Testament Moses. Christian Perceptions of Moses and Israel in the Setting of Jewish Religion]], Tubinga.
+- Lietzmann, H. (1958), «[[Der Prozeß Jesu]]», en id., Kleine Schriften II: Studien zum Neuen Testament, Berlín, pp. 251- 276.
+- Lieu, J. (2015), [[Marcion and The Making of a Heretic]], Cambridge.
+- Linnemann, E. (1970), [[Studien zur Passionsgeschichte]], Gotinga.
+- Litwa, M. D. (2012), [[We Are Being Transformed. Deification in Paul’s Soteriology]], Berlín.
+- Litwa, M. D. (2014), [[Iesus Deus. The Early Christian Depiction of Jesus as a Mediterranean God]], Mineápolis.
 
-Kuhn, H.-W. (1982), «Die Kreuzesstrafe während der frühen Kaiserzeit. Ihre Wirklichkeit und Wertung in der Umwelt des Christentums», ANRW 25.1, Berlín/Nueva York, pp. 648-793.
-
-Kümmel, W. G. (1994), Vierzig Jahre Jesusforschung (1950- 1990), Bonn.
-
-Künzi, M. (1970), Das Naherwartungslogion Matthäus 10, 23. Ge​schichte seiner Auslegung, Tubinga.
-
-Lakatos, I. (1970), «Falsification and the Methodology of Scientific Research Programmes», en I. Lakatos y A. Musgrave (eds.), Criticism and the Growth of Knowledge, Cambridge, pp. 91-195.
-
-Landes, R. (2004), «Millennialism», en J. R. Lewis (ed.), The Oxford Handbook of New Religious Movements, Oxford.
-
-Lannert, B. (1989), Die Wiederentdeckung der neutestamentlichen Eschatologie durch Johannes Weiss, Tubinga.
-
-Lanternari, V. (1960), Movimenti religiosi di libertà e di salvezza dei popoli oppressi, Milán.
-
-Lapide, P. (1974), Der Rabbi von Nazareth. Wandlungen des jüdi​schen Jesusbildes, Tréveris.
-
-Lasker, D. J. (1996), «Jewish-Christian Polemics at the Turning Point: Jewish Evidence from the Twelfth Century», HTR 89, pp. 161-173.
-
-Lawson, E. T. y McCauley, R. N. (1990), Rethinking Religion: Connecting Cognition and Culture, Cambridge.
-
-Le Donne, A. (2011), Historical Jesus. What Can We Know and How Can We Know It?, Grand Rapids.
-
-— (2012), «The Quest of the Historical Jesus: A Revisionist History through the Lens of Jewish-Christian Relations», JSHJ 10, pp. 63-86.
-
-Lee, A. H. I. (2005), From Messiah to Preexistent Son: Jesus’ Self-consciousness and Early Christian Exegesis of Messianic Psalms, Tubinga.
-
-Légasse, S. (1994), Le procès de Jésus. L’histoire, París.
-
-Lémonon, J. (1981), Pilate et le gouvernement de la Judée, París.
-
-Lessing, G. E. (1976), Werke. Siebenter Band. Theologiekritische Schriften I und II, Múnich.
-
-Levene, D. S. (2012), «Defining the Divine in Rome», TAPA 142, pp. 41-81.
-
-Levenson, J. D. (1993), The Death and Resurrection of the Beloved Son. The Transformation of Child Sacrifice in Judaism and Christianity, New Haven.
-
-— (2006), Resurrection and the Restoration of Israel: the Ultimate Victory of the God of Life, New Haven.
-
-Levine, A. J. (2006), The Misunderstood Jew: The Church and the Scandal of the Jewish Jesus, Nueva York.
-
-Liberati, A. M. y Silverio, E. (2010), I servizi segreti in Roma antica. Informazioni e sicurezza dagli initia Urbis all’impero universale, Roma.
-
-Lierman, J. (2004), The New Testament Moses. Christian Perceptions of Moses and Israel in the Setting of Jewish Religion, Tubinga.
-
-Lietzmann, H. (1958), «Der Prozeß Jesu», en id., Kleine Schriften II: Studien zum Neuen Testament, Berlín, pp. 251- 276.
-
-Lieu, J. (2015), Marcion and The Making of a Heretic, Cambridge.
-
-Linnemann, E. (1970), Studien zur Passionsgeschichte, Gotinga.
-
-Litwa, M. D. (2012), We Are Being Transformed. Deification in Paul’s Soteriology, Berlín.
-
-— (2014), Iesus Deus. The Early Christian Depiction of Jesus as a Mediterranean God, Mineápolis.
