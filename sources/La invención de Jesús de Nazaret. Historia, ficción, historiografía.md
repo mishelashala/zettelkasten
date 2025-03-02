@@ -529,4 +529,78 @@
 - Linnemann, E. (1970), [[Studien zur Passionsgeschichte]], Gotinga.
 - Litwa, M. D. (2012), [[We Are Being Transformed. Deification in Paul’s Soteriology]], Berlín.
 - Litwa, M. D. (2014), [[Iesus Deus. The Early Christian Depiction of Jesus as a Mediterranean God]], Mineápolis.
-
+- Loftus, E. A. et al. (1996), «[[Manufacturing False Memories Using Bits of Reality]]», en L. M. Reder (ed.), Implicit Memory and Metacognition, Mahwah, pp. 195-220.
+- Loisy, A. (1910), [[Jésus et la tradition évangelique]], París (reimp. Fráncfort 1971).
+- Loisy, A. (1911), «[[Le mythe de Christ]]», en id., À propos d’histoire des religions, París, pp. 264-323.
+- Loisy, A. (1924), [[L’Évangile selon Luc]], París.
+- Lomba, P. (ed.) (2009), [[La vida y el espíritu del señor Benedicto de Spinosa o Tratado de los tres impostores. Anónimo Clandestino]] (siglos XVII-XVIII), Madrid.
+- Loofs, F. (1913), [[What is the Truth About Jesus Christ?]], Nueva York.
+- Lundsteen, A. C. (1939), [[Hermann Samuel Reimarus und die Anfänge der Leben-Jesu Forschung]], Copenhague.
+- Lurbe, P. (1995), «[[Le Christianisme au miroir de l’Islam dans le Nazarenus de John Toland]]», DS 27, pp. 335-347.
+- Maccoby, H. (1973), [[Revolution in Judaea. Jesus and the Jewish Resistance]], Londres.
+- Maccoby, H. (1992), [[Judas Iscariot and the Myth of Jewish Evil]], Nueva York.
+- Maccoby, H. (2003), [[Jesus the Pharisee]], Londres.
+- MacCulloch, D. (2009), [[A History of Christianity. the First Three Thousand Years]], Londres (ed. cast.: Historia de la cristiandad, 2011).
+- MacDonald, D. R. (2015), [[Mythologizing Jesus. From Jewish Preacher to Epic Hero]], Lanham/Londres.
+- Machoveč, M. (1974), [[Jesús para ateos]], Salamanca (orig. alem. 1972).
+- MacIntyre, A. (1977), «[[Epistemological Crises, Dramatic Narrative and the Philosophy of Science]]», The Monist 60, pp. 453-472.
+- Mack, B. L. (1988), [[A Myth of Innocence. Mark and Christian Origins]], Filadelfia.
+- MacMullen, R. (1966), [[Enemies of the Roman Order]], Cambridge (MA).
+- Magness, J. (2011), [[Stone and Dung, Oil and Spit. Jewish Daily Life in the Time of Jesus]], Cambridge.
+- Magny, A. (2014), [[Porphyry in Fragments. Reception of an Anti-Christian Text in Late Antiquity]], Surrey.
+- Maier, P. L. (1996), «[[The Inscription on the Cross of Jesus of Nazareth]]», Hermes 124, pp. 58-75.
+- Malina, B. J. (1984), «[[Jesus as Charismatic Leader?]]», BTB 14, pp. 55-62.
+- Malina, B. J. (1988), «[[Patron and Client. The Analogy Behind Synoptic Theology]]», Forum 4, pp. 2-32.
+- Malina, B. J. (2001), [[The Social Gospel of Jesus. The Kingdom of God in Mediterranean Perspective]], Mineápolis.
+- Mangas, J. y Montero, S. (eds.) (2001), [[El milenarismo. La percepción del tiempo en las culturas antiguas]], Madrid.
+- Marcovich, M. (1997), [[Iustini Martyris Dialogus cum Tryphone]], Berlín.
+- Marcus, J. (2006), «[[Crucifixion as Parodic Exaltation]]», JBL 125, pp. 73-87.
+- Marcus, J. (2010), [[El evangelio según Marcos 1,1-8,21]], Salamanca (orig. ingl. 2000).
+- Marcus, J. (2011), [[El evangelio según Marcos 8,22-16,8]], Salamanca (orig. ingl. 2009).
+- Marcus, J. (2012), «[[Jesus the Jew in Recent Western Scholarship]]», en C. Karakolis et al. (eds.), Gospel Images of Jesus Christ in Church Tradition and in Biblical Scholarship, Tubinga, pp. 235-249.
+- Marguerat, D. et al. (eds.) (1998), [[Jésus de Nazareth. Nouvelles approches d’une énigme]], Ginebra.
+- Marguerat, D. et al. (1999), «[[La “troisième quête” du Jésus de l’Histoire]]», RSR 87, pp. 397-421.
+- Martin, Ch. (1941), «[[Le Testimonium Flavianum. Vers une solution definitive?]]» RBPH 20, pp. 409-465.
+- Martin, D. B. (2014), «[[Jesus in Jerusalem. Armed and Not Dangerous]]», JSNT 37, pp. 3-24.
+- Martin, D. B. (2015), «[[Response to Downing and Fredriksen]]», JSNT 37, pp. 334-345.
+- Martin, L. H. y Wiebe, D. (eds.) (2016), [[Conversations and Controversies in the Scientific Study of Religion]], Leiden.
+- Mason, S. (1991), [[Flavius Josephus on the Pharisees]], Leiden.
+- Matheron, A. (1971), [[Le Christ et le salut des ignorants chez Spinoza]], París.  
+- Mathews, T. F. (1993), [[The Clash of God. A Reinterpretation of Early Christian Art]], Princeton.
+- Matthews, S. (2010), [[Perfect Martyr. The Stoning of Stephen and the Construction of Christian Identity]], Oxford.
+- McArthur, H. K. (1971), «[[Burden of Proof in Historical Jesus Research]]», ExpT 82, pp. 116-119.
+- McCutcheon, R. (1997), [[Manufacturing Religion. The Discourse on Sui Generis Religion and the Politics of Nostalgia]], Oxford.
+- McCutcheon, R. (ed.) (1999), [[The Insider-Outsider Problem in the Study of Religion. A Reader]], Londres/Nueva York.
+- McCutcheon, R. (2003), [[The Discipline of Religion. Structure, Meaning, Rhetoric]], Londres/Nueva York.
+- McIver, R. K. (2011), [[Memory, Jesus, and the Synoptic Gospels]], Atlanta.
+- McKnight, S. (1999), [[A New Vision for Israel]], Grand Rapids.
+- McLaren, J. S. (2005), «[[Jews and the Imperial Cult. From Augustus to Domitian]]» JSNT 27, pp. 257-278.  
+- McNutt, J. E. (2012), «[[A Very Damning Truth. Walter Régime alla Rivoluzione]], Brescia.
+- McVey, K. E. (1990), «[[A Fresh Look at the Letter of Mara Bar Sarapion to his Son]]», en R. Lavenant (ed.), V Symposium Syriacum 1988, Katholieke Universiteit, Leuven, 29-31 août 1988, Roma, pp. 257-272.
+- Medicus, F. (ed.). (1908), [[Fichtes Werke. Vol. IV. Schriften von 1801-1806]], Leipzig.
+- Meier, J. P. (1979), [[The Vision of Matthew. Christ, Church and Morality]], Nueva York.
+- Meier, J. P. (1997), [[Un judío marginal. Vol. I. Las raíces del problema y de la persona]], Estella (orig. ingl. 1991).
+- Meier, J. P. (1997a), [[Un judío marginal. Vol. II/1. Juan y Jesús. El reino de Dios]], Estella (orig. ingl. 1994).
+- Meier, J. P. (1997b), [[Un judío marginal. Vol. II/2. Los milagros]], Estella (orig. ingl. 1994).
+- Meier, J. P. (1999), «[[The Present State of the “Third Quest” for the Historical Jesus. Loss and Gain]]», Biblica 80, pp. 459-487.
+- Meier, J. P. (2000), «[[The Historical Jesus and the Historical Herodians]]», JBL 119, pp. 740-746.
+- Meier, J. P. (2003), [[Un judío marginal. Vol. III. Compañeros y competidores]], Estella (orig. ingl. 2001).
+- Meier, J. P. (2004), «[[Del profeta como Elías al mesías real davídico]]», en D. Donnelly (ed.), Jesús. Un coloquio en Tierra Santa, Estella, pp. 63-111 (orig. ingl. 2001).
+- Meier, J. P. (2010), [[Un judío marginal. Vol. IV. Ley y amor]], Estella (orig. ingl. 2009).
+- Meier, J. P. (2017), [[Un judío marginal. Vol. V. La autenticidad de las parábolas a examen]], Estella (orig. ingl. 2015).
+- Melton, G. (1985), «[[Spiritualization and Reaffirmation. What Really Happens When Prophecy Fails]]», AS 26, pp. 17-29.
+- Menozzi, D. (1979), [[Letture politiche di Gesù. Dall’Ancien and the Construction of Christian Identity]], Oxford.
+- Merz, A. y Tieleman, T. (eds.) (2012), [[The Letter of Mara bar Sarapion in Context. Proceedings of the Symposium held at Utrecht University]], 10-12 December 2009, Leiden.
+- Meshorer, Y. (1982), Ancient Jewish Coinage, Dix Hills. Meslier, J. (2010), [[Memoria contra la religión]], Pamplona (trad. de J. Mina; orig. fra. 1725-1729).  
+- Metzger, B. M. (1994), [[A Textual Commentary on the Greek New Testament]], Stuttgart.
+- Meyer, B. F. (1979), [[The Aims of Jesus]], Londres.
+- Meyer, B. F. (1990), «[[Objectivity and Subjectivity in Historical Criticism of the Gospels]]», en D. L. Dungan (ed.), The Interrelations of the Gospels, Lovaina, pp. 546-565.
+- Millar, F. (1993), [[The Roman Near East 31 BC-AD 337]], Cam​bridge (MA).
+- Miller, R. J. (1992), «[[Historical Method and the Deeds of Jesus. The Test Case of the Temple Demonstration]]», Forum 8, pp. 5-30.
+- Miller, R. J. (1997), «[[The Jesus of Orthodoxy and the Jesuses of the Gospels. A Critique of Luke Timothy Johnson’s The Real Jesus]]», JSNT 68, pp. 101-120.
+- Miller, R. J. (1999), [[The Jesus Seminar and Its Critics]], Santa Rosa.
+- Miller, R. J. (ed.) (2001), [[The Apocalyptic Jesus. A Debate]], Santa Rosa.  
+- Mocatta, M. (ed.) (1851), [[Ḥizzuq Emunah or Faith Strengthened]], Londres.  
+- Momigliano, A. (21993), [[The Development of Greek Biography]], Cambridge.
+- Montefiore, C. J. G. (1910), [[Some Elements of the Religious Teaching of Jesus according to the Synoptic Gospels]], Londres.
+- Montserrat, J. (1989), [[La sinagoga cristiana]], Barcelona.
