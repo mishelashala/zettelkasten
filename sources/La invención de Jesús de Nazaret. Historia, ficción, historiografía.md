@@ -488,36 +488,20 @@
 - Klausner, J. (1925), [[Jesus of Nazareth. His Life, Times, and Teaching]], Londres (orig. hebr. 1922; ed. cast.: Jesús de Nazaret, 1989).
 - Klawans, J. (2000), [[Impurity and Sin in Ancient Judaism]], Nueva York.
 - Klawans, J. (2002), «[[Interpreting the Last Supper. Sacrifice, Spiritualizacion, and Anti-Sacrifice]]», NTS 48, pp. 1-17.
-
 - Klawans, J. (2006), [[Purity, Sacrifice, and the Temple. Symbolism and Supersessionism in the Study of Ancient Judaism]], Oxford.
-
-— (2017), «The Pseudo-Jewishness of Pseudo-Phocylides», JSP 26, pp. 201-233.
-
-Klein, Ch. (1975), Theologie und Antijudaismus. Eine Studie zur deutschen theologischen Literatur der Gegenwart, Múnich.
-
-Klein, D. (2009), Hermann Samuel Reimarus (1694-1768): Das theologische Werk, Tubinga.
-
-Klijn, A. F. J. (1992), Jewish-Christian Gospel Tradition, Leiden.
-
-Kloppenborg, J. (1996), «The Sayings Gospel Q and the Quest of the Historical Jesus», HTR 89, pp. 307-344.
-
-— (2005), «As One Unknown, Without a Name? Co-opting the Apocalyptic Jesus», en J. S. Kloppenborg y J. W. Marshall, Apocalypticism, Anti-Semitism and the Historical Jesus. Subtexts in Criticism, Londres/Nueva York, pp. 1-23.
-
-— (2008), «The Growth and Impact of Agricultural Tenancy in Jewish Palestine», JESHO 51, pp. 31-66.
-
-— (2014), Synoptic Problems. Collected Essays, Tubinga. Koestermann, E. (1967), «Ein folgenschwerer Irrtum des
-
-Tacitus (Ann. 15,44,2ff.)?», Hist 16, pp. 456-469.  
-Kors, A. C. (1976), «The Myth of the Coterie Holbachique»,
-
-FHS 9, pp. 573-595.  
-Köster, H. (1990), Ancient Christian Gospels. Their History
-
-and Development, Londres.
-
-Kozodoy, M. (2015), The Secret Faith of Maestre Honoratus: Profayt Duran and Jewish Identity in Late Medieval Iberia, Filadelfia [n. v.].
-
-Kuch, H. (1978), «Zum Euripides-Rezeption im Hellenismus», Klio 60, pp. 191-202.
+- Klawans, J. (2017), «[[The Pseudo-Jewishness of Pseudo-Phocylides]]», JSP 26, pp. 201-233.
+- Klein, Ch. (1975), [[Theologie und Antijudaismus. Eine Studie zur deutschen theologischen Literatur der Gegenwart]], Múnich.
+- Klein, D. (2009), [[Hermann Samuel Reimarus (1694-1768). Das theologische Werk]], Tubinga.
+- Klijn, A. F. J. (1992), [[Jewish-Christian Gospel Tradition]], Leiden.
+- Kloppenborg, J. (1996), «[[The Sayings Gospel Q and the Quest of the Historical Jesus]]», HTR 89, pp. 307-344.
+- Kloppenborg, J. (2005), «[[As One Unknown, Without a Name? Co-opting the Apocalyptic Jesus]]», en J. S. Kloppenborg y J. W. Marshall, Apocalypticism, Anti-Semitism and the Historical Jesus. Subtexts in Criticism, Londres/Nueva York, pp. 1-23.
+- Kloppenborg, J. (2008), «[[The Growth and Impact of Agricultural Tenancy in Jewish Palestine]]», JESHO 51, pp. 31-66.
+- Kloppenborg, J. (2014), [[Synoptic Problems. Collected Essays]], Tubinga.
+- Koestermann, E. (1967), «[[Ein folgenschwerer Irrtum des Tacitus (Ann. 15,44,2ff.)?]]», Hist 16, pp. 456-469.  
+- Kors, A. C. (1976), «[[The Myth of the Coterie Holbachique]]», FHS 9, pp. 573-595.  
+- Köster, H. (1990), [[Ancient Christian Gospels. Their History and Development]], Londres.
+- Kozodoy, M. (2015), [[The Secret Faith of Maestre Honoratus: Profayt Duran and Jewish Identity in Late Medieval Iberia]], Filadelfia [n. v.].
+- Kuch, H. (1978), «[[Zum Euripides-Rezeption im Hellenismus]]», Klio 60, pp. 191-202.
 
 Kuhn, H.-W. (1982), «Die Kreuzesstrafe während der frühen Kaiserzeit. Ihre Wirklichkeit und Wertung in der Umwelt des Christentums», ANRW 25.1, Berlín/Nueva York, pp. 648-793.
 
