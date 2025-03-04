@@ -604,3 +604,55 @@
 - Momigliano, A. (21993), [[The Development of Greek Biography]], Cambridge.
 - Montefiore, C. J. G. (1910), [[Some Elements of the Religious Teaching of Jesus according to the Synoptic Gospels]], Londres.
 - Montserrat, J. (1989), [[La sinagoga cristiana]], Barcelona.
+- Montserrat, J. (2007), [[El galileo armado. Historia laica de Jesús]], Madrid.
+- Montserrat, J. (2014), [[¿Quién mató a Jesús? La patraña del pueblo deicida]], Sabadell.
+- Moore, G. F. (1921), «[[Christian Writers on Judaism]]», HTR 14, pp. 197-254.
+- Moore, G. F. (1927), [[Judaism in the First Centuries of the Christian Era, Vol. 2]], Nueva York
+- Moore, M. E. (2013), [[Kenotic Politics. The Reconfiguration of Power in Jesus’ Political Praxis]], Londres/Nueva York.
+- Morgan, R. (2010), «[[Susannah Heschel’s Aryan Grundmann]]», JSNT 32, pp. 431-494.
+- Mosterín, J. (2010), [[Los cristianos]], Madrid.  
+- Moss, C. R. (2004), «[[The Transfiguration. An Exercise in Markan Accommodation]]», BibInt 12, pp. 72-85.
+- Moxnes, H. (2002), «[[Jesus the Jew. Dilemmas of Interpretation]]», en I. Dunderberg et al. (eds.), Fair Play: Diversity and Conflicts in Early Christianity. Essays in Honour of Heikki Räisänen, Leiden, pp. 83-103.
+- Moxnes, H. (2003), [[Putting Jesus in His Place. A Radical Vision of Household and Kingdom]], Louisville (ed. cast.: Poner a Jesús en su lugar: una visión radical del grupo familiar y el Reino de Dios, Estella, 2005).
+- Moxnes, H. (2012), [[Jesus and the Rise of Nationalism]], Londres.
+- Mulsow, M. (ed.) (2011), [[Between Philology and Radical Enlightenment. Hermann Samuel Reimarus (1694-1768)]], Leiden.
+- Murcia, T. (2014), [[Jésus dans le Talmud et la littérature rabbinique ancienne]], Turnhout.
+- Myles, R. J. (2016), «[[The Fetish for a Subversive Jesus]]», JSHJ 14, pp. 52-70.
+- Neill, S. y Wright, N. T. (1988), [[The Interpretation of the New Testament 1861-1986]], Oxford. 
+- Nestle, E. y Aland, K. (2012), [[Novum Testamentum Graece, 1. revidierte Auflage]], Stuttgart.
+- Neusner, J. (1972), «[[The Rabbinic Traditions about the Pharisees before 70 A.D.. The Problem of Oral Tradition]]», Kairos 14, pp. 57-70.
+- Newman, C. C. et al. (eds.) (1999), [[The Jewish Roots of Christological Monotheism. Papers from the St. Andrews Conference on the Historical Origins of the Worship of Jesus]], Leiden.
+- Nickelsburg, G. (1980), «[[The Genre and Function of the Markan Passion Narrative]]», HTR 73, pp. 153-184.
+- Nicolotti, A. (2015), [[Sindone. Storia e leggende di una reliquia controversa]], Turín.
+- Niehoff, M. R. (2013), «[[A Jewish Critique of Christianity from Second-Century Alexandria. Revisiting the Jew Mentioned in Contra Celsum]]», JECS 21, pp. 151-175.
+- Nietzsche, F. (1974), [[El Anticristo]], Madrid (orig. alem. 1895).
+- Nock, A. D. (1928), «[[Notes on Ruler Cult I-IV]]», JHS 48, pp. 21-43.
+- Norden, E. (1913), «[[Josephus und Tacitus über Jesus Christus und seine messianische Prophetie]]», NJKA 31, pp. 637-666.
+- Norelli, E. (1998), «[[Le Papyrus Egerton 2 et sa localisation dans la tradition sur Jésus. Nouvel examen du fragment 1]]», en D. Marguerat et al. (eds.), Jésus de Nazareth. Nouvelles approches d’une énigme, Ginebra, pp. 397-435.
+- Norelli, E. (2008), «[[Considerazioni di metodo sull’uso delle fonti per la ricostruzione della figura storica di Gesù]]», en E. Prinzivalli (ed.), L’enigma Gesù. Fonti e metodi della ricerca storica, Milán, pp. 19-67.
+- Noy, D. et al. (eds.) (2004), [[Inscriptiones Judaicae Orientis. I. Eastern Europe]], Tubinga.  
+- Oakman, D. E. (2012), [[The Political Aims of Jesus]], Mineápolis.
+- Ochs, C. (2013), [[Matthaeus Adversus Christianos. The Use of the Gospel of Matthew in Jewish Polemics against the Divinity of Jesus]], Tubinga.
+- Øistein Endsjø, D. (2009), [[Greek Resurrection Beliefs and the Success of Christianity]], Nueva York.
+- Olson, K. (1999), «[[Eusebius and the Testimonium Flavianum]]», CBQ 61, pp. 305-322.
+- Olson, K. (2013), «[[A Eusebian Reading of the Testimonium Flavianum]]», en A. P. Johnson y J. M. Schott (eds.), Eusebius of Caesarea: Tradition and Innovations, Washington, pp. 97-114.
+- Palmer, S. J. y Finn, N. (1992), «[[Coping with Apocalypse in Canada. Experiences of Endtime in La Mission de L’Esprit Saint and the Institute of Applied Metaphysics]]», SocA 53, pp. 397-415.
+- Parente, F. (1977), [[I frammenti dell’Anonimo di Wolfenbüttel pubblicati da G. E. Lessing]], Nápoles.
+- Parhon-Stefanescu, C. y Procopiu-Constantinescu, T. (1967), «[[Considérations sur l’impression de présence]]», AMS 125, pp. 253-260.
+- Patterson, S. J. (1995), «[[The End of Apocalypse. Rethinking the Historical Jesus]]», ThT 52, pp. 29-48.
+- Pearson, B. (1997), [[The Emergence of the Christian Religion. Essays on Early Christianity]], Harrisburg.
+- Peerbolte, J. (2008), «[[Jewish Monotheism and Christian Origins]]», en A. Houtmann et al. (eds.), Empsychoi Logoi. Religious Innovation in Antiquity, Leiden, pp. 227-246.
+- Pelikan, J. (1989), [[Jesús a través de los siglos. Su lugar en la historia de la cultura]], Barcelona (orig. ingl. 1985).
+- Peppard, M. (2011), [[The Son of God in the Roman World. Divine Sonship in Its Social and Political Context]], Oxford.
+- Pereira de Queiroz, M. I. (21978), [[Historia y etnología de los movimientos mesiánicos. Reforma y revolución en las sociedades tradicionales]], México (orig. fra. 1968).
+- Pérez Fernández, M. (ed.) (1984), [[Los capítulos de Rabbí Eliezer]], Valencia.
+- Pérez Fernández, M. (2003), «Jesús de Galilea», en M. Sotomayor y J. Fernández Ubiña (eds.), [[Historia del cristianismo, I. El mundo antiguo]], Madrid, pp. 69-121.
+- Perrin, N. (1967), [[Rediscovering the Teaching of Jesus]], Londres.
+- Pesce, M. (2001), «[[Gesù e il sacrificio ebraico]]», ASE 18, pp. 129-168.
+- Pesce, M. (2011), «[[Per una ricerca storica su Gesù nei secoli XVI- XVIII: prima di Hermann S. Reimarus]]», ASE 28, pp. 433- 464.
+- Pesce, M. (2013), «[[The Beginning of Historical Research on Jesus in the Modern Age]]», en C. Johnson Hodge et al. (eds.), The One Who Sows Bountifully: Essays in Honor of Stanley K. Stowers, Atlanta, pp. 77-88.
+- Pesch, R. (1977), [[Das Markusevangelium II. Teil]], Friburgo.
+- Petersen, N. (1980), «[[The Composition of Mark 4.1-8.26]]», HTR 73, pp. 185-217.
+- Petridou, G. (2015), «[[Emplotting the Divine. Epiphanic Narratives as Means of Enhancing Agency]]», RRE 1, pp. 321-342.
+- Petridou, G. (2015a), [[Divine Epiphany in Greek Literature and Culture]], Oxford.
+- Picard, B. y Bernard, J.-F. (1723-1743), [[Cérémonies et coutumes religieuses de tous les peuples du monde, 9 vols.]], Ámsterdam.
