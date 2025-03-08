@@ -659,7 +659,7 @@
 
 - Pike, D. K. y Kennedy, R. S. (1972), [[The Wilderness Revolt. A New View of the Life and Death of Jesus Based on Ideas and Notes of the Late Bishop James A. Pike]], Nueva York.
 
-- Piñero, A. (2000), «La valoración propia de Jesús de Nazaret como mesías», en A. Alonso (coord.), El mesianismo en el cristianismo antiguo y en el judaísmo, Valladolid, pp. 87- 89.
+- Piñero, A. (2000), «[[La valoración propia de Jesús de Nazaret como mesías]]», en A. Alonso (coord.), El mesianismo en el cristianismo antiguo y en el judaísmo, Valladolid, pp. 87- 89.
 
 — (2006), Guía para entender el Nuevo Testamento, Madrid. — (ed.) (2008), ¿Existió Jesús realmente? El Jesús de la
 
