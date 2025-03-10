@@ -656,25 +656,14 @@
 - Petridou, G. (2015), «[[Emplotting the Divine. Epiphanic Narratives as Means of Enhancing Agency]]», RRE 1, pp. 321-342.
 - Petridou, G. (2015a), [[Divine Epiphany in Greek Literature and Culture]], Oxford.
 - Picard, B. y Bernard, J.-F. (1723-1743), [[Cérémonies et coutumes religieuses de tous les peuples du monde, 9 vols.]], Ámsterdam.
-
 - Pike, D. K. y Kennedy, R. S. (1972), [[The Wilderness Revolt. A New View of the Life and Death of Jesus Based on Ideas and Notes of the Late Bishop James A. Pike]], Nueva York.
-
 - Piñero, A. (2000), «[[La valoración propia de Jesús de Nazaret como mesías]]», en A. Alonso (coord.), El mesianismo en el cristianismo antiguo y en el judaísmo, Valladolid, pp. 87- 89.
-
-— (2006), Guía para entender el Nuevo Testamento, Madrid. — (ed.) (2008), ¿Existió Jesús realmente? El Jesús de la
-
-historia a debate, Madrid.
-
-Pleket, H. W. (1981), «Divine omnipotence», en H. S. Versnel (ed.), Faith, Hope and Worship: Aspects of Religious Mentality in the Ancient World, Leiden, pp. 171- 183.
-
-Pokorný, P. (2012), «Jesus as the Ever-living Lawgiver in the Letter of Mara bar Sarapion», en A. Merz y T. Tieleman (eds.), The Letter of Mara bar Sarapion in Context. Proceedings of the Symposium held at Utrecht University, 10-12 December 2009, Leiden, pp. 129-139.
-
-Pomykala, K. E. (1995), The Davidic Dynasty Tradition in Early Judaism. Its History and Significance for Messianism, Atlanta.
-
-Popkin, R. (2007), Disputing Christianity. The 400-Year–Old De​bate Over Rabbi Isaac Ben Abraham Troki’s Classic Arguments, Nueva York.
-
-Porter, S. E. (2000), The Criteria for Authenticity in Historical-Jesus Research, Sheffield.
-
-Portier-Young, A. E. (2011), Apocalypse Against Empire. Theologies of Resistance in Early Judaism, Grand Rapids (ed. cast.: Apocalipsis contra Imperio, 2016).
-
-Pötscher, W. (1965), «Die “Auferstehung” in der klassischen Antike», Kairos 7, pp. 208-215.
+- Piñero, A. (2006), [[Guía para entender el Nuevo Testamento]], Madrid.
+- Piñero, A. (ed.) (2008), [[¿Existió Jesús realmente? El Jesús de la historia a debate]], Madrid.
+- Pleket, H. W. (1981), «[[Divine omnipotence]]», en H. S. Versnel (ed.), Faith, Hope and Worship: Aspects of Religious Mentality in the Ancient World, Leiden, pp. 171- 183.
+- Pokorný, P. (2012), «[[Jesus as the Ever-living Lawgiver in the Letter of Mara bar Sarapion]]», en A. Merz y T. Tieleman (eds.), The Letter of Mara bar Sarapion in Context. Proceedings of the Symposium held at Utrecht University, 10-12 December 2009, Leiden, pp. 129-139.
+- Pomykala, K. E. (1995), [[The Davidic Dynasty Tradition in Early Judaism. Its History and Significance for Messianism]], Atlanta.
+- Popkin, R. (2007), [[Disputing Christianity. The 400-Year–Old De​bate Over Rabbi Isaac Ben Abraham Troki’s Classic Arguments]], Nueva York.
+- Porter, S. E. (2000), [[The Criteria for Authenticity in Historical-Jesus Research]], Sheffield.
+- Portier-Young, A. E. (2011), [[Apocalypse Against Empire. Theologies of Resistance in Early Judaism]], Grand Rapids (ed. cast.: Apocalipsis contra Imperio, 2016).
+- Pötscher, W. (1965), «[[Die “Auferstehung” in der klassischen Antike]]», Kairos 7, pp. 208-215.
