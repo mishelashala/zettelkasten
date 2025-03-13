@@ -667,3 +667,4 @@
 - Porter, S. E. (2000), [[The Criteria for Authenticity in Historical-Jesus Research]], Sheffield.
 - Portier-Young, A. E. (2011), [[Apocalypse Against Empire. Theologies of Resistance in Early Judaism]], Grand Rapids (ed. cast.: Apocalipsis contra Imperio, 2016).
 - Pötscher, W. (1965), «[[Die “Auferstehung” in der klassischen Antike]]», Kairos 7, pp. 208-215.
+- Preus, J. S. (1987), [[Explaining Religion. Criticism and Theory from Bodin to Freud]], New Haven.
