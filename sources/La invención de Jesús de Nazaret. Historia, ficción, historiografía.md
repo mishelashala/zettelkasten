@@ -668,3 +668,19 @@
 - Portier-Young, A. E. (2011), [[Apocalypse Against Empire. Theologies of Resistance in Early Judaism]], Grand Rapids (ed. cast.: Apocalipsis contra Imperio, 2016).
 - Pötscher, W. (1965), «[[Die “Auferstehung” in der klassischen Antike]]», Kairos 7, pp. 208-215.
 - Preus, J. S. (1987), [[Explaining Religion. Criticism and Theory from Bodin to Freud]], New Haven.
+- Price, R. M. (2000), [[Deconstructing Jesus]], Amherst.  
+- Price, R. M. (2011), [[The Christ-Myth Theory and Its Problems]], Cranford.  
+- Price, S. R. F. (1984), [[Rituals and Power. The Roman Imperial Cult in Asia Minor]], Cambridge. 
+- Price, S. R. F. (1984a), «[[Gods and Emperors. The Greek Language of the Roman Imperial Cult]]», JHS 104, pp. 79-95.
+- Priestley, J. (1803), [[Socrates and Jesus compared]], Filadelfia.
+- Prothero, S. R. (2003), [[American Jesus. How the Son of God Became a National Icon]], Nueva York.
+- Proudfoot, W. (1985), [[Religious Experience]], Berkeley.
+- Puente Ojea, G. (1974), [[Ideología e Historia. La formación del cristianismo como fenómeno ideológico]], Madrid.
+- Puente Ojea, G. (1990) [[El Evangelio de Marcos]], Madrid.
+- Puente Ojea, G. (2000), [[El mito de Cristo]], Madrid.
+- Puente Ojea, G. (2008), [[La existencia histórica de Jesús]], Madrid.
+- Puig, A. (2000), «[[La recherche du Jésus historique]]», Bib 81, pp. 179-200.
+- Rainbow, P. A. (1991), «[[Jewish Monotheism as the Matrix for New Testament Christology. A Review Article]]», NovT 33, pp. 78-91.
+- Räisänen, H. (2001), «[[Exorcisms and the Kingdom. Is Q 11,20 a Saying of the Historical Jesus?]]», en id., Challenges to Biblical Interpretation. Collected Essays 1991-2001, Leiden, pp. 15-36.
+- Räisänen, H. (2012), «Jesus and Hell», en T. Holmén (ed.), [[Jesus in Continuum]], Tubinga, pp. 344-383.
+- Ramos Jurado, E. et al. (eds.) (2006), [[Porfirio de Tiro, Contra los cristianos]], Cádiz.
