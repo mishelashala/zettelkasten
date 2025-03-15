@@ -684,3 +684,105 @@
 - Räisänen, H. (2001), «[[Exorcisms and the Kingdom. Is Q 11,20 a Saying of the Historical Jesus?]]», en id., Challenges to Biblical Interpretation. Collected Essays 1991-2001, Leiden, pp. 15-36.
 - Räisänen, H. (2012), «Jesus and Hell», en T. Holmén (ed.), [[Jesus in Continuum]], Tubinga, pp. 344-383.
 - Ramos Jurado, E. et al. (eds.) (2006), [[Porfirio de Tiro, Contra los cristianos]], Cádiz.
+- Ratzinger, J. (2016), [[Jesús de Nazaret]], Madrid (orig. alem. 2013).
+- Rauschning, H. (1939), [[Hitler Speaks. A Series of Political Conversations with Adolf Hitler on his Real Aims]], Londres.
+- Redman, J. C. S. (2010), «[[How Accurate Are Eyewitnesses? Bauckham and the Eyewitnesses in the Light of Psychological Research]]», JBL 129, pp. 177-197.
+- Reed, J. L. (2006), [[El Jesús de Galilea. Aportaciones desde la arqueología]], Estella (orig. ingl. 2000).
+- Rees, W. D. (1971), «[[The Hallucinations of Widowhood]]», BMJ 4, pp. 37-41.
+- Reinbold, W. (1994), [[Der älteste Bericht über den Tod Jesu. Literarische Analyse und historische Kritik der Passionsdarstellungen der Evangelien]], Berlín.
+- Reinhartz, A. (2006), «History and Pseudo-History in the Jesus Film Genre», BibInt 14, pp. 1-17.
+- Reinhartz, A. (2007), [[Jesus of Hollywood]], Oxford.  
+- Reinhartz, A. (2011), [[Caiaphas. The High Priest]], Mineápolis.  
+- Reinhartz, A. (2013), [[Bible and Cinema. an Introduction]], Nueva York.
+- Reiser, M. (1990), [[Die Gerichtspredigt Jesu. Eine Untersuchung zur eschatologischen Verkündigung Jesu und ihrem frühjüdischen Hintergrund]], Münster.
+
+- Reiser, M. (2015), Kritische Geschichte der Jesusforschung: von Kelsus und Origenes bis heute, Stuttgart.
+
+Renan, E. (1863), La Vie de Jésus, París (ed. cast.: Vida de Jesús, 1968).
+
+Renehan, R. (1968), «Christus or Chrestus in Tacitus?», PP 122, pp. 368-370.
+
+Rhoads, D. M. (1976), Israel in Revolution 6-74 C.E. A Political History Based on the Writings of Josephus, Filadelfia.
+
+Ribas Alba, J. M. (2004), El proceso a Jesús de Nazaret. Un estudio histórico-jurídico, Granada.  
+Riches, J. K. (1980), Jesus and the Transformation of
+
+Judaism, Londres.
+
+Riedo-Emmenegger, C. (2005), Prophetisch-messianische Provokateure der Pax Romana: Jesus von Nazaret und andere Störenfriede im Konflikt mit dem römischen Reich, Gotinga.
+
+Riesner, R. (31988), Jesus als Lehrer: eine Untersuchung zum Ur​sprung der Evangelien-Überlieferung, Tubinga.
+
+Robinson, J. M. (1959), A New Quest of the Historical Jesus, Londres.
+
+Rochais, G. (1981), Les récits de résurrection des morts dans le Nouveau Testament, Cambridge.
+
+Rodríguez, R. (2009), «Authenticating Criteria: The Use and Mis​use of a Critical Method», JSHJ 7, pp. 152-167.
+
+— (2012), «The Embarrassing Truth About Jesus: The Criterion of Embarrassment and the Failure of Historical Authenticity», en C. Keith y A. Le Donne (eds.), Jesus, Criteria, and the Demise of Authenticity, Londres/Nueva York, pp. 132-151.
+
+Rodríguez Carmona, A. (2001), La religión judía, Madrid.
+
+Rollens, S. (2018), «The God Came to Me in a Dream: Epiphanies in Voluntary Associations as a Context for Paul’s Vision of Christ», HTR 111, pp. 41-65.
+
+Rook, J. T. (1981), «“Boanerges”, Sons of Thunder» (Mark 3:17)», JBL 100, pp. 94-95.
+
+Rosenthal, J. (ed.) (1961), Milḥamot ha-Šem (Jacob ben Reuben), Jerusalén.
+
+Ross Taylor, L. (1931), The Divinity of the Roman Emperor, Mid​dletown.
+
+Rothschild, C. K. (2005), Baptist Traditions and Q, Tubinga. Rudolph, K. (1977), «Das frühe Christentum als religionsgeschicht​liches Phänomen», en J. Irmscher y K. Treu (eds.), Das Korpus der griechischen christlichen Schriftsteller: Historie, Gegenwart, Zukunft, Berlín, pp. 29- 42.
+
+Ruether, R. (1974), Faith and Fratricide: The Theological Roots of Anti-Semitism, Eugene.
+
+Ruiz Bueno, D. (ed.) (1954), Padres apologistas griegos (s. II), Madrid.
+
+— (ed.) (1967), Orígenes. Contra Celso, Madrid.
+
+Rutgers, L. V. (1994), «Roman Policy towards the Jews: Expulsions from the City of Rome during the First Century C.E.», CA 13, pp. 56-74.
+
+Rutledge, S. (2001), Imperial Inquisitions: Prosecutors and Informants from Tiberius to Domitian, Londres.
+
+Ruzer, S. (2002), «From “Love your Neighbour” to “Love your Enemy”. Trajectories in Early Jewish Exegesis», RevB 109, pp. 371-389.
+
+— (2004), «“Love your Enemy” Precept in the Sermon on the Mount in the Context of Early Jewish Exegesis: A New Perspective», RevB 111, pp. 193-208.
+
+— (2007), «The Double Love Precept: Between Pharisees, Jesus and Qumran Covenanters», en id., Mapping the New Testament. Early Christian Writings as a Witness for Jewish Biblical Exegesis, Leiden, pp. 71-99.
+
+Safrai, Z. (2004), The Economy of Roman Palestine, Londres.
+
+Salvador, J. (1838), Jésus-Christ et sa doctrine. Histoire de la naissance de l’Église, de son organisation et de ses progrès pendant le premier siècle, 2 vols., París.
+
+Salvatorelli, L. (1929), «From Locke to Reitzenstein: The Historical Investigation of the Origins of Christianity», HTR 22, pp. 263-369.
+
+Sanders, E. P. (1977), Paul and Palestinian Judaism, Londres/Filadelfia.  
+— (1985), Jesus and Judaism, Londres (ed. cast.: Jesús y el
+
+judaísmo).  
+— (1991), «Defending the Indefensible», JBL 110, pp. 463-
+
+477.
+
+— (1992), Judaism. Practice & Belief 63 BCE-66 CE, Londres.
+
+— (2001), La figura histórica de Jesús, Estella (orig. ingl. 1993).
+
+Sanders, E. P. y Davies, M. (1989), Studying the Synoptic Gospels, Londres.
+
+Sanders, J. T. (1998), «The Criterion of Coherence and the Randomness of Charisma: Poring Through Some Aporias in the Jesus Tradition», NTS 44, pp. 1-25.
+
+Sandmel, S. (1956), A Jewish Understanding of the New Testament, Nueva York.
+
+— (1969), The First Christian Century in Judaism and Christianity: Certainties and Uncertainties, Oxford.
+
+Sáry, P. (2005), «Die Kreuzigungsstrafe im römischen Reich», OIR 10, pp. 183-213.
+
+Saumagne, Ch. (1964), «Tacite et saint Paul», RH 232, pp. 67-110.
+
+Scapparone, E. (2007), «“Efficacissimus Dei Filius”. Sul Cristo Mago di Bruno», en F. Meroi (ed.), La magia nell’Europa moderna. Tra antica sapienza e filosofia naturale, Florencia, pp. 417-444.
+
+Schacter, D. L. (2003), Los siete pecados de la memoria, Barcelona (orig. ingl. 2001).
+
+Schäfer, P. (2007), Jesus in the Talmud, Princeton.
+
+Schelbert, G. (2011), ABBA Vater. Der literarische Befund vom Alt​aramäischen bis zu den späten Haggada-Werken, Gotinga.

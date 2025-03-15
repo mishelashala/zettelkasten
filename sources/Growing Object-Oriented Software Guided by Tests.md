@@ -4,7 +4,7 @@
 
 - [Abelson96] Abelson, Harold and Gerald Sussman. [[Structure and Interpretation of Computer Programs]]. MIT Press, 1996, ISBN 978-0262011532.
 - [Beck99] Beck, Kent. [[Extreme Programming Explained. Embrace Change]]. Addison-Wesley, 1999, ISBN 978-0321278654.
-- [Beck02] Beck, Kent. [[Test Driven Development. By Example]]. Addison-Wesley, 2002, ISBN 978-0321146530.
+- [Beck02] Beck, Kent. [[Test-Driven-Development by Example]]. Addison-Wesley, 2002, ISBN 978-0321146530.
 - [Begel08] Begel, Andrew and Beth Simon. "[[Struggles of New College Graduates in Their First Software Development Job]]" In: SIGCSE Bulletin, 40, no. 1 (March 2008): 226-230, ACM, ISSN 0097-8418
 - [Cockburn08] Cockburn, Alistair. [[Hexagonal Architecture. Ports and Adapters]] ("Object Structural"). June 19, 2008, http://alistair.cockburn.us/Hexagonal+architecture.
 - [Cohn05] Cohn, Mike. [[Agile Estimating and Planning]]. Prentice Hall, 2005, ISBN 978-0131479418.
