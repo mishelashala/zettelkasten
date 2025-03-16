@@ -695,94 +695,350 @@
 - Reinhartz, A. (2011), [[Caiaphas. The High Priest]], Mineápolis.  
 - Reinhartz, A. (2013), [[Bible and Cinema. an Introduction]], Nueva York.
 - Reiser, M. (1990), [[Die Gerichtspredigt Jesu. Eine Untersuchung zur eschatologischen Verkündigung Jesu und ihrem frühjüdischen Hintergrund]], Münster.
+- Reiser, M. (2015), [[Kritische Geschichte der Jesusforschung. von Kelsus und Origenes bis heute]], Stuttgart.
+- Renan, E. (1863), [[La Vie de Jésus]], París (ed. cast.: Vida de Jesús, 1968).
+- Renehan, R. (1968), «[[Christus or Chrestus in Tacitus?]]», PP 122, pp. 368-370.
+- Rhoads, D. M. (1976), [[Israel in Revolution 6-74 C.E. A Political History Based on the Writings of Josephus]], Filadelfia.
+- Ribas Alba, J. M. (2004), [[El proceso a Jesús de Nazaret. Un estudio histórico-jurídico]], Granada.  
+- Riches, J. K. (1980), [[Jesus and the Transformation of Judaism]], Londres.
+- Riedo-Emmenegger, C. (2005), [[Prophetisch-messianische Provokateure der Pax Romana. Jesus von Nazaret und andere Störenfriede im Konflikt mit dem römischen Reich]], Gotinga.
+- Riesner, R. (31988), [[Jesus als Lehrer. eine Untersuchung zum Ur​sprung der Evangelien-Überlieferung]], Tubinga.
+- Robinson, J. M. (1959), [[A New Quest of the Historical Jesus]], Londres.
+- Rochais, G. (1981), [[Les récits de résurrection des morts dans le Nouveau Testament]], Cambridge.
+- Rodríguez, R. (2009), «[[Authenticating Criteria. The Use and Mis​use of a Critical Method]]», JSHJ 7, pp. 152-167.
+- Rodríguez, R. (2012), «[[The Embarrassing Truth About Jesus. The Criterion of Embarrassment and the Failure of Historical Authenticity]]», en C. Keith y A. Le Donne (eds.), Jesus, Criteria, and the Demise of Authenticity, Londres/Nueva York, pp. 132-151.
+- Rodríguez Carmona, A. (2001), [[La religión judía]], Madrid.
+- Rollens, S. (2018), «[[The God Came to Me in a Dream. Epiphanies in Voluntary Associations as a Context for Paul’s Vision of Christ]]», HTR 111, pp. 41-65.
+- Rook, J. T. (1981), «[[“Boanerges”, Sons of Thunder]]» (Mark 3:17)», JBL 100, pp. 94-95.
+- Rosenthal, J. (ed.) (1961), [[Milḥamot ha-Šem (Jacob ben Reuben)]], Jerusalén.
+- Ross Taylor, L. (1931), [[The Divinity of the Roman Emperor]], Mid​dletown.
+- Rothschild, C. K. (2005), [[Baptist Traditions and Q]], Tubinga.
+- Rudolph, K. (1977), «[[Das frühe Christentum als religionsgeschicht​liches Phänomen]]», en J. Irmscher y K. Treu (eds.), Das Korpus der griechischen christlichen Schriftsteller: Historie, Gegenwart, Zukunft, Berlín, pp. 29- 42.
+- Ruether, R. (1974), [[Faith and Fratricide. The Theological Roots of Anti-Semitism]], Eugene.
+- Ruiz Bueno, D. (ed.) (1954), [[Padres apologistas griegos (s. II)]], Madrid.
+- Ruiz Bueno, D. (ed.) (1967), [[Orígenes. Contra Celso]], Madrid.
+- Rutgers, L. V. (1994), «[[Roman Policy towards the Jews. Expulsions from the City of Rome during the First Century C.E.]]», CA 13, pp. 56-74.
+- Rutledge, S. (2001), [[Imperial Inquisitions. Prosecutors and Informants from Tiberius to Domitian]], Londres.
+- Ruzer, S. (2002), «[[From “Love your Neighbour” to “Love your Enemy”. Trajectories in Early Jewish Exegesis]]», RevB 109, pp. 371-389.
+- Ruzer, S. (2004), «[[“Love your Enemy” Precept in the Sermon on the Mount in the Context of Early Jewish Exegesis. A New Perspective]]», RevB 111, pp. 193-208.
+- Ruzer, S. (2007), «[[The Double Love Precept. Between Pharisees, Jesus and Qumran Covenanters]]», en id., Mapping the New Testament. Early Christian Writings as a Witness for Jewish Biblical Exegesis, Leiden, pp. 71-99.
+- Safrai, Z. (2004), [[The Economy of Roman Palestine]], Londres.
+- Salvador, J. (1838), [[Jésus-Christ et sa doctrine. Histoire de la naissance de l’Église, de son organisation et de ses progrès pendant le premier siècle, 2 vols.]], París.
+- Salvatorelli, L. (1929), «[[From Locke to Reitzenstein. The Historical Investigation of the Origins of Christianity]]», HTR 22, pp. 263-369.
+- Sanders, E. P. (1977), [[Paul and Palestinian Judaism]], Londres/Filadelfia.  
+- Sanders, E. P. (1985), [[Jesus and Judaism]], Londres (ed. cast.: Jesús y el judaísmo).  
+- Sanders, E. P. (1991), «[[Defending the Indefensible]]», JBL 110, pp. 463-477.
+- Sanders, E. P. (1992), [[Judaism. Practice & Belief 63 BCE-66 CE]], Londres.
+- Sanders, E. P. (2001), [[La figura histórica de Jesús]], Estella (orig. ingl. 1993).
+- Sanders, E. P. y Davies, M. (1989), [[Studying the Synoptic Gospels]], Londres.
+- Sanders, J. T. (1998), «[[The Criterion of Coherence and the Randomness of Charisma. Poring Through Some Aporias in the Jesus Tradition]]», NTS 44, pp. 1-25.
+- Sandmel, S. (1956), [[A Jewish Understanding of the New Testament]], Nueva York.
+- Sandmel, S. (1969), [[The First Christian Century in Judaism and Christianity: Certainties and Uncertainties]], Oxford.
+- Sáry, P. (2005), «[[Die Kreuzigungsstrafe im römischen Reich]]», OIR 10, pp. 183-213.
+- Saumagne, Ch. (1964), «[[Tacite et saint Paul]]», RH 232, pp. 67-110.
+- Scapparone, E. (2007), «[[“Efficacissimus Dei Filius”. Sul Cristo Mago di Bruno]]», en F. Meroi (ed.), La magia nell’Europa moderna. Tra antica sapienza e filosofia naturale, Florencia, pp. 417-444.
+- Schacter, D. L. (2003), [[Los siete pecados de la memoria]], Barcelona (orig. ingl. 2001).
+- Schäfer, P. (2007), [[Jesus in the Talmud]], Princeton.
+- Schelbert, G. (2011), [[ABBA Vater. Der literarische Befund vom Alt​aramäischen bis zu den späten Haggada-Werken]], Gotinga.
+- Schlosser, J. (1980), [[Le Règne de Dieu dans les dits de Jésus]], vol. 1, París.
+- Schlosser, J. (1995), [[El Dios de Jesús]], Salamanca (orig. fra. 1987).
+- Schmidt, F. (1990), «[[John Toland, critique déiste de la littérature apocryphe]]», Apocr 1, pp. 119-145.
+- Schmidt, K.-L. (1919), [[Der Rahmen der Geschichte Jesu. Literarkritische Untersuchungen zur ältesten Jesusüberlieferung]], Darmstadt (reed. 1969).
+- Schmithals, W. (1998), «[[Gibt es Kriterien für die Bestimmung echter Jesusworte?]]», ZNT 1, pp. 59-64.
+- Schneider, G. (1984), «[[The Political Charge against Jesus (Luke 23.2)]]», en E. Bammel y C. F. D. Moule (eds.), Jesus and the Politics of His Day, Cambridge, pp. 402-414.
+- Schröder, W. (2009), «[[Religionsphilosophie im 16. Jahrhundert? Martin Seidel und seine Schrift Origo et fundamenta religionis Christianae]]», en M. Mulsow (ed.), Spätrenaissance-Philosophie in Deutschland 1570-1650, Tubinga, pp. 161-172.
+- Schröter, J. (1997), [[Erinnerung an Jesu Worte. Studien zur Rezeption der Logienüberlieferung in Markus, Q und Thomas]], Neukirchen-Vluyn.
+- Schröter, J. (2002), «[[Von der Historizität der Evangelien. Ein Beitrag zur gegenwärtigen Diskussion um den historischen Jesus]]», en J. Schröter y R. Brucker (eds.), Der historische Jesus: Tendenzen und Perspektiven der gegenwärtigen Forschung, Berlín/Nueva York, pp. 163-212.
+- Schröter, J. (2008), «[[The Gospels as Eyewitness Testimony?]]», JSNT 31, pp. 195-209.
+- Schröter, J. (2010), «[[Die apokryphen Evangelien und ihre Bedeutung für die Frage nach dem historischen Jesus]]», en V. Spangenberg y A. Heinze (eds.), Der historische Jesus im Spannungsfeld von Glaube und Geschichte, Leipzig, pp. 93- 145.
+- Schröter, J. y Jacobi, C. (eds.) (2017), [[Jesus Handbuch]], Tubinga.
+- Schuller, E. (1990), «[[4Q372 1. A Text about Joseph]]», RQ 14, pp. 349-376.
+- Schuller, E. (1992), «[[The Psalm of 4Q372 1 within the Context of Second Temple Prayer]]», CBQ 54, pp. 67-79.
+- Schulthess, F. (1897), «[[Der Brief des Mara bar Sarapion]]», ZDMG 51, pp. 365-391.
+- Schultze, H. (1978), «[[Religionskritik in der deutschen Aufklärung. das Hauptwerk des Reimarus im 200. Jahr des Fragmentenstreits]]», TLZ 103, pp. 706-713.
+- Schürer, E. (1985), [[Historia del pueblo judío en tiempos de Jesús]] (ed. dirigida y revisada por G. Vermes, F. Millar y M. Black), 2 vols., Madrid (orig. ingl. 1979).
+- Schwartz, E. (ed.) (1903), [[Eusebius Werke II, 1. Die Kirchenge​schichte]] (GCS IX/1-3), Leipzig.
+- Schwartz, D. R. (1992), [[Studies in the Jewish Background of Christianity]], Tubinga.
+- Schwartz, D. R. (2013), [[Reading the First Century. On Reading Josephus and Studying Jewish History of the First Century (WUNT 300)]], Tubinga.
+- Schweitzer, A. (91984), [[Geschichte der Leben-Jesu-Forschung]], Tubinga (ed. orig. 1906 y 1913; ed. cast.: Investigación sobre la vida de Jesús, 2 vols., 1990 y 2002).
+- Scott, J. C. (2003), [[Los dominados y el arte de la resistencia]], México (orig. ingl. 1990).
+- Scott, S. R. (2008), «[[The Binitarian Nature of the Book of Similitudes]]», JSP 18, pp. 55-78.
+- Seeley, D. (1990), [[The Noble Death. Graeco-Roman Martyrology and Paul’s Concept of Salvation]], Sheffield.
+- Seeley, D. (1993), «[[Rulership and Service in Mark 10.41-45]]», NovT 35, pp. 234-250.
+- Seeley, D. (1993a), «[[Jesus’ Temple Act]]», CBQ 55, pp. 263-283. Segal
+- A. F. (1977), [[Two Powers in Heaven. Early Rabbinic Reports about Christianity and Gnosticism]], Leiden.  
+- A. F. (2004), [[Life After Death. A History of the Afterlife in the Religions of the West]], Nueva York.  
+- Senior, D. (1975), [[The Passion Narrative According to Matthew]], Lovaina.  
+- Shapiro, H. A. (1983), «[[Hêrôs Theos. The Death and Apotheosis of Herakles]]», CW 77, pp. 7-18.  
+- Shapiro, J. (2000), [[Oberammergau. The Troubling Story of the World’s Most Famous Passion Play]], Nueva York.
+- Shaw. B. D. (1984), «[[Bandits in the Roman Empire]]», PPr 105, pp. 3-52.
+- Shaw. B. D. (2015), «[[The Myth of the Neronian Persecution]]», JRS 105, pp. 73-100.
+- Sheehan, J. (2005), [[The Enlightenment Bible. Translation, Scholarship, Culture]], Princeton.
+- Sheldon, R. M. (1998), «[[Jesus, as Security Risk. Insurgency in First Century Palestine?]]», SWI 9, pp. 1-37.
+- Sheldon, R. M. (2005), [[Intelligence Activities in Ancient Rome. Trust in the Gods, but Verify]], Londres/Nueva York.
+- Sherwin-White, A. N. (1963), [[Roman Society and Roman Law in the New Testament]], Oxford.
+- Siegele-Wenschkewitz, L. (1980), [[Neutestamentliche Wissen​schaft vor der Judenfrage]], Múnich.
+- Sievert, R. (2005), [[Isaak ben Abraham aus Troki im christlich-jüdi​schen Gespräch der Reformationszeit]], Münster.
+- Simon, M. (1955), [[Hercule et le christianisme]], París.
+- Simonsohn, S. (ed.) (1960), [[Leon Modena, Magen weḥerev]],Jerusalén.  
+- Smallwood, M. (1981), [[The Jews under Roman Rule. From Pompey to Diocletian]], Leiden.  
+- Smart, N. (2000), [[Las religiones del mundo]], Madrid (orig. ingl. 1989).
+- Smelik, W. (2010), «[[The Languages of Roman Palestine]]», en C. Hezser, The Oxford Handbook of Jewish Daily Life, Oxford, pp. 122-141.
+- Smit, P.-B. (2008), [[Fellowship and Food in the Kingdom. Eschatological Meals and Scenes of Utopian Abundance in the New Testament]], Tubinga.
+- Smith, J. Z. (1990), [[Drudgery Divine. On the Comparison of Early Christianities and the Religions of Late Antiquity]], Chicago.
+- Smith, M. (1963), «[[A Comparison of Early Christian and Early Rabbinic Tradition]]», JBL 82, pp. 169-176.
+- Socas, F. (ed.) (2011), [[Symbolum Sapientiae. La clave de la sabiduría (Un tratado clandestino del siglo XVII)]], Huelva.
+- Socas, F. y Toribio, P. (eds.) (2017), [[Martin Seidel. Origo et Fundamenta Religionis Christianae. Un tratado clandestino del siglo XVII]], Madrid.
+- Sofia, F. (2004), «[[Gerusalemme tra Roma e Parigi. Joseph Salvador e le origini del cristianesimo]]», ASE 21, pp. 645- 662.
+- Speidel, M. (2012), «[[Making Use of History Beyond the Euphrates. Political Views, Cultural Traditions, and Historical Contexts in the Letter of Mara bar Sarapion]]», en A. Merz y T. Tieleman (eds.), The Letter of Mara bar Sarapion in Context. Proceedings of the Symposium held at Utrecht University, 10-12 December 2009, Leiden, pp. 11- 42.
+- Stanton, G. N. (1974), [[Jesus of Nazareth in New Testament Preaching]], Cambridge.
+- Stark, R. (1965), «[[A Taxonomy of Religious Experience]]», JSSR 5, pp. 97-116.  
+- Stark, R. (1991), «[[Normal Revelations. A Rational Model of “Mystical” Experiences]]», RSO 1, pp. 239-251.
+- Stauffer, E. (1967), [[Jesus war ganz anders]], Hamburgo.
+- Steenburg, D. (1990), «[[The Worship of Adam and Christ as the Image of God]]», JSNT 39, pp. 95-109.
+- Stegemann, E. (1998), «[[Jesus]]», Der neue Pauly, vol. 5, Stuttgart.
+- Stegemann, E. (2002), «[[Wie im Angesicht des Judentums historisch vom Tod Jesu sprechen?]]», en G. Häfner y H. Schmid (eds.), Wie heute vom Tod Jesu sprechen?, Friburgo, pp. 23-52.
+- Stegemann, W. (2010), [[Jesus und seine Zeit]], Stuttgart.
+- Stehly, R. (1977), «[[Boudhisme et Nouveau Testament. À propos de la marche de Pierre sur l’eau (Matthieu 14, 28s)]]», RHPhR 57, pp. 433-437.
+- Stendahl, K. (1962), «[[Hate, Non-Retaliation, and Love. 1QS 17-20 and Rom 12.19-21]]», HTR 55, pp. 343-355.
+- Stern, J. B. (1966), «[[Jesus’ Citation of Deut 6.5 and Lev 19.18 in the Light of Jewish Tradition]]», CBQ 28, pp. 312- 316.
+- Stevenson, T. R. (1992), «[[The Ideal Benefactor and the Father Analogy in Greek and Roman Thought]]», CQ 42, pp. 421-436.
+- Stökl ben Ezra, D. (2003), [[The Impact of Yom Kippur on Early Christianity]], Tubinga.
+- Strauss, D. F. (1835-1836), [[Das Leben Jesu kritisch bearbeitet, 2 vols.]], Tubinga.
+- Strauss, D. F. (1862), [[Hermann Samuel Reimarus und seine Schutzschrift für die vernünftigen Verehrer Gottes]], Leipzig.
+- Stroumsa, G. G. (2010), [[A New Science. The Discovery of Religion in the Age of Reason]], Cambridge (MA).
 
-- Reiser, M. (2015), Kritische Geschichte der Jesusforschung: von Kelsus und Origenes bis heute, Stuttgart.
+Stuckenbruck, L. T. (1995), Angel Veneration and Christology, Tubinga.
 
-Renan, E. (1863), La Vie de Jésus, París (ed. cast.: Vida de Jesús, 1968).
+Suter, D. (2007), «Enoch in Sheol: Updating the Dating of the Parables of Enoch», en G. Boccaccini et al. (eds.), Enoch and the Messiah Son of Man: Revisiting the Book of Parables, Grand Rapids, pp. 415-433.
 
-Renehan, R. (1968), «Christus or Chrestus in Tacitus?», PP 122, pp. 368-370.
+Swift Riginos, A. (1976), The Anecdotes Concerning the Life and Writings of Plato, Leiden.
 
-Rhoads, D. M. (1976), Israel in Revolution 6-74 C.E. A Political History Based on the Writings of Josephus, Filadelfia.
+Talbert, C. H. (1975), «The Concept of the Immortals in Mediterranean Antiquity», JBL 94, pp. 419-436.
 
-Ribas Alba, J. M. (2004), El proceso a Jesús de Nazaret. Un estudio histórico-jurídico, Granada.  
-Riches, J. K. (1980), Jesus and the Transformation of
+— (2011), The Development of Christology during the First Hundred Years, and other Essays on Early Christian Christology, Leiden.
 
-Judaism, Londres.
+Talmage, F. (1981), The Polemical Writings of Profiat Duran. The Reproach of the Gentiles and «Be not Like your Fathers», Jerusalén.
 
-Riedo-Emmenegger, C. (2005), Prophetisch-messianische Provokateure der Pax Romana: Jesus von Nazaret und andere Störenfriede im Konflikt mit dem römischen Reich, Gotinga.
+Taruffo, M. (2002), La prueba de los hechos, Madrid (orig. it. 1992).
 
-Riesner, R. (31988), Jesus als Lehrer: eine Untersuchung zum Ur​sprung der Evangelien-Überlieferung, Tubinga.
+Taves, A. (2009), Religious Experience Reconsidered. A Building-Block Approach to the Study of Religion and Other Special Things, Princeton.
 
-Robinson, J. M. (1959), A New Quest of the Historical Jesus, Londres.
+Taylor, J. E. (1997), John the Baptist within Second Temple Judaism. A Historical Study, Londres.
 
-Rochais, G. (1981), Les récits de résurrection des morts dans le Nouveau Testament, Cambridge.
+— (2006), «Pontius Pilate and the Imperial Cult in Roman Judaea», NTS 52, pp. 555-582.
 
-Rodríguez, R. (2009), «Authenticating Criteria: The Use and Mis​use of a Critical Method», JSHJ 7, pp. 152-167.
+— (2018), What Did Jesus Look Like?, Londres/Nueva York.
 
-— (2012), «The Embarrassing Truth About Jesus: The Criterion of Embarrassment and the Failure of Historical Authenticity», en C. Keith y A. Le Donne (eds.), Jesus, Criteria, and the Demise of Authenticity, Londres/Nueva York, pp. 132-151.
+Taylor, J. E. y Adinolfi, F. (2012), «John the Baptist and Jesus the Baptist: A Narrative Critical Approach», JSHJ 10, pp. 247-284.
 
-Rodríguez Carmona, A. (2001), La religión judía, Madrid.
+Testa, F. (2014), «Hermann Samuel Reimarus (1694-1768) e la ricerca del Gesù storico», Intersezioni 34, pp. 225-249.
 
-Rollens, S. (2018), «The God Came to Me in a Dream: Epiphanies in Voluntary Associations as a Context for Paul’s Vision of Christ», HTR 111, pp. 41-65.
+Thate, M. J. (2013), Remembrance of Things Past? Albert Schweitzer, the Anxiety of Influence, and the Untidy Jesus of Markan Memory, Tubinga.  
+Theissen, G. (1995), La sombra del galileo, 1995 (orig. alem.
 
-Rook, J. T. (1981), «“Boanerges”, Sons of Thunder» (Mark 3:17)», JBL 100, pp. 94-95.
+1986).  
+— (1997), Colorido local y contexto histórico en los
 
-Rosenthal, J. (ed.) (1961), Milḥamot ha-Šem (Jacob ben Reuben), Jerusalén.
+evangelios, Salamanca (orig. alem. 1989).  
+Theissen, G. y Merz, A. (1999), El Jesús histórico. Un
 
-Ross Taylor, L. (1931), The Divinity of the Roman Emperor, Mid​dletown.
+manual, Salamanca (orig. alem. 1996).
 
-Rothschild, C. K. (2005), Baptist Traditions and Q, Tubinga. Rudolph, K. (1977), «Das frühe Christentum als religionsgeschicht​liches Phänomen», en J. Irmscher y K. Treu (eds.), Das Korpus der griechischen christlichen Schriftsteller: Historie, Gegenwart, Zukunft, Berlín, pp. 29- 42.
+Theissen, G. y Winter, D. (1997), Die Kriterienfrage in der Jesusforschung: Vom Differenzkriterium zum Plausibilitätskriterium, Gotinga.
 
-Ruether, R. (1974), Faith and Fratricide: The Theological Roots of Anti-Semitism, Eugene.
+Thiessen, M. (2016), «The Many for One or One for the Many? Rea​ding Mark 10:45 in the Roman Empire», HTR 109, pp. 447-466.
 
-Ruiz Bueno, D. (ed.) (1954), Padres apologistas griegos (s. II), Madrid.
+Thompson, T. y Verenna, T. (eds.) (2012), «Is This Not the Carpenter?» The Question of the Historicity of the Figure of Jesus, Shef​field.
 
-— (ed.) (1967), Orígenes. Contra Celso, Madrid.
+Tien, A. Y. (1991), «Distribution of Hallucinations in the Population», JSPE 26, pp. 287-292.
 
-Rutgers, L. V. (1994), «Roman Policy towards the Jews: Expulsions from the City of Rome during the First Century C.E.», CA 13, pp. 56-74.
+Tilliette, X. (1994), El Cristo de la filosofía, Bilbao (orig. fra. 1990).
 
-Rutledge, S. (2001), Imperial Inquisitions: Prosecutors and Informants from Tiberius to Domitian, Londres.
+Toland, J. (1718), Nazarenus, or Jewish, Gentile, and Mahometan Christianity, Londres.
 
-Ruzer, S. (2002), «From “Love your Neighbour” to “Love your Enemy”. Trajectories in Early Jewish Exegesis», RevB 109, pp. 371-389.
+Tommasi, F. (2014), Non c’è Cristo che tenga. Silenzi, invenzioni e imbarazzi alle origini del cristianesimo: Qual è il Gesù storico più credibile?, Lecce.
 
-— (2004), «“Love your Enemy” Precept in the Sermon on the Mount in the Context of Early Jewish Exegesis: A New Perspective», RevB 111, pp. 193-208.
+Toribio, P. (2016), «Los primeros testimonios sobre Martin Seidel, autor de Origo et fundamenta religionis christianae», ASHF 33, pp. 59-80.
 
-— (2007), «The Double Love Precept: Between Pharisees, Jesus and Qumran Covenanters», en id., Mapping the New Testament. Early Christian Writings as a Witness for Jewish Biblical Exegesis, Leiden, pp. 71-99.
+Toynbee, J. M. C. (1947), «Ruler-Apotheosis in Ancient Rome», NC 7, pp. 126-149.
 
-Safrai, Z. (2004), The Economy of Roman Palestine, Londres.
+Trautner-Kromann, H. (1993), Shield and Sword: Jewish Polemics against Christianity and Christians in France and Spain from 1100-1500, Tubinga [n. v.].
 
-Salvador, J. (1838), Jésus-Christ et sa doctrine. Histoire de la naissance de l’Église, de son organisation et de ses progrès pendant le premier siècle, 2 vols., París.
+Trevor-Roper, H. R. [Introd.] (21973), Hitler’s Table Talk 1941-1944: His Private Conversations (trad. de N. Cameron y R. H. Stevens), Londres (ed. orig. 1953).
 
-Salvatorelli, L. (1929), «From Locke to Reitzenstein: The Historical Investigation of the Origins of Christianity», HTR 22, pp. 263-369.
+Twelftree, G. (2009), «Jesus the Baptist», JSHJ 7, pp. 103- 125.
 
-Sanders, E. P. (1977), Paul and Palestinian Judaism, Londres/Filadelfia.  
-— (1985), Jesus and Judaism, Londres (ed. cast.: Jesús y el
+Tyson, J. B. (1960), «Jesus and Herod Antipas», JBL 79, pp. 239-246.
 
-judaísmo).  
-— (1991), «Defending the Indefensible», JBL 110, pp. 463-
+— (1961), «The Blindness of the Disciples in Mark», JBL 80, pp. 261-268.
 
-477.
+Van Os, B. (2011), Psychological Analyses and the Historical Jesus, Nueva York.
 
-— (1992), Judaism. Practice & Belief 63 BCE-66 CE, Londres.
+Vanderkam, J. C. y Milik, J. T. (1994), Qumran Cave 4, VIII: Parabiblical Texts, Part I (eds. H. W. Attridge y J. C. Vanderkam, DJD 13), Oxford.
 
-— (2001), La figura histórica de Jesús, Estella (orig. ingl. 1993).
+Van Fossen, A. (1988), «How Do Movements Survive Failures of Prophecy?», en L. Kriesberg et al. (eds.), Social Movements as a Factor of Change in the Contemporary World, Connecticut, pp. 193-212.
 
-Sanders, E. P. y Davies, M. (1989), Studying the Synoptic Gospels, Londres.
+Van Henten, J. W. (1997), The Maccabean Martyrs as Saviours of the Jewish people: A Study of 2 and 4 Maccabees, Leiden.
 
-Sanders, J. T. (1998), «The Criterion of Coherence and the Randomness of Charisma: Poring Through Some Aporias in the Jesus Tradition», NTS 44, pp. 1-25.
+Van Voorst, R. E. (2000), Jesus Outside the New Testament. An Introduction to the Ancient Evidence, Grand Rapids.
 
-Sandmel, S. (1956), A Jewish Understanding of the New Testament, Nueva York.
+Vargas Machuca, A. (2004), El Jesús histórico. Un recorrido por la investigación moderna, Madrid.
 
-— (1969), The First Christian Century in Judaism and Christianity: Certainties and Uncertainties, Oxford.
+Vázquez Allegue, J. (1998), «¡Abba Padre! (4Q372 1, 16). Dios como Padre en Qumrán», EstT 32, pp. 167-186.
 
-Sáry, P. (2005), «Die Kreuzigungsstrafe im römischen Reich», OIR 10, pp. 183-213.
+Vermes, G. (1973), Jesus the Jew: A Historian’s Reading of the Gospels, Londres (ed. cast.: Jesús el judío, 1977).
 
-Saumagne, Ch. (1964), «Tacite et saint Paul», RH 232, pp. 67-110.
+— (1983), Jesus and the World of Judaism, Londres.  
+— (1993), The Religion of Jesus the Jew, Londres (ed. cast.: La religión de Jesús el judío, 1996).
 
-Scapparone, E. (2007), «“Efficacissimus Dei Filius”. Sul Cristo Mago di Bruno», en F. Meroi (ed.), La magia nell’Europa moderna. Tra antica sapienza e filosofia naturale, Florencia, pp. 417-444.
+— (2002), The Authentic Gospel of Jesus, Londres.
 
-Schacter, D. L. (2003), Los siete pecados de la memoria, Barcelona (orig. ingl. 2001).
+Versnel, H. (1976), «Two Types of Roman “Deuotio”», Mnem 29, pp. 365-410.
 
-Schäfer, P. (2007), Jesus in the Talmud, Princeton.
+— (1989), «Quid Athenis et Hierosolymis? Bemerkungen über die Herkunft von Aspekten des “Effective Death”», en J. W. Van Henten (ed.), Die Entstehung der jüdischen Martyrologie, Leiden, pp. 162-196.
 
-Schelbert, G. (2011), ABBA Vater. Der literarische Befund vom Alt​aramäischen bis zu den späten Haggada-Werken, Gotinga.
+— (1990), Ter Unus. Isis, Dionysos, Hermes: Three Studies in Henotheism, Leiden.
+
+— (2005), «Making Sense of Jesus’ Death: The Pagan Contribution», en J. Frey y J. Schröter (eds.), Deutungen des Todes Jesu im Neuen Testament, Tubinga, pp. 213-294.
+
+Vessey, D. (1971), «Menoeceus in the Thebaid of Statius», CPh 66, pp. 236-243.
+
+Vidal, S. (2006), Jesús el Galileo, Santander.  
+Vlastos, G. (1991), Socrates: Ironist and Moral Philosopher,
+
+Cambridge.
+
+Voigt, C. (2003), Der englische Deismus in Deutschland, Tubinga.
+
+Volkmann, H. (1967), «Basileía als Éndoxos Douleía», Hist 16, pp. 155-161.
+
+Volney, C.-F. (1791), Les ruines, ou Méditations sur les revolutions des empires, París.
+
+Vos, J. S. (1984), «Antijudaismus-Antisemitismus im Theologi​schen Wörterbuch zum Neuen Testament», NTT 38, pp. 89-110.
+
+Wagenseil, J. C. (1681), Tela ignea Satanae, hoc est Arcani & Horribiles Judaeorum adversus Christum Deum & Christianam religionem Libri, Altdorf.
+
+Walker, W. O. (1969), «The Quest for the Historical Jesus: A Discussion of Methodology», ATR 51, pp. 38-56.
+
+Walter, N. (1989), «Paul and the Early Christian Jesus- Tradition», en A. J. M. Wedderburn (ed.), Paul and Jesus: Collected Essays, Sheffield, pp. 51-80.
+
+Wassén, C. (2016), «The Jewishness of Jesus and Ritual Purity», SIDA 27, pp. 11-36.
+
+— (2016a), «Jesus’ Work as a Healer in Light of Jewish Purity Laws», en I. Kalimi (ed.), Bridging between Sister Religions, Leiden, pp. 87-104.
+
+— (2016b), «Jesus’ Table Fellowship with “Toll Collectors and Sinners”. Questioning the Alleged Purity Implications», JSHJ 14, pp. 137-157.
+
+Watt, W. M. (1953), Muhammad at Mecca, Oxford. Waysblum, M. (1952), «Isaac of Troki and Christian
+
+Controversy in the XVI Century», JJS 3, pp. 62-77.  
+Webb, R. L. (1991), John the Baptizer and Prophet: A Socio-
+
+Historical Study, Sheffield.
+
+— (2009), «The Roman Examination and Crucifixion of Jesus: Their Historicity and Implications», en D. L. Bock y R. L. Webb (eds.), Key Events in the Life of the Historical Jesus, Tubinga, pp. 669-773.
+
+Weber, G. (2000), Kaiser, Träume und Visionen in Prinzipat und Spätantike, Stuttgart.
+
+Weaver, W. P. (1999), The Historical Jesus in the Twentieth Century 1900-1950, Harrisburg.
+
+Wedderburn, A. J. M. (2010), Jesus and the Historians, Tubinga.
+
+Weinfeld, M. (1982), «The King as the Servant of the People: The Source of the Idea», JJS 33, pp. 189-194.
+
+Weinreich, M. (1999), Hitler’s Professors. The Part of Scholarship in Germany’s Crimes Against the Jewish People, New Haven (ed. orig. 1946).
+
+Weinstock, S. (1971), Divus Julius, Oxford.
+
+Weiss, J. (31964), Die Predigt Jesu vom Reiche Gottes, Gotinga (ed. orig. 1892).
+
+Weitzman, S. (2009), «Warring against Terror. The War Scroll and the Mobilization of Emotion», JSJ 40, pp. 213- 241.
+
+Wellhausen, J. (1905), Einleitung in die drei ersten Evangelien, Berlín.
+
+Wenell, K. J. (2007), Jesus and Land: Sacred and Social Space in Second Temple Judaism, Londres.
+
+— (2017), «Kingdom, Not Kingly Rule: Assessing the Kingdom of God as Sacred Space», BibInt 25, pp. 206-233.
+
+Wengst, K. (2013), Der wirkliche Jesus? Eine Streitschrift über die historisch wenig ergiebige und theologisch sinnlose Suche nach dem «historischen» Jesus, Stuttgart.
+
+Wenham, J. W. (1982), «Why Do You Ask Me About the Good? A Study of the Relation Between Text and Source Criticism», NTS 28, pp. 116-125.
+
+Wernik, U. (1975), «Frustrated Beliefs and Early Christianity: A Psychological Enquiry into the Gospels of the New Testament», Numen 22, pp. 96-130.
+
+Wiebe, D. (1991), The Politics of Religious Studies: The Continuing Conflict With Theology in the Modern University, Nueva York.
+
+Wilke, C. L. (2016), «Historicizing Christianity and Profiat Duran’s Kelimat ha Goyim (1397)», MedEnc 22, pp. 140- 164.
+
+Wilker, J. (2007), Für Rom und Jerusalem. Die herodianische Dynastie im 1. Jahrhundert n. Chr., Fráncfort.
+
+Wilson, B. R. (1973), Magic and the Millennium: A Sociological Study of Religious Movements of Protest Among Tribal and Third-World Peoples, Londres.
+
+Willitts, J. (2005), «Presuppositions and Procedures in the Study of the “Historical Jesus”», JSHJ 3, pp. 61-108.
+
+Windisch, H. (1909), Der messianische Krieg und das Urchristentum, Tubinga.
+
+Winiarczyk, M. (2000), «La mort et l’apothéose d’Héraclès», WS 113, pp. 13-29.
+
+Winkler, H. y Stuiber, A. (1957), «Devotio», RAC III, pp. 849-862.
+
+Winn, A. (2008), The Purpose of Mark’s Gospel. An Early Christian Response to Roman Imperial Propaganda, Tubinga.
+
+— (2014), «Tyrant or Servant? Roman Political Ideology and Mark 10.42-45», JSNT 36, pp. 325-352.
+
+Winter, P. (21974), On the Trial of Jesus, Berlín (orig. 1961; ed. cast.: El proceso a Jesús, 1983).
+
+Wiseman, T. P. (2010), Clio’s Cosmetics. Three Studies in Greco-Roman Literature, Bristol.
+
+Witherington, B. (1995), The Jesus Quest. The Third Quest for the Jesus of Nazareth, Carlisle.
+
+Woolston, Th. (1727-1729), A Discourse on the Miracles of Our Savior, Londres.
+
+Worsley, P. (1957), The Trumpets Shall Sound: A Study of «Cargo» Cults in Melanesia, Londres (ed. cast.: Al son de la trompeta final, 1980).
+
+Wrede, W. (1901), Das Messiasgeheimnis in den Evangelien, Gotinga.
+
+Wright, N. T. (1986), «“Constraints” and the Jesus of History», SJT 39, pp. 189-210.
+
+— (1996), Jesus and the Victory of God, Mineápolis.
+
+— (2003), The Resurrection of the Son of God, Londres.
+
+Yarbro Collins, A. (1997), «Apotheosis and Resurrection», en P. Borgen y S. Giversen (eds.), The New Testament and Hellenistic Judaism, Peabody, pp. 88-100.  
+— (1998), «Finding Meaning in the Death of Jesus», JR 78,
+
+pp. 175-196.
+
+— (1999), «The Worship of Jesus and the Imperial Cult», en Newman 1999, pp. 234-257.
+
+— (1999a), «Mark and His Readers: The Son of God Among Jews», HTR 92, pp. 393-408.
+
+— (2000), «Mark and His Readers: The Son of God Among Greeks and Romans», HTR 93, pp. 85-100.
+
+— (2007), Mark. A Commentary, Mineápolis.
+
+— (2007a), «How On Earth Did Jesus Become a God? A Reply», en D. B. Capes et al. (eds.), Israel’s God and Rebecca’s Children: Christology and Community in Early Judaism and Christianity, Waco, pp. 55-66.
+
+Young, F. M. (2006), «Prelude: Jesus Christ, Foundation of Christianity», en M. M. Mitchell y F. M. Young (eds.), The Cambridge History of Christianity, vol. 1: Origins to Constantine, Cambridge, pp. 1-34.
+
+Zangenberg, J. (2017), «Nichtliterarische Zeugnisse», en Schröter y Jacobi 2017, pp. 171-181.
+
+Zeichmann, C. B. (2017), «The Date of Mark’s Gospel apart from the Temple and Rumors of War: The Taxation Episode (Mark 12:13-17) as Evidence», CBQ 79, pp. 422- 437.
+
+— (2017a), «Capernaum: A “Hub” for the Historical Jesus or the Markan Evangelist?», JSHJ 15, pp. 147-165.
+
+— (2018), The Roman Army and the New Testament, Lanham.
+
+Zeller, D. (1988), «Die Menschwerdung des Sohnes Gottes im Neuen Testament und die antike Religionsgeschichte», en id. (ed.), Menschwerdung Gottes – Vergöttlichung von Menschen, Friburgo, pp. 141-176.
+
+— (1996), «La métamorphose de Jésus comme épiphanie (Mc 9,2-8)», en A. Marchadour (ed.), L’Évangile exploré: Mélanges offerts à Simon Légasse, París, pp. 167-186.
+
+— (2003), «The THEIA PHYSIS of Hippocrates and of other “Divine Men”», en J. T. Fitzgerald et al. (eds.), Early Christianity and Classical Culture. Comparative Studies in Honor of Abraham J. Malherbe, Leiden, pp. 49-69.
+
+Zerbe, G. (1993), Non-Retaliation in Early Jewish and New Testament Texts: Ethical Themes in Social Contexts, Sheffield.
+
+— (1993a), «“Pacifism” and “Passive Resistance” in Apocalyptic Writings: A Critical Evaluation», en J. H. Charlesworth y C. A. Evans (eds.), The Pseudepigrapha and Early Biblical Interpretation, Sheffield, pp. 65-95.
+
+Zetterholm, K. H. (2016), «Isaac and Jesus: a Rabbinic Reappropriation of a “Christian” Motif?», JJS 67, pp. 102- 120.
+
+Zygmunt, J. S. (1972), «When Prophecies Fail: A Theoretical Perspective on the Comparative Evidence», ABS 16, pp. 245-267.
