@@ -1,3 +1,6 @@
+## Other
+
+- [ ] Historia General de las Cosas de la Nueva España
 
 ### Matemáticas
 
