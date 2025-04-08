@@ -18,19 +18,14 @@
 
 - Danylenko, V. M. et al., eds. [[Holodomor 1932–1933 rokiv v Ukraïni za dokumentamy HDA SBU. anotovanyi dovidnyk]]. L’viv: Tsentr Doslidzhen’ Vyzvol’noho Rukhu, 2010.  
 
-——. Pavlohrads’ke povstannia, 1930: dokumenty i materialy. Kyiv: Ukraïns’kyi Pys’mennyk, 2009. Graziosi, Andrea. Lettere da Kharkov. La carestia in Ucraina e nel Caucaso del nord nei rapporti
+- Danylenko, V. M. et al., eds. [[Pavlohrads’ke povstannia, 1930. dokumenty i materialy]]. Kyiv: Ukraïns’kyi Pys’mennyk, 2009.
 
-diplomatici italiani 1923–33. Turin: Einaudi, 1991. http://www.ibs.it/lettere-da-kharkov-carestia-in-
+- Graziosi, Andrea. [[Lettere da Kharkov. La carestia in Ucraina e nel Caucaso del nord nei rapporti diplomatici italiani 1923–33]]. Turin: Einaudi, 1991. http://www.ibs.it/lettere-da-kharkov-carestia-in-libro-vari/e/9788806121822.  
 
-libro-vari/e/9788806121822.  
-——. ‘ “Lettres de Kharkov”: La famine en Ukraine et dans le Caucase du Nord (à travers les rapports
+- Graziosi, Andrea. ‘[[“Lettres de Kharkov”. La famine en Ukraine et dans le Caucase du Nord (à travers les rapports des diplomates italiens, 1932–1934)]]’, Cahiers du monde russe et soviétique 30, no. 1 (1989). http://www.persee.fr/doc/cmr_0008-0160_1989_num_30_1_2176.  
 
-des diplomates italiens, 1932–1934)’, Cahiers du monde russe et soviétique 30, no. 1 (1989).
+- Graziosi, Andrea. [[Lysty z Kharkova. Holod v Ukraïni ta na Pivnichnomu Kavkazi v povidomlenniakh italiis’kykh dyplomativ 1932–33 roky]]. Kharkiv: Folio, 2007.  
 
-http://www.persee.fr/doc/cmr_0008-0160_1989_num_30_1_2176.  
-——. Lysty z Kharkova: Holod v Ukraïni ta na Pivnichnomu Kavkazi v povidomlenniakh italiis’kykh
-
-dyplomativ 1932–33 roky. Kharkiv: Folio, 2007.  
 Khlevniuk, O. V. et al., eds. Stalin i Kaganovich: perepiska, 1931–1936 gg. Moscow: ROSSPEN, 2001. Kokin, S. A., Valerii Vasyl’ev, and Nicolas Werth, eds. ‘Dokumenty orhaniv VKP(b) ta DPU USRR pro
 
 nastroï i modeli povedinky partiino-radians’kykh pratsivnykiv u respublitsi, 1932–33 rr.’, Z arkhiviv
