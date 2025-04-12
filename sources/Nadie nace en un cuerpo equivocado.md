@@ -28,3 +28,23 @@ Primera Edición en España, Editorial Booket, Feb 2024
 - Orna Donath, [[Madres arrepentidas]], Reservoir Books, Barcelona, 2016
 - Marta Borraz & Ana Requena Aguilar, «[[Paul B. Preciado. "El sujeto del feminismo es el proyecto de transformación radical de la sociedad en su conjunto"]]», elDiario.es
 - Jonathan Balcombe, «Animal pleasure and its moral significance», _Applied Animal Behavior Science_, 118, 3-4 (2009)
+- Norbert Elias, [[El proceso de la civilización]], Fondo de Cultura Económico, México, DF, [1939] 2020
+- Philippe Ariès y Georges Duby, [[Historia de la vida privada]], Taurus, Madrid, 1989
+- Helena Béjar, [[El ámbito íntimo. Privacidad, individualismo y modernidad]], Alianza Universidad, Madrid, 1988
+- Peter Ueda, Catherine H. Mercer, y Debby Herbenick, [[Trends in Frequency of Sexual Activity and Number of Sexual Partners Among Adults Aged 18 to 44 Years in the US, 2000-2018]], _JAMA Network Open_, 3, 6 (2020), e203833
+- Viktor E. Frankl, [[En el principio era el sentido. Reflexiones en torno al ser humano]], Paidós Ibérica, Barcelona, 2014
+- Julianne Holt-Lunstad, Timothy B. Smith, y J.Bradley Layton, [[Social Relationships and Mortality Risk. A Meta-analytical Review]], _PLOS Medicine_, 7, 7 (2010), e1000316
+- Erik Gandini, [[La teoría sueca del amor]], documental, 2015
+- Sherry Turkle, [[Alone Together. Why We Expect More from Technology and Less from Each Other]], Basic Books, Nueva York, 2011
+- Datareportal, [[Ditgital 2021. Global Overview Report]], 2021
+- Chiungjun Huang, [[Time Spent on Social Network Sties and Psychological Well-Being. A Meta-Analysis]], _Cyberpsychology, Behavior, and Social Networking_, 20 (2017)
+- Holly B. Shakya y Nicholas A. Christakis, [[Association of Facebook Use with Compromised Well-Being. A Longitudinal Study]]. _American Journal of Epidemiology_, 185 (2017)
+- Jean M. Twenge, Gabrielle N. Martin, y W. Keith Campbell, [[Decreases in psuchological well0being among American adolescents after 2012 and links to screen time during the rise of smartphone technology]], _Emotion_, 18, 6 (2018)
+- _The Wall Street Journal_, [[Facebook Knows Instagram Is Toxic for Teen Girls, Company Documents Show]], 14 de Septiembre de 2021
+- Hugo Ochoa, [[Ficthe. cultura y libertad]], _Revista de Estudios sobre Fichte_, 9 (2014)
+- Jean M. Twenge y W. Keith Campbell, [[La epidemia del narcisismo]], Ediciones Cristiandad, Madrid, 2018
+- Marino Pérez Álvarez, José Carlos Sánchez González, y Edgar Cabanas, [[La vida real en tiempos de la felicidad. Crítica de la psicología (y de la ideología) positiva]], Alianza Editorial, Madrid, 2018
+- Martin Seligman, [[La auténtica felicidad]], Ediiones B, Barcelona, 2002
+- Edgar Cabanas y Eva Illouz, [[Happycracia. Cómo la ciencia y la industria de la felicidad controlan nuestras vidas]], Paidós Ibérica, Barcelona, 2019
+- Douglas Murray, [[La masa enfurecida]], Península, Barcelona, 2020
+- José Errasti, [[Hacía una sociedad cándida]], _The Converstaion_, 3 de julio de 2018
