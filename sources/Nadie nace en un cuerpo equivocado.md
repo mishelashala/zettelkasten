@@ -48,3 +48,13 @@ Primera Edición en España, Editorial Booket, Feb 2024
 - Edgar Cabanas y Eva Illouz, [[Happycracia. Cómo la ciencia y la industria de la felicidad controlan nuestras vidas]], Paidós Ibérica, Barcelona, 2019
 - Douglas Murray, [[La masa enfurecida]], Península, Barcelona, 2020
 - José Errasti, [[Hacía una sociedad cándida]], _The Converstaion_, 3 de julio de 2018
+- Elena Armesto, [[La trampa de los Principios de Yogyakarta]], _El Común_, 10 de febrero de 2021
+- Tina Elaine Minkowitz, [[Female Autonomy vs Gender Identity A critical analysis of gender identity in CEDAW jurisprudencse and the Yoguakarta Principles]], Universidad de Oslo, Oslo, 2016
+- Chrysallis, [[En la piel de Daniel]]
+- Consejo de Europa, [[Convenio del Consejo de Europa sobre prevención y lucha conra la violencia contra las mujeres y la violencia doméstica]], 2011
+- Melani Penna Tosso, Mercedes Sánchez Sáinz, y Belén de la Rosa Rodriguez, [[El mudno raro der Mermel]], Federación de Enseñanza de Comisiones Obreras, Madrid, 2020
+- Silvia Carrasco (coord.), [[La coeducación secuestrada. Una crítica feminista al avance de las ideas transgeneristas en la escuela]], Octaedro, Barcelona, 2021
+- Claire Zillman, [[Changing Genders at Work. Inside the Fortune 500's Quiet Transgender Revolution]], _Fortune_, 13 de julio del 2015
+- Human Rights Campaign Foundation, [[Corporate Equality Index 2020, Rating Workplaces on lesbian, gay, bisexual, transgender and queer equality]]
+- Amnistía Internacional, [[¡Amazon, dejen sindicarse a sus trabajadores y trabajadoras! El respeto de los derechos laborales no es opcional]], 2020
+- GLAAD Media Institute, [[Where we are on TV 2020-2021]], 2021
