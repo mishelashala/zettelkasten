@@ -26,12 +26,11 @@
 
 - Graziosi, Andrea. [[Lysty z Kharkova. Holod v Ukraïni ta na Pivnichnomu Kavkazi v povidomlenniakh italiis’kykh dyplomativ 1932–33 roky]]. Kharkiv: Folio, 2007.  
 
-Khlevniuk, O. V. et al., eds. Stalin i Kaganovich: perepiska, 1931–1936 gg. Moscow: ROSSPEN, 2001. Kokin, S. A., Valerii Vasyl’ev, and Nicolas Werth, eds. ‘Dokumenty orhaniv VKP(b) ta DPU USRR pro
+- Khlevniuk, O. V. et al., eds. [[Stalin i Kaganovich. perepiska]], 1931–1936 gg. Moscow: ROSSPEN, 2001.
 
-nastroï i modeli povedinky partiino-radians’kykh pratsivnykiv u respublitsi, 1932–33 rr.’, Z arkhiviv
+- Kokin, S. A., Valerii Vasyl’ev, and Nicolas Werth, eds. ‘[[Dokumenty orhaniv VKP(b) ta DPU USRR pro nastroï i modeli povedinky partiino-radians’kykh pratsivnykiv u respublitsi, 1932–33 rr]].’, Z arkhiviv VUChK-GPU-NKVD-KGB 1–2, nos. 40–1 (2013).  
 
-VUChK-GPU-NKVD-KGB 1–2, nos. 40–1 (2013).  
-——. Partiino-Radians’ke kerivnytstvo USRR pid chas Holodomoru 1932–33 rr.: vozhdi, pratsivnyky,
+- Kokin, S. A., Valerii Vasyl’ev, and Nicolas Werth, eds. [[Partiino-Radians’ke kerivnytstvo USRR pid chas Holodomoru 1932–33 rr]].: vozhdi, pratsivnyky,
 
 aktyvisty: zbirnyk dokumentiv ta materialiv. Kyiv: Instytut Istoriï Ukraïny NAN Ukraïny, 2013. Kondrashin, V. V. et al., eds. Golod v SSSR: 1929–1934. Rossiia XX vek. Moscow: Mezhdunarodnyi
 
