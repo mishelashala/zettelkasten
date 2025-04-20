@@ -58,3 +58,112 @@ Primera Edición en España, Editorial Booket, Feb 2024
 - Human Rights Campaign Foundation, [[Corporate Equality Index 2020, Rating Workplaces on lesbian, gay, bisexual, transgender and queer equality]]
 - Amnistía Internacional, [[¡Amazon, dejen sindicarse a sus trabajadores y trabajadoras! El respeto de los derechos laborales no es opcional]], 2020
 - GLAAD Media Institute, [[Where we are on TV 2020-2021]], 2021
+- Jennifer Bilek, «[[From the World Bank to LGBT Leadership/The Corporate Colonization of Human Sex]]», The 11th Hour, 25 de noviembre de 2020, <https://www.the11thhourblog.com/post/from-the-world-bank-to-lgbt-leadership- the-corporate-colonization-of-human-sex>. [Consulta: 3 de junio de 2021]
+- Jennifer Bilek, «[[Who Are the Rich, White Men Institutionalizing Transgender Ideology?]]», The Federalist, 20 de febrero de 2018, <https://thefederalist.com/2018/02/20/rich-white-men-institutionalizing- transgender-ideology/>. [Consulta: 4 de junio de 2021]
+- Jennifer Bilek, «[[The billionaires behind the LGBT movement]]», First Things, 21 de enero de 2020, <https://www.firstthings.com/web-exclusives/2020/01/the-billionaires-behind-the- lgbt-movement>. [Consulta: 4 de junio de 2021]
+- Elena Armesto, «[[La industria de la identidad de género ha pasado de valer ocho mil millones de euros anuales a más de tres billones en sólo cinco años]]», La Hora Digital, 7 de marzo de 2021, <https://www.lahoradigital.com/noticia/31044/igualdad/la-industria-de-la-identidad- de-genero-ha-pasado-de-valer-8000-millones-de-euros-anuales-a-mas-de-3- billones-en-solo-cinco-anos.aspx>. [Consulta: 4 de junio de 2021]
+- Usha Lee McFarling, «[[Demand for transgender medical care is exploding]]», Insider, 26 de diciembre de 2016, <https://www.businessinsider.com/demand-for- transgender-medical-care-is-exploding-2016-12>. [Consulta: 4 de junio de 2021]
+- IGLYO, [[Only adults? Good practices in legal gender recognition for youth]], 2019, <https://www.iglyo.com/wp-content/uploads/2019/11/IGLYO_v3-1.pdf>. [Consulta: 2 de junio de 2021]
+- Jennifer Bilek, «[[Transgenderism Is Just Big Business Dressed Up In Pretend Civil Rights Clothes]]», The Federalist, 5 de julio de 2018, <https://thefederalist.com/2018/07/05/transgenderism-just-big-business-dressed- pretend-civil-rights-clothes/>. [Consulta: 5 de junio de 2021]
+- Gustavo Bueno, «[[Predicables de la Identidad]]», El Basilisco, 2.a época, 25 (1999), pp. 3-30.
+- Human Rights Commission, «[[To be who I am: Report of the inquiry into discrimination experienced by transgender people]]», 2008, <https://www.hrc.co.nz/files/5714/2378/7661/15-Jan-2008_14-56- 48_HRC_Transgender_FINAL.pdf>.
+- American Psychological Association, «[[Guidelines for Psychological Practice With Transgender and Gender Nonconforming People]]», American Psychologist, 70, 9 (2015), pp. 832-864.
+- Rosa Cobo Bedia, «[[El género en las ciencias sociales]]», Cuadernos de Trabajo Social, 18 (2005), pp. 249-258.
+- Alicia Miyares, «[[Esencialismo de “Género”]]», El Plural, 25 de octubre de 2018, <https://tribunafeminista.elplural.com/2018/10/esencialismo-de-genero/>, [Consulta: 8 de junio de 2021]
+- Tey Meadow, «[[“Deep down where the music plays”. How parents account for childhood gender variance]]», Sexualities, 14, 6 (2011), pp. 725-747.
+- Chrysallis, [[La historia de Ariel, mi princesa]], 2014, <https://chrysallis.org/la- historia-de-ariel-mi-princesa/>. [Consulta: 10 de junio de 2021]
+- Félix Ovejero, [[La deriva reaccionaria de la izquierda]], Editorial Página Indómita, Barcelona, 2018. Alejo Scharpe, La traición progresista, Península Atalaya, Barcelona, 2021.
+- [[Antonio Machado, Poesía completa]], Espasa Libros, Barcelona, 2010.
+- Helen Pluckrose y James Lindsay, [[Cynical Theories. How Universities Made Everything about Race, Gender and Identity]], pp. 14, 48, Faber And Faber, Londres, 2020.
+- Stuart Jeffries, [[Gran Hotel Abismo. Biografía coral de la Escuela de Frankfurt]], p. 11, Turner, Madrid, 2016.
+- François Cusset, [[French Theory, Foucault, Derrida, Deleuze & Cía. y las mutaciones de la vida intelectual en Estados Unidos]], Editorial Melusina, Santa Cruz de Tenerife, 2005.
+- Paul B. Preciado, [[Yo soy el monstruo que os habla. Informe para una academia de psicoanalistas]], pp. 39, 41, 42, 104, Anagrama, Barcelona, 2020.
+- Carmen Romero Bachiller, Silvia García Dauder, y Carlos Bargueiras Martínez, Grupo de Trabajo Queer (eds.), [[El eje del mal es heterosexual. Figuraciones, movimientos y prácticas feministas queer]], Traficantes de Sueños, Madrid, 2005.
+- Alicia Miyares, [[Distopías patriarcales. Análisis feminista del «generismo queer»]], p. 150, Cátedra, Barcelona, 2021.
+- María Binetti, «[[La queerización posfeminista. del constructivismo trans/genérico a la eliminación de las mujeres]]», La Aljaba, 23 (2019), pp. 59-79.
+- Amelia Valcárcel, [[Ahora, Feminismo. Cuestiones candentes y frentes abiertos]], Cátedra, Barcelona, 2019.
+- Douglas Murray, [[La masa enfurecida. Cómo las políticas de identidad llevaron el mundo a la locura]], p. 88, Península, Barcelona, 2020.
+- Martha Nussbaum, «[[The Professor of Parody. The hip defeatism of Judith Butler]]», The New Republic, 22 (1999), pp. 37-45, <https://newrepublic.com/article/150687/professor-parody>. [Consulta: 28 de febrero de 2021]
+- «[[An interview with Camille Paglia]]», Bookslut, abril de 2015, <http://www.bookslut.com/features/2005_04_005030.php>. [Consulta: 28 de febrero de 2021] Blog desaparecido posteriormente.
+- Judith Butler, [[El género en disputa. El feminismo y la subversión de la identidad]], p. 235, Paidós, Barcelona, 2007.
+- Judith Butler, «[[Performative Acts and Gender Constitution. An Essay in Phenomenology and Feminist Theory]]», Theatre Journal, 40, 4 (1988), pp. 519- 531.
+- Judith Butler, «[[Sex and Gender in Simone de Beauvoir’s Second Sex]]», Yale French Studies, 72 (1986), pp. 35-49.
+- Silvia Stoller, «[[Expressivity and performativity. Merleau-Ponty and Butler]]», Continental Philosophy Review, 43 (2010), pp. 97-110, <https://doi.org/10.1007/s11007-010-9133-x>.
+- Diana Triana Moreno, «[[Expresión y performatividad. El cuerpo como ser sexuado]]», Revista de Filosofía de la Universidad del Norte, 29 (2018), pp. 201- 224.
+- Carmen López Sáenz, «[[Contribuciones de Merleau-Ponty a la filosofía feminista]]», Phainomenon, 18-19 (2009), pp. 95-124, pp. 120, 122, <http://phainomenon-journal.pt/index.php/phainomenon/article/view/188>. [Consulta: 25 de febrero de 2021]
+- Maren Wehrle, «[[“Bodies (that) matter”. the role of habit formation for identity]]», Phenomenology and the Cognitive Sciences, 20 (2020), pp. 365-386, <https://doi.org/10.1007/s11097-020-09703-0>.
+- Jay Prosser, [[Second Skins. The Body Narratives of Transsexuality]], p. 32, Columbia University Press, Nueva York, 1998.
+- Celia Amorós, «[[El método en Simone de Beauvoir. Método y psicoanálisis existencial]]», Ágora, 28 (2009), pp. 11-29.
+- Teresa López Pardina, «[[El feminismo existencialista de Simone de Beauvoir]]», en Celia Amorós y Ana de Miguel (eds.), Teoría feminista..., op. cit., pp. 333-365.
+- Carmen López Sanz, «[[Merleau-Ponty (1908-1961) y Simone de Beauvoir (1908-1986). El cuerpo fenoménico desde el feminismo]]», Sapere Aude, 3 (2012), pp. 401-411.
+- Helen Pluckrose, James A. Lindsay, y Peter Boghossian, «[[Academic Grievance Studies and the Corruption of Scholarship]]», Areo, 2 de octubre de 2018, <https://areomagazine.com/2018/10/02/academic-grievance-studies-and- the-corruption-of-scholarship/>. [Consulta: 5 de marzo de 2021]
+- Peter Boghossian y James A. Lindsay, «[[Una historia increíble de la miseria intelectual del posmodernismo. El pene conceptual como un constructo social. un engaño al estilo Sokal sobre estudios de género]]», Sin Permiso, 10 de junio de 2017, <https://www.sinpermiso.info/printpdf/textos/una-historia-increible-de-la- miseria-intelectual-del-postmodernismo-el-pene-conceptual-como-un>. [Consulta: 5 de marzo de 2021]
+- Judith Butler, [[Mecanismos psíquicos del poder. Teoría sobre la sujeción]], p. 165, Cátedra, Barcelona, 2001.
+- Anne Fausto-Sterling, [[Cuerpos sexuados. La política de género y la construcción de la sexualidad, 2.a ed. ampliada]], p. 20, Melusina, Santa Cruz de Tenerife, 2020.
+- Jennifer Ann Graves, «[[Twenty-five years of the sex-determining gene]]», Nature, 528 (2015), pp. 343-344, <https://doi.org/10.1038/528343a>.
+- Paul B. Preciado, «[[La invención del género, o el tecnocordero que devora a los lobos - Biopolítica del Género]]», <https://www.bibliotecafragmentada.org/wp- content/uploads/2019/05/365213634-Preciado-B-La-Invencion-Del-Genero-o-El- Tecnocordero-Que-Devora-a-Los-Lobos-1.pdf>. [Consulta: 13 de marzo de 2021]
+- Paul B. Preciado, [[Manifiesto contrasexual]], pp. 105-106, Anagrama, Barcelona, 2000/2020.
+- Paul B. Preciado, [[Testo yonqui. Sexo, drogas y biopolítica]], p. 278, Anagrama, Barcelona, 2020.
+- Miquel Martínez, «[[Paul B. Preciado, Gucci y las miserias del capitalismo]]», El Rumor de las Multitudes, 18 de diciembre de 2020, <https://www.elsaltodiario.com/el-rumor-de-las-multitudes/paul-b.-preciado-gucci- y-las-miserias-del-capitalismo>.
+- Gerard Coll-Planas, [[La carne y la metáfora. Una reflexión sobre el cuerpo en la teoría queer]], pp. 79-82, Egales, Barcelona/Madrid, 2012.
+- María J. Binetti, Valentina Cruz y Daniel Alberto Sicerone, «[[El transhumanismo de Paul B. Preciado. Sobre las ficciones antirrealistas del Manifiesto contrasexual]]», Revista de Filosofía, 53, (2021), pp. 410-441, <doi 10.48102/rdf.v53i151.111, p. 438-9>.
+- Peter Ueda, Catherine H. Mercer, Cyrus Ghaznavi, y Debby Herbenick, «[[Trends in Frequency of Sexual Activity and Number of Sexual Partners Among Adults Aged 18 to 44 Years in the US, 2000-2018]]», JAMA Network Open, 3, 6 (2020), e203833, <https://es.jamanetwork.com/journals/jamanetworkopen/fullarticle/2767066>.
+- Eloy Fernández Porta, [[Las aventuras de Genitalia y Normativa]], p. 111, Anagrama, Barcelona, 2021.
+- Byung-Chul Han, [[La desaparición de los rituales]], p. 112, Herder, Barcelona, 2020.
+- Marshall Berman, [[Todo lo sólido se desvanece en el aire: la experiencia de la modernidad]], Siglo XXI, Madrid, 1988.
+- Frank Furedi, [[Qué está pasando en la universidad. Un análisis de su infantilismo]], Narcea, Madrid, 2018.
+- Jonathan Haidt y Greg Lukianoff, [[La transformación de la mente moderna. Cómo las buenas intenciones y las malas ideas están condenando a una generación al fracaso]], Deusto, Barcelona, 2019.
+- Edu Galán, [[El síndrome Woody Allen. Por qué Woody Allen ha pasado de ser inocente a culpable en diez años]], Debate, Madrid, 2020.
+- Darío Villanueva, [[Morderse la lengua. Corrección política y posverdad]], Espasa, Barcelona, 2021.
+- Jack Martin y Ann-Marie McLellan, [[The Education of Selves. How Psychology Transformed Students]], Oxford University Press, Oxford, 2013.
+- Kimberlé Crenshaw, «[[Demarginalizing the Intersection of Race and Sex. A Black Feminist Critique of Antidiscrimination Doctrine, Feminist Theory and Antiracist Politics]]», University of Chicago Legal Forum, art. 5, 1989, pp. 139-168.
+- Alejo Schapire, [[La traición progresista]], p. 60, Península Atalaya, Barcelona, 2021.
+- Peggy McIntosh, «[[White Privilege. Unpacking the Invisible Knapsack]]», Peace and Freedom Magazine, 1989, pp. 10-12.
+- Eric Voegelin, [[Las religiones políticas]], p. 82, Trotta, Madrid, 2014.
+- Stefano Abbate, «[[La destrucción de la naturaleza por parte de la gnosis. Dios, cosmos, hombre]]», Espíritu, LXVI, 154 (2017), pp. 411-425.
+- Álvaro Narva Gil, [[Una introducción al modelo gnóstico de Eric Voegelin. entre la omnipotencia y el feminismo]], Ediciones Beers&Politics, Barcelona, 2021.
+- Zygmunt Bauman, [[Tiempos líquidos. vivir en una época de incertidumbre]], Tusquets, Barcelona, 2017.
+- James A. Lindsay y Mike Nayna, «[[Postmodern Religion and the Faith of Social Justice]]», Areo, 18 de febrero de 2018, <https://areomagazine.com/2018/12/18/postmodern-religion-and-the-faith-of- social-justice/>.
+- Marino Pérez Álvarez, [[Ciencia y pseudociencia en psicología y psiquiatría. más allá de la corriente principal]], pp. 347-357, Alianza Editorial, Madrid, 2021.
+- Harry G. Frankfurt, [[On Bullshit. sobre la manipulación de la verdad]], p. 52, Paidós, Barcelona, 2006.
+- María Binetti, «[[La queerización posfeminista. del constructivismo trans/genérico a la eliminación de las mujeres]]», La Aljaba, 23 (2019), pp. 59-79. Pérez Álvarez, op. cit., cap. 1.
+- Nastasja de Graaf, Peggy Cohen-Kettenis, Polly Carmichael, et al., «[[Psychological functioning in adolescents referred to specialist gender identity clinics across Europe. a clinical comparison study between four clinics]]», European Child & Adolescent Psychiatry, 27 (2018), pp. 909-919, <https://doi.org/10.1007/s00787-017-1098-4>.
+- Cioran McGrath, «[[Investigation as number of girls seeking gender transition treatment rises 4,515 percent]]», Express, 16 de septiembre de 2018, <https://www.express.co.uk/news/uk/1018407/gender-transition-treatment- investigation-penny-mordaunt>. [Consulta: 16 de abril de 2021];
+- Gordon Rayner, «[[Minister orders inquiry into 4,000 per cent rise in children wanting to change]]», The Telegraph, 16 de septiembre de 2018, <https://www.telegraph.co.uk/politics/2018/09/16/minister-orders-inquiry-4000-per- cent-rise-children-wanting/>. [Consulta: 16 de abril de 2021]
+- Richard Orange, «[[Teenage transgender row splits Sweden as dysphoria diagnoses soar by 1,500%]]», The Guardian, 22 de febrero de 2020, <https://www.theguardian.com/society/2020/feb/22/ssweden-teenage-transgender- row-dysphoria-diagnoses-soar>. [Consulta: 16 de abril de 2021]
+- Antonio Becerra Fernández, «[[Disforia de género/incongruencia de género: Transición y detransición, persistencia y desistencia]]», Endocrinología, Diabetes y Nutrición, 67, 9 (2020), pp. 559-561, <https://doi.org/10.1016/j.endinu.2020.03.011>.
+- María Fernández Rodríguez, Patricia Guerra Mora, Ana Isabel Revuelta Fernández, y Ana Villaverde González, «[[Ratio sexo/género de los adolescentes con disforia de género de la Unidad de Tratamiento de Identidad de Género de Asturias]]», Revista Internacional de Andrología, 19, 3 (2020), pp. 195-200, <https://doi.org/10.1016/j.androl.2020.03.003>.
+- Kenneth Zucker, «[[Adolescents with Gender Dysphoria. Reflections on Some Contemporary Clinical and Research Issues]]», Archives of Sexual Behavior, 48, 7 (2019), pp. 1983-1992, <https://doi.org/10.1007/s10508-019-01518-8>, p. 1983.
+- Lisa Littman, «[[Parent reports of adolescents and young adults perceived to show signs of a rapid onset of gender dysphoria]]», PLoS ONE, 13, 8 (2018), e0202330, <https://doi.org/10.1371/journal.pone.0202330>.
+- Lisa Littman, «[[Correction. Parent reports of adolescents and young adults perceived to show signs of a rapid onset of gender dysphoria]]», PLoS ONE, 14, 3 (2019), e0214157, <https://doi.org/10.1371/journal.pone.0214157>.
+- Lisa Littman, «[[The use of methodologies in Littman (2018) is consistent with the use of methodologies in other studies contributing to the field of gender dysphoria research. Response to Restar]]», Archives of Sexual Behavior, 49 (2020), pp. 67- 77, <https://doi.org/10.1007/s10508-020-01631-z>.
+- Pablo Expósito Campos, [[Ciencia y valores. La politización de la ciencia en el contexto de investigación y tratamiento de la disforia de género]], Trabajo Fin de Máster, UNED, 2020.
+- José Ramón Ubieto y Marino Pérez Álvarez, [[Niñ@s hiper. Infancias hiperactivas, hipersexualizadas, hiperconectadas]], NED, Barcelona, 2018.
+- Paul Auster, [[Diario de invierno]], Anagrama, Barcelona, 2012.
+- Caitlin Moran, [[Cómo ser mujer]], p. 15, Anagrama, Barcelona, 2013.
+- Timothy D. Wilson, David Reinhard, Erin Westgate, et al., «[[Just think. The challenges of the disengaged mind]]», Science, 345, 6192 (2012), pp. 75-77, <https://www.science.org/lookup/doi/10.1126/science.1250830>.
+- Marino Pérez Álvarez, «[[Envidia. El pecado capital de las redes sociales]]», Anuario de Psicoloxía e Saúde, 13 (2019), pp. 6-17.
+- Dagny, «[[Dagny on social media, gender dysphoria, “trans youth”, and detransitioning]]», Feminist Current, 4 de junio de 2019, <https://www.feministcurrent.com/2019/06/04/dagny-on-social-media-gender- dysphoria-trans-youth-and-detransitioning/>.
+- Abigail Shrier, [[Un daño irreversible. La locura transgénero que seduce a nuestras hijas]], cap. 3, Deusto, Barcelona, 2021.
+- Lorena G. Maldonado y Ainhoa Iriberri, «[[El drama de los trans arrepentidos. “Me engañaron, caes en un bucle de cirugías”]]», El Español, 24 de octubre de 2021, <https://www.elespanol.com/porfolio/actualidad/20211024/drama-trans- arrepentidos-enganaron-caes-bucle-cirugias/621438970_0.html>.
+- Lise Eliot, Adnan Ahmed, Hiba Khan, y Julie Patel, «[[Dump the “dimorphism”. Comprehensive synthesis of human brain studies reveals few male-female differences beyond size]]», Neuroscience & Biobehavioral Reviews, 125 (2021), pp. 667-697, <https://doi.org/10.1016/j.neubiorev.2021.02.026>, p. 690.
+- Gina Rippon, [[El género y nuestros cerebros. La nueva neurociencia que rompe el mito del cerebro femenino]], p. 390, Galaxia Gutenberg, Barcelona, 2020.
+- Daphna Joel y Luba Vikhanski, [[Gender Mosaic. Beyond the Myth of the Male and Female Brain]], p. 58, Little, Brown Spark, Nueva York, 2019.
+- Gayle Salamon, [[Assuming a body. Transgender and rhetoric of materality]], p. 5 y cap. 2, Columbia University Press, Nueva York, 2010.
+- Talia Mae Bettcher, «[[Trapped in the Wrong Theory. Rethinking Trans Oppression and Resistance]]», Signs: Journal of Women in Culture and Society, 39 (2014), pp. 383-406. Ulrica Engdahl, «Wrong Body», Transgender Studies Quarterly, 1, 1-2 (2014), pp. 267- 269.
+- Miquel Missé, [[Transexualidades. Otras miradas posibles]], Egales, Barcelona/Madrid, 2013. 
+- Miquel Missé, [[A la conquista del cuerpo equivocado]], Egales, Barcelona/Madrid, 2018.
+- Roberto D’Angelo, Ema Syrulnik, Sasha Ayad, Lisa Marchiano, Dianna T. Kenny, y Patrick Clark, «[[One Size Does Not Fit All. In Support of Psychotherapy for Gender Dysphoria]]», Archives of Sexual Behavior, 50 (2021), pp. 7-16, <https://doi.org/10.1007/s10508-020-01844-2>.
+- Cecilia Dhejne, Paul Lichtenstein, Marcus Boman, Anna L. V. Johansson, Niklas Långström, y Mikael Landén, «[[Long-term follow-up of transsexual persons undergoing sex reassignment surgery. cohort study in Sweden]]», PLoS ONE, 6, 2 (2011), e16885, <https://doi.org/10.1371/journal.pone.0016885>.
+- James M. Cantor, «[[Transgender and Gender Diverse Children and Adolescents. Fact-Checking of AAP Policy]]», Journal of Sex & Marital Therapy, 46, 4 (2020), pp. 307-313, <https://doi.org/10.1080/0092623X.2019.1698481>.
+- APA, «[[APA RESOLUTION on Gender Identity Change Efforts]]», febrero de 2021, <https://www.apa.org/about/policy/resolution-gender-identity-change- efforts.pdf>, p. 1.
+- Jack L. Turban, Noor Beckwith, Sari L. Reisner, y Alex S. Keuroghlian, «[[Association Between Recalled Exposure to Gender Identity Conversion Efforts and Psychological Distress and Suicide Attempts Among Transgender Adults]]», JAMA Psychiatry, 77, 1 (2020), pp. 68-76, <https://doi.org/10.1001/jamapsychiatry.2019.2285>.
+- Roberto D’Angelo, Ema Syrulnik, Sasha Ayad, Lisa Marchiano, Dianna T. Kenny, y Patrick Clark, «[[One Size Does Not Fit All: In Support of Psychotherapy for Gender Dysphoria]]», Archives of Sexual Behavior, 50 (2021), pp. 7-16, <https://doi.org/10.1007/s10508-020-01844-2>.
+- American Psychological Association, «[[Guidelines for psychological practice with transgender and gender nonconforming people]]», American Psychologist, 70, 9 (2015), pp. 832-864, <https://doi.org/10.1037/a0039906>, p. 842.
+- SEGM, «[[New Systematic Reviews of Puberty Blockers and Cross-Sex Hormones Published by NICE]]», 31 de marzo de 2021, <https://segm.org/NICE_gender_medicine_systematic_review_finds_poor_quality_ evidence>.
+- Cecilia Dhejne, Paul Lichtenstein, Marcus Boman, Anna L. V. Johansson, Niklas Långström, y Mikael Landén, «[[Long-term follow-up of transsexual persons undergoing sex reassignment surgery. cohort study in Sweden]]», PLoS ONE, 6, 2 (2011), e16885, <https://doi.org/10.1371/journal.pone.0016885>, p. 6.
+- Richard Bränström y John E. Pachankis, «[[Reduction in Mental Health Treatment Utilization Among Transgender Individuals After Gender-Affirming Surgeries. A Total Population Study]]», American Journal of Psychiatry, 177, 8 (2019), pp. 727-734, <https://doi.org/10.1176/appi.ajp.2019.19010080>.
+- «[[Correction to Bränström and Pachankis]]», American Journal of Psychiatry, 177, 8 (2020), pp. 734-734, <https://doi.org/10.1176/appi.ajp.2020.1778correction>.
+- Alexander Yoo, «[[Transition regret and detransition]]», en Chuck Stewart (ed.), Lesbian, gay, bisexual, and transgender Americans at risk: Problems and solutions. Adults, Generation X, and Generation Y, vol. 2, pp. 181-192, Praeger, Westport, CT, 2018, p. 185.
+- Elie Vandenbussche, «[[Detransition-Related Needs and Support. A Cross- Sectional Online Survey]]», Journal of Homosexuality, 2021, <https://doi.org/10.1080/00918369.2021.1919479>.
+- Lisa Littman, [[Individuals Treated for Gender Dysphoria with Medical and/or Surgical Transition Who Subsequently Detransitioned. A Survey of 100 Detransitioners]]. Archives of Sexual Behavior (2021), <https://doi.org/10.1007/s10508-021-02163-w>.
