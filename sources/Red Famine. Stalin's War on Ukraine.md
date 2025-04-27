@@ -34,26 +34,16 @@
 
 - Kokin, S. A., Valerii Vasyl’ev, and Nicolas Werth, eds. [[aktyvisty. zbirnyk dokumentiv ta materialiv]]. Kyiv: Instytut Istoriï Ukraïny NAN Ukraïny, 2013. 
 
-Kondrashin, V. V. et al., eds. Golod v SSSR: 1929–1934. Rossiia XX vek. Moscow: Mezhdunarodnyi
+- Kondrashin, V. V. et al., eds. Golod v SSSR: 1929–1934. Rossiia XX vek. Moscow: Mezhdunarodnyi fond ‘Demokratiia’, 2011.  
 
-fond ‘Demokratiia’, 2011.  
-Kudriachenko, A. I., ed. Holodomor v Ukraïni 1932–1933 rokiv za dokumentamy politychnoho arkhivu
+- Kudriachenko, A. I., ed. Holodomor v Ukraïni 1932–1933 rokiv za dokumentamy politychnoho arkhivu ministerstva zakordonnykh sprav Federatyvnoï Respubliky Nimechchyna. Kyiv: Natsional’nyi Instytut Stratehichnykh Doslidzhen’, 2008.  
 
-ministerstva zakordonnykh sprav Federatyvnoï Respubliky Nimechchyna. Kyiv: Natsional’nyi Instytut
+- Kul’chyts’kyi, Stanislav, ed. Kolektyvizatsiia i holod na Ukraïni, 1929–1933: zbirnyk dokumentiv i materialiv. Kyiv: Naukova Dumka, 1992.  
 
-Stratehichnykh Doslidzhen’, 2008.  
-Kul’chyts’kyi, Stanislav, ed. Kolektyvizatsiia i holod na Ukraïni, 1929–1933: zbirnyk dokumentiv i
+- Kuśnierz, Robert. Pomór w ‘raju bolszewickim’. Głód na Ukrainie w latach 1932-1933 w świetle polskich dokumentów dyplomatycznych i dokumentów wywiadu. Toruń: Wydawnictwo Adam Marszałek, 2009.  
 
-materialiv. Kyiv: Naukova Dumka, 1992.  
-Kuśnierz, Robert. Pomór w ‘raju bolszewickim’. Głód na Ukrainie w latach 1932-1933 w świetle
+- Le Comité Commémoratif Simon Petliura. Documents sur les Pogroms en Ukraine et l’assassinat de Simon Petliura à Paris. Paris: Librairie du Trident, 1927.  
 
-polskich dokumentów dyplomatycznych i dokumentów wywiadu. Toruń: Wydawnictwo Adam
+- Lenin, V. I. Collected Works. Moscow: Progress Publishers, 1965.
 
-Marszałek, 2009.  
-Le Comité Commémoratif Simon Petliura. Documents sur les Pogroms en Ukraine et l’assassinat de
-
-Simon Petliura à Paris. Paris: Librairie du Trident, 1927.  
-Lenin, V. I. Collected Works. Moscow: Progress Publishers, 1965.  
-Lozyts’kyi, V. S. Holodomor 1932–1933 rokiv v Ukraïni: zlochyn vlady – trahediia narodu: dokumenty
-
-i materialy. Kyiv: Heneza, 2008.
+- Lozyts’kyi, V. S. Holodomor 1932–1933 rokiv v Ukraïni: zlochyn vlady – trahediia narodu: dokumenty i materialy. Kyiv: Heneza, 2008.
