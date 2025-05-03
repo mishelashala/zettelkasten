@@ -34,7 +34,7 @@
 
 - Kokin, S. A., Valerii Vasyl’ev, and Nicolas Werth, eds. [[aktyvisty. zbirnyk dokumentiv ta materialiv]]. Kyiv: Instytut Istoriï Ukraïny NAN Ukraïny, 2013. 
 
-- Kondrashin, V. V. et al., eds. Golod v SSSR: 1929–1934. Rossiia XX vek. Moscow: Mezhdunarodnyi fond ‘Demokratiia’, 2011.  
+- Kondrashin, V. V. et al., eds. [[Golod v SSSR. 1929–1934. Rossiia XX vek]]. Moscow: Mezhdunarodnyi fond ‘Demokratiia’, 2011.  
 
 - Kudriachenko, A. I., ed. Holodomor v Ukraïni 1932–1933 rokiv za dokumentamy politychnoho arkhivu ministerstva zakordonnykh sprav Federatyvnoï Respubliky Nimechchyna. Kyiv: Natsional’nyi Instytut Stratehichnykh Doslidzhen’, 2008.  
 
