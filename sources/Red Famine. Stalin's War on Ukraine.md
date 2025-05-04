@@ -106,11 +106,11 @@
 
 ——, and S. H. Vodotyka. Natsional’na knyha pam’iati zhertv Holodomoru 1932–1933 rokiv v Ukraïni: Khersons’ka oblast’, eds. I. P. Iukhnovs’kyi et al. Kherson: Vydavnytstvo ‘Naddniprians’ka pravda’, 2008.
 
-United States Congress, and Commission on the Ukraine Famine. Investigation of the Ukrainian Famine, 1932–1933: Report to Congress. Adopted by the Commission, 19 April 1988, submitted to Congress, 22 April 1988. Washington, D.C.: U.S. G.P.O.: For sale by Supt. of Docs., U.S. G.P.O., 1988.
+United States Congress, and Commission on the Ukraine Famine. [[Investigation of the Ukrainian Famine, 1932–1933. Report to Congress]]. Adopted by the Commission, 19 April 1988, submitted to Congress, 22 April 1988. Washington, D.C.: U.S. G.P.O.: For sale by Supt. of Docs., U.S. G.P.O., 1988.
 
-——. Investigation of the Ukrainian Famine, 1932–1933: First Interim Report. Meetings and hearings of and before the Commission on the Ukraine Famine held in 1986: organizational meeting, Washington, D.C., 23 April 1986: meeting and hearing, Washington, D.C., 8 October 1986: hearing, Glen Spey, New York, 26 October 1986: hearing, Chicago, Illinois, 7 November 1986: hearing, Warren, Michigan, 24 November 1986. Washington, D.C.: U.S. G.P.O.: For sale by the Supt. of Docs., U.S. G.P.O., 1987.
+——. [[Investigation of the Ukrainian Famine, 1932–1933. First Interim Report. Meetings and hearings of and before the Commission on the Ukraine Famine held in 1986. organizational meeting]], Washington, D.C., 23 April 1986: meeting and hearing, Washington, D.C., 8 October 1986: hearing, Glen Spey, New York, 26 October 1986: hearing, Chicago, Illinois, 7 November 1986: hearing, Warren, Michigan, 24 November 1986. Washington, D.C.: U.S. G.P.O.: For sale by the Supt. of Docs., U.S. G.P.O., 1987.
 
-——. Investigation of the Ukrainian Famine, 1932–1933: Second Interim Report. Meetings and hearings of and before the Commission on the Ukraine Famine held in 1987: hearing, San Francisco, California, 10 February 1987; hearing, Phoenix, Arizona, 13 February 1987; hearing and meeting, Washington, D.C., 30 April 1987; hearing, Philadelphia, Pennsylvania, 5 June 1987. Washington, D.C.: U.S. G.P.O.: For sale by the Supt. of Docs., U.S. G.P.O., 1988.
+——. [[Investigation of the Ukrainian Famine, 1932–1933. Second Interim Report. Meetings and hearings of and before the Commission on the Ukraine Famine held in 1987. hearing]], San Francisco, California, 10 February 1987; hearing, Phoenix, Arizona, 13 February 1987; hearing and meeting, Washington, D.C., 30 April 1987; hearing, Philadelphia, Pennsylvania, 5 June 1987. Washington, D.C.: U.S. G.P.O.: For sale by the Supt. of Docs., U.S. G.P.O., 1988.
 
 ——, James E. Mace, and Leonid Heretz. Investigation of the Ukrainian Famine, 1932–1933. Oral history project of the Commission on the Ukraine Famine. Washington, D.C.: U.S. G.P.O., 1990.
 
