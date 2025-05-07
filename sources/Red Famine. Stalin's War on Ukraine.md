@@ -112,8 +112,8 @@ United States Congress, and Commission on the Ukraine Famine. [[Investigation of
 
 ——. [[Investigation of the Ukrainian Famine, 1932–1933. Second Interim Report. Meetings and hearings of and before the Commission on the Ukraine Famine held in 1987. hearing]], San Francisco, California, 10 February 1987; hearing, Phoenix, Arizona, 13 February 1987; hearing and meeting, Washington, D.C., 30 April 1987; hearing, Philadelphia, Pennsylvania, 5 June 1987. Washington, D.C.: U.S. G.P.O.: For sale by the Supt. of Docs., U.S. G.P.O., 1988.
 
-——, James E. Mace, and Leonid Heretz. Investigation of the Ukrainian Famine, 1932–1933. Oral history project of the Commission on the Ukraine Famine. Washington, D.C.: U.S. G.P.O., 1990.
+——, James E. Mace, and Leonid Heretz. [[Investigation of the Ukrainian Famine, 1932–1933]]. Oral history project of the Commission on the Ukraine Famine. Washington, D.C.: U.S. G.P.O., 1990.
 
-Veselova, O. M., and O. F. Nikiliev. Pam’iat’ narodu: Henotsyd v Ukraïni holodom 1932–1933 rokiv: svidchennia. 2 vols. Kyiv: Vydavnychyi dim ‘Kalyta’, 2009.
+- Veselova, O. M., and O. F. Nikiliev. [[Pam’iat’ narodu. Henotsyd v Ukraïni holodom 1932–1933 rokiv. svidchennia. 2 vols]]. Kyiv: Vydavnychyi dim ‘Kalyta’, 2009.
 
-Woropay, Olexa. The Ninth Circle: In Commemoration of the Victims of the Famine of 1933. Cambridge, MA: Harvard Ukrainian Studies Fund, 1983.
+- Woropay, Olexa. [[The Ninth Circle. In Commemoration of the Victims of the Famine of 1933]]. Cambridge, MA: Harvard Ukrainian Studies Fund, 1983.
