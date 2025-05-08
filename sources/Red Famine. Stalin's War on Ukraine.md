@@ -117,3 +117,16 @@ United States Congress, and Commission on the Ukraine Famine. [[Investigation of
 - Veselova, O. M., and O. F. Nikiliev. [[Pam’iat’ narodu. Henotsyd v Ukraïni holodom 1932–1933 rokiv. svidchennia. 2 vols]]. Kyiv: Vydavnychyi dim ‘Kalyta’, 2009.
 
 - Woropay, Olexa. [[The Ninth Circle. In Commemoration of the Victims of the Famine of 1933]]. Cambridge, MA: Harvard Ukrainian Studies Fund, 1983.
+
+- Adams, Arthur E. [[Bolsheviks in the Ukraine. The Second Campaign, 1918–1919]]. New Haven, CT: Yale University Press, 1963.
+
+- Applebaum, Anne. [[Gulag. A History]]. New York: Doubleday, 2003.  
+
+- Arshinov, Peter. [[The History of the Makhnovist Movement (1918–1921)]], trans. Fredy and Lorraine Perlman. London: Freedom Press, 1974.  
+
+- Ball, Alan M. [[Russia’s Last Capitalists. The Nepmen, 1921–29]]. Berkeley, CA: University of California Press, 1987.  
+
+- Berkhoff, Karel. ‘The Great Famine in Light of the German Invasion and Occupation’, in [[After the Holodomor. The Enduring Impact of the Great Famine of Ukraine]], eds. Andrea Graziosi, Lubomyr Hajda, and Halyna Hryn. Cambridge, MA: Harvard Ukrainian Research Institute, 2014.  
+- Berkhoff, Karel. [[Harvest of Despair. Life and Death in Ukraine under Nazi Rule]]. Cambridge, MA: Belknap Press, 2004.  
+
+- Bilenky, Serhiy. [[Romantic Nationalism in Eastern Europe. Russian, Polish and Ukrainian Political Imaginations]]. Stanford, CA: Stanford University Press, 2012.
