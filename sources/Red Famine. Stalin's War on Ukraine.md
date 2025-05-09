@@ -130,3 +130,54 @@ United States Congress, and Commission on the Ukraine Famine. [[Investigation of
 - Berkhoff, Karel. [[Harvest of Despair. Life and Death in Ukraine under Nazi Rule]]. Cambridge, MA: Belknap Press, 2004.  
 
 - Bilenky, Serhiy. [[Romantic Nationalism in Eastern Europe. Russian, Polish and Ukrainian Political Imaginations]]. Stanford, CA: Stanford University Press, 2012.
+
+- Bondar, N. I., and O. V. Matveev. Istoricheskaia pamiat’ naseleniia iuga Rossii o golode 1932–33: materialy nauchno-prakticheskoi konferentsii. Krasnodar: Isd-vo Traditsiia, 2009.
+
+- Boriak, Hennadii. ‘Sources and Resources on the Famine in Ukraine’s Archival System’, Harvard Ukrainian Studies 27, nos. 2004–5 (2008), 117–47.
+
+- Boriak, Tetiana. 1933: ‘I choho vy shche zhyvi?’ Kyiv: Clio, NAN Ukraïny, 2016.  
+Borys, Jurij. The Sovietization of Ukraine 1917–1923: The Communist Doctrine and Practice of
+
+- National Self-Determination. Edmonton, Alberta. Canadian Institute of Ukrainian Studies, 1980. Bulgakov, Mikhail. White Guard, trans. Marian Schwartz. New Haven, CT: Yale University Press, 2008. Carr, E. H., and R. W. Davies. A History of Soviet Russia: Foundations of a Planned Economy, 1926–1929. 4 vols. London: Macmillan, 1978.  
+
+- Chamberlin, William Henry. ‘[[Soviet Taboos]]’, Foreign Affairs 13, no. 3 (1935), 431–40. 
+
+- Cherfas, Teresa. ‘[[Reporting Stalin’s Famine. Jones and Muggeridge. A Case Study in Forgetting and Rediscovery]]’, Kritika: Explorations in Russian and Eurasian History 14, no. 4 (August 2013), 775–804.  
+
+- Colley, Margaret Siriol. [[Gareth Jones. A Manchukuo Incident]]. Newark, NJ: N. L. Colley, 2001.
+
+- Collingham, Lizzie. [[The Taste of War. WWII and the Battle for Food]]. New York: Penguin Press, 2012.
+
+- Comeford, Vincent, Lindsay Jansen and Christian Noack, eds. [[Holodomor and Gorta Mor. Histories, Memories and Representations of Famine in Ukraine and Ireland]]. London: Anthem Press, 2014.
+
+- Conquest, Robert. [[The Great Terror. Stalin’s Purge of the Thirties]], rev. edn. London: Macmillan, 1968. ——. The Harvest of Sorrow: Soviet Collectivization and the Terror-Famine. New York: Oxford University Press, 1986.  
+
+- Danylenko, Vasyl’, ed. Ukraïns’ka intelihentsiia i vlada: zvedenniia sekretnooho viddilu DPU USRR 1927–1929 rr. Kyiv: Tempora, 2012. 
+
+- Davies, R. W. [[The Socialist Offensive. The Collectivization of Agriculture 1929–30]]. London: Macmillan, 1980.  
+
+——, and S. G. Wheatcroft. [[The Years of Hunger. Soviet Agriculture, 1931–1933]]. London and New York: Palgrave Macmillan, 2009.  
+
+- Duranty, Walter. ‘[[Russians Hungry But Not Starving]]’, The New York Times, 31 March 1933.  
+
+- Figes, Orlando. [[Peasant Russia, Civil War. The Volga Countryside in Revolution, 1917–1921]]. Oxford: Clarendon Press, 1989. 
+
+——. [[A People’s Tragedy. The Russian Revolution, 1891–1924]]. London: Pimlico, 1997.  
+
+——. [[The Whisperers. Private Life in Stalin’s Russia]]. New York: Metropolitan Books, 2007.  
+
+- Fisher, H. H. [[The Famine in Soviet Russia, 1919–1923. The Operations of the American Relief Administration]]. New York: Macmillan, 1927.  
+
+- Fitzpatrick, Sheila. [[Education and Social Mobility in the Soviet Union, 1921–1934]]. Cambridge: Cambridge University Press, 1979, 2002.  
+
+——. ‘[[The Great Departure. Rural-Urban Migration in the Soviet Union, 1929–1933]]’, in Social Dimensions of Soviet Industrialization, eds. William G. Rosenberg and Lewis H. Siegelbaum. Bloomington, IN: Indiana University Press, 1993.  
+
+- Gamache, Ray. [[Gareth Jones. Eyewitness to History]]. Cardiff: Welsh Academic Press, 2013.  
+
+- Gergel, Nahum. ‘[[The Pogroms in Ukraine in 1918–1921]]’, YIVO Annual of Jewish Social Science 6 (1951).  
+
+- Getty, J. Arch, and Oleg V. Naumov. [[The Road to Terror. Stalin and the Self-Destruction of the Bolsheviks, 1932–1939]]. New Haven, CT: Yale University Press, 2002.  
+
+- Graziosi, Andrea. [[A New, Peculiar State. Explorations in Soviet History]]. Westport, CT: Praeger, 2000.
+
+——. Bol’sheviki i krest’iane na Ukraine, 1918–1919 gody: Ocherk o bol’shevizmakh, natsional-sotsializmakh i krest’ianskikh dvizheniiakh. Moscow, AIRO-XX, 1997.
