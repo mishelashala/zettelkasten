@@ -181,3 +181,40 @@ Borys, Jurij. The Sovietization of Ukraine 1917–1923: The Communist Doctrine a
 - Graziosi, Andrea. [[A New, Peculiar State. Explorations in Soviet History]]. Westport, CT: Praeger, 2000.
 
 ——. Bol’sheviki i krest’iane na Ukraine, 1918–1919 gody: Ocherk o bol’shevizmakh, natsional-sotsializmakh i krest’ianskikh dvizheniiakh. Moscow, AIRO-XX, 1997.
+
+——. ‘[[Collectivisation, révoltes paysannes et politiques gouvernementales (à travers les rapports du GPU d’Ukraine de février–mars 1930)]]’, Cahiers du monde russe 35, no. 3 (July–September 1994), http://www.persee.fr/doc/cmr_0008-0160_1989_num_30_1_2176.
+
+——. [[Stalinism, Collectivization and the Great Famine]], in Holodomor Series. Cambridge, MA: Ukrainian Studies Fund, 2009.
+
+——. ‘[[The Great Famine of 1932–1933. Consequences and Implications]]’, Harvard Ukrainian Studies 25, nos. 3/4 (Fall 2001), 157–65.
+
+——. ‘[[The Soviet 1931–1933 Famines and the Ukrainian Holodomor. Is a New Interpretation Possible, and What Would Its Consequences Be?]]’, Harvard Ukrainian Studies 27, nos. 1/4 (2004–5), 97–115.
+
+——. [[L’Unione Sovietica 1914–1991]]. Bologna: Il mulino, 2011.  
+——. [[L’Urss di Lenin e Stalin. storia dell’Unione Sovietica, 1914–1945]]. Bologna: Il mulino, 2007. Grossman, Vasilii. Everything Flows, trans. Robert and Elizabeth Chandler. New York: New York Review Classic Books, 2009.  
+
+- Heifetz, Elias. [[The Slaughter of the Jews in the Ukraine in 1919]]. New York: Thomas Seltzer, 1921.
+
+- Hindus, Maurice. [[Red Bread. Collectivization in a Russian Village]]. Bloomington, IN: Indiana University Press, 1988.  
+
+- Hosking, Geoffrey A. [[Russia. People and Empire, 1552–1917]]. Cambridge, MA: Harvard University Press, 1997.  
+
+- Hryn, Halyna, and Lubomyr Hajda, eds. [[After the Holodomor. The Enduring Impact of the Great Famine of Ukraine]]. Cambridge, MA: Harvard Ukrainian Research Institute, 2013.  
+
+- Hrynevych, Lyudmyla. Holod 1928–1929 rr. u radians’kii Ukraïni. Kyiv: Instytut Istoriï Ukraïny NAN Ukraïny, 2013.  
+
+——. ‘[[The Price of Stalin’s “Revolution from Above”. Anticipation of War among the Ukrainian Peasantry]]’, trans. Marta Olynyk. Key Articles on the Holodomor Translated from Ukrainian into English, Holodomor Research and Education Consortium. http://holodomor.ca/translated-articles-on- the-holodomor.
+
+——. ‘Vid zaperechuvannia do vymushenoho vyznannia: pro mekhanizmy vkhodzhennia temy holodu 1932–1933 rr. v ofitsiinyi publichnyi prostir u SRSR ta URSR naprykintsi 1980-kh rr’, Problemy istoriï Ukraïny: fakty sudzhennia, poshuky: Mizhvidomchyi zbirnyk naukovykh prats’ 18 (spetsial’nyi vypusk: Holod 1932–1933 rokiv–henotsyd ukraïns’koho narodu) (2008), 232–44.
+
+- Hunczak, Taras, ed. [[The Ukraine, 1917–1921. A Study in Revolution]]. Cambridge, MA: Distributed by Harvard University Press for the Harvard Ukrainian Research Institute, 1977.
+
+- Iakubova, L. D. Etnichni menshyny v suspil’no-politychnomu ta kul’turnomu zhytti USRR, 20-i – persha polovyna 30-kh rr. XX st. Kyiv: Instytut Istoriï Ukraïny NAN Ukraïny, 2006.
+
+- Iefimenko, H. ‘Lykhovisni 30-ti roky na Markivshchyni’, in Holod-henotsyd 1933 roku v Ukraïni: istoryko-politolohichnyi analiz sotsial’-no-demohrafichnykh ta moral’no-psykholohichnykh naslidkiv: mizhnarodna naukovo-teoretychna konferentsiia, Kyiv, 28 lystopada 1998 r.: materialy: Instytut Istoriï Ukraïny (Natsional’na Akademiia Nauk Ukraïny): Asotsiatsiia doslidnykiv holodomoriv v Ukraïni., ed. Stanislav Vladyslavovych Kul’chyts’kyi and O. M. Veselova. Kyiv: Vyd- vo M.P. Kots’, 2000.
+
+——. ‘Pereselennia ta deportatsii v postholodomorni roky (1933–1936): poraionnyi zriz’, Problemy istorii Ukraïny: fakty, sudzhennia, poshuky: Mizhvidomchyi zbirnyk naukovykh prats’ 22 (2013), 136–66.
+
+——, and L. Iakubova. ‘Natsional’ni vidnosyny v radians’kii Ukraïni (1923–1938)’, in Natsional’ne pytannia v Ukraïni XX-pochatku XXI st.: istorychni narysy, eds. V. M. Lytvyn et al. Kyiv: Nika-Tsentr, 2012.
+
+- Ivnitskii, N. A. Kollektivizatsiia i raskulachivanie, nachalo 30-kh gg. Moscow: Interpraks, 1994.
