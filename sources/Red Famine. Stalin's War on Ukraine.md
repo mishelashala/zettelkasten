@@ -218,3 +218,44 @@ Borys, Jurij. The Sovietization of Ukraine 1917–1923: The Communist Doctrine a
 ——, and L. Iakubova. ‘Natsional’ni vidnosyny v radians’kii Ukraïni (1923–1938)’, in Natsional’ne pytannia v Ukraïni XX-pochatku XXI st.: istorychni narysy, eds. V. M. Lytvyn et al. Kyiv: Nika-Tsentr, 2012.
 
 - Ivnitskii, N. A. Kollektivizatsiia i raskulachivanie, nachalo 30-kh gg. Moscow: Interpraks, 1994.
+
+- Jones, Gareth. ‘[[Famine Grips Russia, Millions Dying, Idle on Rise, Says Briton]]’, Chicago Daily News and Evening Post Foreign Service, 29 March 1933.
+
+——. ‘[[Fate of Thrifty in USSR. Gareth Jones Tells How Communists Seized All Land and Let Peasants Starve]]’, Los Angeles Examiner, 14 January 1935.
+
+——. ‘[[Press Release. Quoted in “Famine Grips Russia, Millions Dying, Idle on Rise, Says Briton]]’, Evening Post Foreign Service, 29 March 1933.
+
+——. ‘[[Soviet Confiscate Part of Workers’ Wages’]], Daily Express, 5 April 1933.  
+Kasianov, Georgiy. ‘Holodomor and the Politics of Memory in Ukraine after Independence’, in Holodomor and Gorta Mor: Histories, Memories and Representations of Famine in Ukraine and Ireland, eds. Vincent Comeford, Lindsay Jansen, and Christian Noack, 167–88. London: Anthem Press, 2014.  
+
+——. ‘[[Revisiting the Great Famine of 1932–1933. Politics of Memory and Public Consciousness (Ukraine after 1991)’]], in Past in the Making: Historical Revisionism in Central Europe after 1989, ed. Michal Kopecek, 197–220. Budapest: Central European University Press, 2007.  
+Khlevniuk, Oleg V. Stalin: New Biography of a Dictator, trans. Nora Seligman Favorov. New Haven, CT: Yale University Press, 2015.  
+
+- Klid, Bohdan. ‘[[Daily Life Under Soviet Rule and the Holodomor in Memoirs and Testimonies of the Late 1940s. Some Preliminary Assessments]]’, presented at the Canadian Association of Slavists 2015 Annual Conference, Ottawa, Ontario, 26 May 2015.  
+
+——. ‘[[The Black Deeds of the Kremlin. Sixty Years Later]]’, Genocide Studies International 8 (2014), 224–35.  
+
+- Kondrashin, Viktor, Golod 1932–1933 godov. Tragediia rossiyskoi derevni, Moscow: ROSSPEN, 2008 ——, and S. V. Kul’chyts’kyi. ‘O Samom Glavnom: professor Stanislav Kul’chitskii i ego rossiiskii kollega Viktor Kondrashin: chem byl Golodomor 1932–1933 godov?’ Den’, Kyiv, 3 June 2008.  
+
+- Kotkin, Stephen. [[Stalin. Paradoxes of Power, vol. 1]]. New York: Penguin Press, 2014.  
+
+- Kubanin, M. Makhnovshchina: Krest’ianskoe dvizhenie v stepnoi Ukraine v gody grazhdanskoi voiny. Leningrad: Priboi, 1927.  
+
+- Kul’chyts’kyi, Stanislav V. ‘[[Comments at UNAS (National Academy of Sciences) Institute of History of Ukraine Seminar]]’, presented at the Institute of History of Ukraine Seminar, Kyiv, 19 April 2016.  
+
+——. Holodomor 1932–1933 rr. iak henotsyd: trudnoshchi usvidomlennia. Kyiv: Nash chas, 2008. 
+——. Chervony vyklyk. Istoriia komunizmu v Ukraini vid joho narodzhennia do zahybel, vols. 1–3. Kyiv: Tempora, 2013–17.  
+
+——. ‘Holodomor in the Ukrainian Countryside’, in [[After the Holodomor. The Enduring Impact of the Great Famine on Ukraine]], eds. Andrea Graziosi, Lubomyr Hajda, and Halyna Hryn. Cambridge, MA: Harvard Ukrainian Research Institute, 2013.  
+
+——. ‘Holodomor u pratsiakh ukraïns’kykh radians’kykh istorykiv 1956–1987 rr’, Istoriia v suchasnii shkoli: naukovo-metodychnyi zhurnal, no. 10 (146) (2013), 29–31.  
+
+——. Narysy povsiakdennoho zhyttia radians’koï Ukraïny v dobu NEPu (1921–1928 rr.) Kolektyvna monohrafiia v 2-kh chastynakh. 2 vols. Kyiv: Instytut Istoriï Ukraïny NAN Ukraïny, 2010. 
+
+——, and O. M. Movchan. Nevidomi storinky holodu 1921–1923 rr. v Ukraïni. Kyiv: Instytut Istoriï Ukraïny NAN Ukraïny, 1993.  
+
+- Kuromiya, Hiroaki. Freedom and Terror in the Donbas: A Ukrainian-Russian Borderland, 1870s–1990s. Cambridge: Cambridge University Press, 1998.  
+
+- Kyrydon, Alla. ‘Ruinuvannia kul’tovykh sporud (1920–1930-ti rr.): porushennia tradytsiinoï rytmolohiï prostoru’, Ukraïns’kyi Istorichnyi Zhurnal 22, no. 6 (2013), 91–102.  
+
+- Kyrylenko, Vitalii Petrovych. ‘Holod 1921–1923 rokiv u pivdennii Ukraïni’, dissertation, Mykolaïvs’kyi Natsional’nyi Universytet imeni V. O. Sukhomlyns’koho, 2015.
