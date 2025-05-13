@@ -244,6 +244,7 @@ Khlevniuk, Oleg V. Stalin: New Biography of a Dictator, trans. Nora Seligman Fav
 - Kul’chyts’kyi, Stanislav V. ‘[[Comments at UNAS (National Academy of Sciences) Institute of History of Ukraine Seminar]]’, presented at the Institute of History of Ukraine Seminar, Kyiv, 19 April 2016.  
 
 ——. Holodomor 1932–1933 rr. iak henotsyd: trudnoshchi usvidomlennia. Kyiv: Nash chas, 2008. 
+
 ——. Chervony vyklyk. Istoriia komunizmu v Ukraini vid joho narodzhennia do zahybel, vols. 1–3. Kyiv: Tempora, 2013–17.  
 
 ——. ‘Holodomor in the Ukrainian Countryside’, in [[After the Holodomor. The Enduring Impact of the Great Famine on Ukraine]], eds. Andrea Graziosi, Lubomyr Hajda, and Halyna Hryn. Cambridge, MA: Harvard Ukrainian Research Institute, 2013.  
@@ -258,4 +259,4 @@ Khlevniuk, Oleg V. Stalin: New Biography of a Dictator, trans. Nora Seligman Fav
 
 - Kyrydon, Alla. ‘Ruinuvannia kul’tovykh sporud (1920–1930-ti rr.): porushennia tradytsiinoï rytmolohiï prostoru’, Ukraïns’kyi Istorichnyi Zhurnal 22, no. 6 (2013), 91–102.  
 
-- Kyrylenko, Vitalii Petrovych. ‘Holod 1921–1923 rokiv u pivdennii Ukraïni’, dissertation, Mykolaïvs’kyi Natsional’nyi Universytet imeni V. O. Sukhomlyns’koho, 2015.
+- Kyrylenko, Vitalii Petrovych. ‘Holod 1921–1923 rokiv u pivdennii Ukraïni’, dissertation, Mykolaïvs’kyi Natsional’nyi Universytet imeni V. O. Sukhomlyns’koho, 2015.1
