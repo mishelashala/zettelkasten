@@ -260,3 +260,50 @@ Khlevniuk, Oleg V. Stalin: New Biography of a Dictator, trans. Nora Seligman Fav
 - Kyrydon, Alla. ‘Ruinuvannia kul’tovykh sporud (1920–1930-ti rr.): porushennia tradytsiinoï rytmolohiï prostoru’, Ukraïns’kyi Istorichnyi Zhurnal 22, no. 6 (2013), 91–102.  
 
 - Kyrylenko, Vitalii Petrovych. ‘Holod 1921–1923 rokiv u pivdennii Ukraïni’, dissertation, Mykolaïvs’kyi Natsional’nyi Universytet imeni V. O. Sukhomlyns’koho, 2015.1
+
+- Lemkin, [[Raphael. Axis Rule in Occupied Europe]]. Laws of Occupation – Analysis of Government – Proposals for Redress. Washington, D.C.: Carnegie Endowment for International Peace, 1944.
+
+——. [[Lemkin on Genocide]], ed. Steven Leonard Jacobs, Lanham, MD: Lexington Books, 2012.  
+
+——. ‘Soviet Genocide in the Ukraine’, unpublished talk, 1953, Raphael Lemkin Papers, New York Public Library, Manuscripts and Archives Division, Astor, Lenox and Tilden Foundations, Raphael Lemkin ZL-273. Reel 3. Available at https://www.uccla.ca/SOVIET_GENOCIDE_IN_THE_UKRAINE.pdf.  
+
+- Lytvyn, V. M. et al., eds. Ukraïna: Politychna Istoriia XX pochatok-XXI stolittia. Kyiv: Parlaments’ke vydavnytstvo, 2007.  
+
+- Mace, James. [[Communism and the Dilemmas of National Liberation. National Communism in Soviet Ukraine, 1918–1933]]. Cambridge, MA: Harvard Ukrainian Research Institute, 1983.  
+
+- Magocsi, Paul Robert. [[A History of Ukraine. The Land and its Peoples]], 2nd edn. Toronto: University of Toronto Press, 2010.  
+
+- Marochko, Vasyl’, and Olha Movchan. Holodomor 1932–1933 rokiv v Ukraïni: khronika. Kyiv: Kyievo-Mohylians’ka Akademiia, 2008.  
+
+- Marples, David. [[Holodomor. Causes of the Famine of 1932–1933 in Ukraine]]. Saskatoon, Saskatchewan: Heritage Press, 2011. 
+
+- Martin, Terry. ‘[[Famine Initiators and Directors. Personal Papers. The 1932–33 Ukrainian Terror. New Documentation on Surveillance and the Thought Process of Stalin]]’, in Famine-Genocide in Ukraine, 1932–33, ed. Isajiw W. Wsevolod. Toronto: Ukrainian Canadian Research and Documentation Centre, 2003.
+
+——. [[The Affirmative Action Empire. Nations and Nationalism in the Soviet Union, 1923–1939]]. Ithaca, NY: Cornell University Press, 2001.
+
+- Maskudov, Sergei. ‘[[Victory over the Peasantry]]’, in [[Hunger by Design. The Great Ukrainian Famine and its Soviet Context]], ed. Halyna Hryn. Cambridge, MA: Harvard Ukrainian Research Institute, 2008.
+
+- Mattingly, D. ‘[[Idle, Drunk and Good-for-Nothing. Cultural Memory of the Holodomor Rank-and-File Perpetrators’]], in [[The Burden of Memory. History, Memory and Identity in Contemporary Ukraine]], eds. Anna Wylegała and Małgorzata Głowacka-Grajper. Bloomington, IN: Indiana University Press, 2017.
+
+- Medvedev, Roy Aleksandrovich. [[Let History Judge. The Origins and Consequences of Stalinism]], first published 1969, rev. and expanded edn, ed. and trans. George Shriver. Oxford: Oxford University Press, 1989.
+
+- Merridale, Catherine. [[Night of Stone. Death and Memory in Twentieth-Century Russia]]. New York: Viking, 2001.
+
+——. ‘[[The 1937 Census and the Limits of Stalinist Rule]]’, The Historical Journal 39, no. 1 (1 March 1996).
+
+- Montefiore, Simon Sebag. [[Stalin. The Court of the Red Tsar]]. New York: Knopf, 2004.  
+
+——. The Romanovs. London: Weidenfeld and Nicolson, 2016.  
+
+Motyl, Alexander. The Turn to the Right: The Ideological Origins and Development of Ukrainian
+
+Nationalism, 1919–1929. New York: Columbia University Press, 1980.  
+Naimark, Norman M. Stalin’s Genocides. Princeton, NJ: Princeton University Press, 2010.  
+Noll, Vil’iam. Transformatsiia hromadians’koho suspil’stva: Usna istoriia ukraïns’koï selians’koï
+
+kul’tury, 1920–30 rokiv. Kyiv: Rodovid, 1999.  
+Osokina, Elena Aleksandrovna. Zoloto dlia industrializatsii: Torgsin. Moscow: ROSSPEN, 2009.  
+——. Our Daily Bread: Socialist Distribution and the Art of Survival in Stalin’s Russia, 1927–1941,
+
+trans. Kate Transchel and Greta Bucher. London and New York: Routledge, 2005.  
+Palij, Michael. The Anarchism of Nestor Makhno, 1918–1921: An Aspect of the Ukrainian Revolution.
