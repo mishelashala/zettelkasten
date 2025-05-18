@@ -295,15 +295,14 @@ Khlevniuk, Oleg V. Stalin: New Biography of a Dictator, trans. Nora Seligman Fav
 
 ——. The Romanovs. London: Weidenfeld and Nicolson, 2016.  
 
-Motyl, Alexander. The Turn to the Right: The Ideological Origins and Development of Ukrainian
+- Motyl, Alexander. [[The Turn to the Right. The Ideological Origins and Development of Ukrainian Nationalism, 1919–1929]]. New York: Columbia University Press, 1980.  
 
-Nationalism, 1919–1929. New York: Columbia University Press, 1980.  
-Naimark, Norman M. Stalin’s Genocides. Princeton, NJ: Princeton University Press, 2010.  
-Noll, Vil’iam. Transformatsiia hromadians’koho suspil’stva: Usna istoriia ukraïns’koï selians’koï
+- Naimark, Norman M. [[Stalin’s Genocides]]. Princeton, NJ: Princeton University Press, 2010.  
 
-kul’tury, 1920–30 rokiv. Kyiv: Rodovid, 1999.  
-Osokina, Elena Aleksandrovna. Zoloto dlia industrializatsii: Torgsin. Moscow: ROSSPEN, 2009.  
-——. Our Daily Bread: Socialist Distribution and the Art of Survival in Stalin’s Russia, 1927–1941,
+- Noll, Vil’iam. Transformatsiia hromadians’koho suspil’stva: Usna istoriia ukraïns’koï selians’koï kul’tury, 1920–30 rokiv. Kyiv: Rodovid, 1999.  
 
-trans. Kate Transchel and Greta Bucher. London and New York: Routledge, 2005.  
-Palij, Michael. The Anarchism of Nestor Makhno, 1918–1921: An Aspect of the Ukrainian Revolution.
+- Osokina, Elena Aleksandrovna. Zoloto dlia industrializatsii: Torgsin. Moscow: ROSSPEN, 2009.  
+
+——. Our Daily Bread: Socialist Distribution and the Art of Survival in Stalin’s Russia, 1927–1941, trans. Kate Transchel and Greta Bucher. London and New York: Routledge, 2005.  
+
+- Palij, Michael. [[The Anarchism of Nestor Makhno, 1918–1921. An Aspect of the Ukrainian Revolution]]. Seattle, WA: University of Washington Press, 1976.
