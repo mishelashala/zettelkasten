@@ -303,6 +303,160 @@ Khlevniuk, Oleg V. Stalin: New Biography of a Dictator, trans. Nora Seligman Fav
 
 - Osokina, Elena Aleksandrovna. Zoloto dlia industrializatsii: Torgsin. Moscow: ROSSPEN, 2009.  
 
-——. Our Daily Bread: Socialist Distribution and the Art of Survival in Stalin’s Russia, 1927–1941, trans. Kate Transchel and Greta Bucher. London and New York: Routledge, 2005.  
+——.   [[Our Daily Bread. Socialist Distribution and the Art of Survival in Stalin’s Russia, 1927–1941]], trans. Kate Transchel and Greta Bucher. London and New York: Routledge, 2005.  
 
 - Palij, Michael. [[The Anarchism of Nestor Makhno, 1918–1921. An Aspect of the Ukrainian Revolution]]. Seattle, WA: University of Washington Press, 1976.
+
+- Papakin, Heorhii V. ‘Chorna doshka’: antyselians’ki represiï, 1932–1933. Kyiv: Instytut Istoriï Ukraïny NAN Ukraïny, 2013.  
+
+——. ‘Blacklists as an Instrument of the Famine-Genocide of 1932–1933 in Ukraine’, trans. Marta Olynyk. Key Articles on the Holodomor Translated from Ukrainian into English, Holodomor Research and Education Consortium. http://holodomor.ca/translated-articles-on-the-holodomor. 
+
+——. Donbas na ‘chornii doshtsi’, 1932–1933: Naukovo-populiarnyi narys. Kyiv: Instytut Istoriï
+
+Ukraïny NAN Ukraïny, 2014.  
+Pasternak, Boris. Doctor Zhivago, trans. Richard Pevear and Larissa Volokhonsky. New York: Pantheon
+
+Books, 2010.  
+Patenaude, Bertrand. The Big Show in Bololand: The American Relief Expedition to Soviet Russia in the
+
+Famine of 1921. Stanford, CA: Stanford University Press, 2002.  
+Pauly, Matthew D. Breaking the Tongue: Language, Education, and Power in Soviet Ukraine, 1923–
+
+1924. Toronto: University of Toronto Press, 2014.  
+Pidhainy, S. O., ed. The Black Deeds of the Kremlin: A White Book, 2 vols. Toronto: Basilian Press,
+
+1925.  
+Pipes, Richard. Russia under the Bolshevik Regime. New York: Vintage Books, 1995.  
+——, ed. The Unknown Lenin: From the Secret Archive. New Haven, CT: Yale University Press, 1999. Platonov, Andrei Platonovich. Fourteen Little Red Huts and Other Plays, trans. Robert Chandler, Jesse
+
+Irwin, and Susan Larsen. New York: Columbia University Press, 2016.  
+Plokhy, Serhii. ‘Mapping the Great Famine’, MAPA: Digital Atlas of Ukraine, Harvard Ukrainian
+
+Research Institute, accessed 23 April 2017.
+
+http://gis.huri.harvard.edu/images/pdf/MappingGreatUkrainianFamine.pdf.  
+——. The Gates of Europe: A History of Ukraine. New York: Basic Books, 2015.  
+——. Unmaking Imperial Russia: Mykhailo Hrushevsky and the Writing of Ukrainian History.
+
+Toronto: University of Toronto Press, 2005. http://www.deslibris.ca/ID/418634.  
+Pohl, Otto J., Eric J. Schmaltz, and Ronald J. Vossler. ‘ “In Our Hearts We Felt the Sentence of Death”: Ethnic German Recollections of Mass Violence in the USSR, 1928–48’, Journal of Genocide Research
+
+11, no. 2 (2009), 325–7.  
+Power, Samantha. A Problem from Hell. New York: Basic Books, 2002.  
+Prymak, Thomas M. Mykhailo Hrushevsky: The Politics of National Culture. Toronto: University of
+
+Toronto Press, 1987.  
+Rigoulot, Pierre. Les Paupières Lourdes: Les Français face au Goulag: Aveuglements et Indignations.
+
+Paris: Éditions universitaires, 1991.  
+Riznykiv, Oleksa. Ïdlo 33-ho: slovnyk holodomoru. Odesa: Iurydychna literatura, 2003.  
+Romanets’, N. R. ‘Borot’ba z samosudamy v Ukraïns’komu seli, 1933–1935 rr’, Naukovi pratsi
+
+istorychnoho fakul’tetu Zaporiz’koho Natsional’noho Universytetu, XXIX (2010), 186–91.  
+Rubl’ov, Oleksandr Serhiiovych, and Oleksandr Petrovych Reient. Ukraïns’ki vyzvol’ni zmahannia
+
+1917–1921 rr. Kyiv: Al’ternatyvy, 1999.  
+Sands, Philippe. East West Street: On the Origins of ‘Genocide’ and ‘Crimes Against Humanity’. New
+
+York: Knopf, 2016.  
+Serhiichuk, Volodymyr et al. Ukraïns’kyi khlib na eksport, 1932–1933. Kyiv: PP Serhiichuk M.I., 2006. ——. Pohromy v Ukraïni 1914–1920: vid shtuchnykh stereotypiv do hirkoï pravdy, prykhovuvanoï v
+
+radians’kykh arkhivakh. Kyiv: Vyd-vo im. O. Telihy, 1998.  
+Service, Robert W. Lenin: A Biography. London: Papermac, 2001.  
+
+= Shapoval, Iurii (Yuri). ‘Fatal’na Ambivalentnist’, Krytyka: mizhnarodnyi ohliad knyzhok ta idei (May 2015). https://krytyka.com/ua/articles/fatalna-ambivalentnist.
+
+
+——. ‘Petro Shelest: 100th Anniversary of the Birth of One of Ukraine’s Most Spectacular Political Figures’, Den (4 March 2008).
+
+——. ‘Stoletnii Shelest: 14 fevralia ispolniaetsia 100 let odnomu iz samykh koloritnykh rukovoditelei USSR’, Den (8 February 2008).
+
+——. ‘The Case of the “Union for the Liberation of Ukraine”: A Prelude to the Holodomor’, Holodomor Studies 2, no. 2 (Summer–Autumn 2010).
+
+——. ‘The Mechanisms of the Informational Activity of the GPU-NKVD’, Cahiers du monde russe 22 (2001), 207–30.
+
+——. ‘The Symon Petliura Whom We Still Do Not Understand’, Den 18, last modified 6 June 2006, accessed 20 April 2017. http://www.ukemonde.com/petlyura/petlyura_notunder.html.
+
+——. Ukraïna 20–50 rr.: Storinky nenapysanoï istoriï. Kyiv: Naukova Dumka, 1993.  
+——. ‘Vsevolod Balickij, bourreau et victime’, Cahiers du monde russe 44, nos. 2/3 (2003), 369–99. ——. ‘Zhyttia ta smert’ Mikoly Khvyl’ovoho: u svitli rozsekrechenykh dokumentiv HPU’, Z arkhiviv
+
+VUChK, HPU, NKVD, KHB 2, nos. 30/31 (2008), 316–17.  
+Shevelov, George Y. The Ukrainian Language in the First Half of the Twentieth Century, 1900–1941:
+
+Its State and Status. Cambridge, MA: Harvard Ukrainian Research Institute, 1989.  
+Shkandrij, Myroslav, and Olga Bertelsen. ‘The Soviet Regime’s National Operations in Ukraine, 1929–
+
+1934’, Canadian Slavonic Papers 55, nos. 3/4 (September–December 2013), 160–83.  
+Shlikhter, Aleksandr. ‘Bor’ba za khleb na Ukraine v 1919 godu’, Litopys revoliutsiï: Zhurnal istoriï
+
+KP(b)U ta Zhovtnevoï revoliutsiï na Ukraïni 2, no. 29 (1928).  
+Sholokhov, Mikhail. Virgin Soil Upturned, trans. Stephen Garry. London: W. & J. Mackay, 1977.  
+Sipko, S. ‘A Report for the Holodomor Research and Education Consortium’, n.p., 2013.  
+Smolii, V. A. et al. ‘Ukraïnizatsiia’ 1920–1930-kh rokiv: peredumovy, zdobutky, uroky. Kyiv: Instytut
+
+Istoriï Ukraïny NAN Ukraïny, 2003.  
+Smolii, Valerii et al. Istoriia ukraïns’koho selianstva: Narysy v 2-kh tomakh. 2 vols. Kyiv: Instytut
+
+Istoriï Ukraïny NAN Ukraïny, 2006.  
+Snyder, Timothy. Black Earth: The Holocaust as History and Warning. New York: Tim Duggan Books,
+
+2015.  
+——. Bloodlands: Europe Between Hitler and Stalin. New York: Basic Books, 2010.  
+——. Sketches from a Secret War: A Polish Artist’s Mission to Liberate Soviet Ukraine. New Haven,
+
+CT: Yale University Press, 2005.  
+——, and Ray Brandon. Stalin and Europe: Imitation and Domination, 1928–1953. Oxford: Oxford
+
+University Press, 2014.  
+Sosnovyi, S. ‘Pravda pro velykyi holod na Ukraïni v 1932–1933 rokakh’, Ukraïns’ki visti (7 February
+
+1948).  
+Subtelny, Orest. Ukraine: A History. Toronto: University of Toronto Press, 1988.  
+Sysyn, Frank. ‘The Ukrainian Famine of 1932–33: The Role of the Ukrainian Diaspora in Research and
+
+Public Discussion’, Studies in Comparative Genocide, eds. Levon Chorbajian and George Shirinian.
+
+New York: St. Martin’s Press, 1999.  
+——. ‘Thirty Years of Research on the Holodomor: A Balance Sheet’, Contextualizing the Holodomor:
+
+The Impact of Thirty Years of Ukrainian Famine Studies, eds. Frank Sysyn and Andrij Makuch.
+
+Toronto: Canadian Institute of Ukrainian Studies, 2015.  
+Taylor, Sally J. Stalin’s Apologist: Walter Duranty, the New York Times’s Man in Moscow. New York:
+
+Oxford University Press, 1990.  
+Thevenin, Etienne. ‘France, Germany and Austria Facing the Famine of 1932–1933 in Ukraine’, presented
+
+at the James Mace Memorial Panel, IAUS Congress, Donetsk, Ukraine, 6 June 2005.  
+Tottle, Douglas. Fraud, Famine, and Fascism: The Ukrainian Genocide Myth from Hitler to Harvard.
+
+Toronto: Progress Books, 1987.  
+Tucker, Robert C. Stalin in Power: The Revolution from Above, 1928–1941. New York: W. W. Norton,
+
+1992.  
+Vasyl’ev, Valerii. ‘Osoblyvosti polityky kerivnytstva VKP(b) u sil’s’komu hospodarstvi URSR (Kinets’
+
+1933–1934 rr.)’, Ukraïns’kyi selianyn: pratsi Naukovo-doslidnoho Instytutu Selianstva 10 (2006),
+
+342–8.  
+——. Politychne kerivnytstvo URSR i SRSR: Dynamika vidnosyn tsentr-subtsentr vlady 1917–1938.
+
+Kyiv: Instytut Istoriï Ukraïny NAN Ukraïny, 2014.  
+——, and Iurii I. Shapoval. Komandyry velykoho holodu: Poïzdky V. Molotova i L. Kahanovycha v
+
+Ukraïnu ta Pivnichnyi Kavkaz, 1932–1933 rr. Kyiv: Heneza, 2001.  
+Viola, Lynne. Peasant Rebels Under Stalin: Collectivization and the Culture of Peasant Resistance.
+
+Oxford: Oxford University Press, 1996.  
+——. The Best Sons of the Fatherland: Workers in the Vanguard of Soviet Collectivization. New York:
+
+Oxford University Press, 1987.  
+——, and V. P. Danilov, eds. The War Against the Peasantry, 1927–1930: The Tragedy of the Soviet
+
+Countryside, trans. Steven Shabad. New Haven, CT: Yale University Press, 2005.  
+Wolowyna, Oleh, Serhii Plokhy, Nataliia Levchuk, Omelian Rudnytskyi, Pavlo Shevchuk and Alla Kovbasiuk. ‘Regional Variations of 1932–34 Famine Losses in Ukraine’, Canadian Studies in
+
+Population 43, nos. 3/4 (2016), 175–202.  
+Yevsieieva, Tetiana. ‘The Activities of Ukraine’s Union of Militant Atheists during the Period of All-Out
+
+Collectivization, 1929–1933’, trans. Marta Olynyk. Key Articles on the Holodomor Translated from Ukrainian into English, Holodomor Research and Education Consortium. http://holodomor.ca/translated-articles-on-the-holodomor.
