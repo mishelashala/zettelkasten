@@ -422,41 +422,26 @@ New York: St. Martin’s Press, 1999.
 The Impact of Thirty Years of Ukrainian Famine Studies, eds. Frank Sysyn and Andrij Makuch.
 
 Toronto: Canadian Institute of Ukrainian Studies, 2015.  
-Taylor, Sally J. Stalin’s Apologist: Walter Duranty, the New York Times’s Man in Moscow. New York:
+- Taylor, Sally J. Stalin’s Apologist: Walter Duranty, the New York Times’s Man in Moscow. New York: Oxford University Press, 1990.  
 
-Oxford University Press, 1990.  
-Thevenin, Etienne. ‘France, Germany and Austria Facing the Famine of 1932–1933 in Ukraine’, presented
+- Thevenin, Etienne. ‘[[France, Germany and Austria Facing the Famine of 1932–1933 in Ukraine]]’, presented at the James Mace Memorial Panel, IAUS Congress, Donetsk, Ukraine, 6 June 2005.  
 
-at the James Mace Memorial Panel, IAUS Congress, Donetsk, Ukraine, 6 June 2005.  
-Tottle, Douglas. Fraud, Famine, and Fascism: The Ukrainian Genocide Myth from Hitler to Harvard.
+- Tottle, Douglas. [[Fraud, Famine, and Fascism. The Ukrainian Genocide Myth from Hitler to Harvard]]. Toronto: Progress Books, 1987.  
 
-Toronto: Progress Books, 1987.  
-Tucker, Robert C. Stalin in Power: The Revolution from Above, 1928–1941. New York: W. W. Norton,
+- Tucker, Robert C. Stalin in Power: The Revolution from Above, 1928–1941. New York: W. W. Norton, 1992.  
 
-1992.  
-Vasyl’ev, Valerii. ‘Osoblyvosti polityky kerivnytstva VKP(b) u sil’s’komu hospodarstvi URSR (Kinets’
+- Vasyl’ev, Valerii. ‘Osoblyvosti polityky kerivnytstva VKP(b) u sil’s’komu hospodarstvi URSR (Kinets’ 1933–1934 rr.)’, Ukraïns’kyi selianyn: pratsi Naukovo-doslidnoho Instytutu Selianstva 10 (2006), 342–8.  
 
-1933–1934 rr.)’, Ukraïns’kyi selianyn: pratsi Naukovo-doslidnoho Instytutu Selianstva 10 (2006),
+——. Politychne kerivnytstvo URSR i SRSR: Dynamika vidnosyn tsentr-subtsentr vlady 1917–1938. Kyiv: Instytut Istoriï Ukraïny NAN Ukraïny, 2014.  
 
-342–8.  
-——. Politychne kerivnytstvo URSR i SRSR: Dynamika vidnosyn tsentr-subtsentr vlady 1917–1938.
+——, and Iurii I. Shapoval. Komandyry velykoho holodu: Poïzdky V. Molotova i L. Kahanovycha v Ukraïnu ta Pivnichnyi Kavkaz, 1932–1933 rr. Kyiv: Heneza, 2001.  
 
-Kyiv: Instytut Istoriï Ukraïny NAN Ukraïny, 2014.  
-——, and Iurii I. Shapoval. Komandyry velykoho holodu: Poïzdky V. Molotova i L. Kahanovycha v
+- Viola, Lynne. [[Peasant Rebels Under Stalin. Collectivization and the Culture of Peasant Resistance]]. Oxford: Oxford University Press, 1996.  
 
-Ukraïnu ta Pivnichnyi Kavkaz, 1932–1933 rr. Kyiv: Heneza, 2001.  
-Viola, Lynne. Peasant Rebels Under Stalin: Collectivization and the Culture of Peasant Resistance.
+——. [[The Best Sons of the Fatherland. Workers in the Vanguard of Soviet Collectivization]]. New York: Oxford University Press, 1987.  
 
-Oxford: Oxford University Press, 1996.  
-——. The Best Sons of the Fatherland: Workers in the Vanguard of Soviet Collectivization. New York:
+——, and V. P. Danilov, eds. [[The War Against the Peasantry, 1927–1930. The Tragedy of the Soviet Countryside]], trans. Steven Shabad. New Haven, CT: Yale University Press, 2005.  
 
-Oxford University Press, 1987.  
-——, and V. P. Danilov, eds. The War Against the Peasantry, 1927–1930: The Tragedy of the Soviet
+- Wolowyna, Oleh, Serhii Plokhy, Nataliia Levchuk, Omelian Rudnytskyi, Pavlo Shevchuk and Alla Kovbasiuk. ‘[[Regional Variations of 1932–34 Famine Losses in Ukraine]]’, Canadian Studies in Population 43, nos. 3/4 (2016), 175–202.  
 
-Countryside, trans. Steven Shabad. New Haven, CT: Yale University Press, 2005.  
-Wolowyna, Oleh, Serhii Plokhy, Nataliia Levchuk, Omelian Rudnytskyi, Pavlo Shevchuk and Alla Kovbasiuk. ‘Regional Variations of 1932–34 Famine Losses in Ukraine’, Canadian Studies in
-
-Population 43, nos. 3/4 (2016), 175–202.  
-Yevsieieva, Tetiana. ‘The Activities of Ukraine’s Union of Militant Atheists during the Period of All-Out
-
-Collectivization, 1929–1933’, trans. Marta Olynyk. Key Articles on the Holodomor Translated from Ukrainian into English, Holodomor Research and Education Consortium. http://holodomor.ca/translated-articles-on-the-holodomor.
+- Yevsieieva, Tetiana. ‘[[The Activities of Ukraine’s Union of Militant Atheists during the Period of All-Out Collectivization, 1929–1933]]’, trans. Marta Olynyk. Key Articles on the Holodomor Translated from Ukrainian into English, Holodomor Research and Education Consortium. http://holodomor.ca/translated-articles-on-the-holodomor.
