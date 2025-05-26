@@ -395,40 +395,31 @@ Sipko, S. ‘A Report for the Holodomor Research and Education Consortium’, n.
 Smolii, V. A. et al. ‘Ukraïnizatsiia’ 1920–1930-kh rokiv: peredumovy, zdobutky, uroky. Kyiv: Instytut
 
 Istoriï Ukraïny NAN Ukraïny, 2003.  
-Smolii, Valerii et al. Istoriia ukraïns’koho selianstva: Narysy v 2-kh tomakh. 2 vols. Kyiv: Instytut
+Smolii, Valerii et al. Istoriia ukraïns’koho selianstva: Narysy v 2-kh tomakh. 2 vols. Kyiv: Instytut Istoriï Ukraïny NAN Ukraïny, 2006.  
 
-Istoriï Ukraïny NAN Ukraïny, 2006.  
-Snyder, Timothy. Black Earth: The Holocaust as History and Warning. New York: Tim Duggan Books,
+- Snyder, Timothy. [[Black Earth. The Holocaust as History and Warning]]. New York: Tim Duggan Books, 2015.  
 
-2015.  
-——. Bloodlands: Europe Between Hitler and Stalin. New York: Basic Books, 2010.  
-——. Sketches from a Secret War: A Polish Artist’s Mission to Liberate Soviet Ukraine. New Haven,
+——. [[Bloodlands. Europe Between Hitler and Stalin]]. New York: Basic Books, 2010.  
 
-CT: Yale University Press, 2005.  
-——, and Ray Brandon. Stalin and Europe: Imitation and Domination, 1928–1953. Oxford: Oxford
+——. [[Sketches from a Secret War. A Polish Artist’s Mission to Liberate Soviet Ukraine]]. New Haven, CT: Yale University Press, 2005.  
 
-University Press, 2014.  
-Sosnovyi, S. ‘Pravda pro velykyi holod na Ukraïni v 1932–1933 rokakh’, Ukraïns’ki visti (7 February
+——, and Ray Brandon. [[Stalin and Europe. Imitation and Domination, 1928–1953]]. Oxford: Oxford University Press, 2014.  
 
-1948).  
-Subtelny, Orest. Ukraine: A History. Toronto: University of Toronto Press, 1988.  
-Sysyn, Frank. ‘The Ukrainian Famine of 1932–33: The Role of the Ukrainian Diaspora in Research and
+- Sosnovyi, S. ‘Pravda pro velykyi holod na Ukraïni v 1932–1933 rokakh’, Ukraïns’ki visti (7 February 1948).  
 
-Public Discussion’, Studies in Comparative Genocide, eds. Levon Chorbajian and George Shirinian.
+- Subtelny, Orest. [[Ukraine. A History]]. Toronto: University of Toronto Press, 1988.  
 
-New York: St. Martin’s Press, 1999.  
-——. ‘Thirty Years of Research on the Holodomor: A Balance Sheet’, Contextualizing the Holodomor:
+- Sysyn, Frank. ‘The Ukrainian Famine of 1932–33. The Role of the Ukrainian Diaspora in Research and Public Discussion’, [[Studies in Comparative Genocide]], eds. Levon Chorbajian and George Shirinian. New York: St. Martin’s Press, 1999.  
 
-The Impact of Thirty Years of Ukrainian Famine Studies, eds. Frank Sysyn and Andrij Makuch.
+——. ‘Thirty Years of Research on the Holodomor. A Balance Sheet’, [[Contextualizing the Holodomor. The Impact of Thirty Years of Ukrainian Famine Studies]], eds. Frank Sysyn and Andrij Makuch. Toronto: Canadian Institute of Ukrainian Studies, 2015.  
 
-Toronto: Canadian Institute of Ukrainian Studies, 2015.  
-- Taylor, Sally J. Stalin’s Apologist: Walter Duranty, the New York Times’s Man in Moscow. New York: Oxford University Press, 1990.  
+- Taylor, Sally J. [[Stalin’s Apologist. Walter Duranty, the New York Times’s Man in Moscow]]. New York: Oxford University Press, 1990.  
 
 - Thevenin, Etienne. ‘[[France, Germany and Austria Facing the Famine of 1932–1933 in Ukraine]]’, presented at the James Mace Memorial Panel, IAUS Congress, Donetsk, Ukraine, 6 June 2005.  
 
 - Tottle, Douglas. [[Fraud, Famine, and Fascism. The Ukrainian Genocide Myth from Hitler to Harvard]]. Toronto: Progress Books, 1987.  
 
-- Tucker, Robert C. Stalin in Power: The Revolution from Above, 1928–1941. New York: W. W. Norton, 1992.  
+- Tucker, Robert C. [[Stalin in Power. The Revolution from Above, 1928–1941]]. New York: W. W. Norton, 1992.  
 
 - Vasyl’ev, Valerii. ‘Osoblyvosti polityky kerivnytstva VKP(b) u sil’s’komu hospodarstvi URSR (Kinets’ 1933–1934 rr.)’, Ukraïns’kyi selianyn: pratsi Naukovo-doslidnoho Instytutu Selianstva 10 (2006), 342–8.  
 
