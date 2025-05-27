@@ -136,9 +136,10 @@ United States Congress, and Commission on the Ukraine Famine. [[Investigation of
 - Boriak, Hennadii. ‘Sources and Resources on the Famine in Ukraine’s Archival System’, Harvard Ukrainian Studies 27, nos. 2004–5 (2008), 117–47.
 
 - Boriak, Tetiana. 1933: ‘I choho vy shche zhyvi?’ Kyiv: Clio, NAN Ukraïny, 2016.  
-Borys, Jurij. The Sovietization of Ukraine 1917–1923: The Communist Doctrine and Practice of
 
-- National Self-Determination. Edmonton, Alberta. Canadian Institute of Ukrainian Studies, 1980. Bulgakov, Mikhail. White Guard, trans. Marian Schwartz. New Haven, CT: Yale University Press, 2008. Carr, E. H., and R. W. Davies. A History of Soviet Russia: Foundations of a Planned Economy, 1926–1929. 4 vols. London: Macmillan, 1978.  
+- Borys, Jurij. [[The Sovietization of Ukraine 1917–1923. The Communist Doctrine and Practice of National Self-Determination. Edmonton]], Alberta. Canadian Institute of Ukrainian Studies, 1980.
+
+- Bulgakov, Mikhail. White Guard, trans. Marian Schwartz. New Haven, CT: Yale University Press, 2008. Carr, E. H., and R. W. Davies. A History of Soviet Russia: Foundations of a Planned Economy, 1926–1929. 4 vols. London: Macmillan, 1978.  
 
 - Chamberlin, William Henry. ‘[[Soviet Taboos]]’, Foreign Affairs 13, no. 3 (1935), 431–40. 
 
