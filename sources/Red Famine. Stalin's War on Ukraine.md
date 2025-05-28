@@ -256,7 +256,7 @@ Khlevniuk, Oleg V. Stalin: New Biography of a Dictator, trans. Nora Seligman Fav
 
 ——, and O. M. Movchan. Nevidomi storinky holodu 1921–1923 rr. v Ukraïni. Kyiv: Instytut Istoriï Ukraïny NAN Ukraïny, 1993.  
 
-- Kuromiya, Hiroaki. Freedom and Terror in the Donbas: A Ukrainian-Russian Borderland, 1870s–1990s. Cambridge: Cambridge University Press, 1998.  
+- Kuromiya, Hiroaki. [[Freedom and Terror in the Donbas. A Ukrainian-Russian Borderland, 1870s–1990s]]. Cambridge: Cambridge University Press, 1998.  
 
 - Kyrydon, Alla. ‘Ruinuvannia kul’tovykh sporud (1920–1930-ti rr.): porushennia tradytsiinoï rytmolohiï prostoru’, Ukraïns’kyi Istorichnyi Zhurnal 22, no. 6 (2013), 91–102.  
 
@@ -312,61 +312,51 @@ Khlevniuk, Oleg V. Stalin: New Biography of a Dictator, trans. Nora Seligman Fav
 
 ——. ‘Blacklists as an Instrument of the Famine-Genocide of 1932–1933 in Ukraine’, trans. Marta Olynyk. Key Articles on the Holodomor Translated from Ukrainian into English, Holodomor Research and Education Consortium. http://holodomor.ca/translated-articles-on-the-holodomor. 
 
-——. Donbas na ‘chornii doshtsi’, 1932–1933: Naukovo-populiarnyi narys. Kyiv: Instytut Istoriï
+——. Donbas na ‘chornii doshtsi’, 1932–1933: Naukovo-populiarnyi narys. Kyiv: Instytut Istoriï Ukraïny NAN Ukraïny, 2014.  
 
-Ukraïny NAN Ukraïny, 2014.  
-Pasternak, Boris. Doctor Zhivago, trans. Richard Pevear and Larissa Volokhonsky. New York: Pantheon
+- Pasternak, Boris. Doctor Zhivago, trans. Richard Pevear and Larissa Volokhonsky. New York: Pantheon Books, 2010.  
 
-Books, 2010.  
-Patenaude, Bertrand. The Big Show in Bololand: The American Relief Expedition to Soviet Russia in the
+- Patenaude, Bertrand. [[The Big Show in Bololand. The American Relief Expedition to Soviet Russia in the Famine of 1921]]. Stanford, CA: Stanford University Press, 2002.  
 
-Famine of 1921. Stanford, CA: Stanford University Press, 2002.  
-Pauly, Matthew D. Breaking the Tongue: Language, Education, and Power in Soviet Ukraine, 1923–
+- Pauly, Matthew D. [[Breaking the Tongue. Language, Education, and Power in Soviet Ukraine, 1923–1924]]. Toronto: University of Toronto Press, 2014. 
 
-1924. Toronto: University of Toronto Press, 2014.  
-Pidhainy, S. O., ed. The Black Deeds of the Kremlin: A White Book, 2 vols. Toronto: Basilian Press,
+- Pidhainy, S. O., ed. [[The Black Deeds of the Kremlin. A White Book, 2 vols]]. Toronto: Basilian Press, 1925.  
 
-1925.  
-Pipes, Richard. Russia under the Bolshevik Regime. New York: Vintage Books, 1995.  
-——, ed. The Unknown Lenin: From the Secret Archive. New Haven, CT: Yale University Press, 1999. Platonov, Andrei Platonovich. Fourteen Little Red Huts and Other Plays, trans. Robert Chandler, Jesse
+- Pipes, Richard. [[Russia under the Bolshevik Regime]]. New York: Vintage Books, 1995.  
 
-Irwin, and Susan Larsen. New York: Columbia University Press, 2016.  
-Plokhy, Serhii. ‘Mapping the Great Famine’, MAPA: Digital Atlas of Ukraine, Harvard Ukrainian
+——, ed. [[The Unknown Lenin. From the Secret Archive]]. New Haven, CT: Yale University Press, 1999.
 
-Research Institute, accessed 23 April 2017.
+- Platonov, Andrei Platonovich. [[Fourteen Little Red Huts and Other Plays]], trans. Robert Chandler, Jesse Irwin, and Susan Larsen. New York: Columbia University Press, 2016.  
 
-http://gis.huri.harvard.edu/images/pdf/MappingGreatUkrainianFamine.pdf.  
-——. The Gates of Europe: A History of Ukraine. New York: Basic Books, 2015.  
-——. Unmaking Imperial Russia: Mykhailo Hrushevsky and the Writing of Ukrainian History.
+- Plokhy, Serhii. ‘[[Mapping the Great Famine]]’, MAPA: Digital Atlas of Ukraine, Harvard Ukrainian Research Institute, accessed 23 April 2017. http://gis.huri.harvard.edu/images/pdf/MappingGreatUkrainianFamine.pdf.  
 
-Toronto: University of Toronto Press, 2005. http://www.deslibris.ca/ID/418634.  
-Pohl, Otto J., Eric J. Schmaltz, and Ronald J. Vossler. ‘ “In Our Hearts We Felt the Sentence of Death”: Ethnic German Recollections of Mass Violence in the USSR, 1928–48’, Journal of Genocide Research
+——. [[The Gates of Europe. A History of Ukraine]]. New York: Basic Books, 2015.  
 
-11, no. 2 (2009), 325–7.  
-Power, Samantha. A Problem from Hell. New York: Basic Books, 2002.  
-Prymak, Thomas M. Mykhailo Hrushevsky: The Politics of National Culture. Toronto: University of
+——. [[Unmaking Imperial Russia. Mykhailo Hrushevsky and the Writing of Ukrainian History]]. Toronto: University of Toronto Press, 2005. http://www.deslibris.ca/ID/418634. 
 
-Toronto Press, 1987.  
-Rigoulot, Pierre. Les Paupières Lourdes: Les Français face au Goulag: Aveuglements et Indignations.
+- Pohl, Otto J., Eric J. Schmaltz, and Ronald J. Vossler. ‘[[“In Our Hearts We Felt the Sentence of Death”. Ethnic German Recollections of Mass Violence in the USSR, 1928–48]]’, Journal of Genocide Research 11, no. 2 (2009), 325–7.  
 
-Paris: Éditions universitaires, 1991.  
-Riznykiv, Oleksa. Ïdlo 33-ho: slovnyk holodomoru. Odesa: Iurydychna literatura, 2003.  
-Romanets’, N. R. ‘Borot’ba z samosudamy v Ukraïns’komu seli, 1933–1935 rr’, Naukovi pratsi
+- Power, Samantha. [[A Problem from Hell]]. New York: Basic Books, 2002.  
 
-istorychnoho fakul’tetu Zaporiz’koho Natsional’noho Universytetu, XXIX (2010), 186–91.  
-Rubl’ov, Oleksandr Serhiiovych, and Oleksandr Petrovych Reient. Ukraïns’ki vyzvol’ni zmahannia
+- Prymak, Thomas M. [[Mykhailo Hrushevsky. The Politics of National Culture]]. Toronto: University of Toronto Press, 1987.  
 
-1917–1921 rr. Kyiv: Al’ternatyvy, 1999.  
-Sands, Philippe. East West Street: On the Origins of ‘Genocide’ and ‘Crimes Against Humanity’. New
+- Rigoulot, Pierre. [[Les Paupières Lourdes. Les Français face au Goulag. Aveuglements et Indignations]]. Paris: Éditions universitaires, 1991.  
 
-York: Knopf, 2016.  
-Serhiichuk, Volodymyr et al. Ukraïns’kyi khlib na eksport, 1932–1933. Kyiv: PP Serhiichuk M.I., 2006. ——. Pohromy v Ukraïni 1914–1920: vid shtuchnykh stereotypiv do hirkoï pravdy, prykhovuvanoï v
+- Riznykiv, Oleksa. Ïdlo 33-ho: slovnyk holodomoru. Odesa: Iurydychna literatura, 2003.  
 
-radians’kykh arkhivakh. Kyiv: Vyd-vo im. O. Telihy, 1998.  
-Service, Robert W. Lenin: A Biography. London: Papermac, 2001.  
+- Romanets’, N. R. ‘Borot’ba z samosudamy v Ukraïns’komu seli, 1933–1935 rr’, Naukovi pratsi istorychnoho fakul’tetu Zaporiz’koho Natsional’noho Universytetu, XXIX (2010), 186–91.  
 
-= Shapoval, Iurii (Yuri). ‘Fatal’na Ambivalentnist’, Krytyka: mizhnarodnyi ohliad knyzhok ta idei (May 2015). https://krytyka.com/ua/articles/fatalna-ambivalentnist.
+- Rubl’ov, Oleksandr Serhiiovych, and Oleksandr Petrovych Reient. Ukraïns’ki vyzvol’ni zmahannia 1917–1921 rr. Kyiv: Al’ternatyvy, 1999.  
 
+- Sands, Philippe. East West Street: On the Origins of ‘Genocide’ and ‘Crimes Against Humanity’. New York: Knopf, 2016.  
+
+- Serhiichuk, Volodymyr et al. Ukraïns’kyi khlib na eksport, 1932–1933. Kyiv: PP Serhiichuk M.I., 2006.
+
+——. Pohromy v Ukraïni 1914–1920: vid shtuchnykh stereotypiv do hirkoï pravdy, prykhovuvanoï v radians’kykh arkhivakh. Kyiv: Vyd-vo im. O. Telihy, 1998.  
+
+- Service, Robert W. [[Lenin. A Biography]]. London: Papermac, 2001.  
+
+- Shapoval, Iurii (Yuri). ‘Fatal’na Ambivalentnist’, Krytyka: mizhnarodnyi ohliad knyzhok ta idei (May 2015). https://krytyka.com/ua/articles/fatalna-ambivalentnist.
 
 ——. ‘Petro Shelest: 100th Anniversary of the Birth of One of Ukraine’s Most Spectacular Political Figures’, Den (4 March 2008).
 
@@ -379,12 +369,9 @@ Service, Robert W. Lenin: A Biography. London: Papermac, 2001.
 ——. ‘The Symon Petliura Whom We Still Do Not Understand’, Den 18, last modified 6 June 2006, accessed 20 April 2017. http://www.ukemonde.com/petlyura/petlyura_notunder.html.
 
 ——. Ukraïna 20–50 rr.: Storinky nenapysanoï istoriï. Kyiv: Naukova Dumka, 1993.  
-——. ‘Vsevolod Balickij, bourreau et victime’, Cahiers du monde russe 44, nos. 2/3 (2003), 369–99. ——. ‘Zhyttia ta smert’ Mikoly Khvyl’ovoho: u svitli rozsekrechenykh dokumentiv HPU’, Z arkhiviv
+——. ‘Vsevolod Balickij, bourreau et victime’, Cahiers du monde russe 44, nos. 2/3 (2003), 369–99. ——. ‘Zhyttia ta smert’ Mikoly Khvyl’ovoho: u svitli rozsekrechenykh dokumentiv HPU’, Z arkhiviv VUChK, HPU, NKVD, KHB 2, nos. 30/31 (2008), 316–17.  
 
-VUChK, HPU, NKVD, KHB 2, nos. 30/31 (2008), 316–17.  
-Shevelov, George Y. The Ukrainian Language in the First Half of the Twentieth Century, 1900–1941:
-
-Its State and Status. Cambridge, MA: Harvard Ukrainian Research Institute, 1989.  
+- Shevelov, George Y. The Ukrainian Language in the First Half of the Twentieth Century, 1900–1941: Its State and Status. Cambridge, MA: Harvard Ukrainian Research Institute, 1989.  
 Shkandrij, Myroslav, and Olga Bertelsen. ‘The Soviet Regime’s National Operations in Ukraine, 1929–
 
 1934’, Canadian Slavonic Papers 55, nos. 3/4 (September–December 2013), 160–83.  
