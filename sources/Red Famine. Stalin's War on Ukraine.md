@@ -372,18 +372,18 @@ Khlevniuk, Oleg V. Stalin: New Biography of a Dictator, trans. Nora Seligman Fav
 ——. ‘Vsevolod Balickij, bourreau et victime’, Cahiers du monde russe 44, nos. 2/3 (2003), 369–99. ——. ‘Zhyttia ta smert’ Mikoly Khvyl’ovoho: u svitli rozsekrechenykh dokumentiv HPU’, Z arkhiviv VUChK, HPU, NKVD, KHB 2, nos. 30/31 (2008), 316–17.  
 
 - Shevelov, George Y. The Ukrainian Language in the First Half of the Twentieth Century, 1900–1941: Its State and Status. Cambridge, MA: Harvard Ukrainian Research Institute, 1989.  
-Shkandrij, Myroslav, and Olga Bertelsen. ‘The Soviet Regime’s National Operations in Ukraine, 1929–
 
-1934’, Canadian Slavonic Papers 55, nos. 3/4 (September–December 2013), 160–83.  
-Shlikhter, Aleksandr. ‘Bor’ba za khleb na Ukraine v 1919 godu’, Litopys revoliutsiï: Zhurnal istoriï
+- Shkandrij, Myroslav, and Olga Bertelsen. ‘The Soviet Regime’s National Operations in Ukraine, 1929–1934’, Canadian Slavonic Papers 55, nos. 3/4 (September–December 2013), 160–83.  
 
-KP(b)U ta Zhovtnevoï revoliutsiï na Ukraïni 2, no. 29 (1928).  
-Sholokhov, Mikhail. Virgin Soil Upturned, trans. Stephen Garry. London: W. & J. Mackay, 1977.  
-Sipko, S. ‘A Report for the Holodomor Research and Education Consortium’, n.p., 2013.  
-Smolii, V. A. et al. ‘Ukraïnizatsiia’ 1920–1930-kh rokiv: peredumovy, zdobutky, uroky. Kyiv: Instytut
+- Shlikhter, Aleksandr. ‘Bor’ba za khleb na Ukraine v 1919 godu’, Litopys revoliutsiï: Zhurnal istoriï KP(b)U ta Zhovtnevoï revoliutsiï na Ukraïni 2, no. 29 (1928).  
 
-Istoriï Ukraïny NAN Ukraïny, 2003.  
-Smolii, Valerii et al. Istoriia ukraïns’koho selianstva: Narysy v 2-kh tomakh. 2 vols. Kyiv: Instytut Istoriï Ukraïny NAN Ukraïny, 2006.  
+- Sholokhov, Mikhail. Virgin Soil Upturned, trans. Stephen Garry. London: W. & J. Mackay, 1977.  
+
+- Sipko, S. ‘A Report for the Holodomor Research and Education Consortium’, n.p., 2013.  
+
+- Smolii, V. A. et al. ‘Ukraïnizatsiia’ 1920–1930-kh rokiv: peredumovy, zdobutky, uroky. Kyiv: Instytut Istoriï Ukraïny NAN Ukraïny, 2003.  
+
+- Smolii, Valerii et al. Istoriia ukraïns’koho selianstva: Narysy v 2-kh tomakh. 2 vols. Kyiv: Instytut Istoriï Ukraïny NAN Ukraïny, 2006.  
 
 - Snyder, Timothy. [[Black Earth. The Holocaust as History and Warning]]. New York: Tim Duggan Books, 2015.  
 
