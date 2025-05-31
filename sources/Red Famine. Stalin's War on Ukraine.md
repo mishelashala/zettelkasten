@@ -106,7 +106,7 @@
 
 ——, and S. H. Vodotyka. Natsional’na knyha pam’iati zhertv Holodomoru 1932–1933 rokiv v Ukraïni: Khersons’ka oblast’, eds. I. P. Iukhnovs’kyi et al. Kherson: Vydavnytstvo ‘Naddniprians’ka pravda’, 2008.
 
-United States Congress, and Commission on the Ukraine Famine. [[Investigation of the Ukrainian Famine, 1932–1933. Report to Congress]]. Adopted by the Commission, 19 April 1988, submitted to Congress, 22 April 1988. Washington, D.C.: U.S. G.P.O.: For sale by Supt. of Docs., U.S. G.P.O., 1988.
+- United States Congress, and Commission on the Ukraine Famine. [[Investigation of the Ukrainian Famine, 1932–1933. Report to Congress]]. Adopted by the Commission, 19 April 1988, submitted to Congress, 22 April 1988. Washington, D.C.: U.S. G.P.O.: For sale by Supt. of Docs., U.S. G.P.O., 1988.
 
 ——. [[Investigation of the Ukrainian Famine, 1932–1933. First Interim Report. Meetings and hearings of and before the Commission on the Ukraine Famine held in 1986. organizational meeting]], Washington, D.C., 23 April 1986: meeting and hearing, Washington, D.C., 8 October 1986: hearing, Glen Spey, New York, 26 October 1986: hearing, Chicago, Illinois, 7 November 1986: hearing, Warren, Michigan, 24 November 1986. Washington, D.C.: U.S. G.P.O.: For sale by the Supt. of Docs., U.S. G.P.O., 1987.
 
@@ -369,7 +369,10 @@ Khlevniuk, Oleg V. Stalin: New Biography of a Dictator, trans. Nora Seligman Fav
 ——. ‘The Symon Petliura Whom We Still Do Not Understand’, Den 18, last modified 6 June 2006, accessed 20 April 2017. http://www.ukemonde.com/petlyura/petlyura_notunder.html.
 
 ——. Ukraïna 20–50 rr.: Storinky nenapysanoï istoriï. Kyiv: Naukova Dumka, 1993.  
-——. ‘Vsevolod Balickij, bourreau et victime’, Cahiers du monde russe 44, nos. 2/3 (2003), 369–99. ——. ‘Zhyttia ta smert’ Mikoly Khvyl’ovoho: u svitli rozsekrechenykh dokumentiv HPU’, Z arkhiviv VUChK, HPU, NKVD, KHB 2, nos. 30/31 (2008), 316–17.  
+
+——. ‘Vsevolod Balickij, bourreau et victime’, Cahiers du monde russe 44, nos. 2/3 (2003), 369–99.
+
+——. ‘Zhyttia ta smert’ Mikoly Khvyl’ovoho: u svitli rozsekrechenykh dokumentiv HPU’, Z arkhiviv VUChK, HPU, NKVD, KHB 2, nos. 30/31 (2008), 316–17.  
 
 - Shevelov, George Y. The Ukrainian Language in the First Half of the Twentieth Century, 1900–1941: Its State and Status. Cambridge, MA: Harvard Ukrainian Research Institute, 1989.  
 
