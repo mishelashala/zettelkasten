@@ -402,7 +402,7 @@ Khlevniuk, Oleg V. Stalin: New Biography of a Dictator, trans. Nora Seligman Fav
 
 - Sysyn, Frank. ‘The Ukrainian Famine of 1932–33. The Role of the Ukrainian Diaspora in Research and Public Discussion’, [[Studies in Comparative Genocide]], eds. Levon Chorbajian and George Shirinian. New York: St. Martin’s Press, 1999.  
 
-——. ‘Thirty Years of Research on the Holodomor. A Balance Sheet’, [[Contextualizing the Holodomor. The Impact of Thirty Years of Ukrainian Famine Studies]], eds. Frank Sysyn and Andrij Makuch. Toronto: Canadian Institute of Ukrainian Studies, 2015.  
+- Sysyn, Frank. ‘Thirty Years of Research on the Holodomor. A Balance Sheet’, [[Contextualizing the Holodomor. The Impact of Thirty Years of Ukrainian Famine Studies]], eds. Frank Sysyn and Andrij Makuch. Toronto: Canadian Institute of Ukrainian Studies, 2015.  
 
 - Taylor, Sally J. [[Stalin’s Apologist. Walter Duranty, the New York Times’s Man in Moscow]]. New York: Oxford University Press, 1990.  
 
@@ -414,15 +414,15 @@ Khlevniuk, Oleg V. Stalin: New Biography of a Dictator, trans. Nora Seligman Fav
 
 - Vasyl’ev, Valerii. ‘Osoblyvosti polityky kerivnytstva VKP(b) u sil’s’komu hospodarstvi URSR (Kinets’ 1933–1934 rr.)’, Ukraïns’kyi selianyn: pratsi Naukovo-doslidnoho Instytutu Selianstva 10 (2006), 342–8.  
 
-——. Politychne kerivnytstvo URSR i SRSR: Dynamika vidnosyn tsentr-subtsentr vlady 1917–1938. Kyiv: Instytut Istoriï Ukraïny NAN Ukraïny, 2014.  
+- Vasyl’ev, Valerii. Politychne kerivnytstvo URSR i SRSR: Dynamika vidnosyn tsentr-subtsentr vlady 1917–1938. Kyiv: Instytut Istoriï Ukraïny NAN Ukraïny, 2014.  
 
-——, and Iurii I. Shapoval. Komandyry velykoho holodu: Poïzdky V. Molotova i L. Kahanovycha v Ukraïnu ta Pivnichnyi Kavkaz, 1932–1933 rr. Kyiv: Heneza, 2001.  
+- Vasyl’ev, Valerii and Iurii I. Shapoval. Komandyry velykoho holodu: Poïzdky V. Molotova i L. Kahanovycha v Ukraïnu ta Pivnichnyi Kavkaz, 1932–1933 rr. Kyiv: Heneza, 2001.  
 
 - Viola, Lynne. [[Peasant Rebels Under Stalin. Collectivization and the Culture of Peasant Resistance]]. Oxford: Oxford University Press, 1996.  
 
-——. [[The Best Sons of the Fatherland. Workers in the Vanguard of Soviet Collectivization]]. New York: Oxford University Press, 1987.  
+- Viola, Lynne.. [[The Best Sons of the Fatherland. Workers in the Vanguard of Soviet Collectivization]]. New York: Oxford University Press, 1987.  
 
-——, and V. P. Danilov, eds. [[The War Against the Peasantry, 1927–1930. The Tragedy of the Soviet Countryside]], trans. Steven Shabad. New Haven, CT: Yale University Press, 2005.  
+- Viola, Lynne., and V. P. Danilov, eds. [[The War Against the Peasantry, 1927–1930. The Tragedy of the Soviet Countryside]], trans. Steven Shabad. New Haven, CT: Yale University Press, 2005.  
 
 - Wolowyna, Oleh, Serhii Plokhy, Nataliia Levchuk, Omelian Rudnytskyi, Pavlo Shevchuk and Alla Kovbasiuk. ‘[[Regional Variations of 1932–34 Famine Losses in Ukraine]]’, Canadian Studies in Population 43, nos. 3/4 (2016), 175–202.  
 
