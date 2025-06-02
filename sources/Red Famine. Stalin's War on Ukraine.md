@@ -390,11 +390,11 @@ Khlevniuk, Oleg V. Stalin: New Biography of a Dictator, trans. Nora Seligman Fav
 
 - Snyder, Timothy. [[Black Earth. The Holocaust as History and Warning]]. New York: Tim Duggan Books, 2015.  
 
-——. [[Bloodlands. Europe Between Hitler and Stalin]]. New York: Basic Books, 2010.  
+- Snyder, Timothy. [[Bloodlands. Europe Between Hitler and Stalin]]. New York: Basic Books, 2010.  
 
-——. [[Sketches from a Secret War. A Polish Artist’s Mission to Liberate Soviet Ukraine]]. New Haven, CT: Yale University Press, 2005.  
+- Snyder, Timothy. [[Sketches from a Secret War. A Polish Artist’s Mission to Liberate Soviet Ukraine]]. New Haven, CT: Yale University Press, 2005.  
 
-——, and Ray Brandon. [[Stalin and Europe. Imitation and Domination, 1928–1953]]. Oxford: Oxford University Press, 2014.  
+- Snyder, Timothy, and Ray Brandon. [[Stalin and Europe. Imitation and Domination, 1928–1953]]. Oxford: Oxford University Press, 2014.  
 
 - Sosnovyi, S. ‘Pravda pro velykyi holod na Ukraïni v 1932–1933 rokakh’, Ukraïns’ki visti (7 February 1948).  
 
