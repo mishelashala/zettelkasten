@@ -13,7 +13,7 @@
 - Colley, Nigel Linsan. ‘[[“1933 Newspaper Articles”. Gareth Jones – Hero of Ukraine]]’, accessed 11 January 2017. http://www.garethjones.org/overview/articles1933.htm.  
 
 - Danilov, V., R. Manning, and L. Viola, eds. [[Tragediia sovetskoi derevni, kollektivizatsiia i raskulachivanie. dokumenty i materialy v 5 tomakh, 1927–1939]]. 5 vols. Moscow: Rossiiskaia polit. Entisklopediia, 1999–2006. 
-- 
+
 - Danilov, V., R. Manning, and L. Viola, and N. A. Ivnitskii, eds. [[Dokumenty svidetel’stvuiut. iz istorii derevni nakanune i v khode kollektivizatsii, 1927–1932]] gg. Moscow: Politizdat, 1989.
 
 - Danylenko, V. M. et al., eds. [[Holodomor 1932–1933 rokiv v Ukraïni za dokumentamy HDA SBU. anotovanyi dovidnyk]]. L’viv: Tsentr Doslidzhen’ Vyzvol’noho Rukhu, 2010.  
@@ -44,7 +44,7 @@
 
 - Le Comité Commémoratif Simon Petliura. Documents sur les Pogroms en Ukraine et l’assassinat de Simon Petliura à Paris. Paris: Librairie du Trident, 1927.  
 
-- Lenin, V. I. Collected Works. Moscow: Progress Publishers, 1965.
+- [[Lenin, V. I. Collected Works]]. Moscow: Progress Publishers, 1965.
 
 - Lozyts’kyi, V. S. Holodomor 1932–1933 rokiv v Ukraïni: zlochyn vlady – trahediia narodu: dokumenty i materialy. Kyiv: Heneza, 2008.
 
@@ -74,9 +74,9 @@
 
 - Karas, A. V. Svidchennia ochevydtsiv pro holod 1930–40-kh rr. na Sivershchyni. Hlukhiv: RVV HDPU, 2008.
 
-- Kopelev, Lev. The Education of a True Believer, trans. Gary Kern. London: Wildwood House, 1981.
+- Kopelev, Lev. [[The Education of a True Believer]], trans. Gary Kern. London: Wildwood House, 1981.
 
-- Kopelev, Lev. To Be Preserved Forever, trans. Anthony Austin. New York: Lippincott, 1977.
+- Kopelev, Lev. [[To Be Preserved Forever]], trans. Anthony Austin. New York: Lippincott, 1977.
 
 - Kovalenko, L. B., and Volodymyr Maniak, eds. 33-i Holod: narodna knyha-memorial. Kyiv: Radians’kyi Pys’mennyk, 1991.
 
