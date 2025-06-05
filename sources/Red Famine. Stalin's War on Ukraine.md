@@ -54,23 +54,23 @@
 
 - Stalin, Josef. Works. 13 vols. Moscow: Foreign Languages Publishing House, 1954. http://www.marxists.org/reference/archive/stalin/works/1933/01/07.htm.
 
-- Szczesniak, Boleslaw. The Russian Revolution and Religion: A Collection of Documents Concerning the Suppression of Religion by the Communists, 1917–1925. Notre Dame, IN: University of Notre Dame Press, 1959.
+- Szczesniak, Boleslaw. [[The Russian Revolution and Religion. A Collection of Documents Concerning the Suppression of Religion by the Communists, 1917–1925]]. Notre Dame, IN: University of Notre Dame Press, 1959.
 
 - Volkov, A. G. ‘Perepis’ naseleniia SSSR 1937 goda: Istoriia i materialy/Ekspress-informatsiia’, Istoriia Statistiki 3–5, no. chast’ II (1990), 6–63.
 
-- Borysenko, Valentyna. A Candle in Remembrance: An Oral History of the Ukrainian Genocide of 1933– 34 (Svicha Pam’iati), trans. Mark Tarnawsky. New York: Ukrainian Women’s League of America, 2010.
+- Borysenko, Valentyna. [[A Candle in Remembrance. An Oral History of the Ukrainian Genocide of 1933– 34]] (Svicha Pam’iati), trans. Mark Tarnawsky. New York: Ukrainian Women’s League of America, 2010.
 
 - Borysenko, Valentyna. Svicha pam’iati: Usna istoriia pro henotsyd ukraïntsiv u 1932–1933 rokakh. Kyiv: Stylos, 2007.
 
-- Dolot, Miron. Execution by Hunger: The Hidden Holocaust. New York: W. W. Norton, 1985.  
+- Dolot, Miron. [[Execution by Hunger. The Hidden Holocaust]]. New York: W. W. Norton, 1985.  
 
-- Duranty, Walter. I Write as I Please. New York: Simon and Schuster, 1935.
+- Duranty, Walter. [[I Write as I Please]]. New York: Simon and Schuster, 1935.
 
-- Epp, Heinrich. ‘The Day the World Ended: Dec. 7, 1919, Steinbach, Russia’, trans. D. F. Plett, Preservings: Newsletter of the Hanover Steinbach Historical Society, no. 8, part 2 (June 1996), 5–7.
+- Epp, Heinrich. ‘[[The Day the World Ended. Dec. 7, 1919, Steinbach, Russia]]’, trans. D. F. Plett, Preservings: Newsletter of the Hanover Steinbach Historical Society, no. 8, part 2 (June 1996), 5–7.
 
 - Harvard Project on the Soviet Social System Online. Fung Library, Harvard University, http://nrs.harvard.edu/urn-3:FHCL:fun00001.
 
-- Jones, Gareth. Tell Them We Are Starving: The 1933 Diaries of Gareth Jones, ed. Lubomyr Y. Luciuk (Kingston, Ontario: Kashtan Press, 2015).
+- Jones, Gareth. [[Tell Them We Are Starving. The 1933 Diaries of Gareth Jones]], ed. Lubomyr Y. Luciuk (Kingston, Ontario: Kashtan Press, 2015).
 
 - Karas, A. V. Svidchennia ochevydtsiv pro holod 1930–40-kh rr. na Sivershchyni. Hlukhiv: RVV HDPU, 2008.
 
@@ -80,7 +80,7 @@
 
 - Kovalenko, L. B., and Volodymyr Maniak, eds. 33-i Holod: narodna knyha-memorial. Kyiv: Radians’kyi Pys’mennyk, 1991.
 
-- Kravchenko, Victor. I Chose Freedom: The Personal and Political Life of a Soviet Official, trans. Rhett R. Ludwikowski. London: Robert Hale, 1946.
+- Kravchenko, Victor. [[I Chose Freedom. The Personal and Political Life of a Soviet Official]], trans. Rhett R. Ludwikowski. London: Robert Hale, 1946.
 
 - Lemkin, Raphael. Totally Unofficial: The Autobiography of Raphael Lemkin. New Haven, CT, and London: Yale University Press, 2013.
 
