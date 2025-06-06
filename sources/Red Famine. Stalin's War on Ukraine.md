@@ -163,15 +163,15 @@
 
 - Figes, Orlando. [[Peasant Russia, Civil War. The Volga Countryside in Revolution, 1917–1921]]. Oxford: Clarendon Press, 1989. 
 
-——. [[A People’s Tragedy. The Russian Revolution, 1891–1924]]. London: Pimlico, 1997.  
+- Figes, Orlando. [[A People’s Tragedy. The Russian Revolution, 1891–1924]]. London: Pimlico, 1997.  
 
-——. [[The Whisperers. Private Life in Stalin’s Russia]]. New York: Metropolitan Books, 2007.  
+- Figes, Orlando. [[The Whisperers. Private Life in Stalin’s Russia]]. New York: Metropolitan Books, 2007.  
 
 - Fisher, H. H. [[The Famine in Soviet Russia, 1919–1923. The Operations of the American Relief Administration]]. New York: Macmillan, 1927.  
 
 - Fitzpatrick, Sheila. [[Education and Social Mobility in the Soviet Union, 1921–1934]]. Cambridge: Cambridge University Press, 1979, 2002.  
 
-——. ‘[[The Great Departure. Rural-Urban Migration in the Soviet Union, 1929–1933]]’, in Social Dimensions of Soviet Industrialization, eds. William G. Rosenberg and Lewis H. Siegelbaum. Bloomington, IN: Indiana University Press, 1993.  
+- Fitzpatrick, Sheila. ‘[[The Great Departure. Rural-Urban Migration in the Soviet Union, 1929–1933]]’, in Social Dimensions of Soviet Industrialization, eds. William G. Rosenberg and Lewis H. Siegelbaum. Bloomington, IN: Indiana University Press, 1993.  
 
 - Gamache, Ray. [[Gareth Jones. Eyewitness to History]]. Cardiff: Welsh Academic Press, 2013.  
 
@@ -181,18 +181,19 @@
 
 - Graziosi, Andrea. [[A New, Peculiar State. Explorations in Soviet History]]. Westport, CT: Praeger, 2000.
 
-——. Bol’sheviki i krest’iane na Ukraine, 1918–1919 gody: Ocherk o bol’shevizmakh, natsional-sotsializmakh i krest’ianskikh dvizheniiakh. Moscow, AIRO-XX, 1997.
+- Graziosi, Andrea. Bol’sheviki i krest’iane na Ukraine, 1918–1919 gody: Ocherk o bol’shevizmakh, natsional-sotsializmakh i krest’ianskikh dvizheniiakh. Moscow, AIRO-XX, 1997.
 
-——. ‘[[Collectivisation, révoltes paysannes et politiques gouvernementales (à travers les rapports du GPU d’Ukraine de février–mars 1930)]]’, Cahiers du monde russe 35, no. 3 (July–September 1994), http://www.persee.fr/doc/cmr_0008-0160_1989_num_30_1_2176.
+- Graziosi, Andrea. ‘[[Collectivisation, révoltes paysannes et politiques gouvernementales (à travers les rapports du GPU d’Ukraine de février–mars 1930)]]’, Cahiers du monde russe 35, no. 3 (July–September 1994), http://www.persee.fr/doc/cmr_0008-0160_1989_num_30_1_2176.
 
-——. [[Stalinism, Collectivization and the Great Famine]], in Holodomor Series. Cambridge, MA: Ukrainian Studies Fund, 2009.
+- Graziosi, Andrea. [[Stalinism, Collectivization and the Great Famine]], in Holodomor Series. Cambridge, MA: Ukrainian Studies Fund, 2009.
 
-——. ‘[[The Great Famine of 1932–1933. Consequences and Implications]]’, Harvard Ukrainian Studies 25, nos. 3/4 (Fall 2001), 157–65.
+- Graziosi, Andrea. ‘[[The Great Famine of 1932–1933. Consequences and Implications]]’, Harvard Ukrainian Studies 25, nos. 3/4 (Fall 2001), 157–65.
 
-——. ‘[[The Soviet 1931–1933 Famines and the Ukrainian Holodomor. Is a New Interpretation Possible, and What Would Its Consequences Be?]]’, Harvard Ukrainian Studies 27, nos. 1/4 (2004–5), 97–115.
+- Graziosi, Andrea. ‘[[The Soviet 1931–1933 Famines and the Ukrainian Holodomor. Is a New Interpretation Possible, and What Would Its Consequences Be?]]’, Harvard Ukrainian Studies 27, nos. 1/4 (2004–5), 97–115.
 
-——. [[L’Unione Sovietica 1914–1991]]. Bologna: Il mulino, 2011.  
-——. [[L’Urss di Lenin e Stalin. storia dell’Unione Sovietica, 1914–1945]]. Bologna: Il mulino, 2007. Grossman, Vasilii. Everything Flows, trans. Robert and Elizabeth Chandler. New York: New York Review Classic Books, 2009.  
+- Graziosi, Andrea. [[L’Unione Sovietica 1914–1991]]. Bologna: Il mulino, 2011.  
+
+- Graziosi, Andrea. [[L’Urss di Lenin e Stalin. storia dell’Unione Sovietica, 1914–1945]]. Bologna: Il mulino, 2007. Grossman, Vasilii. Everything Flows, trans. Robert and Elizabeth Chandler. New York: New York Review Classic Books, 2009.  
 
 - Heifetz, Elias. [[The Slaughter of the Jews in the Ukraine in 1919]]. New York: Thomas Seltzer, 1921.
 
@@ -204,9 +205,9 @@
 
 - Hrynevych, Lyudmyla. Holod 1928–1929 rr. u radians’kii Ukraïni. Kyiv: Instytut Istoriï Ukraïny NAN Ukraïny, 2013.  
 
-——. ‘[[The Price of Stalin’s “Revolution from Above”. Anticipation of War among the Ukrainian Peasantry]]’, trans. Marta Olynyk. Key Articles on the Holodomor Translated from Ukrainian into English, Holodomor Research and Education Consortium. http://holodomor.ca/translated-articles-on- the-holodomor.
+- Hrynevych, Lyudmyla. ‘[[The Price of Stalin’s “Revolution from Above”. Anticipation of War among the Ukrainian Peasantry]]’, trans. Marta Olynyk. Key Articles on the Holodomor Translated from Ukrainian into English, Holodomor Research and Education Consortium. http://holodomor.ca/translated-articles-on- the-holodomor.
 
-——. ‘Vid zaperechuvannia do vymushenoho vyznannia: pro mekhanizmy vkhodzhennia temy holodu 1932–1933 rr. v ofitsiinyi publichnyi prostir u SRSR ta URSR naprykintsi 1980-kh rr’, Problemy istoriï Ukraïny: fakty sudzhennia, poshuky: Mizhvidomchyi zbirnyk naukovykh prats’ 18 (spetsial’nyi vypusk: Holod 1932–1933 rokiv–henotsyd ukraïns’koho narodu) (2008), 232–44.
+- Hrynevych, Lyudmyla. ‘Vid zaperechuvannia do vymushenoho vyznannia: pro mekhanizmy vkhodzhennia temy holodu 1932–1933 rr. v ofitsiinyi publichnyi prostir u SRSR ta URSR naprykintsi 1980-kh rr’, Problemy istoriï Ukraïny: fakty sudzhennia, poshuky: Mizhvidomchyi zbirnyk naukovykh prats’ 18 (spetsial’nyi vypusk: Holod 1932–1933 rokiv–henotsyd ukraïns’koho narodu) (2008), 232–44.
 
 - Hunczak, Taras, ed. [[The Ukraine, 1917–1921. A Study in Revolution]]. Cambridge, MA: Distributed by Harvard University Press for the Harvard Ukrainian Research Institute, 1977.
 
@@ -214,23 +215,24 @@
 
 - Iefimenko, H. ‘Lykhovisni 30-ti roky na Markivshchyni’, in Holod-henotsyd 1933 roku v Ukraïni: istoryko-politolohichnyi analiz sotsial’-no-demohrafichnykh ta moral’no-psykholohichnykh naslidkiv: mizhnarodna naukovo-teoretychna konferentsiia, Kyiv, 28 lystopada 1998 r.: materialy: Instytut Istoriï Ukraïny (Natsional’na Akademiia Nauk Ukraïny): Asotsiatsiia doslidnykiv holodomoriv v Ukraïni., ed. Stanislav Vladyslavovych Kul’chyts’kyi and O. M. Veselova. Kyiv: Vyd- vo M.P. Kots’, 2000.
 
-——. ‘Pereselennia ta deportatsii v postholodomorni roky (1933–1936): poraionnyi zriz’, Problemy istorii Ukraïny: fakty, sudzhennia, poshuky: Mizhvidomchyi zbirnyk naukovykh prats’ 22 (2013), 136–66.
+- Iefimenko, H. ‘Pereselennia ta deportatsii v postholodomorni roky (1933–1936): poraionnyi zriz’, Problemy istorii Ukraïny: fakty, sudzhennia, poshuky: Mizhvidomchyi zbirnyk naukovykh prats’ 22 (2013), 136–66.
 
-——, and L. Iakubova. ‘Natsional’ni vidnosyny v radians’kii Ukraïni (1923–1938)’, in Natsional’ne pytannia v Ukraïni XX-pochatku XXI st.: istorychni narysy, eds. V. M. Lytvyn et al. Kyiv: Nika-Tsentr, 2012.
+- Iefimenko, H, and L. Iakubova. ‘Natsional’ni vidnosyny v radians’kii Ukraïni (1923–1938)’, in Natsional’ne pytannia v Ukraïni XX-pochatku XXI st.: istorychni narysy, eds. V. M. Lytvyn et al. Kyiv: Nika-Tsentr, 2012.
 
 - Ivnitskii, N. A. Kollektivizatsiia i raskulachivanie, nachalo 30-kh gg. Moscow: Interpraks, 1994.
 
 - Jones, Gareth. ‘[[Famine Grips Russia, Millions Dying, Idle on Rise, Says Briton]]’, Chicago Daily News and Evening Post Foreign Service, 29 March 1933.
 
-——. ‘[[Fate of Thrifty in USSR. Gareth Jones Tells How Communists Seized All Land and Let Peasants Starve]]’, Los Angeles Examiner, 14 January 1935.
+- Jones, Gareth. ‘[[Fate of Thrifty in USSR. Gareth Jones Tells How Communists Seized All Land and Let Peasants Starve]]’, Los Angeles Examiner, 14 January 1935.
 
-——. ‘[[Press Release. Quoted in “Famine Grips Russia, Millions Dying, Idle on Rise, Says Briton]]’, Evening Post Foreign Service, 29 March 1933.
+- Jones, Gareth. ‘[[Press Release. Quoted in “Famine Grips Russia, Millions Dying, Idle on Rise, Says Briton]]’, Evening Post Foreign Service, 29 March 1933.
 
-——. ‘[[Soviet Confiscate Part of Workers’ Wages’]], Daily Express, 5 April 1933.  
+- Jones, Gareth. ‘[[Soviet Confiscate Part of Workers’ Wages’]], Daily Express, 5 April 1933.  
 Kasianov, Georgiy. ‘Holodomor and the Politics of Memory in Ukraine after Independence’, in Holodomor and Gorta Mor: Histories, Memories and Representations of Famine in Ukraine and Ireland, eds. Vincent Comeford, Lindsay Jansen, and Christian Noack, 167–88. London: Anthem Press, 2014.  
 
-——. ‘[[Revisiting the Great Famine of 1932–1933. Politics of Memory and Public Consciousness (Ukraine after 1991)’]], in Past in the Making: Historical Revisionism in Central Europe after 1989, ed. Michal Kopecek, 197–220. Budapest: Central European University Press, 2007.  
-Khlevniuk, Oleg V. Stalin: New Biography of a Dictator, trans. Nora Seligman Favorov. New Haven, CT: Yale University Press, 2015.  
+- Jones, Gareth. ‘[[Revisiting the Great Famine of 1932–1933. Politics of Memory and Public Consciousness (Ukraine after 1991)’]], in Past in the Making: Historical Revisionism in Central Europe after 1989, ed. Michal Kopecek, 197–220. Budapest: Central European University Press, 2007.  
+
+- Khlevniuk, Oleg V. [[Stalin. New Biography of a Dictator]], trans. Nora Seligman Favorov. New Haven, CT: Yale University Press, 2015.  
 
 - Klid, Bohdan. ‘[[Daily Life Under Soviet Rule and the Holodomor in Memoirs and Testimonies of the Late 1940s. Some Preliminary Assessments]]’, presented at the Canadian Association of Slavists 2015 Annual Conference, Ottawa, Ontario, 26 May 2015.  
 
