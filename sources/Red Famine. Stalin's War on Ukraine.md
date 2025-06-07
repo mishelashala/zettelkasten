@@ -376,9 +376,9 @@ Kasianov, Georgiy. ‘Holodomor and the Politics of Memory in Ukraine after Inde
 
 ——. ‘Zhyttia ta smert’ Mikoly Khvyl’ovoho: u svitli rozsekrechenykh dokumentiv HPU’, Z arkhiviv VUChK, HPU, NKVD, KHB 2, nos. 30/31 (2008), 316–17.  
 
-- Shevelov, George Y. The Ukrainian Language in the First Half of the Twentieth Century, 1900–1941: Its State and Status. Cambridge, MA: Harvard Ukrainian Research Institute, 1989.  
+- Shevelov, George Y. [[The Ukrainian Language in the First Half of the Twentieth Century, 1900–1941. Its State and Status]]. Cambridge, MA: Harvard Ukrainian Research Institute, 1989.  
 
-- Shkandrij, Myroslav, and Olga Bertelsen. ‘The Soviet Regime’s National Operations in Ukraine, 1929–1934’, Canadian Slavonic Papers 55, nos. 3/4 (September–December 2013), 160–83.  
+- Shkandrij, Myroslav, and Olga Bertelsen. ‘[[The Soviet Regime’s National Operations in Ukraine, 1929–1934]]’, Canadian Slavonic Papers 55, nos. 3/4 (September–December 2013), 160–83.  
 
 - Shlikhter, Aleksandr. ‘Bor’ba za khleb na Ukraine v 1919 godu’, Litopys revoliutsiï: Zhurnal istoriï KP(b)U ta Zhovtnevoï revoliutsiï na Ukraïni 2, no. 29 (1928).  
 
