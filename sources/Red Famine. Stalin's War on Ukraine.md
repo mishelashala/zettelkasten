@@ -151,7 +151,9 @@
 
 - Comeford, Vincent, Lindsay Jansen and Christian Noack, eds. [[Holodomor and Gorta Mor. Histories, Memories and Representations of Famine in Ukraine and Ireland]]. London: Anthem Press, 2014.
 
-- Conquest, Robert. [[The Great Terror. Stalin’s Purge of the Thirties]], rev. edn. London: Macmillan, 1968. ——. The Harvest of Sorrow: Soviet Collectivization and the Terror-Famine. New York: Oxford University Press, 1986.  
+- Conquest, Robert. [[The Great Terror. Stalin’s Purge of the Thirties]], rev. edn. London: Macmillan, 1968.
+
+- Conquest, Robert. [[The Harvest of Sorrow. Soviet Collectivization and the Terror-Famine]]. New York: Oxford University Press, 1986.  
 
 - Danylenko, Vasyl’, ed. Ukraïns’ka intelihentsiia i vlada: zvedenniia sekretnooho viddilu DPU USRR 1927–1929 rr. Kyiv: Tempora, 2012. 
 
