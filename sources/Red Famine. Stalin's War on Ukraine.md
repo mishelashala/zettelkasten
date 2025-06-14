@@ -284,7 +284,7 @@ Kasianov, Georgiy. ‘Holodomor and the Politics of Memory in Ukraine after Inde
 
 - Martin, Terry. ‘[[Famine Initiators and Directors. Personal Papers. The 1932–33 Ukrainian Terror. New Documentation on Surveillance and the Thought Process of Stalin]]’, in Famine-Genocide in Ukraine, 1932–33, ed. Isajiw W. Wsevolod. Toronto: Ukrainian Canadian Research and Documentation Centre, 2003.
 
-——. [[The Affirmative Action Empire. Nations and Nationalism in the Soviet Union, 1923–1939]]. Ithaca, NY: Cornell University Press, 2001.
+- Martin, Terry. [[The Affirmative Action Empire. Nations and Nationalism in the Soviet Union, 1923–1939]]. Ithaca, NY: Cornell University Press, 2001.
 
 - Maskudov, Sergei. ‘[[Victory over the Peasantry]]’, in [[Hunger by Design. The Great Ukrainian Famine and its Soviet Context]], ed. Halyna Hryn. Cambridge, MA: Harvard Ukrainian Research Institute, 2008.
 
@@ -294,11 +294,11 @@ Kasianov, Georgiy. ‘Holodomor and the Politics of Memory in Ukraine after Inde
 
 - Merridale, Catherine. [[Night of Stone. Death and Memory in Twentieth-Century Russia]]. New York: Viking, 2001.
 
-——. ‘[[The 1937 Census and the Limits of Stalinist Rule]]’, The Historical Journal 39, no. 1 (1 March 1996).
+- Merridale, Catherine. ‘[[The 1937 Census and the Limits of Stalinist Rule]]’, The Historical Journal 39, no. 1 (1 March 1996).
 
 - Montefiore, Simon Sebag. [[Stalin. The Court of the Red Tsar]]. New York: Knopf, 2004.  
 
-——. The Romanovs. London: Weidenfeld and Nicolson, 2016.  
+- Montefiore, Simon Sebag. The Romanovs. London: Weidenfeld and Nicolson, 2016.  
 
 - Motyl, Alexander. [[The Turn to the Right. The Ideological Origins and Development of Ukrainian Nationalism, 1919–1929]]. New York: Columbia University Press, 1980.  
 
@@ -308,15 +308,15 @@ Kasianov, Georgiy. ‘Holodomor and the Politics of Memory in Ukraine after Inde
 
 - Osokina, Elena Aleksandrovna. Zoloto dlia industrializatsii: Torgsin. Moscow: ROSSPEN, 2009.  
 
-——.   [[Our Daily Bread. Socialist Distribution and the Art of Survival in Stalin’s Russia, 1927–1941]], trans. Kate Transchel and Greta Bucher. London and New York: Routledge, 2005.  
+- Osokina, Elena Aleksandrovna.   [[Our Daily Bread. Socialist Distribution and the Art of Survival in Stalin’s Russia, 1927–1941]], trans. Kate Transchel and Greta Bucher. London and New York: Routledge, 2005.  
 
 - Palij, Michael. [[The Anarchism of Nestor Makhno, 1918–1921. An Aspect of the Ukrainian Revolution]]. Seattle, WA: University of Washington Press, 1976.
 
 - Papakin, Heorhii V. ‘Chorna doshka’: antyselians’ki represiï, 1932–1933. Kyiv: Instytut Istoriï Ukraïny NAN Ukraïny, 2013.  
 
-——. ‘Blacklists as an Instrument of the Famine-Genocide of 1932–1933 in Ukraine’, trans. Marta Olynyk. Key Articles on the Holodomor Translated from Ukrainian into English, Holodomor Research and Education Consortium. http://holodomor.ca/translated-articles-on-the-holodomor. 
+- Papakin, Heorhii V. ‘[[Blacklists as an Instrument of the Famine-Genocide of 1932–1933 in Ukraine]]’, trans. Marta Olynyk. Key Articles on the Holodomor Translated from Ukrainian into English, Holodomor Research and Education Consortium. http://holodomor.ca/translated-articles-on-the-holodomor. 
 
-——. Donbas na ‘chornii doshtsi’, 1932–1933: Naukovo-populiarnyi narys. Kyiv: Instytut Istoriï Ukraïny NAN Ukraïny, 2014.  
+- Papakin, Heorhii V. Donbas na ‘chornii doshtsi’, 1932–1933: Naukovo-populiarnyi narys. Kyiv: Instytut Istoriï Ukraïny NAN Ukraïny, 2014.  
 
 - Pasternak, Boris. Doctor Zhivago, trans. Richard Pevear and Larissa Volokhonsky. New York: Pantheon Books, 2010.  
 
