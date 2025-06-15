@@ -328,15 +328,15 @@ Kasianov, Georgiy. ‘Holodomor and the Politics of Memory in Ukraine after Inde
 
 - Pipes, Richard. [[Russia under the Bolshevik Regime]]. New York: Vintage Books, 1995.  
 
-——, ed. [[The Unknown Lenin. From the Secret Archive]]. New Haven, CT: Yale University Press, 1999.
+- Pipes, Richard, ed. [[The Unknown Lenin. From the Secret Archive]]. New Haven, CT: Yale University Press, 1999.
 
 - Platonov, Andrei Platonovich. [[Fourteen Little Red Huts and Other Plays]], trans. Robert Chandler, Jesse Irwin, and Susan Larsen. New York: Columbia University Press, 2016.  
 
 - Plokhy, Serhii. ‘[[Mapping the Great Famine]]’, MAPA: Digital Atlas of Ukraine, Harvard Ukrainian Research Institute, accessed 23 April 2017. http://gis.huri.harvard.edu/images/pdf/MappingGreatUkrainianFamine.pdf.  
 
-——. [[The Gates of Europe. A History of Ukraine]]. New York: Basic Books, 2015.  
+- Plokhy, Serhii. [[The Gates of Europe. A History of Ukraine]]. New York: Basic Books, 2015.  
 
-——. [[Unmaking Imperial Russia. Mykhailo Hrushevsky and the Writing of Ukrainian History]]. Toronto: University of Toronto Press, 2005. http://www.deslibris.ca/ID/418634. 
+- Plokhy, Serhii. [[Unmaking Imperial Russia. Mykhailo Hrushevsky and the Writing of Ukrainian History]]. Toronto: University of Toronto Press, 2005. http://www.deslibris.ca/ID/418634. 
 
 - Pohl, Otto J., Eric J. Schmaltz, and Ronald J. Vossler. ‘[[“In Our Hearts We Felt the Sentence of Death”. Ethnic German Recollections of Mass Violence in the USSR, 1928–48]]’, Journal of Genocide Research 11, no. 2 (2009), 325–7.  
 
@@ -356,27 +356,27 @@ Kasianov, Georgiy. ‘Holodomor and the Politics of Memory in Ukraine after Inde
 
 - Serhiichuk, Volodymyr et al. Ukraïns’kyi khlib na eksport, 1932–1933. Kyiv: PP Serhiichuk M.I., 2006.
 
-——. Pohromy v Ukraïni 1914–1920: vid shtuchnykh stereotypiv do hirkoï pravdy, prykhovuvanoï v radians’kykh arkhivakh. Kyiv: Vyd-vo im. O. Telihy, 1998.  
+- Serhiichuk, Volodymyr et al. Pohromy v Ukraïni 1914–1920: vid shtuchnykh stereotypiv do hirkoï pravdy, prykhovuvanoï v radians’kykh arkhivakh. Kyiv: Vyd-vo im. O. Telihy, 1998.  
 
 - Service, Robert W. [[Lenin. A Biography]]. London: Papermac, 2001.  
 
 - Shapoval, Iurii (Yuri). ‘Fatal’na Ambivalentnist’, Krytyka: mizhnarodnyi ohliad knyzhok ta idei (May 2015). https://krytyka.com/ua/articles/fatalna-ambivalentnist.
 
-——. ‘Petro Shelest: 100th Anniversary of the Birth of One of Ukraine’s Most Spectacular Political Figures’, Den (4 March 2008).
+- Shapoval, Iurii (Yuri). ‘Petro Shelest: 100th Anniversary of the Birth of One of Ukraine’s Most Spectacular Political Figures’, Den (4 March 2008).
 
-——. ‘Stoletnii Shelest: 14 fevralia ispolniaetsia 100 let odnomu iz samykh koloritnykh rukovoditelei USSR’, Den (8 February 2008).
+- Shapoval, Iurii (Yuri). ‘Stoletnii Shelest: 14 fevralia ispolniaetsia 100 let odnomu iz samykh koloritnykh rukovoditelei USSR’, Den (8 February 2008).
 
-——. ‘The Case of the “Union for the Liberation of Ukraine”: A Prelude to the Holodomor’, Holodomor Studies 2, no. 2 (Summer–Autumn 2010).
+- Shapoval, Iurii (Yuri). ‘[[The Case of the “Union for the Liberation of Ukraine”. A Prelude to the Holodomor]]’, Holodomor Studies 2, no. 2 (Summer–Autumn 2010).
 
-——. ‘The Mechanisms of the Informational Activity of the GPU-NKVD’, Cahiers du monde russe 22 (2001), 207–30.
+- Shapoval, Iurii (Yuri). ‘[[The Mechanisms of the Informational Activity of the GPU-NKVD]]’, Cahiers du monde russe 22 (2001), 207–30.
 
-——. ‘The Symon Petliura Whom We Still Do Not Understand’, Den 18, last modified 6 June 2006, accessed 20 April 2017. http://www.ukemonde.com/petlyura/petlyura_notunder.html.
+- Shapoval, Iurii (Yuri). ‘The Symon Petliura Whom We Still Do Not Understand’, Den 18, last modified 6 June 2006, accessed 20 April 2017. http://www.ukemonde.com/petlyura/petlyura_notunder.html.
 
-——. Ukraïna 20–50 rr.: Storinky nenapysanoï istoriï. Kyiv: Naukova Dumka, 1993.  
+- Shapoval, Iurii (Yuri). Ukraïna 20–50 rr.: Storinky nenapysanoï istoriï. Kyiv: Naukova Dumka, 1993.  
 
-——. ‘Vsevolod Balickij, bourreau et victime’, Cahiers du monde russe 44, nos. 2/3 (2003), 369–99.
+- Shapoval, Iurii (Yuri). ‘Vsevolod Balickij, bourreau et victime’, Cahiers du monde russe 44, nos. 2/3 (2003), 369–99.
 
-——. ‘Zhyttia ta smert’ Mikoly Khvyl’ovoho: u svitli rozsekrechenykh dokumentiv HPU’, Z arkhiviv VUChK, HPU, NKVD, KHB 2, nos. 30/31 (2008), 316–17.  
+- Shapoval, Iurii (Yuri). ‘Zhyttia ta smert’ Mikoly Khvyl’ovoho: u svitli rozsekrechenykh dokumentiv HPU’, Z arkhiviv VUChK, HPU, NKVD, KHB 2, nos. 30/31 (2008), 316–17.  
 
 - Shevelov, George Y. [[The Ukrainian Language in the First Half of the Twentieth Century, 1900–1941. Its State and Status]]. Cambridge, MA: Harvard Ukrainian Research Institute, 1989.  
 
