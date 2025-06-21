@@ -248,17 +248,17 @@ Kasianov, Georgiy. ‘Holodomor and the Politics of Memory in Ukraine after Inde
 
 - Kul’chyts’kyi, Stanislav V. ‘[[Comments at UNAS (National Academy of Sciences) Institute of History of Ukraine Seminar]]’, presented at the Institute of History of Ukraine Seminar, Kyiv, 19 April 2016.  
 
-——. Holodomor 1932–1933 rr. iak henotsyd: trudnoshchi usvidomlennia. Kyiv: Nash chas, 2008. 
+- Kul’chyts’kyi, Stanislav V. Holodomor 1932–1933 rr. iak henotsyd: trudnoshchi usvidomlennia. Kyiv: Nash chas, 2008. 
 
-——. Chervony vyklyk. Istoriia komunizmu v Ukraini vid joho narodzhennia do zahybel, vols. 1–3. Kyiv: Tempora, 2013–17.  
+- Kul’chyts’kyi, Stanislav V. Chervony vyklyk. Istoriia komunizmu v Ukraini vid joho narodzhennia do zahybel, vols. 1–3. Kyiv: Tempora, 2013–17.  
 
-——. ‘Holodomor in the Ukrainian Countryside’, in [[After the Holodomor. The Enduring Impact of the Great Famine on Ukraine]], eds. Andrea Graziosi, Lubomyr Hajda, and Halyna Hryn. Cambridge, MA: Harvard Ukrainian Research Institute, 2013.  
+- Kul’chyts’kyi, Stanislav V. ‘Holodomor in the Ukrainian Countryside’, in [[After the Holodomor. The Enduring Impact of the Great Famine on Ukraine]], eds. Andrea Graziosi, Lubomyr Hajda, and Halyna Hryn. Cambridge, MA: Harvard Ukrainian Research Institute, 2013.  
 
-——. ‘Holodomor u pratsiakh ukraïns’kykh radians’kykh istorykiv 1956–1987 rr’, Istoriia v suchasnii shkoli: naukovo-metodychnyi zhurnal, no. 10 (146) (2013), 29–31.  
+- Kul’chyts’kyi, Stanislav V. ‘Holodomor u pratsiakh ukraïns’kykh radians’kykh istorykiv 1956–1987 rr’, Istoriia v suchasnii shkoli: naukovo-metodychnyi zhurnal, no. 10 (146) (2013), 29–31.  
 
-——. Narysy povsiakdennoho zhyttia radians’koï Ukraïny v dobu NEPu (1921–1928 rr.) Kolektyvna monohrafiia v 2-kh chastynakh. 2 vols. Kyiv: Instytut Istoriï Ukraïny NAN Ukraïny, 2010. 
+- Kul’chyts’kyi, Stanislav V. Narysy povsiakdennoho zhyttia radians’koï Ukraïny v dobu NEPu (1921–1928 rr.) Kolektyvna monohrafiia v 2-kh chastynakh. 2 vols. Kyiv: Instytut Istoriï Ukraïny NAN Ukraïny, 2010. 
 
-——, and O. M. Movchan. Nevidomi storinky holodu 1921–1923 rr. v Ukraïni. Kyiv: Instytut Istoriï Ukraïny NAN Ukraïny, 1993.  
+- Kul’chyts’kyi, Stanislav V, and O. M. Movchan. Nevidomi storinky holodu 1921–1923 rr. v Ukraïni. Kyiv: Instytut Istoriï Ukraïny NAN Ukraïny, 1993.  
 
 - Kuromiya, Hiroaki. [[Freedom and Terror in the Donbas. A Ukrainian-Russian Borderland, 1870s–1990s]]. Cambridge: Cambridge University Press, 1998.  
 
@@ -268,9 +268,9 @@ Kasianov, Georgiy. ‘Holodomor and the Politics of Memory in Ukraine after Inde
 
 - Lemkin, [[Raphael. Axis Rule in Occupied Europe]]. Laws of Occupation – Analysis of Government – Proposals for Redress. Washington, D.C.: Carnegie Endowment for International Peace, 1944.
 
-——. [[Lemkin on Genocide]], ed. Steven Leonard Jacobs, Lanham, MD: Lexington Books, 2012.  
+- Lemkin. [[Lemkin on Genocide]], ed. Steven Leonard Jacobs, Lanham, MD: Lexington Books, 2012.  
 
-——. ‘Soviet Genocide in the Ukraine’, unpublished talk, 1953, Raphael Lemkin Papers, New York Public Library, Manuscripts and Archives Division, Astor, Lenox and Tilden Foundations, Raphael Lemkin ZL-273. Reel 3. Available at https://www.uccla.ca/SOVIET_GENOCIDE_IN_THE_UKRAINE.pdf.  
+- Lemkin. ‘Soviet Genocide in the Ukraine’, unpublished talk, 1953, Raphael Lemkin Papers, New York Public Library, Manuscripts and Archives Division, Astor, Lenox and Tilden Foundations, Raphael Lemkin ZL-273. Reel 3. Available at https://www.uccla.ca/SOVIET_GENOCIDE_IN_THE_UKRAINE.pdf.  
 
 - Lytvyn, V. M. et al., eds. Ukraïna: Politychna Istoriia XX pochatok-XXI stolittia. Kyiv: Parlaments’ke vydavnytstvo, 2007.  
 
