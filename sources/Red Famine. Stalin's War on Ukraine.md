@@ -240,7 +240,9 @@ Kasianov, Georgiy. ‘Holodomor and the Politics of Memory in Ukraine after Inde
 
 - Klid, Bohdan. ‘[[The Black Deeds of the Kremlin. Sixty Years Later]]’, Genocide Studies International 8 (2014), 224–35.  
 
-- Kondrashin, Viktor, Golod 1932–1933 godov. Tragediia rossiyskoi derevni, Moscow: ROSSPEN, 2008 ——, and S. V. Kul’chyts’kyi. ‘O Samom Glavnom: professor Stanislav Kul’chitskii i ego rossiiskii kollega Viktor Kondrashin: chem byl Golodomor 1932–1933 godov?’ Den’, Kyiv, 3 June 2008.  
+- Kondrashin, Viktor, Golod 1932–1933 godov. Tragediia rossiyskoi derevni, Moscow: ROSSPEN, 2008
+
+- Kondrashin, Viktor, and S. V. Kul’chyts’kyi. ‘O Samom Glavnom: professor Stanislav Kul’chitskii i ego rossiiskii kollega Viktor Kondrashin: chem byl Golodomor 1932–1933 godov?’ Den’, Kyiv, 3 June 2008.  
 
 - Kotkin, Stephen. [[Stalin. Paradoxes of Power, vol. 1]]. New York: Penguin Press, 2014.  
 
