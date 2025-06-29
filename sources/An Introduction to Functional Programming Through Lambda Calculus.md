@@ -1,6 +1,6 @@
 ## Bibliography
 
-- Abelson, H., Sussman, G. J. and Sussman, J. 1985. [[Structure and Interpretation of Computer Programs]], Cambridge, MA: MIT Press
+- Abelson, H., Sussman, G. J. and Sussman, J. 1985. [[Structure and Interpretation of Computer Programs, 2nd Ed]], Cambridge, MA: MIT Press
 - Backhouse, R. C. 1986. [[Program Construction and Verification]], Englewood Cliffs, NJ: Prentice-Hall
 - Backus, J. W. August 1978. '[[Can programming be liberated from the von Neumann style? A functional style and its algebra of programs]]' Communications of the ACM, 21(8), 613-41
 - Bailey, R. 1987. An introduction to Hope. [[In Functional Programming Languages, Tools and Architectures]] (Eisenbach, S., ed.), Chichester: Ellis Horwood

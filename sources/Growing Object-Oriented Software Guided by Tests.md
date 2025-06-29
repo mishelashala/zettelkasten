@@ -2,7 +2,7 @@
 
 ## Bibliography
 
-- [Abelson96] Abelson, Harold and Gerald Sussman. [[Structure and Interpretation of Computer Programs]]. MIT Press, 1996, ISBN 978-0262011532.
+- [Abelson96] Abelson, Harold and Gerald Sussman. [[Structure and Interpretation of Computer Programs, 2nd Ed]]. MIT Press, 1996, ISBN 978-0262011532.
 - [Beck99] Beck, Kent. [[Extreme Programming Explained. Embrace Change]]. Addison-Wesley, 1999, ISBN 978-0321278654.
 - [Beck02] Beck, Kent. [[Test-Driven-Development by Example]]. Addison-Wesley, 2002, ISBN 978-0321146530.
 - [Begel08] Begel, Andrew and Beth Simon. "[[Struggles of New College Graduates in Their First Software Development Job]]" In: SIGCSE Bulletin, 40, no. 1 (March 2008): 226-230, ACM, ISSN 0097-8418
