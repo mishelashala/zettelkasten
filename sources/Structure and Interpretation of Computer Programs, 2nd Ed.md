@@ -63,3 +63,39 @@ The MIT Press Cambridge, Massachusetts, 1996
 - Forbus, Kenneth D., and Johan deKleer. 1993. [[Building Problem Solvers]]. Cambridge, MA: MIT Press.
 
 - Friedman, Daniel P., and David S. Wise. 1976. [[CONS should not evaluate its arguments]]. In _Automata, Languages, and Programming: Third International Colloquium_, edited by S. Michaelson and R. Milner, pp. 257-284.
+
+- Friedman, Daniel P., Mitchell Wand, and Christopher T. Haynes. 1992. Essentials[[ of Programming Languages]]. Cambridge, MA: MIT PressIMcGraw-Hill.
+
+-  Gabriel, Richard P. 1988. [[The Why of Y]]. Lisp Pointers 2(2):15-25.
+
+- Goldberg, Adele, and David Robson. 1983. [[Smalltalk-80. The Language and Its Implementation]]. Reading, MA: Addison-Wesley.
+
+- Gordon, Michael, Robin Milner, and Christopher Wadsworth. 1979. [[Edinburgh LCF]]. _Lecture Notes in Computer Science, volume 78_. New York: SpringerVerlag.
+
+- Gray, Jim, and Andreas Reuter. 1993. [[Transaction Processing. Concepts and Models]]. San Mateo, CA: Morgan-Kaufman.
+
+- Green, Cordell. 1969. [[Application of theorem proving to problem solving]]. In _Proceedings of the International Joint Conference on Artificial Intelligence_, pp. 219-240.
+
+- Green, Cordell, and Bertram Raphael. 1968. [[The use of theorem-proving techniques in question-answering systems]]. In _Proceedings of the ACM National Conference_, pp. 169-181.
+
+- Griss, Martin L. 1981. [[Portable Standard Lisp, a brief overview]]. Utah Symbolic Computation Group Operating Note 58, University of Utah.
+
+- Guttag, John V. 1977. [[Abstract data types and the development of data structures]]. Communications of the ACM 20(6):397--404.
+
+- Hamming, Richard W. 1980. [[Coding and Information Theory]]. Englewood Cliffs, N.J.: Prentice-Hall.
+
+- Hanson, Christopher P. 1990. [[Efficient stack allocation for tail-recursive languages]]. In Proceedings of ACM Conference on Lisp and Functional Programming, pp. 106-118.
+
+- Hanson, Christopher P. 1991. [[A syntactic closures macro facility]]. Lisp Pointers, 4(3).
+
+- Hardy, Godfrey H. 1921. Srinivasa Ramanujan. [[Proceedings of the London Mathematical Society XIX]](2).
+
+- Hardy, Godfrey H., and E. M. Wright. 1960. [[An Introduction to the Theory of Numbers. 4th edition]]. New York: Oxford University Press.
+
+- Havender, J. 1968. [[Avoiding deadlocks in multi-tasking systems]]. _IBM Systems Journal 7_(2):74-84.
+
+- Hearn, Anthony C. 1969. Standard Lisp. Technical report AIM-90, Artificial Intelligence Project, Stanford University.
+
+- Henderson, Peter. 1980. [[Functional Programming. Application and Implementation]]. Englewood Cliffs, N.J.: Prentice-Hall.
+
+- Henderson. Peter. 1982. [[Functional Geometry]]. In _Conference Record of the 1982 ACM Symposium on Lisp and Functional Programming_, pp. 179-187.
