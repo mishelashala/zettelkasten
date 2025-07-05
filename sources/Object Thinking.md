@@ -1,5 +1,35 @@
 David West, Microsoft Press, Redmond, Washington, 2004
 
+## Notes
+
+### Context-Solution Dualism
+
+«Alexander argues that "every design problem begins with an effort to achieve fitness between two entities: the form in question and its context. The form is the solution to the problem: the context defines the problem".», p16
+
+### Coupling and Cohesion as the natural joints
+
+«In these quotes, Plato and Alexander—and Parnas, Brooks, and Alexander again, in other contexts—are talking about notions of coupling and cohesion, familiar terms to any software developer. However, they're not talking about the structure of a computer program; they're talking about finding the naturally occurring divisions and classifications ("natural joints") in the problem space.», p17
+
+### Thinking like a computer won't make you solve problems better, even in the computer program domain
+
+«Thinking like an object will lead to a greater degree of isomorphism between objects found in the problem space (the enterprise domain) and those employed in a solution space (the computer program) than thinking like a computer.», p18
+
+### Shared communication language
+
+«Imagine how much better your communication would be if all team members spoke a common vocabulary and that vocabulary reflected a common understanding of the problem domain and the essence of the problem being addressed by the team.», p19
+
+### Share Common Language: a promise of object thinking
+
+«Objects and object thinking promise the benefit of a common language.», p19
+
+### Where the formalist approach shines
+
+«Traditional approaches to software—and the formalist philosophy behind them—are possibly the best approach if you are working close to the machine—that is, you are working with device drivers or embedded software.», p88
+
+### Precision of the result as the determinant factor while choosing a formalist or a hermeneutic approach
+
+«One example is the module that calculates the balance of my bank account. A neural network, on the other hand, might be more hermeneutic and objectlike, in part because precision and accuracy are not expected of that kind of system.», p88
+
 ## Bibliography
 
 - Albin, Stephen T. [[The Art of Software Architecture. Design Methods and Techniques]]. Indianapolis, IN: Wiley Publishing, Inc., 2003.
