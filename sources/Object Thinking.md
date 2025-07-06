@@ -22,6 +22,10 @@ David West, Microsoft Press, Redmond, Washington, 2004
 
 «Objects and object thinking promise the benefit of a common language.», p19
 
+### Promise of Object Thinking: simplest and most direct implementation
+
+«Objects designed and constructed  following the application of object thinking will do the least amount of work possible and do it in the most direct and simplest way possible.», p20
+
 ### Where the formalist approach shines
 
 «Traditional approaches to software—and the formalist philosophy behind them—are possibly the best approach if you are working close to the machine—that is, you are working with device drivers or embedded software.», p88
