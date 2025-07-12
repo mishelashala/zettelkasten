@@ -26,6 +26,12 @@ David West, Microsoft Press, Redmond, Washington, 2004
 
 «Objects designed and constructed  following the application of object thinking will do the least amount of work possible and do it in the most direct and simplest way possible.», p20
 
+### The courage to try out crazy ideas
+
+«_Every once in a while someone on the team will have a crazy idea that just might slash the complexity of the whole system. If they have courage, they'll try it out. It will work (sometimes)._», p21
+
+> Note: the author is quoting Kent Beck.
+
 ### Where the formalist approach shines
 
 «Traditional approaches to software—and the formalist philosophy behind them—are possibly the best approach if you are working close to the machine—that is, you are working with device drivers or embedded software.», p88
