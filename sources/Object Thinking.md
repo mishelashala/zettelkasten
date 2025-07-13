@@ -32,6 +32,10 @@ David West, Microsoft Press, Redmond, Washington, 2004
 
 > Note: the author is quoting Kent Beck.
 
+### Object Thinking Promise: Robust Software
+
+«Fear that changes will break your software. Properly constructed objects, enforced encapsulation, and diligent refactoring based on solid object thinking reduce the risks associated with change to a negligible level.»,  p21
+
 ### Where the formalist approach shines
 
 «Traditional approaches to software—and the formalist philosophy behind them—are possibly the best approach if you are working close to the machine—that is, you are working with device drivers or embedded software.», p88
