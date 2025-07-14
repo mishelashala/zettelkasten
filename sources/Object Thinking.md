@@ -40,6 +40,10 @@ David West, Microsoft Press, Redmond, Washington, 2004
 
 «Change is only costly if the effects of a small incremental change in one part of a system are propagated throughout the system and somehow precipitate widespread failures in other parts of the system.», p22
 
+### Simplicity: the promise of object thinking
+
+«Object thinking leads to simple design (usually the simplest design possible)», p22
+
 ### Where the formalist approach shines
 
 «Traditional approaches to software—and the formalist philosophy behind them—are possibly the best approach if you are working close to the machine—that is, you are working with device drivers or embedded software.», p88
