@@ -48,6 +48,10 @@ David West, Microsoft Press, Redmond, Washington, 2004
 
 «The preface to this book begins with quotes from Robert L. Glass that suggest that the attempt to eliminate humans—or at least humanity—from software development failed. Humans and human abilities are still the key to software development process. This, in turn, suggest that we need to reconsider how we go about enhancing human abilities instead of attempting to replace them with machine capabilities.», p24
 
+### Artist as a social being
+
+«An artist who is aware of the philosophy and history behind the practice, an artist who is attuned to the community in which art is created and appreciated, an artist who is capable of deep communication, is a better artist.», p24
+
 ### Where the formalist approach shines
 
 «Traditional approaches to software—and the formalist philosophy behind them—are possibly the best approach if you are working close to the machine—that is, you are working with device drivers or embedded software.», p88
