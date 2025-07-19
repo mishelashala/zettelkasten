@@ -52,6 +52,10 @@ David West, Microsoft Press, Redmond, Washington, 2004
 
 «An artist who is aware of the philosophy and history behind the practice, an artist who is attuned to the community in which art is created and appreciated, an artist who is capable of deep communication, is a better artist.», p24
 
+### Mastery as a shared product of culture
+
+«Mastery is shared—it is a property less of the individual than of the group—and is shared by those participating in a common culture.», p24
+
 ### Where the formalist approach shines
 
 «Traditional approaches to software—and the formalist philosophy behind them—are possibly the best approach if you are working close to the machine—that is, you are working with device drivers or embedded software.», p88
