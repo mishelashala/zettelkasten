@@ -56,6 +56,10 @@ David West, Microsoft Press, Redmond, Washington, 2004
 
 «Mastery is shared—it is a property less of the individual than of the group—and is shared by those participating in a common culture.», p24
 
+### Holy wars in the development worlds
+
+«An observer of these conflicts over the past 50 years cannot help but be struck by the similarity between the language wars, formalism wars, and method wars occurring within the software development community and ethnic and religious conflicts in the world at large.», p25
+
 ### Where the formalist approach shines
 
 «Traditional approaches to software—and the formalist philosophy behind them—are possibly the best approach if you are working close to the machine—that is, you are working with device drivers or embedded software.», p88
