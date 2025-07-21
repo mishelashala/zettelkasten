@@ -64,6 +64,26 @@ David West, Microsoft Press, Redmond, Washington, 2004
 
 «Antipathy toward new ideas, especially ideas that represent radical challenges to the perceived wisdom of form methods and formal processes, contributes to the demise of radical new ideas. But so too does the failure to articulate radical ideas as _ideas_.», p26
 
+### Analogy: Ward Cunningham as Socrates, Kent Beck as Plato
+
+«Kent Beck is to Cunningham as Plato was to Socrates—the extender of ideas, contributor in his own right, and, in an interesting parallel, he one who published.», p27
+
+### The cost of changing your mind
+
+«Changing your mind requires that you change your worldview, your culture, to include not only new ideas but new values and new perspective. This, in turn, requires a temporary suspension of your current mindset.», p29
+
+### How programming languages are chosen
+
+«Whatever the answer to the programming language question, it is almost always given for the wrong reasons. Even worse, it is given for reasons that are never articulated and therefore never subject to reasoned judgment.», p33
+
+### Programming languages and Philosophical compatibility
+
+«Philosophical compatibility will allow you to be more expressive than if you are trying to translate your thoughts into a "foreign" language because your thoughts will naturally flow into the syntax of the implementation language.», p35
+
+### Philosophical incompatibility leads to friction and frustration
+
+«Many, if not most, have experienced moments of frustration when a language provided no direct and obvious way to express the ideas they had in their heads. Such moments are frustrating precisely because the true source of friction is hidden—it's based on unstated philosophic incompatibilities.», p35
+
 ### Where the formalist approach shines
 
 «Traditional approaches to software—and the formalist philosophy behind them—are possibly the best approach if you are working close to the machine—that is, you are working with device drivers or embedded software.», p88
