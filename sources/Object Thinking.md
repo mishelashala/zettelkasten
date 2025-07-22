@@ -82,7 +82,11 @@ David West, Microsoft Press, Redmond, Washington, 2004
 
 ### Philosophical incompatibility leads to friction and frustration
 
-«Many, if not most, have experienced moments of frustration when a language provided no direct and obvious way to express the ideas they had in their heads. Such moments are frustrating precisely because the true source of friction is hidden—it's based on unstated philosophic incompatibilities.», p35
+«Many, if not most, have experienced moments of frustration when a language provided no direct and obvious way to express the ideas they had in their heads. Such moments are frustrating precisely because the true source of friction is hidden—it's based on unstated philosophic incompatibilities.», p35 
+
+### Decisions driven by artifacts, not philosophy
+
+«Arguments about design, analysis, method, and process inevitably follow, but those discussions are more often grounded in the programming language artifacts than in the original ideas. In this process, the original ideas become secondary if they are not lost entirely.», p36
 
 ### Where the formalist approach shines
 
@@ -284,7 +288,7 @@ David West, Microsoft Press, Redmond, Washington, 2004
 
 - Kilov, Haim, and James Ross. [[Information Modeling. An Object-Oriented Approach]]. Engle- wood Cliffs, NJ: PTR Prentice Hall, 1994.
 
-Kim, Won, and Frederick H. Lochovsky, eds. [[Object-Oriented Concepts, Databases, and Applications]]. ACM Press. New York: Addison-Wesley Publishing Company, 1989.
+- Kim, Won, and Frederick H. Lochovsky, eds. [[Object-Oriented Concepts, Databases, and Applications]]. ACM Press. New York: Addison-Wesley Publishing Company, 1989.
 
 - Knorr-Cetina, Karin D. [[The Manufacture of Knowledge. An Essay on the Constructivist and Contextual Nature of Science]]. Oxford: Pergammon Press, 1981.
 
