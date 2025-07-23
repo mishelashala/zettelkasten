@@ -88,6 +88,10 @@ David West, Microsoft Press, Redmond, Washington, 2004
 
 «Arguments about design, analysis, method, and process inevitably follow, but those discussions are more often grounded in the programming language artifacts than in the original ideas. In this process, the original ideas become secondary if they are not lost entirely.», p36
 
+### Funcional Decomposition
+
+«Functional decomposition is based on an attempt to model the performance of the computer and software and to translate the requirements of the domain problem into those computer-based constructs.», p40
+
 ### Where the formalist approach shines
 
 «Traditional approaches to software—and the formalist philosophy behind them—are possibly the best approach if you are working close to the machine—that is, you are working with device drivers or embedded software.», p88
