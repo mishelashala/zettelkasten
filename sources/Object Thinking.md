@@ -92,6 +92,10 @@ David West, Microsoft Press, Redmond, Washington, 2004
 
 «Functional decomposition is based on an attempt to model the performance of the computer and software and to translate the requirements of the domain problem into those computer-based constructs.», p40
 
+### Design Decision Hiding
+
+«Parnas offered an alternative approach called "design decision hiding", in which the problem or problem domain is modeled and decomposed without consideration of how the component parts of that domain or problem would implemented.», p40
+
 ### Where the formalist approach shines
 
 «Traditional approaches to software—and the formalist philosophy behind them—are possibly the best approach if you are working close to the machine—that is, you are working with device drivers or embedded software.», p88
