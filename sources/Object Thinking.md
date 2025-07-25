@@ -96,6 +96,11 @@ David West, Microsoft Press, Redmond, Washington, 2004
 
 «Parnas offered an alternative approach called "design decision hiding", in which the problem or problem domain is modeled and decomposed without consideration of how the component parts of that domain or problem would implemented.», p40
 
+
+### Decomposition is essential
+
+«Decomposition into subunits is necessary before we can understand, model, and build software components.», p40
+
 ### Where the formalist approach shines
 
 «Traditional approaches to software—and the formalist philosophy behind them—are possibly the best approach if you are working close to the machine—that is, you are working with device drivers or embedded software.», p88
