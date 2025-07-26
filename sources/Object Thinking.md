@@ -96,10 +96,17 @@ David West, Microsoft Press, Redmond, Washington, 2004
 
 «Parnas offered an alternative approach called "design decision hiding", in which the problem or problem domain is modeled and decomposed without consideration of how the component parts of that domain or problem would implemented.», p40
 
-
 ### Decomposition is essential
 
 «Decomposition into subunits is necessary before we can understand, model, and build software components.», p40
+
+### The result of natural partitioning
+
+«If that decomposition is based on a "natural" partitioning of the domain, the resultant models and software components will be significantly simpler to implement and will, almost as a side effect, promote other objectives such as operational efficiency and communication elegance.», p40
+
+### The result of artificial partitioning
+
+«If, instead, decomposition is based on "artificial," or computer-derived, abstractions such as memory structures, operations, or functions (as a package of operations), the opposite results will accrue.», p40
 
 ### Where the formalist approach shines
 
