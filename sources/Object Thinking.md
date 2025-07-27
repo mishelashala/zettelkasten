@@ -108,6 +108,10 @@ David West, Microsoft Press, Redmond, Washington, 2004
 
 «If, instead, decomposition is based on "artificial," or computer-derived, abstractions such as memory structures, operations, or functions (as a package of operations), the opposite results will accrue.», p40
 
+### Higher (more natural) abstractions require more computation
+
+«SIMULA was conceived to make it easier to describe natural systems and simulate them in software, even if that meant the computer had to do more work.», p42
+
 ### Where the formalist approach shines
 
 «Traditional approaches to software—and the formalist philosophy behind them—are possibly the best approach if you are working close to the machine—that is, you are working with device drivers or embedded software.», p88
