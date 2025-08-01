@@ -112,6 +112,14 @@ David West, Microsoft Press, Redmond, Washington, 2004
 
 «SIMULA was conceived to make it easier to describe natural systems and simulate them in software, even if that meant the computer had to do more work.», p42
 
+### C++ vs SIMULA: design goals
+
+«C++ maintained the goal of adding program structure without a loss of performance. The constant measure of the language was the machine, either the physical computer platform or the virtual machine—the program. This constant focus on performance limited what could be borrowed from SIMULA—most important. SIMULA's goal of being a general systems description language.», p44
+
+### Stroustrup and SIMULA
+
+«Stroustrup explicitly rejected the philosophy and values behind SIMULA and merely borrowed some of its implementation tricks, thereby creating a language that inhibits the direct expression of application designs in any domain except that of the computer itself.», p42
+
 ### Where the formalist approach shines
 
 «Traditional approaches to software—and the formalist philosophy behind them—are possibly the best approach if you are working close to the machine—that is, you are working with device drivers or embedded software.», p88
