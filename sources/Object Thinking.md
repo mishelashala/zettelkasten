@@ -120,6 +120,10 @@ David West, Microsoft Press, Redmond, Washington, 2004
 
 «Stroustrup explicitly rejected the philosophy and values behind SIMULA and merely borrowed some of its implementation tricks, thereby creating a language that inhibits the direct expression of application designs in any domain except that of the computer itself.», p42
 
+### Smalltalk's objects resemble platonic forms (ideas)
+
+«_Philosophically, Smalltalk's objects have much in common with the monads of Leibniz and the notions of 20th century physics and biology. Its way of making objects is quite Platonic in that some of them act as idealizations of concepts—Ideas—from which manifestations can be created._», p43
+
 ### Where the formalist approach shines
 
 «Traditional approaches to software—and the formalist philosophy behind them—are possibly the best approach if you are working close to the machine—that is, you are working with device drivers or embedded software.», p88
