@@ -124,6 +124,10 @@ David West, Microsoft Press, Redmond, Washington, 2004
 
 «_Philosophically, Smalltalk's objects have much in common with the monads of Leibniz and the notions of 20th century physics and biology. Its way of making objects is quite Platonic in that some of them act as idealizations of concepts—Ideas—from which manifestations can be created._», p43
 
+### The purpose of the cell membrane
+
+«the cell membrane is partly there to allow evolutionary kludges to do their necessary work and still be able to act as components by presenting a uniform interface to the world.», p44
+
 ### Where the formalist approach shines
 
 «Traditional approaches to software—and the formalist philosophy behind them—are possibly the best approach if you are working close to the machine—that is, you are working with device drivers or embedded software.», p88
