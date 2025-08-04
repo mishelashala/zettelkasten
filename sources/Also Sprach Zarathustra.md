@@ -1,0 +1,1 @@
+«Nein, antwortete Zarathustra, ich gebe kein Almosen. Dazu bin ich nicht arm genug.»
