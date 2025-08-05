@@ -136,6 +136,10 @@ David West, Microsoft Press, Redmond, Washington, 2004
 
 «If you _think_ about design using an implementation language—as programmers and specially extreme programmers are wont to do—your _designing_ will be enhanced or severely restricted by that language.», p45
 
+### What programming languages are
+
+«Programming languages are concrete manifestations of a set of values, ideals, and goals, which in turn reflect a more inclusive worldview or philosophical context.», p46
+
 ### Where the formalist approach shines
 
 «Traditional approaches to software—and the formalist philosophy behind them—are possibly the best approach if you are working close to the machine—that is, you are working with device drivers or embedded software.», p88
