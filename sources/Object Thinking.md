@@ -140,6 +140,10 @@ David West, Microsoft Press, Redmond, Washington, 2004
 
 «Programming languages are concrete manifestations of a set of values, ideals, and goals, which in turn reflect a more inclusive worldview or philosophical context.», p46
 
+### Premature classification
+
+«The classification problem is finessed, in a way, rather than solved by object thinking and Smalltalk philosophy, which suggests that the real world is fuzzy and any kind of hard-and-fast classification should be avoided unless absolutely necessary.», p47
+
 ### Where the formalist approach shines
 
 «Traditional approaches to software—and the formalist philosophy behind them—are possibly the best approach if you are working close to the machine—that is, you are working with device drivers or embedded software.», p88
