@@ -144,9 +144,13 @@ David West, Microsoft Press, Redmond, Washington, 2004
 
 «The classification problem is finessed, in a way, rather than solved by object thinking and Smalltalk philosophy, which suggests that the real world is fuzzy and any kind of hard-and-fast classification should be avoided unless absolutely necessary.», p47
 
-### Philosophical influence in software development
+### Preposition: Philosophical influence in software development
 
 «Given that most of computing and software development emerged in the Western world, a common worldview or philosophical context might be assumed.», p47
+
+### Conclusion: common philosophical foundation
+
+«If this were true, all programming languages, methods, approaches, tools, and processes would share a common, albeit deeply hidden, philosophical foundation.», p48
 
 ### Where the formalist approach shines
 
