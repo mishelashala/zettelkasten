@@ -152,9 +152,13 @@ David West, Microsoft Press, Redmond, Washington, 2004
 
 «If this were true, all programming languages, methods, approaches, tools, and processes would share a common, albeit deeply hidden, philosophical foundation.», p48
 
-### Phylosophical foundation of formalism
+### Philosophical foundation of formalism
 
-«For these thinkers, the universe comprised a set of basic elements: literally, the periodic table of elements in the case of chemistry, properties such as mass for the physicists, and mental tokens in the case of human thought. These basic elements could be combined and transformed according to some finite set of unambiguous rules: the laws of nature in the case of the physical sciences, or classical logic in the case of human thought.», p49
+«For these thinkers, the universe comprised a set of basic elements: literally, the periodic table of elements in the case of chemistry, properties such as mass for the physicists, and mental tokens in the case of human thought. These basic elements could be combined and transformed according to some finite set of unambiguous rules: the laws of nature in the case of the physical sciences, or classical logic in the case of human thought.», p50
+
+### Different name, same paradigm
+
+«This tradition of thought, this worldview or paradigm, has been labeled _formalism_. Other names with various nuances of meaning include _rationalism_, _determinism_, and _mechanism_.», p51
 
 ### Where the formalist approach shines
 
