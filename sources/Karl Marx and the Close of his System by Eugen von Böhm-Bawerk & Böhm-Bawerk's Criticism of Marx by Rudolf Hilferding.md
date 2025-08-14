@@ -12,27 +12,27 @@ von Böhm-Bawerk, Eugene. Hilferding, Rudolf. "Karl Marx and the Close of his Sy
 
 «General principles can be very prettily put forward in the "general Sections" of a book, but whether they really possess the convincing power ascribe to them by their author can only be ascertained when in the construction of the system they are brought face to face with all the facts in detail.», p4
 
-### [x] What determines the value of commodities
+### What determines the value of commodities
 
 «Max had taught in his first volume that the whole value of commodities was based on the labor embodied in them», p4
 
-### [x] The "law of value"
+### The "law of value"
 
 «and that by virtue of this "law of value" they must exchange in proportion to the quantity of labor which they contain», p4
 
-### [x] Where does profit comes from
+### Where does profit comes from
 
 «that, further, the profit or surplus value falling to the capitalist was the fruit of extortion practiced on the worker», p4
 
-### [x] Surplus "doesn't come" from constant capital
+### Surplus "doesn't come" from constant capital
 
 «the amount of surplus value was not in proportion to the whole amount of the capital employed by the capitalist», p4
 
-### [x] Surplus "comes" from variable capital
+### Surplus "comes" from variable capital
 
 «but only to the amount of the "variable" part—that is, to that part of capital paid in wages», p4
 
-### [x] Constant capital "adds no surplus value"
+### Constant capital "adds no surplus value"
 
 «while the "constant capital," the capital employed in the purchase of the means of production added no surplus value.», p4
 
@@ -62,37 +62,37 @@ von Böhm-Bawerk, Eugene. Hilferding, Rudolf. "Karl Marx and the Close of his Sy
 
 «But the preface of the editor, Friedrich Engels, not only contained the reiterated positive assertion that the solution was given in the manuscript left by Marx.», p5
 
-### [x] Marx's dishonest definition of commodities
+### Marx's dishonest definition of commodities
 
 «he limits from the beginning to _commodities_, by which, according to him, we are not to understand all economic goods, but only those _products of labor_ which are made for the market.», p9
 
-### [x] Definition of commodity
+### Definition of commodity
 
 «A commodity is, on one side, a useful thing, which by its properties satisfies human wants of some kind; and on the other, it forms the material medium of exchange value.», p9
 
-### [x] Definition of Exchange Value
+### Definition of Exchange Value
 
 «"Exchange value presents itself in the first instance as the quantitative relation, the proportion, in which values in use of one kind are exchanged for values in use of another kind, a relation which constantly changes with time and place."», p9-10
 
 > Note: Author is quoting Capital Vol. I
 
-### [x] Implication of Exchange Value
+### Implication of Exchange Value
 
 «Exchange value, therefore, appears to be something accidental. And yet there must be in this changing relation something that is stable and unchanging», p10
 
-### [x] What do commodities have in common?
+### What do commodities have in common?
 
 «"[...] there exists a common factor of the same magnitude in two different things, in a quarter of wheat and in cwt. of iron. The two things are therefore equal to a third which is in itself neither the one nor the other. Each of the two, so far as it is an exchange value, must therefore be reducible to that third."», p10
 
-### [x] The common factor "is not a physical property"
+### The common factor "is not a physical property"
 
 «"This common factor," Marx goes on, "cannot be a geometrical, physical, chemical or other natural property of the commodities.», p10
 
-### [x] Physical properties determine values of use
+### Physical properties determine values of use
 
 «Their physical properties come into consideration for the most part only in so far as they make the commodities useful, and so make them values in use.», p10
 
-### [x] Values of use "don't determine" exchange relation
+### Values of use "don't determine" exchange relation
 
 «But, on the other hand, the exchange relation of commodities is obviously determined without reference to their values in use.», p10
 
@@ -1351,6 +1351,8 @@ von Böhm-Bawerk, Eugene. Hilferding, Rudolf. "Karl Marx and the Close of his Sy
 ### Refuting Marxism requires refuting the entire system
 
 «But since the Marxist system has to be dealt with in its entirety, this discussion must be more detailed than that which is requisite to meet the objects of the eclectics, objections based upon misunderstanding and concerned only with individual details.», p122
+
+> Note: that's precisely what Juan Ramon Rallo does in [[Anti-Marx, Tomo 2]]
 
 ### BW: The most fragile point of Marxism
 
