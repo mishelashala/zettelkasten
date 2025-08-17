@@ -160,6 +160,10 @@ David West, Microsoft Press, Redmond, Washington, 2004
 
 «This tradition of thought, this worldview or paradigm, has been labeled _formalism_. Other names with various nuances of meaning include _rationalism_, _determinism_, and _mechanism_.», p51
 
+### Human Thought as a computational process
+
+«If someone could discover the tokens and the manipulation rules that governed the universe, you could specify a syntax that would capture all possible semantics. You could even build a machine capable of human thought by embodying that syntax in its construction.», p51
+
 ### Where the formalist approach shines
 
 «Traditional approaches to software—and the formalist philosophy behind them—are possibly the best approach if you are working close to the machine—that is, you are working with device drivers or embedded software.», p88
