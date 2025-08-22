@@ -164,6 +164,10 @@ David West, Microsoft Press, Redmond, Washington, 2004
 
 «If someone could discover the tokens and the manipulation rules that governed the universe, you could specify a syntax that would capture all possible semantics. You could even build a machine capable of human thought by embodying that syntax in its construction.», p51
 
+### AI the poster boy of formalism
+
+«In some ways, the ultimate example of formalism in computer science is classical artificial intelligence, as seen in the work of Newell, Simon, and Minsky.», p51
+
 ### Where the formalist approach shines
 
 «Traditional approaches to software—and the formalist philosophy behind them—are possibly the best approach if you are working close to the machine—that is, you are working with device drivers or embedded software.», p88
