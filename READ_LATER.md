@@ -1,56 +1,24 @@
 ## Other
 
 - [ ] Historia General de las Cosas de la Nueva España
-
-### Matemáticas
-
-- [ ] "Álgebra: Conceptos y Aplicaciones" de Ron Larson y Laurie Boswell.
-- [ ] "College Algebra" de Michael Sullivan.
-- [ ] "Estadística para Negocios y Economía" de Paul Newbold, William L. Carlson y Betty Thorne.
-- [ ] "The Cartoon Guide to Statistics" de Larry Gonick y Woollcott Smith.
-- [ ] "Cálculo: Un Enfoque Moderno" de Robert A. Adams y Christopher Essex.
-- [ ] "Calculus Made Easy" de Silvanus P. Thompson y Martin Gardner.
-
-### Fundamentos de Economía
-
-- [ ] "Microeconomía" de Robert S. Pindyck y Daniel L. Rubinfeld.
-- [ ] "Principios de Microeconomía" de N. Gregory Mankiw.
-- [ ] "Macroeconomía" de Olivier Blanchard.
-- [ ] "Principios de Macroeconomía" de N. Gregory Mankiw.
-- [ ] "The Worldly Philosophers: The Lives, Times, and Ideas of the Great Economic Thinkers" de Robert L. Heilbroner.
-- [ ] "A History of Economic Thought" de Lionel Robbins.
-
-### Fundamentos de Finanzas
-
- - [ ] "Principles of Corporate Finance" de Richard A. Brealey, Stewart C. Myers y Franklin Allen.
- - [ ] "Fundamentals of Corporate Finance" de Stephen A. Ross, Randolph W. Westerfield y Bradford D. Jordan.
- - [ ] "Investment Analysis and Portfolio Management" de Frank K. Reilly y Keith C. Brown.
- - [ ] "The Intelligent Investor" de Benjamin Graham.
- - [ ] "Financial Markets and Institutions" de Frederic S. Mishkin y Stanley G. Eakins.
- - [ ] "Manias, Panics, and Crashes: A History of Financial Crises" de Charles P. Kindleberger y Robert Z. Aliber.
-
-### Fundamentos de Contabilidad
-
-- [ ] "Financial Accounting" de Jerry J. Weygandt, Paul D. Kimmel y Donald E. Kieso.
-- [ ] "Intermediate Accounting" de Donald E. Kieso, Jerry J. Weygandt y Terry D. Warfield.
-- [ ] "Cost Accounting: A Managerial Emphasis" de Charles T. Horngren, Srikant M. Datar y Madhav V. Rajan.
-- [ ] "Management Accounting" de Anthony A. Atkinson, Robert S. Kaplan y Ella Mae Matsumura.
+- [ ] Simple Smalltalk Testing: With Patterns, Kent Beck.
+- [ ] A first course in category theory, Ana Agore
+- [ ] Write great code volume 1
+- [ ] Write great code volume 2
+- [ ] Write great code volume 3
+- [ ] The recursive book of recursion
+- [ ] The art of clean code
+- [ ] Introduction to computer optimization
+- [ ] Algorithmic thinking
+- [ ] How computers really work
+- [ ] Think like a programmer
+- [ ] Code craft
+- [ ] Hacks, Leaks and Revelations
+- [ ] Touch of Class: Learning to Program Well with Objects and Contracts
 
 ### Habilidades Analíticas y de Investigación
 
-- [ ] "Quantitative Methods for Business, Management and Finance" de Louise Swift y Sally Piff.
-- [ ] "Mathematics for Economists" de Carl P. Simon y Lawrence Blume.
 - [ ] "The Craft of Research" de Wayne C. Booth, Gregory G. Colomb y Joseph M. Williams.
-- [ ] "Research Methods for Business Students" de Mark Saunders, Philip Lewis y Adrian Thornhill.
-
-### Conocimientos de Computación
-
- - [ ] "Excel 2019 Bible" de Michael Alexander, Richard Kusleika y John Walkenbach.
- - [ ] "QuickBooks 2022 For Dummies" de Stephen L. Nelson.
- - [ ] "Financial Modeling in Excel For Dummies" de Danielle Stein Fairhurst.
- - [ ] "Using Stata for Quantitative Analysis" de Kyle C. Longest.
-- [ ] "Excel for Dummies" de Greg Harvey.
-- [ ] "R for Data Science" de Hadley Wickham y Garrett Grolemund.
 
 ### Lectura y Escritura
 
@@ -90,23 +58,6 @@
 - [ ] "Finance for Dummies" de Eric Tyson.
 - [ ] "Accounting All-in-One For Dummies" de Kenneth W. Boyd.
 
-### otros
-
-- [ ] Simple Smalltalk Testing: With Patterns, Kent Beck.
-- [x] I Have No Mouth, and I Must Scream, Harlan Ellison.
-- [ ] A first course in category theory, Ana Agore
-- [ ] Write great code volume 1
-- [ ] Write great code volume 2
-- [ ] Write great code volume 3
-- [ ] The recursive book of recursion
-- [ ] The art of clean code
-- [ ] Introduction to computer optimization
-- [ ] Algorithmic thinking
-- [ ] How computers really work
-- [ ] Think like a programmer
-- [ ] Code craft
-- [ ] Hacks, Leaks and Revelations
-- [ ] Touch of Class: Learning to Program Well with Objects and Contracts
 
 ## CENEVAL
 
