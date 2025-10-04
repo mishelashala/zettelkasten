@@ -11,3 +11,21 @@ Javier de Hoz, Alianza Editorial, España, 2024
 - CANFORA, L., [[Antologia della Letteratura greca I-III]], Bari 1987.
 - CANTARELLA, R., [[La literatura griega clásica]], Buenos Aires 1971.
 - DICKEY, E., [[Ancient Greek Scholarship. A Guide to finding, reading and understanding scholia, commentaries, lexica and grammatical treatises, from their beginnings to the Byzantine period]], Oxford 2007.
+
+- DIHLE, A., A History of Greek Literature from Homer to the He-lenistic Period, Londres y Nueva York 1994 (ed. original Mú-nich 1991).
+EASTERLING, P. E. y KNox, B. M. W. (eds.), Historia de la lite-ratura lásica I. Literatura griega, Madrid 1990 (trad. del original inglés, Cambridge 1985).
+GARCÍA GUAL, C. y GUZMÁN GUERRA, A., Antología de la lite-ratura griega, Madrid 1995.
+GARCÍA ROMERO, F., De hombres y dioses: antología de poesia l'-rica griega antigua (siglos VII-V a.C.), Madrid 2015.
+GERBER, D. E., Euterpe. An Anthology of Early Greek Lyric, Ele-giac, and lambic Poetry, Amsterdam 1970.
+HOSE, M. y SCHENKER, D., A companion to Greek literature, 2016.
+HOWAISON, M. C. (ed.), Diccionario de la Literatura Clásica, Madrid 1991 (= The Oxford Companion to Classical Literature, Oxford 19892).
+LESKY, A. Historia de la literatura griega, Madrid 1968.
+LÓPEZ FÉREZ, J. A. (ed.), Historia de la literatura griega, Madrid
+1988.
+MONTANARI, F. Y MONTANA, F., History of Ancient Greek Litera-ture. Vol. 1: The Archaic and Classical Ages. Vol. 2: The Helle-mistic Age and the Roman Imperial Period (trad. de la 2.ª ed. italiana, de 2017, revisada y aumentada, del original de
+1998), Berlín 2021.
+NAGY, G. (ed.), Greek Literature, Nueva York 2001 (vols. 1-6 lit. de época arcaica y clásica; 7-8: helenística e imperial.
+PFEIFFER, R. Historia de la filología clásica I, Madrid 1981.
+REYNOLDS, L. D. y WILSON, N. G., Soribes and scholars. A guide to the transmission of Greek and Latin literature, Oxford 19742 (tr. esp.: Copistas y filólogos, Madrid, Gredos)
+ROSE, H. J., Mitología griega, Barcelona.
+ROSSI, L. E., Letteratura Greca, Florencia 2017 (1994).
