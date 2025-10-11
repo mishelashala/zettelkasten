@@ -30,3 +30,25 @@ PFEIFFER, R. Historia de la filología clásica I, Madrid 1981.
 REYNOLDS, L. D. y WILSON, N. G., Soribes and scholars. A guide to the transmission of Greek and Latin literature, Oxford 19742 (tr. esp.: Copistas y filólogos, Madrid, Gredos)
 ROSE, H. J., Mitología griega, Barcelona.
 ROSSI, L. E., Letteratura Greca, Florencia 2017 (1994).
+
+SAID, S., TRÉDE, M. y LE BOULLUEC, A., Histoire de la littératu-re grecque, Paris 1997.
+SIGNES, J.. Breve guia de la literatura griega desde Hesíodo basta Platón, Madrid 2019.
+SUÁREZ DE LA TORRE, E., Antología de la lírica griega arcaica,
+Madrid 2002.
+TAPLIN, O., Literature in the Greek and Roman world: a new perspective, Oxford 2000.
+- (ed.), Literature in the Greek World, Oxford 2001.
+TARDITI, G., Storia della letteratura greca, Turín 1975, 1996.
+TORRES GUERRA, J. B., Introducción a la literatura griega antigua,
+Madrid 2019.
+TREDE, M. y SAID, S., La littérature grecque d' Homère à Aristote-les, París 1990.
+WHITMARSH, T., Ancient Greek Literature, Cambridge 2004.
+ZIMMERMANN, B. y RENGAKOS, A., Handbuch der griechischen
+Literatur der Antike, Bd. 1 y 2, Múnich 2011, 2014.
+Obras citadas y otras de carácter general
+ADRADOS, F. R., GARCIA GUAL, C., GIL, L., Hoz, J. DE y FER-NÁNDEZ DELGADO, J. A. (eds.), Estudios de forma y contenido sobre los géneros literarios griegos, Cáceres 1982.
+ANDERSON, W. D., Music and Musicians in Ancient Greece, Ithaca y Londres 1994.
+ANDREWES, A., Greek Society, Harmondsworth 1971 (1967).
+BREMMER, J. N., Greek Religion, Oxford 1994.
+BURKERT, W., Greek Religion, Oxford 1985.
+﻿﻿The Orientalizing Revolution, Londres 1992
+﻿, De Homero a los magos: la tradición oriental en la cultuna greza, Barcelona 2002 (trad, del original italiano de 1999).
