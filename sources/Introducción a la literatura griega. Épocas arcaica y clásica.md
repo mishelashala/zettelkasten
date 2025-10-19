@@ -44,21 +44,21 @@ Javier de Hoz, Alianza Editorial, España, 2024
 - BURKERT, W., [[Greek Religion, 1985]], Oxford 1985.
 - BURKERT, W., [[The Orientalizing Revolution]], Londres 1992
 ﻿- BURKERT, W., [[De Homero a los magos. la tradición oriental en la cultura greza]], Barcelona 2002 (trad, del original italiano de 1999).
-- CAMPBELL, L., en B. Jowett y L. Campbell, Plato's Republic: the Greek text edited with notes and essays, Oxford 1894.
-- CARPENTER, T. H., Arte y mito en la antigua Grecia, Barcelona 2001 (trad. del original inglés de 1991).
-- DAVIES, J. K., Democracy and Classical Greece, Harvard 1993.
-- DEPEW, M. y OBBINK, D. (eds.), Matrices of Genre, Cambridge, Mass., y Londres 2000.
-- DODDS, E. R., Los griegos y lo irracional, Madrid 1997 (trad. del original de 1960).
-- DOVER, K. J., The Evolution of Greek Prose Style, Oxford 1997.
-- DUMÉZIL, G., L'Idéologie tripartite des Indo-Européens, Bruselas 1958.
-- FRÄNKEL, H., Poesía y filosofía de la Grecia arcaica, Madrid 1993 (trad. del original alemán 19683).
-- GARCÍA GUAL, C., Figuras helénicas y géneros literarios, Madrid 1991.
-- GIL, L., Los antiguos y la «inspiración» poética, Madrid 1966.
-- Hoz, J. DE y Coy, J. (eds.), Estudios sobre los géneros literarios 1 y 2, Salamanca 1975, 1982.
-- JAEGER, W., Paideia, México 1957 (trad. original alemán, Berlín (1933-1945).
-- JAKOBSON, R., Lingüística y poética, Madrid 1981.
-- JOLLES, A., Las formas simples, Santiago de Chile 1972 (trad. del original alemán de 1958).
-- JONG, I. F. DE, NUNIST, R. y BOWIE, A., Narrators, Narratees, and Narratives in Ancient Greek Literature, Leiden, Boston 2004.
-- JONG, I. F. DE y SULLIVAN, J. P. (eds.), Modern Critical Theory and Classical Literature, Leiden, Nueva York y Colonia 1994.
-- KAHN, C. H., Platón y el diálogo socrático. El uso filosófico de una forma literaria, Madrid 2010 (trad. del original inglés de (1996).
-- KIRK, G. S., La naturaleza de los mitos griegos, Madrid 1985.
+- CAMPBELL, L., en B. Jowett y L. Campbell, [[Plato's Republic. the Greek text edited with notes and essays]], Oxford 1894.
+- CARPENTER, T. H., [[Arte y mito en la antigua Grecia]], Barcelona 2001 (trad. del original inglés de 1991).
+- DAVIES, J. K., [[Democracy and Classical Greece]], Harvard 1993.
+- DEPEW, M. y OBBINK, D. (eds.), [[Matrices of Genre]], Cambridge, Mass., y Londres 2000.
+- DODDS, E. R., [[Los griegos y lo irracional]], Madrid 1997 (trad. del original de 1960).
+- DOVER, K. J., [[The Evolution of Greek Prose Style]], Oxford 1997.
+- DUMÉZIL, G., [[L'Idéologie tripartite des Indo-Européens]], Bruselas 1958.
+- FRÄNKEL, H., [[Poesía y filosofía de la Grecia arcaica]], Madrid 1993 (trad. del original alemán 19683).
+- GARCÍA GUAL, C., [[Figuras helénicas y géneros literarios]], Madrid 1991.
+- GIL, L., [[Los antiguos y la «inspiración» poética]], Madrid 1966.
+- Hoz, J. DE y Coy, J. (eds.), [[Estudios sobre los géneros literarios 1 y 2]], Salamanca 1975, 1982.
+- [[JAEGER, W., Paideia]], México 1957 (trad. original alemán, Berlín (1933-1945).
+- JAKOBSON, R., [[Lingüística y poética]], Madrid 1981.
+- JOLLES, A., [[Las formas simples]], Santiago de Chile 1972 (trad. del original alemán de 1958).
+- JONG, I. F. DE, NUNIST, R. y BOWIE, A., [[Narrators, Narratees, and Narratives in Ancient Greek Literature]], Leiden, Boston 2004.
+- JONG, I. F. DE y SULLIVAN, J. P. (eds.), [[Modern Critical Theory and Classical Literature]], Leiden, Nueva York y Colonia 1994.
+- KAHN, C. H., [[Platón y el diálogo socrático. El uso filosófico de una forma literaria]], Madrid 2010 (trad. del original inglés de (1996).
+- KIRK, G. S., [[La naturaleza de los mitos griegos]], Madrid 1985.
