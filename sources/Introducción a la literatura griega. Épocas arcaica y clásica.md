@@ -64,18 +64,19 @@ Javier de Hoz, Alianza Editorial, España, 2024
 - KIRK, G. S., [[La naturaleza de los mitos griegos]], Madrid 1985.
 - MAZON, P. (ed.), Hésiode. Les Travaux et les Jours, París, 1914.
 
-- NisTLE, W., Vom Mythos zum Logos, Stuttgart 1942.
-- NILSSON, M. P., Historia de la religiosidad griega, Madrid 1953.
-- NILSSON, M. P. The Mycenacan Origin of Greek Mythology, Berkeley, Los Ángeles y Londres 1972.
-- NUSSBAUM, M. C., La fragilidad del bien. Fortuna y ética en la tragedia y la filosofia griega, Madrid 1995 (trad. del original inglés de 1986).
-- OPPENHEIM, A. L., Antigua Mesopotamia: retrato de una civiliza-ción muerta. Madrid 2003 (original de 1964).
-- PARRY, M., Studies in the Epie Technique of Oral Verse-Making, I Homer and Homeric Style (Homero y el estilo homérico), Harvard 1930,
-- PARRY, M., Studies in the Epie Technique of Oral Verse-Making, Il The Homeric Language as the Language of an Oral Poetry (El lenguaje homérico como idioma de poesía oral), Harvard 1932.
-- PERADOTTO, J., «The Omen of the Eagles and the Ethos of Agamemnon», Phoenix 23 (1969), 237-262.
-- PRETAGOSTINI R. (ed.), Tradizione e innovazione nella cultura greca da Omero all'età ellenistica. Scritti in onore di Bruno Gen-tili, Roma 1993.
-- PROPP, V., Morfología del cuento, Madrid 1978 (trad. del origi-nal de 1928).
-- RoMILLy, J. DE, La doucer dans la pensée grecque, París 1979, STEINER, G., Antigonas, una poética y una filosofia de la lectura, Barcelona 1987 (trad. del original de 1984).
-- THEStEr, H., Studies in the styles of Plato, Helsinki 1967.
-- THOMAS, R., Literucy and orality in Ancient Greece, Cambridge 1992
-- WEsT, M. L., The East Face of Helicon, West Asiatic Blements in Greck Poetry and Myth, Oxford 1999
-- WINNINCTON INGRAM, R. P., Studies in Aeschylus, Cambridge 1983.
+- NisTLE, W., [[Vom Mythos zum Logos]], Stuttgart 1942.
+- NILSSON, M. P., [[Historia de la religiosidad griega]], Madrid 1953.
+- NILSSON, M. P. [[The Mycenacan Origin of Greek Mythology]], Berkeley, Los Ángeles y Londres 1972.
+- NUSSBAUM, M. C., [[La fragilidad del bien. Fortuna y ética en la tragedia y la filosofia griega]], Madrid 1995 (trad. del original inglés de 1986).
+- OPPENHEIM, A. L., [[Antigua Mesopotamia: retrato de una civilización muerta]]. Madrid 2003 (original de 1964).
+- PARRY, M., [[Studies in the Epic Technique of Oral Verse-Making]], I Homer and Homeric Style (Homero y el estilo homérico), Harvard 1930,
+- PARRY, M., Studies in the Epic Technique of Oral Verse-Making, Il The Homeric Language as the Language of an Oral Poetry (El lenguaje homérico como idioma de poesía oral), Harvard 1932.
+- PERADOTTO, J., «[[The Omen of the Eagles and the Ethos of Agamemnon]]», Phoenix 23 (1969), 237-262.
+- PRETAGOSTINI R. (ed.), [[Tradizione e innovazione nella cultura greca da Omero all'età ellenistica. Scritti in onore di Bruno Gentili]], Roma 1993.
+- PROPP, V., [[Morfología del cuento]], Madrid 1978 (trad. del origi-nal de 1928).
+- RoMILLy, J. DE, [[La doucer dans la pensée grecque]], París 1979
+- STEINER, G., [[Antigonas, una poética y una filosofia de la lectura]], Barcelona 1987 (trad. del original de 1984).
+- THESTEr, H., [[Studies in the styles of Plato]], Helsinki 1967.
+- THOMAS, R., [[Literucy and orality in Ancient Greece]], Cambridge 1992
+- WEsT, M. L., [[The East Face of Helicon, West Asiatic Blements in Greck Poetry and Myth]], Oxford 1999
+- WINNINCTON INGRAM, R. P., [[Studies in Aeschylus]], Cambridge 1983.
