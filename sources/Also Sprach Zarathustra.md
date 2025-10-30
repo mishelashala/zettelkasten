@@ -3,3 +3,5 @@
 «Rech sich nehmen zu neuen Werthen — das is das furchtbarste Nehmen für einen tragsamen un ehrfürchtigen Geist.»
 
 «Bist du ein Sclave? So kannst du nicht Freund sein. Bist du ein Tyrann? So kannst du nicht freunde haben.»
+
+«Man vergilt einem Lehrer schlecht, wenn man immer nur der Schüler bleibt»
