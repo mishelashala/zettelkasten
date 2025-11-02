@@ -10,7 +10,7 @@ Ed Original: Guignebert, Charles. 1921, Ernest Flammarion, París
 - Wilhelm Bousset, _[[Kyrios Christos: Geschichte des Christusglaubens von den Anfängen des Christentums bis Irenaeus]]_, Göttingen: Vandenhoeck & Ruprecht, **1913**.
 - Paul Barth, _[[Die Hauptprobleme des Lebens Jesu]]_, Gütersloh: C. Bertelsmann, **1911**.
 - Otto Schmiedel, _[[Die Hauptprobleme der Leben-Jesu-Forschung seit Strauss]]_, Tübingen: J. C. B. Mohr (Paul Siebeck), **1906**.
-- Jean Juster, _[[Les Juifs dans l’Empire romain: leur condition juridique, économique et sociale]]_, 2 vols., Paris: E. Leroux, **1914**.
+- Jean Juster, _[[Les Juifs dans l’Empire romain. leur condition juridique, économique et sociale]]_, 2 vols., Paris: E. Leroux, **1914**.
 - Charles Daremberg & Edmond Saglio, _[[Dictionnaire des antiquités grecques et romaines]]_, Paris: Hachette, **1877–1919** (multiple fascicules; commonly cited as _Daremberg–Saglio_).
 - Otto Pfleiderer, _[[Die Entstehung des Christentums]]_, Berlin: G. Reimer, **1905** (English tr. _The Origin of Christianity_, 1906).
 - Shirley Jackson Case, _[[The Evolution of Early Christianity]]_, Chicago: University of Chicago Press, **1914**.
