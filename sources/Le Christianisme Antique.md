@@ -15,3 +15,4 @@ Ed Original: Guignebert, Charles. 1921, Ernest Flammarion, París
 - Otto Pfleiderer, _[[Die Entstehung des Christentums]]_, Berlin: G. Reimer, **1905** (English tr. _The Origin of Christianity_, 1906).
 - Shirley Jackson Case, _[[The Evolution of Early Christianity]]_, Chicago: University of Chicago Press, **1914**.
 - Johannes Weiss, _[[Das Urchristentum]]_, Göttingen: Vandenhoeck & Ruprecht, **1914**.
+- Théodore Reinach, _[[Fontes rerum Judaicarum. I. Textes d’auteurs grecs et romains]]_, Paris: Ernest Leroux, **1895**
