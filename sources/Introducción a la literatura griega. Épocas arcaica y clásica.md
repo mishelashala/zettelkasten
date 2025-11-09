@@ -80,3 +80,18 @@ Javier de Hoz, Alianza Editorial, España, 2024
 - THOMAS, R., [[Literucy and orality in Ancient Greece]], Cambridge 1992
 - WEsT, M. L., [[The East Face of Helicon, West Asiatic Blements in Greck Poetry and Myth]], Oxford 1999
 - WINNINCTON INGRAM, R. P., [[Studies in Aeschylus]], Cambridge 1983.
+
+- ATHERTON, C., [[Form and content in didactic poetry]], Bari 1998.
+- BACHVAROVA, M. R., [[From hittite to Homer. The Anatolian background of ancient Greek epic]], Cambridge 2016.
+- BREMER, J. M., JONG, I. J. F. DE y KALFF, J. (eds.), [[Homer. Beyond oral poetry. Recent trends in Homeric interpretation]], Amsterdam 1987.
+- CRIELAARD, J. P. (ed.), [[Homeric Questions]], Amsterdam 1995.
+- FOLEY, J. M. (ed.), [[A Companion to Ancient Epic]], Oxford 2005.
+- FOWLER, R. (ed.), [[The Cambridge companion to Homer]], Cambridge 2004.
+- HORSTER, M. y REITz, CHR. (eds.), [[Wissensvermittlung in dichterischer Gestalt]], Stuttgart 2005.
+- JANKO, R., Homer, [[Hesiod and the Hymns. Diachronic Development in Epic Diction]], Cambridge 1982.
+- LÓPEZ FÉREZ, J. A. (ed.), [[La épica griega y su influencia en la literatura española]], Madrid 1994.
+- LOVATT, H., [[The epic gaze. vision, gender and narrative in ancient epic]], Cambridge 2013.
+- RENGAKOS, A., y MONTANARI, F. (eds.), [[La poésie épique grecque. métamorphoses d'un genre littéraire]], Vandoeuvres-Ginebra 2006.
+- TOOHEY, P. [[Epic lessons. An introduction to ancient didactic poetry]], Londres 1996.
+- ADRADOS, F.R., [[Origenes de la listica grica]], Madrid 1976 red. 1986).
+- ADRADOS, F.R., [[El mundo de la lírica griega antigua]], Madrid 1981.
