@@ -2,6 +2,21 @@ Trad. Nélida Orfila Reynal, México, Fondo de Cultura Economica, 1956, (11ma re
 
 Ed Original: Guignebert, Charles. 1921, Ernest Flammarion, París
 
+## People
+
+- [[Philo]]
+- [[Pablo de Tarso]]
+- [[Julius Firmicus Maternus]]
+
+## Concepts
+
+- [[Pneumatology]]
+- [[Regula fide]]
+
+## Religions
+
+- [[Mandaeism]]
+
 ## Bibliography
 
 - Ch. Guignebert, _[[Le problème de Jésus]]_, Paris: Ernest Leroux, **1914**.
