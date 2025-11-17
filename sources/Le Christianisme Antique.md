@@ -12,6 +12,7 @@ Ed Original: Guignebert, Charles. 1921, Ernest Flammarion, París
 - [[Rufino]]
 - [[Marcus Aurelius Antoninus]]
 - [[Priscillianus]]
+- [[Porphyry of Tyre]]
 
 ## Concepts
 
