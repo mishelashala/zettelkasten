@@ -7,15 +7,29 @@ Ed Original: Guignebert, Charles. 1921, Ernest Flammarion, París
 - [[Philo]]
 - [[Pablo de Tarso]]
 - [[Julius Firmicus Maternus]]
+- [[Aurelius Ambrosius]]
+- [[Constantine I]]
+- [[Rufino]]
+- [[Marcus Aurelius Antoninus]]
+- [[Priscillianus]]
 
 ## Concepts
 
 - [[Pneumatology]]
 - [[Regula fide]]
+- [[Anathema]]
+- [[Soter]]
+- [[Ascetism]]
+- [[Paganism]]
 
 ## Religions
 
 - [[Mandaeism]]
+- [[Alogi]]
+
+## Documents
+
+- [[Edictum Mediolanensis]]
 
 ## Bibliography
 
