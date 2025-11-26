@@ -239,3 +239,17 @@ James Rachels, Introducción a la filosofía moral, p20
 "[...] debemos distinguir entre la cuestión de _quién debe tomar la decisión_ y la de _qué decisión debe tomarse_."
 
 James Rachels, Introducción a la filosofía moral, p23
+
+# El ser vs el deber ser
+
+"En el siglo XVIII, David Hume señaló que _lo que es_ y _lo que debe ser_ son nociones lógicamente distintas, y que ninguna conclusión acerca de una sigue a la otra. Podemos decir que la gente esta naturalmente dispuesta a la caridad, pero no se sigue de allí que deba ser caritativa."
+
+James Rachels, Introducción a la filosofía moral, p98
+
+# Altruismo
+
+## Re-interpretación de motivos
+
+"En cualquier acto de aparente altruismo podemos encontrar una manera de comprender el altruismo y reemplazarlo por una explicación de motivos más más centrados en uno mismo. Ésta técnica de reinterpretar motivos es perfectamente general y puede repetirse una y otra vez."
+
+James Rachels, Introducción a la filosofía moral, p112
