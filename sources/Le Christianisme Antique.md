@@ -22,11 +22,16 @@ Ed Original: Guignebert, Charles. 1921, Ernest Flammarion, París
 - [[Soter]]
 - [[Ascetism]]
 - [[Paganism]]
+- [[Apostasy]]
 
 ## Religions
 
 - [[Mandaeism]]
 - [[Alogi]]
+
+## Gods/Godesses
+
+- [[Cybele]]
 
 ## Documents
 
