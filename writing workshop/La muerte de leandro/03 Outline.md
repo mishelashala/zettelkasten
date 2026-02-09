@@ -1,36 +1,38 @@
-“Leandro había terminado su entrenamiento nocturno. Había pasado las últimas dos horas sudando en lo que sus amigos en tono de burla describían como una bata de baño. Para más inri, siempre que podían describían  su profesión como _revolcarse en el piso con hombres sudados en piyama._”
+Leandro había terminado su entrenamiento nocturno. Había pasado las últimas dos horas sudando en lo que sus amigos describían como una bata de baño. Para más inri, siempre que podían describían su profesión como _revolcarse en el piso con hombres sudados en piyama._
 
-“Lo peor es que tenían razón. Vivía de hacer precisamente eso. Se levantaba todos los días a las 6 de la mañana para poder atender la clase de las 7. Dos horas de entrenamiento y luego a casa a bañarse, desayunar, y luego a las 12 al gimnasio  a hacer una sesión de pesas de hora y media. a casa a bañarse de nuevo, almorzar, tomar la siesta y luego prepararse de nuevo para la clase de las 7 de la noche.”
+Lo peor es que tenían razón. Vivía de hacer precisamente eso. Se levantaba todos los días a las 6 de la mañana para poder atender la clase de las 7. Dos horas de entrenamiento y luego a casa a bañarse, desayunar, y luego a las 12 al gimnasio a hacer una sesión de pesas de hora y media.
 
-“Esa era su día a día. Su vida eran meses de hacer exactamente lo mismo todos los días por meses. Luego, llegaba la excepción: el día de competencia. Por un día podía salir de la rutina y hacer algo un poco diferente, solo un poco.”
+Luego A casa a bañarse de nuevo, almorzar, tomar la siesta y luego prepararse de nuevo para la clase de las 7 de la noche.
 
-“Pero esta excepción a la rutina duraba poco. Llegaba el día, ganaba, subía el podio a recibir su medalla y al día siguiente de nuevo a la rutina.”  
+Esa era su día a día. Su vida eran meses de hacer exactamente lo mismo todos los días por meses. Luego, llegaba la excepción a la regla: el día de competencia. Por un día podía salir de la rutina y hacer algo un poco diferente, solo un poco.
 
-“Era el sueño dorado para muchos, incluido Leandro: entrenar, comer, dormir y que te paguen por hacerlo.”
+Pero esta excepción a la rutina duraba poco. Llegaba el día, luchaba, ganaba, luchaba otra vez, ganaba de nuevo, luchaba una vez más, volvía a ganar, subía el podio a recibir su medalla y al día siguiente de nuevo a la rutina.
 
-“Abrió la puerta y del bar y en cuanto entró lo recibió de golpe una nube de humo de tabaco. Su nariz protestó entre cerrando sus fosas nasales. Detestaba cuando eso pasaba, pero era el precio que debía pagar si quería tomar una cerveza.”
+Era el sueño dorado para muchos, incluido Leandro: entrenar, comer, dormir y al día siguiente a hacerlo de nuevo. Y además le pagaban por ello.
 
-“La nube omnipresente de humo de cigarro aunado a la luz tenue y los típicos letreros de neón hacían que el bar estuviera oscuro a medias. No lo suficientemente oscuro para tropezarte con todo, pero si lo suficiente como para solo poder distinguir la silueta de los objetos y personas a la distancia”
+Abrió la puerta y del bar y en cuanto entró lo recibió de golpe una nube de humo de tabaco. Su nariz protestó entre cerrando sus fosas nasales. Detestaba cuando eso pasaba, pero era el precio que debía pagar si quería tomar una cerveza.
 
-“El sonido de la música, como en cualquier bar era ensordecedor. A falta de bocinas bien distribuidas por todo el bar, había que poner la música a todo dar para que pudiera escucharse en todo el lugar. A pesar de poner en riesgo la salud auditiva de quienes tenían la desgracia de estar junto a ellas.”
+La nube omnipresente de humo de cigarro aunado a la luz tenue y los típicos letreros de neón hacían que el bar estuviera oscuro a medias. No lo suficientemente oscuro para tropezarte con todo, pero si lo suficiente como para solo poder distinguir la silueta de los objetos y personas a la distancia.
 
-“La música, como en todo bar, era lo suficientemente olvidable como para no recordarla al día siguiente y lo suficientemente genérica como para no despertar el deseo de preguntarle a alguien cuál era el nombre de la canción que estaba sonando”
+A falta de suficientes bocinas como para poder distribuirlas apropiadamente por todo el lugar, la administración había compensado poniendo la música ridiculamente alta para que pudiera escucharse en todos lados.
 
-“Camino por lo que en algún momento de la noche se convertiría en una pista de baile. De momento, solo una plancha de madera con delirios de papel atrapa moscas. Podía sentir como el piso intentaba aferrarse a él, como quería retenerlo en el lugar.”
+La música era lo suficientemente genérica como para no despertar deseo alguno de preguntarle a alguien cuál era el nombre de la canción que estaba sonando.
 
-“Finalmente llegó a la barra y se sentó en una de esos bancos que son demasiado altos como para poder poner los pies en el piso. La barra estaba lo suficientemente baja como para tener que encorvarse para poder descansar los codos sobre la barra.”
+Caminó por lo que en algún momento de la noche se convertiría en una pista de baile. De momento, solo una plancha de madera con delirios de papel atrapa moscas. Podía sentir como el piso intentaba aferrarse a él, como quería retenerlo en su lugar.
 
-“Agito la mano al mesero y le pidió a este una cerveza. Cuando finalmente se la llevaron un extraño apareció en su campo visual periférico. Volteó para ver quién era.”
+Finalmente llegó a la barra y se sentó en una de esos bancos que son demasiado altos como para poder poner los pies en el piso pero demasiado alta para la barra, lo suficiente como para  tener que encorvarse para poder descansar los codos sobre la barra.
 
-“Llevaba puesta una playera blanca tan larga y grande que parecía más bien un vestido. Un pantalón de mezclilla como para alguien mucho más alto. Sus tatuajes no podían distinguirse por la falta de iluminación. A simple vista parecía garabatos hechos por un niño de dos años con plumón.“
+Agitó la mano al barman y pidió una cerveza. Cuando finalmente se la llevaron un extraño apareció en su campo visual periférico. Volteó para ver quién era.
 
-“El extraño tomó la cerveza de Leandro con la mano izquierda y le dio un sorbo. Suspiró como quien bebé del elixir de los dioses. El extraño inspeccionó con la mirada rápidamente la habitación y le aclaró la situación.”
+Llevaba puesta una playera blanca tan larga y grande que parecía más bien un vestido corto. Un pantalón de mezclilla como para alguien mucho más alto que el portador. Sus tatuajes no podían distinguirse por la falta de iluminación. A simple vista parecían garabatos hechos por un niño de dos años con plumón permanente.
 
-“Al parecer este era “su bar” y había que pagar un impuesto en forma de una cerveza.”  
+El extraño tomó la cerveza de Leandro con la mano izquierda y le dio un sorbo. Suspiró como quien bebé del elixir de los dioses. El extraño inspeccionó con la mirada rápidamente la habitación y le aclaró la situación.
 
-“El extraño volvió a analizar la habitación antes de agradecerle con una sonrisa burlona y un un tono sarcástico a Leandro por haber pagado su tributo.”
+Al parecer este era “su bar” y había que pagar un impuesto en forma de una cerveza.  
 
-“Leandro le explicó al mesero que el no pagaría por esa cerveza. Que se la cobrara al extraño. El mesero se limitó a asentir con la cabeza.”
+El extraño volvió a analizar la habitación antes de agradecerle con una sonrisa burlona y un un tono sarcástico a Leandro por haber pagado su tributo.
+
+“Leandro le explicó al barman que el no pagaría por esa cerveza. Que se la cobrara al extraño. El barman se limitó a asentir con la cabeza.”
 
 “Una chispa se encendió, su cara se encandiló y su voz estalló. El extraño mo iba a dejar que Leandro se fuera sin pagar su tributo, era su bar y Leandro no tenía otra opción.”
 
