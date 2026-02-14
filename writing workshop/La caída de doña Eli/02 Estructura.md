@@ -1,5 +1,4 @@
 ## Primer ciclo
-
 Doña Eli sintió muchísimas ganas de orinar. Comenzó a masticar la dentadura que su hija le había mandado a hacer años atrás, pero que ya le quedaba guanga. Aguzó el oído y esperó. Nada. Gritó «¡Mago!»
 
 «Hmm... es de madrugada, vuélvete a dormir».
@@ -20,7 +19,7 @@ Se levantó, se agarró de las paredes del umbral del baño sin puerta. Dio el p
 
 Buscó a tientas el jabón con sus manos, a veces estaba en la jabonera izquierda, a veces en la derecha, otras veces junto a las llaves del grifo.
 
-Cuando terminó emprendió su trayecto de vuelta por la pared. Ropero, tocador, puerta, luego giro a la derecha, caminar de frente, girar a la izquierda. Al llegar a su destinó se acostó.
+Cuando terminó emprendió su trayecto de vuelta por la pared hasta llegar a su cama y se acostó.
 
 «uno, dos, tres... diez, once... Ay mamita, ¿por qué te comiste completita la cubeta de mango? Esa doña Julia sabía que eras diabética y cuanto te encantaba el mango Ataulfo... uno, dos, tres, cuatro».  
 
@@ -64,139 +63,84 @@ Escuchó el ruido de la llave girando y el chirrido de la puerta al abrirse. «Y
 
 «¿Lo hiciste? Hmm...» respondió doña Eli mientras se reía nerviosa.
 
----
+La musica se apago.
 
-Escuchó los pasos de Mago adentrarse en la habitación y la música de la radio apagarse. El ruido de las bolsas de plástico se oían cada vez más lejos, hasta que finalmente dejaron de escucharse.
+«Vamos a comer mami, que hasta me duele la cabeza del hambre»
 
-  
+Sus tacones se escuchaban cada vez más distantes.
 
-Se puso de nuevo de pie, el cuerpo le pesaba, giró a la derecha y siguió el contorno del sillón. Al llegar al borde giró a la derecha hasta llegar a la pared. Apoyó la mano en la pared y caminó hacía la izquierda. Sus dedos se deslizaban suavemente sobre una pared lisa que sin importar la hora del día se sentía fresca.
+Doña Eli se puso de pie y volvió a la pared. Sin importar la hora del día esta siempre estaba fresca. El cuerpo le pesaba y sus pies se arrastraban.
 
-  
+Unos segundos despues de sentarse sintió un plato aparecer frente a ella.
 
-Sintió el cambio de textura que anunciaba el umbral que llevaba a la cocina. Siguió andando hasta llegar a la siguiente parada: la puerta que daba a algún sitió. Era su señal para virar a la izquierda, caminar y llegar con la mesa de nuevo.
+«Te traje tamales de los que te gustan mami»  
 
-  
+«Ay, muchas gracias mija» respondió mientras pelaba el tamal. El olor a pollo y chipilin se hicieron presentes.
 
-Se sentó y comenzó a buscar con las manos las bolsas de la comida.
+Después de desayunar se acostó: «uno, dos, tres... ¿doce? trece... uno, dos, tres... ¿Qué habrá sido de mi tia Consuelo? Le encantaba sentarse en su mesedora ahi en la banqueta a contar los pajaros que pasaban... ¿o era a mi tia Juanita?...  ¿catorce? ¿o quince? uno, dos... tres...» 
 
-  
+Las ganas de orinar la sorprendieron de nuevo. «Pero si acabo de ir.»
 
-Sintió un plato aparecer frente a ella y comenzó a explorarlo. Sintió una superficie rectangular lisa, pero algo húmeda. «Te traje tamales mami» escuchó a Mago decirle con un alegre.
+Afinó el timpano y esperó. Ya no escuchaba a los pájaros ni el ruido de la maquina de la tortilleria. 
 
-  
+«¿Qué hora será vos?»
 
-«Ay, muchas gracias mija» respondió mientras pelaba el tamal.
+Fue hacia la pared y la recorrio por la derecha, al sentir los ladrillos dio media vuelta y al dar un segundo paso fue recibida con un impacto en la frente. Se sobó la frente con la palma de la mano.
 
-  
+Cuando el dolor cedio abrazo lo que parecia ser una pared interrumpida.
+> nota: como se describe un umbral? donde deberia haber una puerta pero no hay.
 
-Después de desayunar emprendió su camino hacía su habitación. Se levantó de la silla, giró a la derecha hasta llegar a la puerta. Volteó a su izquierda y siguió los barandales hasta que sus dedos dejaron de sentir el frio de los barrotes de metal y comenzaron a sentir la porosidad de del pilar de ladrillos que marcaban el inicio de su habitación.
+«hmm... que será esto?»
 
-  
+Dio marcha atras hasta volver a la pared y siguió su camino.
 
-Caminó hasta llegar a su siguiente destino. Viró a la izquierda, fue derecho hasta sentir a su costado izquierdo su cama. Se recostó y comenzó a contar con su dentadura: 1, 2, 3, 4, 5.
+«¿A donde llevará esta puerta?»
 
-  
+Continuó caminando y palpando.
 
-## Segundo ciclo  
+«hmm... que sucios estan los barrotes... ¿que hacen estos ladrillos aquí?... alá esta helada esta pared.»
 
-  
+Se detuvo, dio un giró y se alejo de la pared buscando el baño. Extendió los brazos hacía el frente y los movió de lado a lado haciendo haciendo semi arcos.
 
-> Objetivo: comienza la confusión, comienza a perderse, comienza a ya no encontrar las cosas que antes esperaba encontrar, comienzan los golpes, comienza el nerviosismo
+«¿Dónde esta ese pinche baño? Ya casi me hago encima»
 
-  
+Otro paso, otro golpe en la frente. Al mover los brazos de lado a lado sintió como estaban atrapados al nivel del codo.
 
-> Nota: contrastar cómo se sienten las paredes y las superficies cuando todavia hay claridad. Que las sensaciones cambien, que la certeza de "donde estoy y a donde lleva" se mantenga
-
-  
-
-«Que habría sido de mi Tía consuelo» dijo para sí misma, siguió contando: 1, 2, 3, 4, 5.
-
-  
-
-Las ganas de ir al baño hicieron que se levantara de nuevo. Emprendió el recorrido, un giró a la derecha, caminar de frente hasta topar con pared, luego otro giro a la derecha y seguir la pared. Sintió como la pared lisa se convertía en una pared áspera, luego en barrotes metálicos, ásperos de nuevo y lisos otra vez. Esa era su señal, si giraba a la derecha y caminaba de frente llegaría al lavabo del baño.
-
-  
-
-Caminó con las manos de frente agitandolas lentamente de lado a lado. Contaba cada paso con su dentadura: 1, 2, 3, 4, 5. Debía estar cerca. Dio un paso más y se detuvo en seco. Sintió un dolor intenso en su frente. Movió los brazos de lado a lado haciendo arcos mas largos y sintió como estaban atrapados al nivel del codo.
-
-  
-
-Retrajo los brazos hacía sí misma y con los brazos y comenzó a inspeccionar el objeto que había chocado. Era un barrote frio y metálico. Lo recorrió hacía arriba con sus manos y no consiguió llegar hasta el final.
-
-  
+Llevo los brazos cerca de sí misma y con las manos comenzó a inspeccionarlo. Estaba frio y hacia un tin-tin al golpearlo con la uña. Lo recorrió hacía arriba sin encontrarle fin.
 
 Comenzó a recorrerlo hacía abajo y llegó a una superficie plana hecha de material poroso, al desplazar sus dedos hacía la derecha notó que había una caída que terminaba eventualmente en otra superficie plana.
 
+«¿Qué madres hago en la escalera?»
+
+Dio media vuelta y busco sus manos. Las frotó «Ay dios mio...» Volvió a andar con los brazos extendidos haciendo arcos cada vez mas amplios.
   
+«¿Qué estas buscando mami?»
 
-Dio un paso para atrás y dio media vuelta «¿Dónde esta el pinche baño?» dijo mientras frotaba sus manos. Comenzó a andar buscando de nuevo la pared.
+«Ay... casi me hago encima Mago. Estoy buscando el baño» Volvió a frotarse las manos.
 
-  
+«Ahí no es, ven, te llevo» la tomó por la muñeca y la guió.
 
-«¿Qué estas buscando mami?» escuchó mientras daba un pequeño salto en su lugar.
+«Si quieres algo dímelo, me da miedo que te vayas a caer.»
 
-  
+«No estás todo el día, ni modos que te espere. Para cuando llegues ya voy a estar cagada encima.»
 
-«Estoy buscando el baño» le respondió con una mezcla de frustración y nerviosismo. Volvió a frotarse las manos.
+«No me voy por gusto mamá, tengo que trabajar. Estuve buscando quien te cuide, pero las muchachitas de aquí son bien huevonas, no quieren trabajar por menos de doscientos pesos al día y yo no cago dinero.»
 
-  
-
-«Ahí no es, ven, te llevo» le dijo mientras la tomaba de la muñeca y la conducía por la casa.
-
-  
-
-«Si quieres algo dímelo, me da miedo que te vayas a caer» le dijo Mago en tono de reclamo.
-
-  
-
-«No estás todo el día, ni modos que te espere. Para cuando llegues ya voy a estar toda cagada encima.» le contestó a la defensiva.
-
-  
-
-«No me voy por gusto mamá, tengo que trabajar. Estuve buscando quien te cuide, pero las muchachitas de aquí son bien huevonas, no quieren trabajar por menos de doscientos pesos el día y yo no cago dinero»
-
-  
-
-Después de ayudarla a ir al baño la ayudó a volver a su cama.
+Después de ir al baño Doña Eli volvió a su cama.
 
 «¿Qué hora es Mago?»
 
-  
+«Son las 5 de la tarde»
 
-«Son las 4 de la tarde»
+«Ála!... ya es la hora de la siesta.»
 
-  
+«Duérmete mami, yo estoy cansada y quiero dormir.»
 
-«A lá, ya es la hora de la siesta»
+«uno, dos, tres... Como me dio pena es vez que el capataz de la hacienda me regaño. Doña... ¿como se llamaba? ¿Mari?... Me había dicho que echara los huevos a una cubeta con agua para saber si estaban frescos o echados a perder. Tiré todos los que estaban en el fondo en lugar de tirar los que flotaban. 'Ay niña, tiraste los que estaban buenos!'... ¿once?... hmm... chingada madre... Mago!... Mago!... hmm...».
 
-  
-
-«Duérmete mami, yo estoy cansada y quiero dormir la siesta»
-
-  
-
-Doña Eli volvió a mascar su dentadura para intentar conciliar el sueño.
-
-  
-
-Doña Eli notó que la máquina de la tortillería había dejado de sonar hace rato, ya no se escuchaban los pasos de los vecinos por la ventana, era como si todo el mundo tomara una pausa, como si el mundo estuviera en silencio.
-
-  
-
-Doña Eli despertó, no sabía cuánto tiempo había dormido. No había distinción entre la hora de la siesta y la noche. 
-
-  
-
-## Tercer ciclo
-
-  
 
 > Objetivo: esta completamente perdida por la casa, termina en el patio, camina sin dirección por lo que parecen ser horas, la discusión con margarita
 
-  
-
-«Mago!» no hubo respuesta «hmm...».
 
 Doña Eli sintió ganas de ir al baño otra vez. Se incorporó de la cama otra vez. Giró a la derecha y comenzó a contar con su dentadura mientras agitaba en arcos pequeños sus brazos. Dio un paso y sintió las articulaciones de sus dedos doblarse hacía arriba y hacía atrás, había llegado a una pared lisa. Sintió dolor en sus dedos y al mismo tiempo alivio al tocar la fría pared con sus dedos lastimados.
 
