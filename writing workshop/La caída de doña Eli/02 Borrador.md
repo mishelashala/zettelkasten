@@ -1,46 +1,44 @@
-Doña Eli sintió muchísimas ganas de orinar. Comenzó a masticar la dentadura que su hija le había mandado a hacer años atrás, pero que ya le quedaba guanga. Aguzó el oído y esperó. Nada. 
+Doña Eli sintió muchísimas ganas de orinar. Aguzó el oído y esperó. Silencio. Inhaló profundamente. Nada. 
 
 —¡Mago!
 
 —Hmm... es de madrugada. ¡Vuélvete a dormir!.
 
-Doña Eli continuó mascando su dentadura.
+Mascó la dentadura guanga que su hija le había mandado a hacer años atrás.
 
-—Uno, dos, tres...—crujió la porcelana— diez... ¿Qué estará haciendo mi José Luis ahora mismo? ¡Cómo se le hacían sus hoyuelitos en sus cachetitos cuando sonreía mi bojudo! uno, dos, tres... diez, once... uno, dos tres.
+—Uno, dos, tres...—crujió la porcelana— diez... ¿Qué estará haciendo mi José Luis ahora mismo? ¡Cómo se le hacían sus hoyuelitos cuando sonreía mi bojudo! uno, dos, tres... diez, once... uno, dos tres.
 
-Las ganas de orinar volvieron con más fuerza. Se levantó de la cama y caminó hacia la pared, estiró los brazos hacía adelante y la encontró. La recorrió por la izquierda hasta sentir el tocador, luego el closet y finalmente el umbral del baño sin puerta.
+Las ganas de orinar volvieron. Se levantó, fue hacia la pared, estiró los brazos y la encontró. La recorrió por la izquierda hasta sentir el tocador, luego el closet y finalmente el umbral del baño sin puerta.
 
-—¿Qué estás buscando? Estás haciendo mucho ruido ¡quiero dormir! —escuchó mientras iba a medio camino.  
+—¿Qué estás buscando? Estás haciendo mucho ruido ¡quiero dormir!
 
-Al llegar, levantó de más el píe para lograr esquivar el pequeño escalón que siempre estaba ahí. 
+Levantó de más el píe para subir el escalón. 
 
-—Te vas a caer, ¡vuelve a la cama! —escuchó desde el baño.
+—Te vas a caer, ¡vuelve a la cama!
 
-Intentó pensar en otra cosa en lo que la porcelana de la taza se calentaba con el calor de su piel. Respiró alivio al sentir su vejiga vaciarse. Al concluir tomó el rollo de papel que siempre estaba colocado del lado derecho, se limpió, tiró el papel en el bote que estaba a su izquierda y jaló la palanca del escusado.  
+Pensó en otra cosa mientras la porcelana de la taza se calentaba con el calor de su piel. Vació su vejiga y respiró alivio. Tomó el rollo de papel que siempre estaba colocado del lado derecho, se limpió, lo tiró en el bote que estaba a su izquierda y jaló la palanca.  
 
-Se levantó y se agarró con ambas manos de las paredes del umbral del baño sin puerta. Dio el pasó un poco más profundo de lo normal para no irse de trompa al bajar el escalón. Caminó hasta sentir sus manos toparse con el lavabo de afuera. Buscó a tientas el jabón que a veces estaba en la jabonera izquierda, a veces en la derecha, y otras junto a las llaves del grifo. Cuando terminó, emprendió su trayecto de vuelta deslizándose por la pared hasta llegar a su cama. Volvió a mascar su dentadura.
+Se levantó y se agarró con ambas manos de las paredes del umbral del baño sin puerta. Dio un paso profundo al bajar el escalón. Topó con el lavabo de afuera. Buscó a tientas en la jabonera izquierda, luego en la derecha, lo encontró junto a las llaves del grifo. Se lavó y emprendió su trayecto de vuelta deslizándose por la pared hasta llegar a su cama. Mascó su dentadura.
 
-—Uno, dos, tres... diez, once... Ay, mi Jose, ¿por qué te fuiste? Genaro fue muy ingrato contigo, cuando te fuiste lloré amargamente…
+—Uno, dos, tres... diez, once... Ay, mi Jose, ¿por qué te fuiste? Tu padre fue muy ingrato contigo, cuando te fuiste lloré amargamente…
 
 —Buenos días mami.
 
- Escuchó a Mago levantarse de la cama e ir al baño para  lavarse los dientes. 
+Las chanclas de Mago se arrastraron hasta el baño. El grifo escupió un chorro y un cepillo raspó unas cuantas veces.
 
-Escuchó a su hija vestirse e irse de la habitación seguido de las bisagras de la puerta al abrirse. Una corriente de aire enfrió la habitación. Los pasos de Mago empezaban a difuminarse. Podía escuchar sus esfuerzos mientras la polea del pozo chirriaba. El sonido de un cubetazo de agua la tomó por sorpresa. La escuchó tallar a regaña dientes.
+Un cierre subió de golpe, las chanclas cruzaron la habitación y unas bisagras chillaron. Doña Eli tembló por la corriente de aire. Los pasos se apagaron en el patio. La polea del pozo chirrió con cada jalón. Un cubetazo estalló y Mago gruñó con cada tallada.
 
-Los pájaros comenzaron a hacer presencia poco a poco. Primero unos cuantos, luego toda la parvada. Ya había amanecido. 
+Los pájaros hicieron presencia poco a poco. Era de día. 
 
-Cuando la puerta volvió a cerrarse Doña Eli se incorporó de nuevo y emprendió su viaje. Llegó a la pared, tanteo hasta sentir la porosidad del pilar de ladrillos, siguió hasta llegar a la puerta que daba al patio. Dio vuelta  a la derecha y siguió de frente. Colocó sus manos a nivel de su cadera con las palmas viendo hacía enfrente para hallar la mesa. Se sentó en la silla que Mago siempre colocaba del lado izquierdo. El olor a café y a aceite caliente comenzó a inundar la habitación.
+La puerta se cerró detrás de los pasos de Mago. Doña Eli se incorporó y recorrió la pared. Sintió la porosidad del pilar de ladrillos, seguido del frío del metal de la puerta que daba al patio. Giró a la derecha y caminó con las manos a nivel de su cadera. Halló la mesa y se sentó en su silla. Brotó un olor a café mezclado con aceite caliente.
 
-Extendió los brazos con las palmas hacia abajo y los dedos subiendo y bajando como quien toca un piano. Encontró su vaso y con mucha más cautela procedió a tantear donde estaba la jarra con agua. Se sirvió un vaso y suspiró al sentir la resequedad de su garganta desvanecerse.
+Extendió los brazos con las palmas hacia abajo. Subió y bajó sus dedos como quien toca un piano. Encontró su vaso y con cautela buscó donde estaba la jarra con agua. Se sirvió un vaso y suspiró al sentir la resequedad de su garganta desvanecerse.
 
-  
+Cuando el desayuno estuvo listo Doña Eli regresó a la pared. Pasó por la puerta y los barrotes metálicos. Sintió la porosidad del segundo pilar de ladrillos que daba a la cocina.
 
-Doña Eli regresó a la pared. Caminó hasta palpar la puerta y pasar los barrotes metálicos. Sintió la porosidad del segundo pilar de ladrillos que anunciaban el umbral de la cocina sin puerta, luego una pared lisa.
+Llegó hasta el sillón de la sala y se sentó. Con suerte la saludaría la vecina que iba por las tortillas, o la que pasaba a dejar el lonche a su hijo.
 
-Después de caminar encontró el sillón de la sala y se sentó. Si tenía suerte, alguna vecina se pararía junto a la ventana a saludar, como la vecina que todos los días iba temprano a comprar la tortilla para el desayuno, o la que siempre pasaba a la la hora del receso a dejarle el lonche a su hijo.
-
-Escuchó el clin-clin metálico del llavero que su hija siempre llevaba colgado en su bolsa. 
+El clin-clin del llavero que su hija llevaba en su bolso se anunció desde el pasillo.
 
 —Ya son las 8 mami, ya me voy, te dejé el desayuno en la mesa, vuelvo a las 2 con la comida.
 
@@ -54,7 +52,9 @@ La radio comenzó a tocar una canción de banda. El ruido del seguro de la puert
 
 —¡Ála, ya es más de mediodía! Con razón tengo un hambre de perro.
 
-Doña Eli llevó sus brazos hacia atrás y se estiró para aliviar un poco el cansancio de su espalda. Escuchó el ruido de la llave girando y el chirrido de la puerta al abrirse. —Ya regresé mami.
+Llevó sus brazos hacia atrás y se estiró. El cansancio en su espalda menguó. La llave giró y la puerta chirrió.
+
+—Ya regresé mami.
 
 —Que bueno hija, ¿trajiste la comida? No he desayunado y estoy que me muero de hambre.
 
@@ -64,23 +64,37 @@ Doña Eli llevó sus brazos hacia atrás y se estiró para aliviar un poco el ca
 
 —Vamos a comer mami, que hasta me duele la cabeza del hambre—. Sus tacones se escuchaban cada vez más distantes.
 
-Doña Eli se puso de pie y volvió a la pared. Sin importar la hora del día siempre estaba fresca. El cuerpo le pesaba y sus pies se arrastraban. Unos segundos después de sentarse a la mesa sintió un plato aparecer frente a ella.
+Doña Eli fue a la pared. La pared estaba fresca, como siempre. Le pesaba el cuerpo. Sus pies se arrastraban. Se sentó a la mesa y un plato apareció frente a ella.
 
 —Te traje tamales, de los que te gustan.  
 
-—Ay, muchas gracias mija —respondió mientras lo pelaba con la punta de los dedos, como quien desenvuelve el listón de un moño. Después de desayunar se acostó.
+—Ay, muchas gracias mija—. Lo peló con la punta de los dedos, como quien desenvuelve el listón de un moño. Después de desayunar se acostó.
 
-Doña Eli parpadeó por reflejo, pero no notó ninguna diferencia. Aún no olía a desayuno ni se escuchaban los pájaros cantar, mucho menos el ruido de la máquina de la tortilleria. Lo único que llegaba a sus tímpanos eran los ronquidos de su hija.
+Doña Eli parpadeó por reflejo. No notó ninguna diferencia. Inspiró. No olía a desayuno. Esperó. Ya cantaban pájaros.
 
-—Uno, dos, tres... ¿doce? trece... uno, dos, tres... ¿Qué habrá sido de mi hijo? ¿Juan? No… Jose. Mi comadre dijo que lo había visto en el parque cuando fue de viaje a… ¿Coahuila? ¿Chihuahua?… ¿catorce? ¿o quince? uno, dos... tres...— Las ganas de orinar la sorprendieron de nuevo—. ¡Pero si acabo de ir!
+—¡Mago!
 
-Fue hacia la pared y la recorrió por la derecha, al sentir los ladrillos dio media vuelta y al dar un segundo paso fue recibida con un impacto en la frente. Se sobó con la palma de la mano.
+—¡Estoy en el patio!
 
-—Hmm... ¿Qué será esto?— Podía envolverlo con ambos brazos; se sentía como una pared interrumpida. Dio marcha atrás hasta volver a la pared y fue en dirección contraria. Encontró algo familiar: el tocador. Respiró aliviada. Siguió hasta encontrar el ropero.
+Un cubetazo estalló.
 
-Después de ir al baño caminó en dirección de lo que pensó que era la sala. 
+—Estoy lavando, ¿qué quieres?
 
-—¿A dónde llevará esta puerta?— Continuó caminando y palpando. Hizo una pausa y se alejó de la pared.
+La cuerda se tensó y la polea chirrió.
+
+—Uno, dos, tres... ¿doce? trece... uno, dos, tres... ¿Qué habrá sido de mi hijo? ¿Juan? No… Jose. Mi comadre dijo que lo había visto en el parque cuando fue de viaje a… ¿Coahuila? ¿Chihuahua?… ¿catorce? ¿o quince? uno, dos... tres.
+
+Las ganas de orinar regresaron.
+
+— ¡Pero si acabo de ir!
+
+Recorrió la pared por la derecha. Dio media vuelta al sentir la porosidad de los ladrillos. Al dar un segundo paso, su frente se estrelló contra la pared. Se sobó con la palma de la mano.
+
+—Hmm... ¿Qué será esto?— Lo envolvió con ambos brazos. Sintió una pared a medias. Dio marcha atrás hasta la pared y fue en dirección contraria. Encontró el tocador. Respiró.
+
+Después de ir al baño avanzó hacia lo que creía que era la sala.
+
+—¿A dónde llevará esta puerta?— Palpó. Se detuvo. Se alejó de la pared.
 
 —¿Dónde está ese pinche sillón?—. Otro paso, otro golpe en la frente. Sintió los brazos atrapados a nivel del codo. Sintió frío al tocarlo y oyó un tin-tin al golpearlo con la uña. Lo recorrió hacía arriba sin encontrarle fin.
 
@@ -88,7 +102,7 @@ Después de ir al baño caminó en dirección de lo que pensó que era la sala.�
 
 —¿Qué estás buscando mami?
 
-—Ay... casi me hago encima del susto Mago!. Estoy buscando la sala.— Volvió a frotarse las manos.
+—Ay... casi me hago encima del susto Mago!. Estoy buscando la sala.— Frotó sus manos.
 
 —Ahí no es, ven, te llevo. — la tomó por la muñeca y la guió.
 
@@ -96,7 +110,7 @@ Después de ir al baño caminó en dirección de lo que pensó que era la sala.�
 
 —No estás todo el día, ni modos que te espere. Para cuando llegues ya voy a estar toda cagada encima.
 
-—No me voy por gusto mamá... Estuve buscando quien te cuide, pero las muchachitas de aquí son bien huevonas, no quieren trabajar por menos de doscientos pesos al día.
+—No me voy por gusto mamá... Estoy buscando quien te cuide.
 
 Cuando se sentó en el sillón sintió una certeza absoluta de saber finalmente donde estaba.
 
@@ -106,17 +120,17 @@ Cuando se sentó en el sillón sintió una certeza absoluta de saber finalmente 
 
 —¡Ála!... ya casi es hora de que te vayas.
 
-—Por favor, no olvides tu desayuno. Te veo a las dos con la comida.— Oyó el cerrojo de la puerta cerrarse. Sintió la estela del perfume de su hija  desvanecerse lentamente.
+—Por favor, no olvides tu desayuno. Te veo a las dos con la comida.— Oyó el cerrojo de la puerta cerrarse. Sintió la estela del perfume de su hija  desvanecerse.
 
 —Uno, dos, tres… ¡La ca-cú! No me puso la ca-cú….
 
-  Se levantó y emprendió la búsqueda del radio. Margarita siempre la colocaba en una pequeña mesita cruzando la sala. Camino a tientas y cuando pensó estar cerca de la mesita se inclinó hacia ella. Volvió a erguirse y dio un par de pasos más. Se inclinó.
+  Se levantó y emprendió la búsqueda del radio. Margarita siempre la colocaba en una pequeña mesita cruzando la sala. Anduvo a tientas. Pensó estar cerca de la mesita y se inclinó hacia ella. Se irguió y dio un par de pasos más. Se inclinó.
 
-—¡Pa su mecha! ¿Me habrá movido la radio de lugar?— Se enderezó y comenzó a frotarse las manos. Dio media vuelta y caminó por lo que pensó que era el trayecto de vuelta. Sus pasos eran más pequeños de lo habitual.
+—¡Pa su mecha! ¿Me habrá movido la radio de lugar?— Se enderezó y frotó sus manos. Regresó por lo que pensó que era el trayecto de vuelta. Sus pasos eran más pequeños de lo habitual.
 
 Sus pies chocaron con la base del sillón.
 
-—Ah… aquí está, Dios Santo.— Se sentó agradecida de haberlo encontrado y se puso a escuchar por la ventana.
+—Ah… aquí está, Dios Santo.— Se sentó agradecida y aferró su cuerpo como quien sabe quien teme perder algo valioso. Escuchó por la ventana.
 
 Unos pasos se anunciaron frente a la puerta. La puerta protestó con un chirrido como quien hace su trabajo de mala gana.
 
@@ -130,20 +144,32 @@ Unos pasos se anunciaron frente a la puerta. La puerta protestó con un chirrido
 
 —Mañana sin falta te la pongo antes de irme, ahora vamos a almorzar que tuve un día largo.— Al terminar de almorzar Mago la llevó a descansar.
 
+Sus propios ronquidos la despertaron. Esperó. Los pájaros cantaban a la distancia. Inhaló. Trazas de café y aceite caliente.
+
+—¡Mago!
+
+Nada. Mascó.
+
 —Uno, dos… ¿Pedro?... uno, dos… Pedro, ¿por qué no has venido a verme?... tres, cuatro… Te fuiste a… ¿México?... y ya no supe nada... ¿once?... hmm... ¡Chingada madre!…
 
-Doña Eli sintió ganas de ir al baño otra vez.
+Sintió ganas de ir al baño.
 
-—¡Con una chingada!. Se paró de la cama y comenzó a buscar la pared. Siguió caminando hasta sentir la pared volverse áspera, se detuvo cuando dio con una puerta. Sintió una corriente de aire en los pies.
+—¡Con una chingada!
 
-Buscó el seguro y después de abrirla dio un paso y el suelo desapareció debajo de ella. Se sostuvo como pudo de la puerta. El aire se volvió frío.
+Fue a la pared. Al llegar el olor del desayuno se hizo presente. Siguió hasta sentir la pared volverse áspera, al dar con una puerta se detuvo. Sintió una corriente de aire en los pies.
 
-—¿Dónde está ese condenado lavabo?— Comenzó a dar pasos más cortos. Se desplazaba cada vez más lento. Los hombros comenzaron a arderle. Paró en seco y busco sus manos.
+Buscó el seguro y abrió la puerta. El sonido de los pajaros se hizo más fuerte. Al dar un paso casi cae. Había olvidado bajar el escalón.
 
-—¡Ay padre santo, ayúdame!— Gotas de sudor empezaron a recorrer desde su frente hasta el precipicio de su mentón. Podía sentir cómo se aferraban a ella antes de caer.
+Se sostuvo de la puerta y bajo como pudo. Avanzó y sintió el aire estrellarse contra su cuerpo. Se estremeció de frío y abrazó su propia humanidad.
 
-—¡Mago!... ¡Mago!... ¡Mago!... ¡Ay padre celestial!—Dobló sus rodillas y buscó debajo de ella con sus manos. Se enderezó antes de que sus rodillas se rindieran.
+Busco con los brazos estirados. Nada. Giro y sguio buscando. Solo encontro vacio. Siguio andando. No llego a ningun lado.
+
+—¿Dónde está ese condenado lavabo?— Daba pasos cada vez más cortos. Se desplazaba cada vez más lento. Sus hombros ardieron. Paró y junto sus manos.
+
+—¡Ay padre santo, ayúdame!— Gotas de sudor recorrieron desde su frente hasta el precipicio de su mentón. Sintió cómo se aferraban a ella.
+
+—¡Mago!... ¡Mago!... ¡Mago!... ¡Ay padre celestial!—Se agachó y buscó debajo de ella con sus manos. Sus piernas se volvieron de gelatina. Se enderezó antes de que sus rodillas se rindieran.
 
 —¿Dónde estás Mago? Ay madre santísima… ¡Maago! ¡¿Cómo dejas a tu madre sola?! ¡Comadre! ¡Comadre! ¡Ayuda!.
 
-Pateó algo. Se derramó agua. Se sostuvo de una cuerda. Esta cedió. Se fue de frente.
+Pateó algo y se derramó agua. Se sostuvo de una cuerda. Esta cedió. Se fue de frente.
