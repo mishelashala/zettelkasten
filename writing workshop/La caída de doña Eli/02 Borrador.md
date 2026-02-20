@@ -18,9 +18,7 @@ Levantó de más el píe para subir el escalón. 
 
 Pensó en otra cosa mientras la porcelana de la taza se calentaba con el calor de su piel. Vació su vejiga y respiró alivio. Tomó el rollo de papel que siempre estaba colocado del lado derecho, se limpió, lo tiró en el bote que estaba a su izquierda y jaló la palanca.  
 
-Se levantó y se agarró con ambas manos de las paredes del umbral del baño sin puerta. Dio un paso profundo al bajar el escalón. Topó con el lavabo de afuera. Buscó a tientas en la jabonera izquierda, luego en la derecha, lo encontró junto a las llaves del grifo. Se lavó y emprendió su trayecto de vuelta deslizándose por la pared hasta llegar a su cama. Mascó su dentadura.
-
-—Uno, dos, tres... diez, once... Ay, mi Jose, ¿por qué te fuiste? Tu padre fue muy ingrato contigo, cuando te fuiste lloré amargamente…
+Se levantó y se agarró con ambas manos de las paredes del umbral del baño sin puerta. Dio un paso profundo al bajar el escalón. Topó con el lavabo de afuera. Buscó a tientas en la jabonera izquierda, luego en la derecha, lo encontró junto a las llaves del grifo. Se lavó y emprendió su trayecto de vuelta deslizándose por la pared hasta llegar a su cama.
 
 —Buenos días mami.
 
@@ -69,6 +67,8 @@ Doña Eli fue a la pared. La pared estaba fresca, como siempre. Le pesaba el cue
 —Te traje tamales, de los que te gustan.  
 
 —Ay, muchas gracias mija—. Lo peló con la punta de los dedos, como quien desenvuelve el listón de un moño. Después de desayunar se acostó.
+
+***
 
 Doña Eli parpadeó por reflejo. No notó ninguna diferencia. Inspiró. No olía a desayuno. Esperó. Ya cantaban pájaros.
 
@@ -144,6 +144,8 @@ Unos pasos se anunciaron frente a la puerta. La puerta protestó con un chirrido
 
 —Mañana sin falta te la pongo antes de irme, ahora vamos a almorzar que tuve un día largo.— Al terminar de almorzar Mago la llevó a descansar.
 
+***
+
 Sus propios ronquidos la despertaron. Esperó. Los pájaros cantaban a la distancia. Inhaló. Trazas de café y aceite caliente.
 
 —¡Mago!
@@ -156,13 +158,11 @@ Sintió ganas de ir al baño.
 
 —¡Con una chingada!
 
-Fue a la pared. Al llegar el olor del desayuno se hizo presente. Siguió hasta sentir la pared volverse áspera, al dar con una puerta se detuvo. Sintió una corriente de aire en los pies.
+Se deslizó por la pared. La superficie se volvió áspera. Dio con la puerta y se detuvo. Sintió una corriente de aire en los pies.
 
-Buscó el seguro y abrió la puerta. El sonido de los pajaros se hizo más fuerte. Al dar un paso casi cae. Había olvidado bajar el escalón.
+Quitó el seguro y abrió la puerta. El sonido de los pájaros se hizo más fuerte. Al dar un paso casi cae. Había olvidado bajar el escalón.
 
-Se sostuvo de la puerta y bajo como pudo. Avanzó y sintió el aire estrellarse contra su cuerpo. Se estremeció de frío y abrazó su propia humanidad.
-
-Busco con los brazos estirados. Nada. Giro y sguio buscando. Solo encontro vacio. Siguio andando. No llego a ningun lado.
+Se sostuvo de la puerta y bajó como pudo. Dio un paso. El suelo áspero se aferró a sus pies. Una ráfaga de aire la empujó. Tambaleó. Se estremeció de frío y abrazó su propia humanidad. Busco con los brazos estirados. Nada. Giro y siguió buscando. Solo encontró vacío. Siguió andando. No llegó a ningún lado.
 
 —¿Dónde está ese condenado lavabo?— Daba pasos cada vez más cortos. Se desplazaba cada vez más lento. Sus hombros ardieron. Paró y junto sus manos.
 
@@ -170,6 +170,6 @@ Busco con los brazos estirados. Nada. Giro y sguio buscando. Solo encontro vacio
 
 —¡Mago!... ¡Mago!... ¡Mago!... ¡Ay padre celestial!—Se agachó y buscó debajo de ella con sus manos. Sus piernas se volvieron de gelatina. Se enderezó antes de que sus rodillas se rindieran.
 
-—¿Dónde estás Mago? Ay madre santísima… ¡Maago! ¡¿Cómo dejas a tu madre sola?! ¡Comadre! ¡Comadre! ¡Ayuda!.
+—¿Dónde estás Mago? ¡¿Cómo dejas a tu madre sola?! ¡Comadre! ¡Ayuda!.
 
-Pateó algo y se derramó agua. Se sostuvo de una cuerda. Esta cedió. Se fue de frente.
+Pateó algo y se derramó agua. Se sostuvo de una cuerda. Esta cedió y se fue de frente.
