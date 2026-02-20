@@ -130,9 +130,9 @@ Unos pasos se anunciaron frente a la puerta. La puerta protestó con un chirrido
 
 —Mañana sin falta te la pongo antes de irme, ahora vamos a almorzar que tuve un día largo.— Al terminar de almorzar Mago la llevó a descansar.
 
-Doña Eli sintió ganas de ir al baño otra vez.
-
 —Uno, dos… ¿Pedro?... uno, dos… Pedro, ¿por qué no has venido a verme?... tres, cuatro… Te fuiste a… ¿México?... y ya no supe nada... ¿once?... hmm... ¡Chingada madre!…
+
+Doña Eli sintió ganas de ir al baño otra vez.
 
 —¡Con una chingada!. Se paró de la cama y comenzó a buscar la pared. Siguió caminando hasta sentir la pared volverse áspera, se detuvo cuando dio con una puerta. Sintió una corriente de aire en los pies.
 
