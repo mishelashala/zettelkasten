@@ -1,107 +1,132 @@
-Ella entra a la habitación. Lo ve acostado en la cama, viendo su teléfono, sonriente, la luz ilumina su cara, la luz tarda un par de segundos en apagarse. El voltea a verla, reconoce su presencia con una mirada.
+Ella entra a la habitación. Lo ve acostado en la cama, viendo su teléfono, sonriente. Con su cara iluminada por la luz de la pantalla. El tarda un par de segundos darse cuenta de que está ahí. La pantalla se apaga y voltea a verla.
 
-“Tenemos que hablar”, dice ella
+—Tenemos que hablar— dice ella.
 
-El deja el celular boca abajo sobre la cama.  
-“Chingada madre, ¿ahora qué hice?”, dice él con enojo.  
-“Tu sabes que hiciste…”, dice ella. Sus hombros están tensos.  
-Los dos se están viendo.
+El deja el celular boca abajo sobre la cama. Su mano continua sobre el teléfono.
 
-“No vas a decir nada?”. Ella lo mira directo a los ojos.  
-“¿De qué?”, dice mientras encoje los hombros.  
-“Ya sabes de qué”, ella da un paso para adelante.  
-“¿Qué hay que decir?” Dice mientras desviador la mirada a la pared.  
-(No vamos a pasar por esto otra vez…)  
-“Pues no lo hagas…”, el se acuesta en la cama y le da la espalda abrazando la almohada.  
-(Primera función de la almohada: refugio pasivo. Puedes agregar algo mínimo como “se la acomoda contra el pecho”. No más.)
+—Chingada madre, ¿ahora qué hice?— dice con enojo.
 
-“Que no lo haga? Tu eres el que dijo que ni una mas”, ella continua parada. Aprieta los puños.  
-Silencio.  
-“Te estoy hablando”, she said. El voltea a verla, pero se mantiene acostado.  
-(Mantén que la almohada sigue entre ellos físicamente. Eso ya es distancia simbólica.)
+—Tu sabes que hiciste— dice ella.
 
-“¿Qué es lo que vamos a hacer?”, le dice despacio, enunciando cada palabra.  
-“¿Qué hay que hacer?”, dice el con tono de aburrimiento.  
-“¿Vamos a seguir el plan?”, ella comenzaba a desesperarse.  
-“Si quieres…”, dice el mientras sigue abrazando la almohada. Vuelve a darle la espalda.  
-(Aquí la almohada ya no es solo refugio: es barrera. Puedes insinuarlo con algo como “la sube un poco entre su cuerpo y ella”.)
+Él se yergue. Sus hombres se tensan. Los dos intercambian miradas.
 
-“No se trata de si quiero o no. Se trata de lo que hiciste”  
-“¿Qué fue lo que hice?”, el dice.  
-Ella se abalanza a la cama por el celular. Lo toma.
+—¿No vas a decir nada?
 
-“¿Qué te pasa?!” reclama el, “devuélveme mi teléfono”, dice el nervioso  
-(Aquí agrega la urgencia: que se incorpore demasiado rápido, que estire la mano instintivamente. Es el primer momento donde pierde control corporal.)
+Ella lo mira directo a los ojos. Su ceño se frunce. El espera un segundo antes de contestar.
 
-Ella regresa a su lugar junto a la cama. Se queda parada.  
-“Esto”, dice mostrando el teléfono.  
-(Aquí puedes hacer que ella lo mueva ligeramente. No mucho. Solo que cambie de ángulo.)
+—¿Sobre qué?— dice él finalmente. Se acomoda sobre la cama.
 
-El se sienta en la cama en posición de loto, pone la almohada entre sus piernas y sus manos sobre la almohada.  
-(La almohada ahora es escudo activo. Puedes marcar que la sostiene más firme que antes.)
+—Ya sabes de qué— dice ella y da un paso para adelante. Él se inclina un poco hacia atrás.
 
-“¿Y qué? ¿Qué diferencia hace?”, vuelve a encoger los hombros.  
-(En vez de hombros, mejor: sus ojos no están en ella. Están en el teléfono. Aquí cargas el simbolismo de obsesión visual.)
+—¿Qué hay que decir?— dice él y desvía la mirada a la pared.
 
-“¿Cómo que qué diferencia hace?”  
-“Ya pasamos por esto antes.”  
-No se atreve a mirarla a los ojos. Busca con los ojos cualquier cosa en la habitación…  
-(Excepto el teléfono. O mejor aún: solo mira el teléfono. Eso concentra la tensión.)
+—No vamos a pasar por esto otra vez— dice mientras da un paso hacia adelante.
 
-“¡Exacto! Y tú sigues haciendo lo mismo”, dice en tono de súplica.  
-Silencio.
+—Pues no lo hagas…— dice sin mirarla. Se acuesta en la cama. Abraza la almohada con su pecho y le da la espalda. El teléfono está sobre la cama. A un brazo de distancia de él.
 
-Ella comienza a sollozar.  
-El suspira. “Estoy cansado…”
+—¿Que no lo haga? Tú eres el que dijo que ni una más.
 
-(En este tramo no agregues más simbolismo. Aquí la almohada y el celular deben quedar en segundo plano para no saturar.)
+Ella no puede evitar levantar la voz. Aprieta los puños.
 
----
+—Te estoy hablando— dice ella.
 
-Cuando ella lo rechaza físicamente varias veces,  
-(Mantén que la almohada vuelve a aparecer cuando él retrocede. Cada vez que es rechazado, vuelve a su refugio. Esa repetición es progresión emocional.)
+El voltea la cabeza. Se mantiene acostado abrazando la almohada.
 
----
+—¿Qué es lo que vamos a hacer?— dice ella, despacio, enunciando cada palabra.
 
-“Si yo no puedo dormir tú tampoco, cabrón”, estalla ella.  
-El se da la vuelta de golpe…  
-(Aquí puedes hacer que por un segundo mire el celular si todavía está en su mano o cerca. Ese reflejo condiciona su ansiedad.)
+—¿Qué hay que hacer?— dice él. Se da media vuelta hacia ella. Se mantiene acostado.
 
----
+—¿Vamos a seguir el plan?— dice ella. Ella pone sus brazos en sus caderas.
+
+—Si quieres— dice él. El acomoda la almohada contra su cuerpo..
+
+—No se trata de si quiero o no. Se trata de lo que hiciste— dice ella.
+
+—¿Y qué fue lo que hice?— dice él.
+
+Ella se abalanza a la cama por el celular y lo toma.
+
+“¿Qué te pasa?!” reclama el mientras intenta alcanzarlo antes que ella, “devuélveme mi teléfono”, dice el nervioso.
+
+Al no poder alcanzarlo primero se conforma con sentarse en posición de loto en la cama. Sus hombros se tensan.
+
+Ella regresa a su lugar junto a la cama. Se queda parada.
+
+“Esto”, dice mostrando el teléfono. Ella lo agita en el aire. El no mantiene la mirada fija en el teléfono. Lo sigue con la mirada. Cuando la luz del teléfono se enciende el se inclina hacia adelante. 
+
+El pone la almohada entre sus piernas y sus manos sobre la almohada.
+
+“¿Y qué? ¿Qué diferencia hace?”, dice sin mirarla a ella. Su mirada sigue en el teléfono.
+
+“¿Cómo qué que diferencia hace?”, dice ella cruzando los brazos.
+
+“Ya pasamos por esto antes.”, dice él. No se atreve a mirarla a los ojos. Su atención está por completo en el teléfono. 
+
+“¡Exacto! Y tú sigues haciendo lo mismo”, dice en tono de súplica. Silencio.
+
+“Chingada madre”, grita mientras se incorpora.
+
+“¿Qué quieres de mí?” Dice el.
+
+“¡Que cumplas tu palabra!”, dice ella. 
+
+Ella le avienta el teléfono. El consigue usar la almohada como escudo. El teléfono cae a la cama. El mira el teléfono. Se inclina hacia el, pero se detiene y vuelve a su posición original.
+
+Ella comienza a sollozar. El decide mirarla a los ojos finalmente. 
+
+El suspira. “Estoy cansado…”. Ella lo mira con ganas de querer matarlo.
+
+“Podemos hablar de esto mañana? Quiero dormir”, dice el finalmente. 
+
+“Si yo no puedo dormir tú tampoco, cabrón”, estalla ella.
 
 “Me diste tu palabra…”  
 Silencio.
 
-El se acerca… se detiene a medio camino.  
-(Este es buen lugar para mostrar que no sabe si intentar recuperar el teléfono o abrazarla. Micro duda física.)
+El se acerca a ella… se detiene a medio camino. Voltea a ver su teléfono. Se inclina hacia el. Se detiene de nuevo. Vuelve a verla e intenta acercarse una vez más. 
 
----
+“Ya hemos pasado por esto antes…” dice el intentando acariciarla. 
 
-“Ya hemos pasado por esto antes…”  
-(En esta parte evita cargar símbolos. El peso es verbal.)
+Ella agita el brazo rechazándolo.
 
----
+“No me toques”, dice ella. 
 
-Ella suspira… Inclina la cabeza hacia atrás, mira el techo y cierra los ojos.  
-(Primera aparición del techo: resignación. No agregues más aquí.)
+Él la mira fijamente. Espera.
 
----
+“No puede esperar a mañana? Estoy cansado”, dice el. 
 
-“Mañana podemos hablar del tema…”  
-El toma su celular y lo guarda en su pantalón.  
-(Aquí sí carga el simbolismo: que no lo deje en la mesa. Que lo meta en el bolsillo con un gesto rápido, casi instintivo. Es territorio corporal. Protección interna.)
+“¿Tú crees que yo no estoy cansada? Estoy agotada, pero no puedo dormir”, ella dijo mientras lloraba 
 
-El vuelve a acostarse en posición fetal con la almohada entre las piernas.  
-(Última etapa de la almohada: regresión total. Aquí sí puedes marcar que la aprieta más fuerte que antes. Solo una vez.)
+El intenta abrazarla. Ella vuelve a rechazarlo. 
 
----
+“Te dije que no me toques cabrón”, le dice ella
 
-Se acuestan dándose la espalda.  
-Silencio. El espacio… abismo.
+Silencio. El no le quita la mirada.
 
-El ve la pared… se duerme casi inmediatamente.  
-(Antes de dormir puedes agregar un segundo donde abre ligeramente los ojos, como comprobando que ella ya no habla. Confirmación de victoria. Muy sutil.)
+“Ya hemos pasado por esto antes. Siempre es lo mismo. Peleamos y no pasa nada… todo sigue normal. No podemos simplemente dejar esto atrás y seguir adelante?”, dice el
 
-Ella… no puede dormir. Se pone boca arriba. Abre los ojos y se queda viendo el techo.  
-(Segunda aparición del techo: no resignación, sino lucidez. No expliques. Solo deja que el contraste con él dormido haga el trabajo.)
+“Quieres que pretenda que no hiciste ni madres?”, dice ella
 
+“No, lo que quiero es que lo hablemos mañana con más calma, ya que no estemos cansados”, dice él lentamente
+
+Ella suspira… Inclina la cabeza hacia atrás, mira el techo y cierra los ojos.
+
+“Te lo prometo”, dice él en voz baja
+
+Ella voltea a verlo. Sus miradas se encuentran. 
+
+“lo prometes?” Pregunta ella
+
+“Te lo prometo”, dijo él llevando su mano a su pecho
+
+“Está bien…” dice ella con voz cansada. 
+
+Él toma su celular. Se acuesta de su lado de su cama. Extiende la mano para dejar su teléfono en la mesa de noche. Se detiene. Lo guarda en el bolsillo de si piyama. Se acuesta dándole la espalda. 
+
+El vuelve a acomodar la almohada entre las piernas. La abraza con todas sus fuerzas.
+
+Ella se para de la cama. Arrastra los pies hasta la pared y apaga la luz del cuarto. Se acuesta dándole la espalda. Cierra los ojos.
+
+Él suspira tranquilo. Se detiene un momento. Cierra los ojos y vuelve a intentar dormir.
+
+Ella frunce el ceño. Ella da vueltas por la cama. Acomoda las sábanas. Acomoda su almohada. Se pone boca arriba. Abre los ojos y se queda viendo el techo.
