@@ -1,0 +1,225 @@
+Andrea Falcon, "Commentators on Aristotle," Stanford Encyclopedia of Philosophy, substantive revision November 3, 2025. https://plato.stanford.edu/entries/aristotle-commentators/
+
+## Bibliography
+
+The surviving ancient Greek commentaries on Aristotle are published in the series Commentaria in Aristotelem Graeca, H. Diels (ed.), Berlin: Reimer 1882–1909. These commentaries are being translated in the Ancient Commentators on Aristotle Project (General Editor: Richard Sorabji; Co-editor: M. Griffin; Associate Editors: Pieter Adamson, Richard McKirahan, John Sellars).
+
+Richard Sorabji has also produced a sourcebook in three volumes:
+- Sorabji, R., 2005, [[The Philosophy of the Commentators 200–600 AD. A Sourcebook. (Volume 1: Psychology; Volume 2: Physics; Volume 3: Logic and Metaphysics)]], London and Ithaca, NY: Duckworth, Cornell University Press.
+
+### A. Primary Sources
+- Alessandro di Afrodisia, [[Commento al De caelo di Aristotele. Frammenti del primo libro]], A. Rescigno (ed.), Amsterdam: Hakkert, 2004.
+- ———, [[Commento al De caelo di Aristotele. Frammenti del secondo]], terzo, e quarto libro, A. Rescigno (ed.), Amsterdam: Hakkert, 2008.
+- Alexander of Aphrodisias, [[On Aristotle Prior Analytics 1.1–7]], J. Barnes, S. Bobzien, K. Flannery, K. Ierodiakonou (trans.), London: Duckworth and Ithaca: Cornell University Press, 1991.
+- ———, [[On Aristotle Prior Analytics 1.8–13]], J. B. Gould, and I. Müller (trans.), London: Duckworth and Ithaca: Cornell University Press, 1999.
+- ———, [[On Aristotle Prior Analytics 1.14–22]], J. B. Gould, and I. Müller (trans.), Ithaca: Cornell University Press, 1999.
+- ———, [[On Aristotle Prior Analytics 1.23–31]], I. Müller (trans.), London: Duckworth and Ithaca: Cornell University Press, 2006.
+- ———, [[On Aristotle Prior Analytics 1.32–46]], I. Müller (trans.), London: Duckworth and Ithaca: Cornell University Press, 2006.
+- ———, [[On Aristotle Topics 1]], J. van Ophuijsen (trans.), London: Duckworth and Ithaca: Cornell University Press, 2001.
+- ———, [[On Aristotle Topics 2]], L. Castelli (trans.), London: Bloomsbury Publishing, 2020.
+- ———, [[On Aristotle Topics 3]], L. Castelli (trans.), London: Bloomsbury Publishing, 2021.
+- ———, [[On Aristotle On Coming-to-Be and Perishing 2.2–5]], E. Gannagé (trans.), Ithaca: Cornell University Press, 2005.
+- ———, [[On Aristotle Meteorology 4]], E. Lewis (trans.), London: Duckworth and Ithaca: Cornell University Press, 1996.
+- ———, [[On Aristotle Metaphysics 1]], W. E. Dooley (trans.), London: Duckworth and Ithaca: Cornell University Press, 1989.
+- ———, [[On Aristotle Metaphysics 2 and 3]], W. E. Dooley, and A. Madigan (trans.), Ithaca: Cornell University Press, 1992.
+- ———, [[On Aristotle Metaphysics 4]], A. Madigan (trans.), London: Duckworth and Ithaca: Cornell University Press, 1993.
+- ———, [[On Aristotle Metaphysics 5]], W. E. Dooley (trans.), London: Duckworth and Ithaca: Cornell University Press, 1993.
+- ———, [[On Aristotle On Sense Perception]], J. A. Towey (trans.), London: Duckworth and Ithaca: Cornell University Press, 2000.
+- ———, [[On Fate]], R. W. Sharples (ed.), London: Duckworth, 1983.
+- ———, [[On the Soul (Part 1)]], V. Caston (trans.), Bristol: Bristol Classical Press, 2012.
+- ———, [[The De anima of Alexander of Aphrodisias]], A. P. Fotinis (trans.), Washington, D.C.: University Press of America, 1979.
+- ———, [[Quaestiones 1.1–2.15]], R. W. Sharples (trans.), London: Duckworth and Ithaca: Cornell University Press, 1992.
+- ———, [[Quaestiones 1.16–3.15]], R. W. Sharples (trans.), London: Duckworth and Ithaca: Cornell University Press, 1994.
+- ———, [[Ethical Problems]], R. W. Sharples (trans.), London: Duckworth and Ithaca: Cornell University Press, 1990.
+- ———, [[Supplement to “On the Soul”]], R. W. Sharples (trans.), London: Duckworth and Ithaca: Cornell University Press, 2004.
+- ———, [[Le commentaire aux “Second Analytiques”]], P. Moraux (ed.), Berlin and New York: Walter de Gruyter, 1979.
+- ———, [[Commentaire perdu à la “Physique” d’Aristote (Livres IV–VIII)]], M. Rashed (ed.), Berlin and New York: Walter de Gruyter, 2011.
+- Alexander of Aphrodisias, [[On Aristotle Metaphysics 12]], F. Miller (trans.), London: Bloomsbury Publishing, 2021.
+- Ammonius, [[On Aristotle Categories]], S. M. Cohen, and G. B. Matthews (trans.), Ithaca: Cornell University Press, 1991.
+- ———, [[On Aristotle On Interpretation 1.1–8]], D. Blank (trans.), London: Duckworth and Ithaca: Cornell University Press, 1996.
+- ———, [[On Aristotle On Interpretation 9]], D. Blank (trans.), with Boethius, [[On Aristotle On Interpretation 9]], N. Kretzmann (trans.), London: Duckworth and Ithaca: Cornell University Press, 1998.
+- Aspasius, [[On Aristotle Nicomachean Ethics 1–4]], 7–8, D. Konstan (trans.), London: Duckworth and Ithaca: Cornell University Press, 2006.
+- Aspasius, Michael of Ephesus, Anonymous, [[On Aristotle Nicomachean Ethics 8–9]], D. Konstan (trans.), London: Duckworth and Ithaca: Cornell University Press, 2001.
+- Boethius, [[On Aristotle On Interpretation 1–3]], A. Smith (trans.), Bristol: Bristol Classical Press, 2010.
+- ———, [[On Aristotle On Interpretation 4–6]], A. Smith (trans.), Bristol: Bristol Classical Press, 2011.
+- Cicero, [[Lucullus]], in Cicero: On Academic Scepticism, C. Brittan (trans.), Indianapolis: Hackett Publishing Company, 2006.
+- Dexippus, [[On Aristotle’s Categories]], J. Dillon (trans.), London: Duckworth and Ithaca: Cornell University Press, 1990.
+- Galen, [[On My Own Books]], in C. Kühn (ed.), Galeni opera omnia (20 vols. in 22), Leipzig: C. Knoblauch, 1819–1833.
+- Marinus, [[Life of Proclus]], in Proclus ou sur le bonheur, H. D. Saffrey and A. P. Segonds (eds.), Paris: Les Belles Lettres, 2002.
+- Philodemus, [[History of the Academy]], in Filodemo, Storia dei filosofia. Platone e l’Accademia, T. Dorandi (ed.), Napoli: Bibliopolis, 1991.
+- Philoponus, [[On Aristotle’s Categories 1–5]], R. Sirkel, T. Tweedale, J. Harris (trans.), Bristol: Bristol Classical Press, 2015.
+- ———, [[On Aristotle’s Categories 6–15]], M. Share (trans.), London: Bloomsbury Publishing, 2019.
+- ———, [[On Aristotle Posterior Analytics 1.9–18]], R. McKirahan (trans.), Bristol: Bristol Classical Press, 2012.
+- ———, [[On Aristotle Posterior Analytics 1.19–34]], O. Goldin, M. Martijn (trans.), Bristol: Bristol Classical Press, 2012.
+- ———, [[On Aristotle On Coming-to-Be and Perishing 1.1–5]], C. J. F. Williams (trans.), Ithaca: Cornell University Press, 1999.
+- ———, [[On Aristotle On Coming-to-Be and Perishing 1.6–2.4]], C. J. F. Williams (trans.), Ithaca: Cornell University Press, 2000.
+- ———, [[On Aristotle On Coming-to-Be and Perishing 2.5–11]], I. Kupreeva (trans.), Ithaca: Cornell University Press, 2005.
+- ———, [[On Aristotle Meteorology 1.1–3]], I. Kupreeva (trans.), Bristol: Bristol Classical Press, 2011.
+- ———, [[On Aristotle Meteorology 1.4–9]], 12, I. Kupreeva (trans.), Bristol: Bristol Classical Press, 2012.
+- ———, [[On Aristotle Physics 1.1–3]], C. Osborne (trans.), London: Duckworth and Ithaca: Cornell University Press, 2006.
+- ———, [[On Aristotle Physics 1.4–9]], C. Osborne (trans.), London: Duckworth and Ithaca: Cornell University Press, 2006.
+- ———, [[On Aristotle Physics 2]], A. R. Lacey (trans.), London: Duckworth and Ithaca: Cornell University Press, 1993.
+- ———, [[On Aristotle Physics 3]], M. Edwards (trans.), London: Duckworth and Ithaca: Cornell University Press, 1994.
+- ———, [[On Aristotle Physics 4.1–5]], K. Algra, J. van Ophuijsen (trans.), Bristol: Bristol Classical Press, 2013.
+- ———, [[On Aristotle Physics 4.6–9]], P. Huby (trans.), Bristol: Bristol Classical Press, 2012.
+- ———, [[On Aristotle Physics 4.10–14]], S. Broadie (trans.), Bristol: Bristol Classical Press, 2011.
+- ———, [[On Aristotle Physics 5–8]], P. Lettinck (trans.), with Simplicius, [[On Aristotle on the Void]], J. O. Urmson (trans.), London: Duckworth and Ithaca: Cornell University Press, 1994.
+- ———, [[Corollaries on Place and Void]], D. Furley (trans.), with Simplicius, Against Philoponus On the Eternity of the World, Ch. Wildberg (trans.), London: Duckworth and Ithaca: Cornell University Press, 1991.
+- ———, [[On Aristotle On the Intellect]], W. Charlton, and F. Bossier (trans.), London: Duckworth and Ithaca: Cornell University Press, 1991.
+- ———, [[On Aristotle On the Soul 1.1–2]], Ph. van der Eijk (trans.), London: Duckworth and Ithaca: Cornell University Press, 2005.
+- ———, [[On Aristotle On the Soul 1.3–5]], Ph. van der Eijk (trans.), London: Duckworth and Ithaca: Cornell University Press, 2006.
+- ———, [[On Aristotle On the Soul 2.1–6]], W. Charlton (trans.), London: Duckworth and Ithaca: Cornell University Press, 2005.
+- ———, [[On Aristotle On the Soul 2.7–12]], W. Charlton (trans.), London: Duckworth and Ithaca: Cornell University Press, 2005.
+- ———, [[On Aristotle On the Soul 3.1–8]], W. Charlton (trans.), London: Duckworth and Ithaca: Cornell University Press, 2000.
+- ———, [[On Aristotle On the Soul 3.9–13]], W. Charlton (trans.), London: Duckworth and Ithaca: Cornell University Press, 2000.
+- Plutarch, [[Sulla]], in Plutarch, Vitae parallelae, K. Ziegler (ed.), Leipzig: Teubner, 1973.
+- Porphyre, [[Commentaire aux Catégories d’Aristote]], R. Bodéüs (ed.), Paris: Vrin, 2008. This is a new edition of the text with French translation and notes.
+- ———, [[On Aristotle’s Categories]], S. K. Strange (trans.), London: Duckworth and Ithaca: Cornell University Press, 1992.
+- ———, [[Introduction]], J. Barnes (trans.), Oxford: Oxford University Press, 2003.
+- Porphyry, [[Life of Plotinus]], in Plotini opera, P. Henry and H.-R. Schwyzer (eds.), Oxford: Oxford University Press, 1964–1982.
+- Porphyry, [[Ad Gedalium]], see Chiaradonna, Rashed, & Sedley 2013.
+- Ptolémée “al-Gharîb”, [[Épître à Gallus: sur la vie, le testament et les écrits d’Aristote]], M. Rashed (ed.), Paris: Les Belles Lettres, 2021.
+- Simplicius, [[On Aristotle’s Categories 1–4]], M. Chase (trans.), London: Duckworth and Ithaca: Cornell University Press, 2003.
+- ———, [[On Aristotle’s Categories 5–6]], Frans A. J. de Haas, and B. Fleet (trans.), London: Duckworth and Ithaca: Cornell University Press, 2001.
+- ———, [[On Aristotle’s Categories 7–8]], B. Fleet (trans.), London: Duckworth and Ithaca: Cornell University Press, 2002.
+- ———, [[On Aristotle’s Categories 9–15]], R. Gaskin (trans.), London: Duckworth and Ithaca: Cornell University Press, 2000.
+- ———, [[Commentaire sur les Catégories]], I: Introduction, Première partie, Ph. Hoffmann (trans.), I. Hadot (commentary), Leiden, New York, Cologne, Copenhagen: Brill, 1990.
+- ———, [[Commentaire sur les Catégories]], III: Préambule aux Catégories. Commentaire au premier chapitre des Catégories, Ph. Hoffmann (trans.), C. Luna (commentary), Leiden, New York, Cologne, Copenhagen: Brill, 1990.
+- ———, [[Commentaire sur les Catégories]], Chapitres 2–4, Ph. Hoffmann (trans.), C. Luna (commentary), Paris: Les Belles Lettres, 2001.
+- ———, [[On Aristotle Physics 1.3–4]], P. Huby and C. C. W. Taylor (trans.), Bristol: Bristol Classical Press, 2011.
+- ———, [[On Aristotle Physics 1.5–9]], H. Baltussen, M. Atkinson, M. Share, I. Mueller (trans.), Bristol: Bristol Classical Press, 2012.
+- ———, [[On Aristotle Physics 2]], B. Fleet (trans.), London: Duckworth and Ithaca: Cornell University Press, 1997.
+- ———, [[On Aristotle Physics 3]], J. O. Urmson and P. Lautner (trans.), London: Duckworth and Ithaca: Cornell University Press, 2001.
+- ———, [[On Aristotle Physics 4.1–5 and 10–14]], J. O. Urmson (trans.), Ithaca: Cornell University Press, 1992.
+- ———, [[On Aristotle Physics 5]], J. O. Urmson (trans.), London: Duckworth and Ithaca: Cornell University Press, 1997.
+- ———, [[On Aristotle Physics 6]], D. Konstan (trans.), London: Duckworth and Ithaca: Cornell University Press, 1989.
+- ———, [[On Aristotle Physics 7]], C. Hagen (trans.), London: Duckworth and Ithaca: Cornell University Press, 1994.
+- ———, [[On Aristotle Physics 8.1–5]], M. Share, I. Bodnár, M. Chase (trans.), Bristol: Bristol Classical Press, 2013.
+- ———, [[On Aristotle Physics 8.6–10]], R. McKirahan (trans.), London: Duckworth and Ithaca: Cornell University Press, 2001.
+- ———, [[Corollaries on Place and Time]], J. O. Urmson and L. Siorvanes (trans.), Ithaca: Cornell University Press, 1992.
+- ———, [[On Aristotle On the Heavens 1.1–4]], R. J. Hankinson (trans.), London: Duckworth and Ithaca: Cornell University Press, 2002.
+- ———, [[On Aristotle On the Heavens 1.2–3]], I. Müller (trans.), Bristol: Bristol Classical Press, 2010.
+- ———, [[On Aristotle On the Heavens 1.3–4]], I. Müller (trans.), Bristol: Bristol Classical Press, 2011.
+- ———, [[On Aristotle On the Heavens 1.5–9]], R. J. Hankinson (trans.), London: Duckworth and Ithaca: Cornell University Press, 2004.
+- ———, [[On Aristotle On the Heavens 1.10–12]], R. J. Hankinson (trans.), London: Duckworth and Ithaca: Cornell University Press, 2006.
+- ———, [[On Aristotle On the Heavens 2.1–9]], I. Müller (trans.), London: Duckworth and Ithaca: Cornell University Press, 2004.
+- ———, [[On Aristotle On the Heavens 2.10–14]], I. Müller (trans.), London: Duckworth and Ithaca: Cornell University Press, 2005.
+- ———, [[On Aristotle On the Heavens 3.1–7]], I. Müller (trans.), Bristol: Bristol Classical Press, 2009.
+- ———, [[On Aristotle On the Heavens 3.7–4.6]], I. Müller (trans.), Bristol: Bristol Classical Press, 2009.
+- Simplicius, [[On Aristotle’s On the Soul 1.1–2.4]], J. O. Urmson and P. Lautner (trans.), Ithaca: Cornell University Press, 1996.
+- ———, [[On Aristotle’s On the Soul 2.5–12]], C. Steel and C. J. O. Urmson (trans.), London: Duckworth and Ithaca: Cornell University Press, 1997.
+- ———, [[On Aristotle’s On the Soul 3.1–5]], H. J. Blumenthal (trans.), London: Duckworth and Ithaca: Cornell University Press, 1995.
+- ———, [[On Aristotle’s On the Soul 3.6–13]], C. Steel (trans.), Bristol: Bristol Classical Press, 2013.
+- Strabo, [[Geographika]], S. Radt (ed.), 10 vols., Göttingen: Vandenhoeck & Ruprecht, 2002–2010.
+- Syrianus, [[On Aristotle Metaphysics 3–4]], D. O’Meara and J. Dillon (trans.), London: Duckworth and Ithaca: Cornell University Press, 2008.
+- ———, [[On Aristotle Metaphysics 13–14]], D. O’Meara and J. Dillon (trans.), London: Duckworth and Ithaca: Cornell University Press, 2006.
+- Themistius, [[On Aristotle’s On the Soul]], R. B. Todd (trans.), London: Duckworth and Ithaca: Cornell University Press, 1996.
+- ———, [[On Aristotle Physics 1–3]], R. B. Todd (trans.), Bristol: Bristol Classical Press, 2011.
+- ———, [[On Aristotle Physics 4]], R. B. Todd (trans.), London: Duckworth and Ithaca: Cornell University Press, 2003.
+- ———, [[On Aristotle Physics 5–8]], R. B. Todd (trans.), London: Duckworth and Ithaca: Cornell University Press, 2008.
+- ———, [[On Aristotle Metaphysics 12]], Y. Mayrav (trans.), London: Bloomsbury Publishing, 2020.
+
+### B. Secondary Sources
+- Achard, M., Renaud, F. (eds.), 2008, [[Le commentaire philosophique (I)–(II)]], Laval théologique et philosophique, 63: 1 and 3.
+- Adamson, P., Baltussen, H., Stone, M. (eds.), 2004, [[Philosophy]], Science and Exegesis in Greek, Arabic and Latin Commentaries, Bulletin of the Institute of Classical Studies (Supplementary Volume) 83(1–2).
+- Alberti, A., Sharples, R. W. (eds.), 1999, [[Aspasius: the Earliest Extant Commentary on Aristotle’s Ethics]], Berlin and New York: De Gruyter.
+- Asztalos, M., 1993, “[[Boethius as a Transmitter of Greek Logic to the Latin West: The Categories]]”, Harvard Studies in Classical Philology, 95: 367–407.
+- Baltussen, H., 2007, “[[From Polemic to Exegesis: the Ancient Philosophical Commentary]]”, Poetics Today, 28: 247–289.
+- ———, 2008, [[Philosophy and Exegesis in Simplicius. The Method of a Commentator]], London: Duckworth.
+- ———, 2016, [[The Peripatetics: Aristotle’s Heirs 322 BCE–200 CE]], London and New York: Routledge.
+- Barnes, J., 1997, “[[Roman Aristotle]]”, in J. Barnes and M. Griffin (eds.), Philosophia Togata II, Oxford: Oxford University Press, pp. 1–67.
+- ———, 2005, “[[Les catégories et les Catégories]]”, in O. Bruun and L. Corti (eds.), Les Catégories et leur histoire, Paris: Vrin, pp. 11–80.
+- Blumenthal, H. J., 1987, “[[Alexander of Aphrodisias in the Later Greek Commentaries on Aristotle’s De anima]]”, in J. Wiesner (ed.), Aristoteles. Werk und Wirkung, volume 2, Berlin and New York: Walter de Gruyter, pp. 90–106.
+- ———, 1996, [[Aristotle and Neoplatonism in Late Antiquity: Interpretations of the De anima]], London: Duckworth.
+- Brockmann, Ch., Dikers, D., Valente, S. (eds.), 2024, [[Aristoteles-Kommentare und ihre Überlieferung: Wichtige Etappen von der Antike bis in die frühe Neuzeit]], Berlin and New York: Walter de Gruyter.
+- Brunn, O., Corti, L. (eds.), 2005, [[Les Catégories et leur histoire]], Paris: Vrin.
+- Celluprica, V., D’Ancona, C. (eds.), 2004, [[Aristotele e i suoi esegeti neoplatonici]], Naples: Bibliopolis.
+- Chiaradonna, R., 2011, “[[Interpretazione filosofia e ricezione del corpus. Il caso di Aristotele (100 a.C.–250 d.C.)”, Quaestio 11]], in L. Del Corso and P. Pecere (eds.), Il libro filosofico. Dall’antichità al XXI secolo – Philosophy and the Books. From Antiquity to the XXI Century, pp. 83–114.
+- ———, 2012, “[[Commento filosofico]]”, in P. D’Angelo (ed.), Forme letterarie della filosofia, Rome: Carocci, pp. 71–103.
+- Chiaradonna, R., Rashed, M., 2010, “[[Before and After the Commentators: an Exercise in Periodization]]”, Oxford Studies in Ancient Philosophy, 38: 250–297.
+- ———, 2020, [[Boéthos de Sidon: exégète et philosophe]], Berlin and New York: Walter de Gruyter.
+- Chiaradonna, R., Rashed, M., Sedley, D., 2012, “[[A Rediscovered ‘Categories’ Commentary]]”, Oxford Studies in Ancient Philosophy, 44: 129–194.
+- Coda, E., 2024, [[Themistius and Aristotle: Teaching Philosophy from Late Antiquity to the Middle Ages]], Turnhout: Brepols.
+- Coda, E., 2022, [[Pensiero divino anima umana. L’Aristotele di Temistio e la filosofia premoderna]], Pisa: Edizioni ETS.
+- Corcilius, K., 2024, “[[Die Psychologisierung von De Anima: Vermutungen über Aristoteles’ Wissenschaft vom Lebendigen]]”, in Ch. Brockmann, D. Dikers, S. Valente (eds.), Aristoteles-Kommentare und ihre Überlieferung: Wichtige Etappen von der Antike bis in die frühe Neuzeit, Berlin and New York: Walter de Gruyter, pp. 131–162.
+- D’Ancona, C. (ed.), 2007, [[The Libraries of the Neoplatonists]], Leiden, Boston, Cologne: Brill.
+- Dietze-Mager, G., 2015, “[[Die Pinakes des Andronikos im Licht der Vorrede in der Aristoteles-Schrift des Ptolomeios]]”, Aevum, 89(1): 93–123.
+- ———, 2015, “[[Aristoteles-Viten und -Schriftenkatalogen. Die Aristoteles-Schrift des Ptolemaios im Licht der Überlieferung]]”, Studi classici e orientali, 61: 97–166.
+- Donini, P. L., 1987, “[[Testi e commenti, manuali e commento: la forma sistematica e i metodi della filosofia in età post-ellenistica]]”, in H. Temporini and W. Haase (eds.), Aufstieg und Niedergang der römischen Welt, Volume 36, No. 7, Berlin and New York: Walter de Gruyter, pp. 5027–5094.
+- ———, 2010, [[Commentary and Tradition]], Berlin and New York: Walter de Gruyter.
+- Düring, I., 1957, [[Aristotle in the Ancient Biographical Tradition]], Göteborg: Almquist & Wiksell.
+- Ebbesen, S., 1987, “[[Boethius as an Aristotelian Commentator]]”, in J. Wiesner (ed.), Aristoteles: Werk und Wirkung, Volume 2, Berlin and New York: Walter de Gruyter, pp. 266–311.
+- Evangeliu, C., 1988, [[Aristotle’s Categories and Porphyry]], Leiden, New York, Cologne: Brill.
+- Falcon, A. (ed.), 2011, [[Aristotelianism in the First Century BCE. Xenarchus of Seleucia]], Cambridge: Cambridge University Press.
+- ———, 2016, [[Brill’s Companion to the Reception of Aristotle in Antiquity]], Leiden and Boston: Brill.
+- ———, 2017, [[Aristotelismo]], Turin: Einaudi.
+- ———, 2018, “[[The Early Reception of Aristotle’s Categories. Comments on M. Griffin, Aristotle’s Categories in the Early Roman Empire]]”, Documenti e studi sulla tradizione filosofica medievale, 29: 1–12.
+- ———, 2021, “[[The Reception of Aristotle’s Biology in Late Antiquity and Beyond]]”, in S. Connell (ed.), The Cambridge Companion to Aristotle’s Biology, Cambridge: Cambridge University Press, pp. 246–266.
+- Fazzo, S., 2004, “[[Aristotelianism as a Commentary Tradition]]”, in P. Adamson, H. Baltussen, M. Stone (eds.), Philosophy, Science and Exegesis in Greek, Arabic and Latin Commentaries, Bulletin of the Institute of Classical Studies (Supplementary Volume) 83(1): 1–19.
+- Geerlings, W., Schulze, Ch. (eds.), 2002, [[Der Kommentar in Antike und Mittelalter]], Leiden, Boston, Cologne: Brill.
+- Gibson, R. K., Shuttleworth Kraus, Ch. (eds.), 2002, [[The Classical Commentary: Histories]], Practices, Theory, Leiden, Boston, Cologne: Brill.
+- Golitsis, P., 2008, [[Les commentaires de Philopon et de Simplicius à la Physique d’Aristote]], Berlin and New York: Walter de Gruyter.
+- ———, 2016a, “[[John Philoponus’s Commentary on the Third Book of Aristotle’s De anima]]”, in R. Sorabji (ed.), [[Aristotle Re-interpreted: New Findings on Seven Hundred Years of the Ancient Commentators]], London: Bloomsbury Publishing, pp. 393–412.
+- ———, 2016b, “[[Who were the real authors of the Metaphysics commentary ascribed to Alexander and Pseudo-Alexander?]]”, in R. Sorabji (ed.), [[Aristotle Re-interpreted: New Findings on Seven Hundred Years of the Ancient Commentators]], London: Bloomsbury Publishing, pp. 565–587.
+- Golitisis, P., Ierodiakonou, K. (eds.), 2019, [[Aristotle and his Commentators]], Berlin and New York: Walter de Gruyter.
+- Gottschalk, H. B., 1987, “[[Aristotelian Philosophy in the Roman World from the Time of Cicero to the End of the Second Century AD]]”, in H. Temporini and W. Haase (eds.), Aufstieg und Niedergang der römischen Welt, Volume 36, Number 2, Berlin and New York: Walter de Gruyter, pp. 1079–1174.
+- ———, 1997, “[[Change and Continuity in Aristotelianism]]”, in R. Sorabji (ed.), Aristotle and After, Bulletin of the Institute of Classical Studies (Supplementary Volume) 68: 109–115.
+- Goulet-Cazé, M. O. (ed.), 2000, [[Le commentaire entre tradition et innovation]], Paris: Vrin.
+- Griffin, M., 2013, “[[Which Athenodorus commented on Aristotle’s Categories?]]”, Classical Quarterly, 62(1): 199–208.
+- ———, 2015, [[Aristotle’s Categories in the Early Roman Empire]], Oxford: Oxford University Press.
+- ———, 2020, “[[Articulating Preconceptions: A Reconsideration of Aristotle’s Categories in the Early Roman Empire]]”, Documenti e studi sulla tradizione medievale, 31: 1–37.
+- Hadot, I., 1991, “[[The Role of the Commentaries on Aristotle in the Teaching of Philosophy according to the Prefaces of the Neoplatonic Commentaries to the Categories]]”, in H. J. Blumenthal and H. Robinson (eds.), Aristotle and the Later Tradition, Oxford Studies in Ancient Philosophy (Supplementary Volume), Oxford: Clarendon Press, pp. 175–189.
+- ———, 2002, “[[Simplicius or Priscianus? On the author of the commentary on Aristotle’s De anima: a methodological study]]”, Mnemosyne, 55: 159–199.
+- ———, 2002, “[[Der fortlaufende philosophische Kommentar]]”, in W. Geerlings and Ch. Schulze (eds.), Der Kommentar in Antike und Mittelalter, Leiden, Boston, Cologne: Brill, pp. 183–199.
+- ———, 2014, [[Le néoplatonicien Simplicius à la lumière des recherches contemporaines. Un bilan critique]], Sankt Augustin: Akademia Verlag.
+- ———, 2015, [[The Harmonization of Aristotle and Plato at Alexandria and Athens]], Leiden and Boston: Brill.
+- Hadot, I. (ed.), 1997, [[Simplicius]], sa vie, son œuvre, sa survie, Berlin and New York: Walter de Gruyter.
+- Hadot, P., 1971, [[Marius Victorinus. Recherches sur sa vie et ses œuvres]], Paris: Études Augustiniennes.
+- Hatzimichali, M., 2013, “[[The Texts of Plato and Aristotle in the First Century BC]]”, in M. Schofield (ed.), Plato, Aristotle, Pythagoras in the First Century BC, Cambridge: Cambridge University Press, pp. 1–27.
+- ———, 2016, “[[Andronicus of Rhodes and the Construction of the Corpus Aristotelicum]]”, in A. Falcon (ed.), Brill’s Companion to the Reception of Aristotle in Antiquity, Leiden and Boston: Brill, pp. 81–100.
+- Hein, Ch., 1985, [[Definition und Einteilung der Philosophie: von der spätantiken Einleitungsliteratur zur arabischen Enzyklopädie]], Frankfurt am Main: Peter Lang.
+- Hoffmann, Ph., 1998, “[[La fonction des prologues exégétiques dans la pensée pédagogique néoplatonicienne]]”, in B. Roussel and J.-D. Dubois (eds.), Entrer en matière, Paris: CERF, pp. 209–245.
+- ———, 2006, “[[What was Commentary in Late Antiquity? The Example of the Late Neoplatonic Commentaries]]”, in M. L. Gill and P. Pellegrin (eds.), A Companion to Ancient Philosophy, London: Blackwell Publishing, pp. 597–622.
+- Karamanolis, G., 2004, “[[Porphyry: The First Platonist Commentator on Aristotle]]”, in P. Adamson, H. Baltussen, M. Stone (eds.), Philosophy, Science and Exegesis in Greek, Arabic and Latin Commentaries, Bulletin of the Institute of Classical Studies (Supplementary Volume) 83(1): 97–120.
+- ———, 2006, [[Plato and Aristotle in Agreement? Platonists on Aristotle from Antiochus to Porphyry]], Oxford: Oxford University Press.
+- Longo, A. (ed.), 2009, [[Syrianus et la métaphysique de l’antiquité tardive]], Naples: Bibliopolis.
+- Lynch, J. P., 1972, [[Aristotle School]], Berkeley and Los Angeles: University of California Press.
+- Luna, C., 2001, [[Trois études sur la tradition des commentaires anciens à la Métaphysique]], Leiden, Boston, Cologne: Brill.
+- Mansfeld, J., 1994, [[Prolegomena: Questions to be Settled before the Study of an Author]], or a Text, Leiden, Boston, Cologne: Brill.
+- Marenbon, J., 1993, “[[Medieval Latin Commentaries and Glosses on Aristotelian Logical Texts, Before c. 1150 AD]]”, in C. Burnett (ed.), Glosses and Commentaries on Aristotelian Logical Texts: The Syriac, Arabic, and Medieval Latin Traditions, London: The Warburg Institute, pp. 77–127; reprinted as chapter 2 in J. Marenbon, 2000, [[Aristotelian Logic]], Platonism and the Context of Early Medieval Philosophy in the West, Aldershot: Ashgate Publishing.
+- ———, 1997, “[[Glosses and Commentaries on the Categories and De Interpretatione before Abelard]]”, in J. Fried (ed.), Dialektik und Rhetorik im früheren und hohen Mittelalter, Munich, pp. 21–49; reprinted as chapter 9 in J. Marenbon, 2000, [[Aristotelian Logic]], Platonism, and the Context of Early Medieval Philosophy in the West, Aldershot: Ashgate Publishing.
+- Menn, S., 2018, “[[Andronicus and Boethus: Reflections on M. Griffin, Aristotle’s Categories in the Early Roman Empire]]”, Documenti e studi sulla tradizione filosofica medievale, 29: 13–43.
+- Merlan, P., 1967, “[[The Peripatos]]”, in A. H. Armstrong (ed.), The Cambridge History of Later Greek and Early Medieval Philosophy, Cambridge: Cambridge University Press, pp. 899–949.
+- Minio-Paluello, L., 1945, “[[The Text of the Categories: the Latin Tradition]]”, Classical Quarterly, 39: 63–74; reprinted in L. Minio-Paluello, 1972, [[Opuscula: The Latin Aristotle]], Amsterdam, pp. 28–39.
+- Most, G. W. (ed.), 1999, [[Commentaries-Kommentare]], Göttingen: Vandenhoeck & Ruprecht.
+- Moraux, P., 1942, [[Alexandre d’Aphrodise: exégète de la noétique d’Aristote]], Liège and Paris: Faculté des Lettres and E. Droz.
+- ———, 1973, [[Der Aristotelismus bei den Griechen]], volume 1: Die Renaissance des Aristotelismus im I. Jh. v. Chr., Berlin and New York: Walter de Gruyter.
+- ———, 1984, [[Der Aristotelismus bei den Griechen]], volume 2: Der Aristotelismus im I. und II. Jh. n. Chr., Berlin and New York: Walter de Gruyter.
+- ———, 1986, “[[Porphyre, commentateur de la Physique d’Aristote]]”, in Ch. Rutten and A. Motte (eds.), Aristotelica: Mélanges offert à Marcel Corte, Brussels: Ousia, pp. 327–344.
+- ———, 1986, “[[Les débuts de la philologie aristotélicienne]]”]], in G. Cambiano (ed.), Storiografia e dossografia nella filosofia antica, Turin: Tirrenia Stampatori, pp. 127–147.
+- ———, 2001, [[Der Aristotelismus bei den Griechen]], volume 3: Alexander von Aphrodisias, J. Wiesner (ed.), Berlin and New York: Walter de Gruyter.
+- Perkams, M., 2019, “[[The Date and Place of Andronicus’ Edition of Aristotle’s Works According to a Neglected Arabic Source]]”, Archiv für Geschichte der Philosophie, 101: 445–468.
+- Praetcher, K., 1906, “[[Commentaria in Aristotelem Graeca XXII 2]]”, Göttingische Gelehrte Anzeigen, 11: 861–907.
+- ———, 1909, “[[Die griechischen Aristoteleskommentare, Commentaria in Aristotelem Graeca]]”, Byzantinische Zeitschrift, 18: 516–538; reprinted in English translation in R. Sorabji (ed.), [[Aristotle Transformed: The Ancient Commentators and their Influence]], London: Duckworth, 1990, pp. 31–54.
+- Primavesi, O., 2007, “[[Ein Blick in den Stollen von Skepsis: vier Kapitel zur frühen Überlieferung des Corpus Aristotelicum]]”, Philologus, 151: 51–77.
+- ———, 2021, “[[Werk und Überlieferung]]”, in Ch. Rapp and K. Corcilius (eds.), Aristoteles Handbuch, Stuttgart: J. B. Metzler, 2nd augmented edition, pp. 67–74.
+- Rashed, M., 2007, [[Essentialisme: Alexandre d’Aphrodise entre logique]], physique et cosmologie, Berlin and New York: Walter de Gruyter.
+- ———, 2014, [[L’héritage aristotélicien. Textes inédits de l’antiquité]], Paris: Les Belles Lettres, 2nd augmented edition.
+- Reinhardt, T., 2007, “[[Andronicus of Rhodes and Boethus of Sidon on Aristotle’s Categories]]”, in R. Sorabji and R. W. Sharples (eds.), Greek and Roman Philosophy 100 BC–200 AD, London: Bulletin of the Institute of Classical Studies (Supplementary Volume 94), pp. 513–529.
+- Richard, M., 1950, “[[Apo phonês]]”, Byzantion, 20: 191–222.
+- Schofield, M., 2012, [[Plato]], Aristotle, and Pythagoras in the First Century B.C., Cambridge: Cambridge University Press.
+- Sellars, J., 2004, “[[The Aristotelian Commentators: A Biographical Guide]]”, in P. Adamson, H. Baltussen, M. Stone (eds.), Philosophy, Science and Exegesis in Greek, Arabic and Latin Commentaries, Bulletin of the Institute of Classical Studies (Supplementary Volume) 83(2): 239–268.
+- Sharples, R. W., 1987, “[[Alexander of Aphrodisias: Scholasticism and Innovation]]”, in H. Temporini and W. Haase (eds.), Aufstieg und Niedergang der römischen Welt, Volume 36, Number 2, Berlin and New York: Walter de Gruyter, pp. 1176–1243.
+- ———, 1997, “[[The Peripatetic School]]”, in D. J. Furley (ed.), Routledge History of Philosophy, volume 2: From Aristotle to Augustine, London: Routledge, pp. 147–187.
+- ———, 1998, “[[Alexander and pseudo-Alexander of Aphrodisias, scripta minima. Questions and problems, makeweights and prospects]]”, in W. Kullmann, J. Althoff, and M. Asper (eds.), Gattungen wissenschaftlicher Literatur in der Antike, Tübingen: Günter Narr Verlag, pp. 383–403.
+- ———, 2007, “[[Aristotle’s Exoteric and Esoteric Works: Summaries and Commentaries]]”, in R. Sorabji and R. W. Sharples (eds.), Greek and Roman Philosophy 100 BC–200 AD, London: University of London, Institute of Classical Studies, Supplementary Volume 94, pp. 505–512.
+- ———, 2008, “[[Habent sua fata libelli: Aristotle’s Categories in the 1st Century BC]]”, Acta Antiqua Hungarica, 48: 273–287.
+- ———, 2010, [[Peripatetic Philosophy, 200 B.C. to A.D. 200: An Introduction and Collection of Sources in Translation]], Cambridge: Cambridge University Press.
+- Shiel, J., 1990, “[[Boethius’ commentaries on Aristotle]]”, in R. Sorabji (ed.), [[Aristotle Transformed]], London: Duckworth and Ithaca: Cornell University Press, pp. 349–372.
+- Schroeder, F. M., Todd, R. B. (eds.), 1990, [[Two Greek Aristotelian Commentators on the Intellect]], Toronto: Pontifical Institute of Medieval Studies.
+- Solmsen, F., 1944, “[[Boethius and the History of the Organon]]”, American Journal of Philology, 65: 69–74.
+- Sorabji, R. (ed.), 1990, [[Aristotle Transformed: The Ancient Commentators and their Influence]], London: Duckworth.
+- ———, 2016, [[Aristotle Re-interpreted: New Findings on Seven Hundred Years of the Ancient Commentators]], London: Bloomsbury Publishing.
+- Tarán, L., 1981, “[[Aristotelianism in the 1st century BC]]”, Gnomon, 57: 721–750; reprinted in L. Tarán, 2001, [[Collected Papers]], Leiden, Boston, Cologne: Brill, pp. 479–524.
+- Tuominen, M., 2009, [[The Ancient Commentators on Plato and Aristotle]], Berkeley and Los Angeles: University of California Press.
+- Watts, E., 2006, [[City and School in Late Antiquity: Athens and Alexandria]], Berkeley and Los Angeles: University of California Press.

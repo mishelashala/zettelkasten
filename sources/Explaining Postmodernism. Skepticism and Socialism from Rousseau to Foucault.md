@@ -67,7 +67,8 @@
 - Gray, John. [[Enlightenment's Wake]]. London: Routledge, 1995.
 - Gray, John. [[Straw Dogs Thoughts on Humans and Other Animals]]. Granta, 2002.
 - Grey, Thomas. "[[Freestanding Legal Pragmatism]]." In Morris Dickstein, editor 1998, 254-274.
-- Gross, Paul R., and Levitt, Norman. Higher Superstition: The Academic Left and Guelke, Adrian. The Ast of Cerorism Hop thing triatony Political System. Lon-don: I. B. Tauris, 1995.
+- Gross, Paul R., and Levitt, Norman. [[Higher Superstition The Academic Left and Its Quarrels with Science]]. Johns Hopkins University Press, 1997.
+- Guelke, Adrian. [[The Age of Terrorism and the International Political System]]. London: I. B. Tauris, 1995.
 - Guelzo, Allen C. "The American Mind." Lecture 14 of [[American Romanticism]]. The Teaching Company, 2005.
 - Guyer, Paul, editor. [[The Cambridge Companion to Kant]]. Cambridge University Press, 1992.
 - Guyer, Paul. "Kant, Immanuel." In E. Craig, editor, Routledge Encyclopedia of Philosophy. London: Routledge, 2004. Retrieved January 03, 2011, from http://www.rep.routledge.com/article/DB047.
