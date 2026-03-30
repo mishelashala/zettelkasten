@@ -61,3 +61,4 @@ Su padre yacía en la cama, semi desnudo. Una sábana lo cubría. Junto a la ven
 Su padre temblaba. Intentaba hablar, pero solo llegaban a él murmullos a medias.
 
 Caminó hasta la ventana. La abrió de par en par. Apagó la calefacción. Arrastró la silla junto a la cama. Le arrebató la sabana. Se sentó a esperar.
+

@@ -1,69 +1,139 @@
-Él estaba sentado frente al escritorio. Su abogado buscaba el expediente en el archivero.
+El plato se estrelló contra el suelo. Las esquirlas blancas se esparcieron por la cocina.
+
+—¡¿Estás loca o qué te pasa?!
+
+Ella se llevó las manos a la cintura y permaneció inmóvil frente a él.
+
+—¡Quiero que te larges!—dijo señalando la puerta.
+
+—¡Esta también es mi casa!— dijo dando un paso hacia ella, echando los hombros hacia atrás.
+
+—¿Mamá? ¿Papá?—sonó desde la escalera.
+
+—¿Qué pasó mi amor?—preguntó ella.
+
+La pequeña asomó medio cuerpo tras la pared, abrazaba un oso de peluche rosa.
+
+Él carraspeó y se ajustó el pantalón en la cadera.
+
+—Estábamos guardando los platos limpios y se nos cayó uno, vuelve a la cama—dijo él.
+
+Los observó un par de segundos, luego desapareció detrás de la pared. Sus pasos resonaron hasta la cocina, luego el sonido de una puerta cerrándose con delicadeza.
+
+—¿Ves lo que pinches provocas?—dijo él.
+
+  
+
+El chirrido de un cajón metálico lo trajo de vuelta al despacho. Su mandíbula estaba tensa y los puños apretados. Sentado erguido frente al escritorio observó a su abogado en cuclillas buscar en el archivero.
 
 —El juez aceptará la rectificación del acta de nacimiento, déjeme encontrar el expediente.
 
-Estaba erguido, con los brazos sobre sus piernas y la mirada perdida.
+El abogado dio un tirón a otro de los cajones metálicos, los rieles chirriaron y las carpetas rebotaron unas contra otras. Un olor a polvo y hojas viejas inundó el despacho. 
 
-—Verá, lo que hice es simplemente argumentar que hubo un error administrativo.—dijo el abogado, mientras ponía el expediente sobre el escritorio.
+—Verá, lo que hice fue argumentar que hubo un error administrativo.
 
-«Quizá lo fue», pensó. Recordó las discusiones con su ex esposa, los gritos, los platos que se estrellaban en el suelo. Su mandíbula se tensó y apretó los puños.
+Recorrió las carpetas color beige con las puntas de los dedos.
 
-—Ella tiene dos actas de nacimiento, lo único que se está pidiendo es que se rectifique el error invalidando una.—dijo, mientras hojeaba el expediente.
+  
 
-Lo miraba pasar las páginas. Recordó el día que finalmente decidieron darle la noticia a su hija.
+Él y su ex esposa estaban de pie frente a su hija, en la sala del hogar que habían compartido los últimos doce años. La pequeña sentada sobre un sofá beige: primer mueble que habían comprado juntos.
 
-—Hija, ya eres una adulta. Tu papá y yo hemos tenido problemas desde hace mucho. Nos vamos a separar.
+—Hija, ya eres una adulta. Tu papá y yo hemos tenido problemas desde hace mucho.
 
-Cerró los ojos con fuerza, se quitó los lentes y se talló los ojos.
+La madre hizo una pausa y lo miró. Él simplemente agachó la mirada.
+
+—Nos vamos a separar.—continuó la madre
+
+La pequeña no dijo nada. Él dio un paso hacia adelante.
 
 —Seguiré visitándote, seguiremos hablando, seguiré siendo tu papá.
 
 —Claro que no. Tú ya no eres su papá—dijo mientras ponía su cuerpo entre él y su hija.
 
-Recordó como volteó a ver a su hija. Ella simplemente abrazó su cuerpo y esquivó su mirada.
+Él la hizo a un lado con su brazo para poder hacer contacto visual con su hija. Ésta simplemente abrazó su cuerpo y esquivó su mirada.
 
-Volvió a colocarse los lentes y carraspeó.
+  
 
-—Mire, aquí está—dijo el abogado, mientras giraba la carpeta y la ponía frente a él. Se inclinó y pretendió ojearlo.
+La carpeta hizo un sonido seco al caer sobre el escritorio de madera. Las hojas se desparramaron un poco sobre la superficie color caoba.
 
-Recordó cuando se mudó a otra casa. Las llamadas sin respuesta. Los mensajes en visto. Cómo intentó pedirle ayuda a su ex.
+—Ella tiene dos actas de nacimiento, lo único que se está pidiendo es que se rectifique el error invalidando una.—dijo, mientras abría la carpeta.
 
-—¿Y ahora qué quieres?
+El abogado pasaba páginas gigantes, llenas de sellos y firmas.
+
+  
+
+Sentado en el sillón tomó el celular, marcó el número de su hija y lo llevó al oído. Sonó una, dos, tres veces.
+
+—El número que usted marcó…
+
+Colgó y volvió a intentarlo. Buzón otra vez. Marcó una tercera vez. Buzón.
+
+Escribió “Respóndeme por favor" y presionó enviar. La palomita de recibido apareció y luego la de leído. Pasaron cinco minutos.
+
+Aventó el teléfono junto a él, se desparramó en el sillón y se quedó viendo el techo. Tomó el celular y marcó.
+
+—¿Y ahora qué quieres?—dijo su ex al teléfono
 
 —Por favor, haz algo. ¡Nuestra hija ya ni siquiera me contesta el teléfono!
 
 —Deja de estar chingando, ella ni siquiera es tu hija.
 
-Sintió un hueco en el pecho y paró de “leer”.
+Ella colgó y él sintió un hueco en el pecho.
 
-El abogado se reclinó en la silla y ésta chirrió.
+El ventilador traqueteaba, ráfagas de aire caliente rozaban su piel. Cerró los ojos con fuerza, se quitó los lentes y se talló la cara. 
+
+—Mire, aquí está—dijo el abogado, mientras giraba la carpeta y la ponía frente a él.
+
+Aclaró su garganta y se colocó los lentes. Se inclinó a hojearlo.
+
+  
+
+Caminaba de lado a lado por la sala con el teléfono en mano. Era la tercera vez que llamaba ese día. El tono se cortó.
+
+—¿Qué?—escuchó por el auricular.
+
+Se paró en seco y sus cejas se arquearon. Abrió la boca. No pudo articular ningún sonido.
+
+—¿Qué quieres?
+
+Sus manos temblaban. Tomó aire.
+
+—Quería saber cómo estás, hija
+
+—¿Para eso me marcaste? Déjame en paz, ni siquiera eres mi papá.
+
+Se quedó con el teléfono pegado al oído un par de segundos y lo guardó.
+
+  
+
+El abogado se reclinó en la silla y ésta chirrió. Paró de hojear el expediente y se acomodó en su silla.
 
 —La rectificación tomará un par de días después de presentarlo en el juzgado.
 
-Volteó a verlo y asintió con la cabeza.
+Lo miró y asintió con la cabeza.
 
-Recordó cuando su hija finalmente contestó el teléfono.
+  
 
-—¿Qué?—escuchó con un tono molesto
+Ellos estaban de pie frente al sillón, La pequeña abrazaba su oso de peluche.
 
-—Quería saber cómo estás hija
+—Hija, te tenemos una sorpresa
 
-—Déjame en paz, ni siquiera eres mi papá.
+—¿Qué es mamá?—dijo abrazando su oso con más fuerza
 
-Sintió un nudo en la garganta. Se acomodó en la silla y trató de ajustar su corbata. El clic de un bolígrafo irrumpió en sus oídos.
+—Tu papá y yo hemos estado pensando…
 
-—Ella volverá a apellidarse Gonzalez Rosas.—dijo el abogado, acercándole un bolígrafo.
+Hizo una pausa y ambos sonrieron.
 
-Recordó cuando le dieron la noticia a su hija, a los 6 años.
+—Y decidimos que era momento de hacerlo oficial—continuó él
 
-—Hija, te tenemos una sorpresa—le ella a la pequeña
+Él y su ex se miraron por un segundo, luego a la pequeña. Se tomaron de las manos.
 
-—¿Qué es mamá?
+—Tu papá firmó los papeles de adopción.
 
-—Tu papá y yo hemos estado pensando… y decidimos que era momento de hacerlo oficial. Tu papá firmó los papeles de adopción, oficialmente ahora te apellidas Ayala Rosas.
+Escuchó el clic de una pluma, suspiró y sonrió. Miró al abogado, este le acercó una pluma.
 
-Suspiró y sonrió.
+—Firme aquí y estará hecho—dijo, señalando una línea punteada.
 
-—Firme aquí y estará hecho—dijo, señalando una línea punteada con su nombre.
+Miró la línea un segundo.
 
 —Si dicen que no soy su padre.
