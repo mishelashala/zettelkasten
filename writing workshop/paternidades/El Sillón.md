@@ -1,3 +1,136 @@
+Kike tomó una pala, la enterró en la montaña de cemento fresco que lo aguardaba a un costado de la calle casi terminada, gruñó al levantarla y apretó el abdomen. «Usa el abdomen o te vas a chingar la espalda», le había aconsejado su maistro cuando aún era un aprendiz. Depositó el contenido en una carretilla desvencijada. Sintió la piel de su espalda y antebrazos arder, el sol de media mañana quemaba apesar de vestir una gruesa playera manga larga, que hace mucho tiempo era de color negro, frotó su manos contra sus antebrazos para aliviar el dolor, pero no supo si eso ayudaba en algo o solo lo empeoraba.
+
+Llevó la carretilla hasta la esquina por la banqueta, el enmallado del paño estaba listo para comenzar con el vaciado. Vio a Pepe parado junto al paño con una rastrillo en la mano, ambos se vieron, aún así Kike no pudo evitar chiflar para anunciar su presencia. Acercó la carretilla con un gesto juguetón, moviéndola de lado a lado como un niño jugando a las carreritas.
+
+—Una orden de cemento—dijo vertiendo el contenido.
+
+—Metele nitro papi, que sino no acabamos—dijo Pepe esparciendo el contenido con el rastrillo.
+
+—¡Apúrense muchachos!—gritó el capataz—¡Debimos terminar esto hace días!
+
+Kike hizo varios viajes hasta que el bloque de dos por dos estuvo lleno. Cuando terminó su playera estaba empapada en sudor, parecía haber recobrado el color que había perdido tiempo atrás. Recolectó el sudor de su frente con la mano, luego agitó la mano y las gotas volaron hacía el pavimento fresco.
+
+Se quedó parado en la banqueta, llevó sus manos a la cadera y observó con una amplia sonrisa la calle terminada. Dirigió la vista al cielo, las nubes parecían pinceladas blancas sobre un lienzo con una mezcla de naranja, azul y rosa. Un obrero le daba los últimos detalles al pavimento, este ponía una escoba sobre el pavimento fresco y lo arrastraba dejando surcos a su paso.
+
+Pepe se acercó a él, se vieron, ambos asintieron, cuando estuvo cerca ambos chocaron sus manos, Kike silvó.
+
+—Quedó bien chula, ¿verdad?—dijo Kike.
+
+—Simon carnal, ahora sí vamos a poder jugar fútbol como dios manda—dijo Pepe.
+
+—Le voy a comprar un par de tenis bien chingones a mi hijo para estrenarla.
+
+—A huevo—dijo asintiendo con la cabeza y una sonrisa.
+
+Kike se quitó la playera, la brisa de la tarde hacía que el sudor se enfriara. Tomó conciencia de su panza, la miró por un segundo, volteo a ver a Pepe, este seguía viendo la calle, descansó su mano derecha sobre su panza y suspiró dejando salir de su cuerpo el cansancio de un día de trabajo.
+
+—¡Vengan todos!—gritó el capataz.
+
+Los obreros formaron de a poco un circulo alrededor de este.
+
+—¡Muy bien hecho muchachos!—hizo una pausa—¡Terminamos a tiempo!
+
+Todos aplaudieron y vitorearon.
+
+—¿Y la paga?—dijo alguien los clamores se apagaron.
+
+—Con calma, con calma—dijo el capataz—Luis, aquí presente—dijo poniendo izquierda sobre el hombro del hombre a su lado—se va a encargar de pagarles. Por favor, vayan con el.
+
+Todos se amontonaron detrás de Luis.
+
+—¡Cámara, ven!—dijo Pepe dandole una palmada en la espalda.
+
+Ambos aprovecharon el caos para intentar colarse adelante en la fila.
+
+—¡Pinche Pepe! ¡No seas gandallas!—le gritó otro obrero al sentir un empujón y verlo colarse frente a él.
+
+Una cacofonía de silbidos y mentadas estalló.
+
+—¡Calmados muchachos!—gritó Luis—¡Todos van a recibir su pago! ¡Calmense, por favor!
+
+Todos hicieron silencio.
+
+—¡Hagan una fila, y respeten el lugar de los demás!
+
+Hicieron una fila como pudieron, Kike y Pepe se quedaron en el lugar que ya habían ganado. Esperaron hasta que fue su turno, recibieron el pago y se dirigieron a casa de Kike. Caminaron por la banqueta, doblaron a la derecha en la esquina, pasaron unas cuantas casas, él vivía justo en medio de la cuadra.
+
+Cuando llegaron se quedaron parados frente a la casa. Pasada la banqueta podía verse un mundo de chatarra desordenada en el patio delantero, un laberinto que había que cruzar cada vez que uno entraba o salía de la propiedad.
+
+—Aguantame, deja le doy el varo a mi vieja—dijo adentrándose en el laberinto.
+
+Pepe tomó asiento en la banqueta, silbó para matar el tiempo.
+
+Después de librar el laberinto Kike llegó a la lamina que hacía de puerta, cuando la habrió los alambres que fungian de bisagras crujieron. Al entrar reconoció el olor a tierra, cerró los ojos e inhalo un par de veces, cuando abrió los ojos vio a su esposa al final de la habitación, ella meneaba una cazuela con una cuchara de madera rota. Un segundo después el olor a avena llegó a él, su hijo jugaba en el piso junto a la ventana con un carrito de plástico al que le faltaba una llanta, estaba descalzo.
+
+Abrió su cartera, tomó unos billetes y caminó hacía su esposa.
+
+—Ya me pagaron—dijo con una sonrisa.
+
+Estiró la mano y su esposa se volteó hacia él, tomó los billetes y los contó.
+
+—¿Eso es todo?—dijo haciendo una mueca.
+
+Kike chistó. Apoyó la mano sobre la pared, los callos de su mano rozaron la pared de blocs de cemento, no sintió nada.
+
+—¿Pues cuanto más quieres? El resto es para los tenis del niño, para que pueda jugar fucho.
+
+—Aún hay que comprar jabón para trastes, cloro y detergente.
+
+—Ahí veo yo de dónde saco para lo demás.
+
+—No la chingues Kike, el nino ni camina—dijo señalando con la cuchara de madera que tenía en la mano.
+
+—No me discutas, es para sus tenis y punto—dijo alzando la voz.
+
+Su esposa se encogió de hombros y siguió meneando. La parilla, cazuela, y mesa se mecían de lado a lado con cada movimiento.
+
+Kike fue hasta su hijo, lo levanto en brazos, le hizo cosquillas y este rio.
+
+—Te voy a comprar unos tenis bien chingones, te lo prometo, es más, te lo juro.
+
+Dejó al niño junto a la ventana, salió, vio a Pepe sentado en la banqueta, cruzó el laberinto de nuevo, se anuncio con un silbido, Pepe volteo a verlo y Kike se sentó junto a el. Se quedaron sentados sintiendo la brisa de la tarde y viendo el atardecer.
+
+Después de un rato Kiko dijo:
+
+—¿Y ahora qué vas a hacer?
+
+—¿Hacer de qué o qué?—dijo Pepe
+
+—Ya terminamos la calle, ¿vas a buscar otra chamba?
+
+—¡Ora! No me desees el mal, aguantate a que el muerto esté frío al menos. Primero voy a disfrutar de mi lana, ya veré luego que hago. ¿Tu qué vas a hacer con tu lana?
+
+—La mitad para mi vieja, la otra para los tenis de mi hijo.
+
+—No mames Kike, todo el pinche tiempo estas chambeando, ¿y para que? ¿para que no disfrutes tu lana? ¡No mames! Ya ni los pinches esclavos.
+
+—Es bien fácil decirlo guey, tu no tienes vieja ni un hijo que alimentar.
+
+—Solo digo… deberías disfrutar aunque sea un poquito de tu lana.
+
+Se quedaron en silencio, vieron pasar un vecino frente a la casa, silbaron y el vecino les devolvió el saludo.
+
+—¿Y qué pedo? ¿Unas frías o qué?—dijo Pepe.
+
+—Si tu invitas sí.
+
+—Pos va. Vamos con doña Conchi, ya ves que don Neto es bien carero.
+
+Se levantaron, Pepe sacudió el polvo de su short, caminaron hasta la esquina, cuando llegaron a la calle recién pavimentada se detuvieron a contemplarla por unos segundos.
+
+—Chulada—dijo Kike tirando un beso tronado.
+
+—La neta carnal—dijo Pepe.
+
+Caminaron por la derecha hasta el final de la calle, pasaron la tienda de don Neto, estaba sentado en una pequeña silla de madera detrás de los barrotes de la puerta de su tienda, llegaron a la tiendita de doña Conchi. Compraron un par de misiles y unos chicharrones de esos que te raspan el paladar.
+
+  
+  
+
+Ya hacía mucho tiempo de eso. Les dieron trabajo, sí, pero solo por una temporada muy corta. En cuanto las calles estuvieron listas, hubo una celebración, cortaron el listón, tocaron música, los acarreados vitorearon y después de un par de horas todos los ajenos a la colonia se esfumaron. Él recibió su pago y volvió a ser lo que era antes de todo esto: desempleado.
+
+  
+
 Abrió los ojos, reconoció el techo de lámina, sintió la boca pegajosa y le llegó un tufo de alcohol barato: provenía de su boca. Se incorporó en el colchón café que solía ser blanco hace dos dueños atrás, los resortes chirriaron. Vio a su esposa y su hijo de un año junto a la ventana, el niño sentado con una sonaja rota,  la misma ropa de hace dos días y la cara sucia.
 
 —¿Y el desayuno?—dijo desde la cama
@@ -45,10 +178,6 @@ Su hijo sonrió y un par de hoyuelos aparecieron en sus mejillas, le acarició e
 —Ya no hay jabón—dijo sin voltear a verlo.
 
 Ella volvió su atención a la criatura, ya se había acabado la bolsa y tenía la cara manchada de naranja. Revisó su cartera, luego sus bolsillos y contó las monedas que aún le quedaban. Salió de la casa y caminó por las calles de la colonia, estaban llenas de baches.
-
-Recordó cuando llegó el representante del municipio, iban a pavimentar la calle y querían contratar a los albañiles de la colonia. Así no solo mejoran la calidad de vida de los residentes, sino que además tendrían un trabajo, o eso fue lo que dijo el representante.
-
-Ya hacía mucho tiempo de eso. Les dieron trabajo, sí, pero solo por una temporada muy corta. En cuanto las calles estuvieron listas, hubo una celebración, cortaron el listón, tocaron música, los acarreados vitorearon y después de un par de horas todos los ajenos a la colonia se esfumaron. Él recibió su pago y volvió a ser lo que era antes de todo esto: desempleado.
 
 Vio a un vecino sacar con dificultad un sillón verde con la tapicería llena de hoyos. Se acercó con prisa.
 
