@@ -3,70 +3,99 @@ Título Original: A History of Socialist Thought. Marxism and Anarchism, 1850-18
 
 ## Bibliography
 
-- Malon, Benoît, [[La Histoire du socialisme]]
-- Laidler, H. W., [[Social-Economic Movements]], 1944
-- Laidler, H. W., [[A History of Socialist Thought]], 1927
-- Laidler, H. W., [[Socialism in Thought and Action]] (1920).
-- Gray, Alexander. [[The Socialist Tradition. Moses to Lenin]] (1946)
-- É. Dolléans, [[Histoire du mouvement ouvrier, Vol. I]], 1936
-- É. Dolléans, [[]Histoire du mouvement ouvrier, Vol. II], 1939
-- Beer, Max. [[Allgemeine Geschichte des Sozialismus und der sozialen Kämpfe]] (revisado en 1929), trad. al inglés [[Socialism and Social Struggles (1922-1925)]]
-- Halévy, Élie. [[La Histoire du socialisme européen]]
-- Adler, G., [[Geschichte des Sozialismus und Kommunismus]] (1899)
-- Diehl, K., [[Über Sozialismus, Kommunismus und Anarchismus]] (1911)
-- Denis, H., [[Histoire des systèmes économiques et socialistes]] (2 vols., 1904-1907)
-- A. C. A. Compère-Morel, [[Grand Dictionnaire socialiste]] (1924),
-- A. C. A. Compère-Morel (ed.), [[Encyclopédie socialiste, syndicale et co-opérative de l'Internationale ouvrière]] (8 vols., 1912-1913)
-- W. D. P. Bliss, [[Handbook of Socialism]] (1895)
-- W. D. P. Bliss (ed.), [[Encyclopaedia of Social Reform]] (1985)
-- Sombart, W., [[Socialism and the Social Movement]] (1896) (trad. inglesa de la ed. revisada, 1909)
-- Pareto, V., [[Les Systèmes Socialistes]] (2 vols., 1902-1903)
-- Schäffle, A., [[The Quintessence of Socialism]] (1877; trad. inglesa, 1888)
-- Schäffle, A., [[The Impossibility of Social Democracy]] (trad. inglesa, 1892);
-- P. Leroy-Beaulieu, [[Collectivism]] (trad. inglesa, 1908)
-- R. Flint, [[Socialism (1894)]];
-- T. Kirkup, [[History of Socialism]] (1892; revisada por E. R. Pease, 1913)
-- J. Rae, [[Contemporary Socialism]] (1884)
-- É. de Laveleye, [[The Socialism of Today]] (trad. inglesa con un apéndice sobre el socialismo en Inglaterra de G. H. Orpen, 1884)
-- Engles & Marx, [[Revolución y contrarrevolución en Alemania]], 1851 en el _New York Daily Tribune_ (1896)
-- [[Las luchas de clases en Francia, 1848-1850]], 1850 en _Neue Rheinische Zeitung_,
-- Weydemeyer, J., [[El dieciocho brumario de Luis Bonaparte]], 1852 en _Die Revolution_, Nueva York
-- Marx, Karl. [[Erklärungen und Schriften zum Kölner Kommunistenprozess]], 1851-2
-- Burns, Emilie, [[Handbook of Marxism]], (1935)
-- Poutras, C. H., [[Démocraties et capitalisme]], 1848-60, en la serie _Peuples et civilisations_
-- Plamenatz, J. P., [[The Revolutionary Movement in France, 1815-71]] (1952)
-- Fisher, H. A. L., [[The Republican Tradition in Europe]] (1911)
-- Dolléans, É., [[Histoire du mouvement ouvrier, vol. I]] (1936)
-- Mehring, F., [[Geschichte der deutschen Sozialdemokratie]] (1897-1898; ed. revisada, 1922)
-- Cole, G. D. H., [[Chartist Portraits]] (1941)
-- Slosson, P. W., [[The Decline of Chartism]] (1916)
-- Maccoby, S., [[English Radicalism, 1832-1852]] (1935)
-- Maccoby, S., [[English Radicalism, 1853-18886]]
-- Rothstein, T., [[From Chartism to Labourism]] (1929)
-- Raven, C. E., [[Christian Socialism, 1848-1854]] (1920)
-- Jones, Benjamin. [[Co-operative Production]] (2 vols., 1894)
-- Nitti, F. S., [[Catholic Socialism]] (1895)
-- Moon, P. T., [[The Labor Problem and the Catholic Social Movement in France]] (1921)
-- Robert, Charles. [[Biographie d'un homme utile]] (1878)
-- Leclaire, [[De la Misère et des moyens à employer pour la faire cesser]] (1850)
--  Gaumont, J., [[Histoire générale de la coopération en France]] (1923-1924)
-- Prudhommeaux, D. F., [[Twenty-eight Years of Co-partnership at Guise]] (ed. revisada, 1908)
-- Honegger, H., [[Godin und das Familistère von Guise]] (1919)
-- Fay, C. R., [[Co-operation at Home and Abroad, vol. I]] (1908)
-- Godin, [[Solutions sociales]] (1871)
-- Godin, [[La Richesse au service du peuple]] (1874)
-- Godin, [[Le Gouvernement]] (1883)
-- Godin, [[Mutualité sociale et association du capital et du travail]] (1891)
-- Godin, [[The Association of Capital with Labor]], New York, 1881
-- Gonner, E. C. K., [[The Social Philosophy of Rodbertus]] (1899)
-- Dietzel, H., [[Karl Rodbertus]] (2 vols., 1886-1888)
-- Jentsch, E. G., [[Rodbertus]] (1899)
-- Adler, G., [[Rodbertus, der Begründer des wissenschaftlichen Socialismus]] (1884)
-- Rodbertus, [[Sociale Briefe an von Kirchmann]] (1850-1851), 
-- Rodbertus, [[Overproduction and Crises]] (1898)
-- Rodbertus, [[Neue Briefe über Grundrente, Rentenprinzip und sociale Frage]] (ed. de R. Michels, 1926).
-- Allix, E., [[L'uvre économique de Karl Marlo]] (1898)
-- Biermann, W. E., [[Karl Georg Winkelblech]] (1909)
-- Schäffle, A. E. F., [[Kapitalismus und Socialismus]] (1870)
-- Rae, J., [[Contemporary Socialism]] (1884)
-- Marlo, [[Untersuchungen über die Organisation der Arbeit]] (3 vols., 1848-1859)
+- Malon, Benoît, [[Histoire du socialisme]], 5 vols., 1882-1885
+- Laidler, Harry W., [[Social-Economic Movements]], 1944
+- Laidler, Harry W., [[A History of Socialist Thought]], 1927
+- Laidler, Harry W., [[Socialism in Thought and Action]], 1920
+- Gray, Alexander, [[The Socialist Tradition: Moses to Lenin]], 1946
+- Dolléans, Édouard, [[Histoire du mouvement ouvrier, Vol. I (1830-1871)]], 1936
+- Dolléans, Édouard, [[Histoire du mouvement ouvrier, Vol. II (1871-1936)]], 1939
+- Beer, Max, [[Allgemeine Geschichte des Sozialismus und der sozialen Kämpfe]], rev. 1929
+- Beer, Max, [[Socialism and Social Struggles]], trad. inglesa, 5 vols., 1922-1925, Original: [[Allgemeine Geschichte des Sozialismus und der sozialen Kämpfe]]
+- Halévy, Élie, [[Histoire du socialisme européen]]
+- Adler, Georg, [[Geschichte des Sozialismus und Kommunismus]], 1899
+- Diehl, Karl, [[Über Sozialismus, Kommunismus und Anarchismus]], 1911
+- Denis, Henri, [[Histoire des systèmes économiques et socialistes]], 2 vols., 1904-1907
+- Compère-Morel, Adéodat, [[Grand Dictionnaire Socialiste]], 1924
+- Compère-Morel, Adéodat (ed.), [[Encyclopédie socialiste, syndicale et coopérative de l'Internationale ouvrière]], 8 vols., 1912-1913
+- Bliss, William Dwight Porter (ed.), [[Encyclopaedia of Social Reform]], 1895
+- Sombart, Werner, [[Socialism and the Social Movement]], trad. inglesa de la edición revisada de 1909, Original: [[Sozialismus und soziale Bewegung]]
+- Pareto, Vilfredo, [[Les Systèmes Socialistes]], 2 vols., 1902-1903
+- Schäffle, Albert Eberhard Friedrich, [[The Quintessence of Socialism]], trad. inglesa, 1888, Original: [[Quintessenz des Sozialismus]], 1877
+- Schäffle, Albert Eberhard Friedrich, [[The Impossibility of Social Democracy]], trad. inglesa, 1892
+- Leroy-Beaulieu, Paul, [[Collectivism]], trad. inglesa, 1908
+- Flint, Robert, [[Socialism]], 1894
+- Kirkup, Thomas, [[History of Socialism]], 1892
+- Kirkup, Thomas, [[History of Socialism]], rev. Edward R. Pease, 1913
+- Rae, John, [[Contemporary Socialism]], 1884
+- Laveleye, Émile de, [[The Socialism of To-day]], trad. inglesa, 1884
+- Marx, Karl, [[Las luchas de clases en Francia, 1848-1850]], 1850, Original: [[Die Klassenkämpfe in Frankreich 1848 bis 1850]]
+- Marx, Karl, [[El dieciocho brumario de Luis Bonaparte]], 1852, Original: [[Der achtzehnte Brumaire des Louis Bonaparte]]
+- Engels, Friedrich, [[Revolución y contrarrevolución en Alemania]], 1851, Original: [[Revolution and Counter-Revolution in Germany]]
+- Marx, Karl, [[Enthüllungen über den Kommunisten-Prozess zu Köln]], Basilea, 1853
+- Marx, Karl, [[Alocución a la Liga de los Comunistas]], 1850
+- Herzen, Aleksandr, [[My Past and Thoughts]], 1924-1927
+- Herzen, Aleksandr, [[Letter to Michelet on the Russian People and Socialism]], 1855
+- Herzen, Aleksandr, [[Cartas desde Italia y Francia]], 1871, Original: [[Lettres de France et d'Italie]]
+- Herzen, Aleksandr, [[Desde la otra orilla]], 1850, Original: [[С того берега]]
+- Herzen, Aleksandr, [[La Russie]], 1849
+- Herzen, Aleksandr, [[Lettre d'un Russe à Mazzini]], 1850
+- Herzen, Aleksandr, [[Du développement des idées révolutionnaires en Russie]], 1851
+- Herzen, Aleksandr, [[¿Quién tiene la culpa?]], 1847, Original: [[Кто виноват?]]
+- Carr, Edward Hallett, [[The Romantic Exiles]], 1933
+- Labry, Raoul, [[Alexandre Ivanovitch Herzen]], 1928
+- Plekhanov, Georgi V., [[N. G. Tschernischewsky]], Stuttgart, 1894
+- Steklov, Yuri, [[N. Tschernischewsky, ein Lebensbild]], 1913
+- Chernyshevsky, Nikolái, [[Select Philosophical Essays]], 1953
+- Chernyshevsky, Nikolái, [[L'Économie politique jugée par la science]], trad. francesa, Bruselas, 1874
+- Chernyshevsky, Nikolái, [[La possession communale du sol]], París, 1903
+- Chernyshevsky, Nikolái, [[Letters sans adresse]], Lieja, 1874
+- Lavrov, Piotr, [[Cartas históricas]], trad. alemana, 1901; trad. francesa, 1903, Original: [[Исторические письма]]
+- Lavrov, Piotr, [[Un ensayo acerca de la historia del pensamiento moderno]], Ginebra, 1888-1894
+- Lavrov, Piotr, [[Los problemas del conocimiento histórico]], Moscú, 1898
+- Bertrand, Louis, [[Histoire de la démocratie et du socialisme en Belgique depuis 1830]], 2 vols., 1906-1907
+- Bertrand, Louis, [[Histoire de la coopération en Belgique]], 2 vols., 1903
+- Bertrand, Louis, [[La Belgique en 1866]], 1880
+- Bertrand, Louis, [[La Belgique économique, sociale et financière de 1830 à 1900]]
+- Bertrand, Louis, [[Souvenirs d'un meneur socialiste]], 1927
+- Destrée, Jules; Vandervelde, Émile, [[Histoire du socialisme en Belgique]], 1898
+- Malon, Benoît, [[Histoire du socialisme]], Vol. II, capítulo sobre Colins
+- Malon, Benoît, [[Histoire du socialisme]], Vol. IV, capítulos sobre Kats y De Keyser
+- Colins, Jean Guillaume César Alexandre Hippolyte, [[Socialisme rationnel]], 3 vols., 1851
+- Colins, Jean Guillaume César Alexandre Hippolyte, [[Qu'est-ce que la science sociale?]], 4 vols., 1851-1854
+- Colins, Jean Guillaume César Alexandre Hippolyte, [[De la justice dans la science, hors l'Église et hors la Révolution]], 3 vols., 1860
+- Colins, Jean Guillaume César Alexandre Hippolyte, [[La Science sociale]], 15 vols., 1857-1896
+- Hugentobler, A., [[L'Extinction du paupérisme]], 1867
+- Parent, G., [[Le Socialisme de Colins]], 1912
+- Kats, Jacob, [[Het boek des volks]], 1840
+- Kats, Jacob, [[Werk en kapitaal]], 1872
+- Kats, Jacob, [[La Situation de l'ouvrier]], 1864
+- Kuypers, Julius, [[Biografía de Jacob Kats]], 1930
+- De Keyser, Jan Baptist, [[Het natuur in regt]], 1854
+- De Keyser, Jan Baptist, [[L'Enfant de la Révolution]], 1830
+- Turenhoudt, E. V., [[Louis de Potter]], Bruselas, 1946
+- De Potter, Louis, [[De la révolution à faire d'après l'expérience des révolutions avortées]], París, 1831
+- De Potter, Louis, [[Révolution belge: souvenirs personnels]], 2 vols., Bruselas, 1839
+- De Potter, Louis, [[Études sociales]], 2 vols., Bruselas, 1841-1843
+- De Potter, Louis, [[A. B. C. de la science sociale]], Bruselas, 1848
+- De Potter, Louis, [[Les Belges de 1830 et la Belgique en 1850]], Bruselas, 1850
+- De Potter, Louis, [[Catéchisme sociale]], Bruselas, 1850
+- De Potter, Louis, [[Dictionnaire rationnel]], Bruselas, 1852
+- De Potter, Louis, [[Souvenirs]], 1900
+- De Potter, Agathon, [[M. Poulin et le socialisme]], 1875
+- De Potter, Agathon, [[Économie sociale]], 2 vols., 1874
+- Bernstein, Eduard (ed.), [[Gesammelte Reden und Schriften]], Ferdinand Lassalle, 12 vols., Berlín, 1919-1920
+- Mayer, Gustav (ed.), [[Nachgelassene Briefe und Schriften]], Ferdinand Lassalle, 6 vols., Stuttgart, 1921-1925
+- Mayer, Gustav (ed.), [[Bismarck und Lassalle, ihr Briefwechsel und ihre Gespräche]], Berlín, 1928
+- Herwegh, Marcel (ed.), [[Ferdinand Lassalles Briefe an Georg Herwegh]], Zúrich, 1896
+- Lassalle, Ferdinand, [[Briefe an Hans von Bülow]], Dresde, 1893
+- Bernstein, Eduard (ed.), [[Intime Briefe F. Lassalles an Eltern und Schwester]], Berlín, 1905
+- Lassalle, Ferdinand, [[Open Letter to the National Labor Association of Germany]], trad. J. Ehrmann y F. Bader
+- Lassalle, Ferdinand, [[The Working Man's Programme]], trad. Edward Peters
+- Lassalle, Ferdinand, [[What is Capital?]], trad. F. Keddell, Nueva York, 1900, Original: [[Herr Bastiat-Schultze von Delitzsch]]
+- Lassalle, Ferdinand, [[Science and the Working Man]], trad. Thorstein Veblen
+- Bernstein, Eduard, [[Ferdinand Lassalle as a Social Reformer]], 1893
+- Brandes, Georg, [[Ferdinand Lassalle]], 1911
+- Dawson, William Harbutt, [[German Socialism and Ferdinand Lassalle]], 1888
+- Footman, David, [[The Primrose Path]], 1946
+- Russell, Bertrand, [[German Social Democracy]], 1896
