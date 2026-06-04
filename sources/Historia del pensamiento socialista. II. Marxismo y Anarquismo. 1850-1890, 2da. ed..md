@@ -96,3 +96,70 @@ Título Original: A History of Socialist Thought. Marxism and Anarchism, 1850-18
 - Dawson, William Harbutt, [[German Socialism and Ferdinand Lassalle]], 1888
 - Footman, David, [[The Primrose Path]], 1946
 - Russell, Bertrand, [[German Social Democracy]], 1896
+- Oncken, Hermann, [[Lassalle: eine politische Biographie]], 1912
+- Bernstein, Eduard, [[Ferdinand Lassalle, eine Würdigung des Lehrers und Kämpfers]], 1919
+- Becker, Bernhard, [[Geschichte der Arbeiter-Agitation Ferdinand Lassalles]], 1874
+- Thier, Eugen, [[Rodbertus, Lassalle, Adolph Wagner]], 1930
+- Mehring, Franz, [[Life of Karl Marx]], trad. inglesa, 1936, Original: [[Karl Marx: Geschichte seines Lebens]]
+- Marx, Karl; Engels, Friedrich, [[Correspondencia de Marx y Engels]]
+- Guillaume, James, [[L'Internationale, documents et souvenirs, 1864-1878]], 4 vols., París, 1905-1910
+- Villetard, F., [[History of the International]], trad. estadounidense, New Haven, 1874, Original: [[Histoire de l'Internationale]], París, 1872
+- Eichhoff, Wilhelm, [[Die internationale Arbeiterassociation]], Berlín, 1868
+- Testut, Oscar, [[L'Association internationale des travailleurs]], Lyon, 1870
+- Testut, Oscar, [[Le Livre bleu de l'Internationale]], París, 1871
+- Testut, Oscar, [[L'Internationale et le jacobinisme au ban de l'Europe]], París, 1872
+- Brousse, Paul, [[Le Marxisme dans l'Internationale]], París, 1882
+- Marx, Karl; Engels, Friedrich, [[Les Prétendues Scissions dans l'Internationale]], Ginebra, 1872
+- Marx, Karl; Engels, Friedrich, [[L'Alliance de la démocratie socialiste et l'association internationale des travailleurs]], 1873
+- Fédération jurassienne, [[Mémoire adressé par la fédération jurassienne de l'association internationale des travailleurs à toutes les fédérations de l'Internationale]], Sonvillier, 1873
+- [[Procès de l'association internationale des travailleurs. Première et Deuxième Commissions du bureau de Paris]], París, junio de 1870
+- [[Troisième Procès]], París, julio de 1870
+- [[Les Séances officielles de l'Internationale à Paris pendant le siège et pendant la Commune]], París, 1872
+- Zasúlich, Vera, [[Sketch of the History of the International]], 1889
+- Steklov, Yuri M., [[Historia de la Primera Internacional]], trad. inglesa, Londres, 1928, Original: [[История Первого Интернационала]], ruso, 1918
+- Postgate, Raymond W., [[The Workers' International]], Londres, 1920
+- Jaeckh, Gustav, [[The International: A Sketch]], trad. inglesa, 1904, Original: [[Die Internationale]], Leipzig, 1904
+- Meyer, Rudolf, [[Der Emanzipationskampf des vierten Standes]], Berlín, 1874
+- Preudeau, M., [[Michel Bakounine: le collectivisme dans l'Internationale]], París, 1912
+- Carr, Edward Hallett, [[Michael Bakunin]], Londres, 1937
+- Mehring, Franz, [[Karl Marx: Geschichte seines Lebens]]
+- Marx, Karl, [[La Guerra Civil en Francia]], 1871, Original: [[Der Bürgerkrieg in Frankreich]]
+- Lissagaray, Prosper-Olivier, [[History of the Commune of 1871]], trad. Eleanor Marx Aveling, Londres, 1886, Original: [[Histoire de la Commune de 1871]], Bruselas, 1876
+- Lanjalley, P.; Corriez, P., [[Histoire de la révolution du 18 mars]], 1871
+- Claretie, Jules, [[Histoire de la révolution de 1870-71]], 5 vols., París, 1874-1876
+- Du Camp, Maxime, [[Les Convulsions de Paris]], 4 vols., París, 1878
+- Simon, Jules, [[Le Gouvernement de M. Thiers]], París, 1878
+- Jellinek, Frank, [[The Paris Commune of 1871]], Londres, 1937
+- Lepelletier, Edmond, [[Histoire de la Commune de 1871]], 4 vols., París, 1911-1913
+- Dubreuil, Louis, [[Histoire de la Commune]], en [[Histoire socialiste]] de Jean Jaurès, Vol. XI
+- Bourgin, Georges, [[Histoire de la Commune]], 1925
+- Bourgin, Georges, [[Les Premières Journées de la Commune]], París, 1928
+- Laronze, Georges, [[Histoire de la Commune de 1871]], 1928
+- Mason, Edward S., [[The Paris Commune]], Nueva York, 1930
+- Weill, Georges, [[Histoire du mouvement social en France, 1852-1902]], 1904; ed. revisada, 1924
+- Lenin, Vladimir Ilich, [[The Paris Commune]], recopilación de escritos, trad. inglesa, 1933
+- Lenin, Vladimir Ilich, [[El Estado y la revolución]], 1917, Original: [[Государство и революция]]
+- Kropotkin, Piotr, [[La Comuna de París]], 1891
+- Bax, Ernest Belfort; Dave, Victor; Morris, William, [[A Short Account of the Paris Commune]], 1886
+- Allemane, Jean, [[Mémoires d'un communard]], París, s.f.
+- Beslay, Charles, [[Mes Souvenirs]], 1873
+- Beslay, Charles, [[La Vérité sur la Commune]], 1877
+- Cluseret, Gustave, [[Mémoires]], 1877-1878
+- Costa, Gaston da, [[La Commune vécue]], 3 vols., 1903-1905
+- Flourens, Gustave, [[Paris livré]], 1871
+- Guesde, Jules, [[Ça et là]], 1914
+- Jourde, François, [[Souvenirs d'un membre de la Commune]], 1877
+- Lefrançais, Gustave, [[Souvenirs d'un révolutionnaire]], 1902
+- Malon, Benoît, [[La Troisième Défaite du prolétariat français]], 1871
+- Michel, Louise, [[La Commune]], 1898
+- Rossel, Louis-Nathaniel, [[Papiers posthumes]], 1871
+- Vallès, Jules, [[L'Insurgé]], 1886
+- Vésinier, Paul, [[Comment a péri la Commune?]], 1892
+- Vuillaume, Maxime, [[Mes Cahiers rouges au temps de la Commune]], 10 vols., 1908-1914
+- Hugo, Victor, [[L'Année terrible]], 1872
+- Halévy, Ludovic, [[Notes et souvenirs, 1871-1872]], 1888
+- Vizetelly, Edward A., [[My Adventures in the Commune]], 1914
+- [[Journal Officiel de la Commune]], reimpresión en volumen, París, 1879
+- Dommanget, Maurice, [[Eugène Varlin]], 1926
+- Faillet, E., [[Biographie de Varlin]], 1885
+- Prolès, Charles, [[Les Hommes de la Révolution]], 1898
