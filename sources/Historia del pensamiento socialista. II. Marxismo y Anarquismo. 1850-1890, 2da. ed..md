@@ -10,8 +10,7 @@ Título Original: A History of Socialist Thought. Marxism and Anarchism, 1850-18
 - Gray, Alexander, [[The Socialist Tradition: Moses to Lenin]], 1946
 - Dolléans, Édouard, [[Histoire du mouvement ouvrier, Vol. I (1830-1871)]], 1936
 - Dolléans, Édouard, [[Histoire du mouvement ouvrier, Vol. II (1871-1936)]], 1939
-- Beer, Max, [[Allgemeine Geschichte des Sozialismus und der sozialen Kämpfe]], rev. 1929
-- Beer, Max, [[Socialism and Social Struggles]], trad. inglesa, 5 vols., 1922-1925, Original: [[Allgemeine Geschichte des Sozialismus und der sozialen Kämpfe]]
+- Beer, Max, [[Socialism and Social Struggles]], trad. inglesa, 5 vols., 1922-1925, Original: [[Allgemeine Geschichte des Sozialismus und der sozialen Kämpfe]], rev. 1929
 - Halévy, Élie, [[Histoire du socialisme européen]]
 - Adler, Georg, [[Geschichte des Sozialismus und Kommunismus]], 1899
 - Diehl, Karl, [[Über Sozialismus, Kommunismus und Anarchismus]], 1911
@@ -23,33 +22,33 @@ Título Original: A History of Socialist Thought. Marxism and Anarchism, 1850-18
 - Pareto, Vilfredo, [[Les Systèmes Socialistes]], 2 vols., 1902-1903
 - Schäffle, Albert Eberhard Friedrich, [[The Quintessence of Socialism]], trad. inglesa, 1888, Original: [[Quintessenz des Sozialismus]], 1877
 - Schäffle, Albert Eberhard Friedrich, [[The Impossibility of Social Democracy]], trad. inglesa, 1892
-- Leroy-Beaulieu, Paul, [[Collectivism]], trad. inglesa, 1908
+- Leroy-Beaulieu, Paul, [[Collectivism]], trad. inglesa, 1908, Original: [[Le collectivisme]]
 - Flint, Robert, [[Socialism]], 1894
 - Kirkup, Thomas, [[History of Socialism]], 1892
 - Kirkup, Thomas, [[History of Socialism]], rev. Edward R. Pease, 1913
 - Rae, John, [[Contemporary Socialism]], 1884
-- Laveleye, Émile de, [[The Socialism of To-day]], trad. inglesa, 1884
-- Marx, Karl, [[Las luchas de clases en Francia, 1848-1850]], 1850, Original: [[Die Klassenkämpfe in Frankreich 1848 bis 1850]]
-- Marx, Karl, [[El dieciocho brumario de Luis Bonaparte]], 1852, Original: [[Der achtzehnte Brumaire des Louis Bonaparte]]
-- Engels, Friedrich, [[Revolución y contrarrevolución en Alemania]], 1851, Original: [[Revolution and Counter-Revolution in Germany]]
+- Laveleye, Émile de, [[The Socialism of To-day]], trad. inglesa, 1884, Original: [[Le socialisme contemporain]]
+- Marx, Karl, [[Las luchas de clases en Francia, 1848-1850]], Original: [[Die Klassenkämpfe in Frankreich 1848 bis 1850]], 1850
+- Marx, Karl, [[El dieciocho brumario de Luis Bonaparte]], Original: [[Der achtzehnte Brumaire des Louis Bonaparte]], 1852
+- Engels, Friedrich, [[Revolución y contrarrevolución en Alemania]], Original: [[Revolution and Counter-Revolution in Germany]], 1851
 - Marx, Karl, [[Enthüllungen über den Kommunisten-Prozess zu Köln]], Basilea, 1853
 - Marx, Karl, [[Alocución a la Liga de los Comunistas]], 1850
-- Herzen, Aleksandr, [[My Past and Thoughts]], 1924-1927
-- Herzen, Aleksandr, [[Letter to Michelet on the Russian People and Socialism]], 1855
+- Herzen, Aleksandr, [[My Past and Thoughts]], 1924-1927, Original: [[Былое и думы]]
+- Herzen, Aleksandr, [[Letter to Michelet on the Russian People and Socialism]], 1855, Original: [[Lettre à Michelet sur le peuple russe et le socialisme]]
 - Herzen, Aleksandr, [[Cartas desde Italia y Francia]], 1871, Original: [[Lettres de France et d'Italie]]
-- Herzen, Aleksandr, [[Desde la otra orilla]], 1850, Original: [[С того берега]]
+- Herzen, Aleksandr, [[Desde la otra orilla]], 1870, Original: [[С того берега]]
 - Herzen, Aleksandr, [[La Russie]], 1849
 - Herzen, Aleksandr, [[Lettre d'un Russe à Mazzini]], 1850
 - Herzen, Aleksandr, [[Du développement des idées révolutionnaires en Russie]], 1851
 - Herzen, Aleksandr, [[¿Quién tiene la culpa?]], 1847, Original: [[Кто виноват?]]
 - Carr, Edward Hallett, [[The Romantic Exiles]], 1933
 - Labry, Raoul, [[Alexandre Ivanovitch Herzen]], 1928
-- Plekhanov, Georgi V., [[N. G. Tschernischewsky]], Stuttgart, 1894
+- Plekhanov, Georgi Valentinovich, [[N. G. Tschernischewsky]], Stuttgart, 1894
 - Steklov, Yuri, [[N. Tschernischewsky, ein Lebensbild]], 1913
-- Chernyshevsky, Nikolái, [[Select Philosophical Essays]], 1953
+- Chernyshevsky, Nikolái, [[Select Philosophical Essays]], trad. inglesa, 1953
 - Chernyshevsky, Nikolái, [[L'Économie politique jugée par la science]], trad. francesa, Bruselas, 1874
-- Chernyshevsky, Nikolái, [[La possession communale du sol]], París, 1903
-- Chernyshevsky, Nikolái, [[Letters sans adresse]], Lieja, 1874
+- Chernyshevsky, Nikolái, [[La possession communale du sol]], trad. francesa, París, 1903
+- Chernyshevsky, Nikolái, [[Letters sans adresse]], trad. francesa, Lieja, 1874
 - Lavrov, Piotr, [[Cartas históricas]], trad. alemana, 1901; trad. francesa, 1903, Original: [[Исторические письма]]
 - Lavrov, Piotr, [[Un ensayo acerca de la historia del pensamiento moderno]], Ginebra, 1888-1894
 - Lavrov, Piotr, [[Los problemas del conocimiento histórico]], Moscú, 1898
@@ -59,8 +58,6 @@ Título Original: A History of Socialist Thought. Marxism and Anarchism, 1850-18
 - Bertrand, Louis, [[La Belgique économique, sociale et financière de 1830 à 1900]]
 - Bertrand, Louis, [[Souvenirs d'un meneur socialiste]], 1927
 - Destrée, Jules; Vandervelde, Émile, [[Histoire du socialisme en Belgique]], 1898
-- Malon, Benoît, [[Histoire du socialisme]], Vol. II, capítulo sobre Colins
-- Malon, Benoît, [[Histoire du socialisme]], Vol. IV, capítulos sobre Kats y De Keyser
 - Colins, Jean Guillaume César Alexandre Hippolyte, [[Socialisme rationnel]], 3 vols., 1851
 - Colins, Jean Guillaume César Alexandre Hippolyte, [[Qu'est-ce que la science sociale?]], 4 vols., 1851-1854
 - Colins, Jean Guillaume César Alexandre Hippolyte, [[De la justice dans la science, hors l'Église et hors la Révolution]], 3 vols., 1860
@@ -69,10 +66,10 @@ Título Original: A History of Socialist Thought. Marxism and Anarchism, 1850-18
 - Parent, G., [[Le Socialisme de Colins]], 1912
 - Kats, Jacob, [[Het boek des volks]], 1840
 - Kats, Jacob, [[Werk en kapitaal]], 1872
-- Kats, Jacob, [[La Situation de l'ouvrier]], 1864
+- Kats, Jacob, [[La Situation de l'ouvrier]], francés, 1864
 - Kuypers, Julius, [[Biografía de Jacob Kats]], 1930
 - De Keyser, Jan Baptist, [[Het natuur in regt]], 1854
-- De Keyser, Jan Baptist, [[L'Enfant de la Révolution]], 1830
+- De Keyser, Jan Baptist, [[L'Enfant de la Révolution]], francés, 1830
 - Turenhoudt, E. V., [[Louis de Potter]], Bruselas, 1946
 - De Potter, Louis, [[De la révolution à faire d'après l'expérience des révolutions avortées]], París, 1831
 - De Potter, Louis, [[Révolution belge: souvenirs personnels]], 2 vols., Bruselas, 1839
