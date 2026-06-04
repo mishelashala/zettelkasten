@@ -163,3 +163,107 @@ Título Original: A History of Socialist Thought. Marxism and Anarchism, 1850-18
 - Dommanget, Maurice, [[Eugène Varlin]], 1926
 - Faillet, E., [[Biographie de Varlin]], 1885
 - Prolès, Charles, [[Les Hommes de la Révolution]], 1898
+- Rae, John, [[Contemporary Socialism]], 1884
+- Gide, Charles; Rist, Charles, [[History of Economic Doctrines]], trad. inglesa, 1915, Original: [[Histoire des doctrines économiques]]
+- Goldscheid, Rudolf, [[Staatssozialismus oder Staatskapitalismus]], 1917
+- Desroches, Henri; Hubert, Charles, [[La Signification du marxisme]], 1948
+- Marx, Karl, [[A Contribution to the Critique of Political Economy]], trad. I. N. Stone, 1909, Original: [[Zur Kritik der politischen Ökonomie]], 1859
+- Marx, Karl, [[Capital: A Critical Analysis of Capitalist Production]], trad. Samuel Moore y Edward Aveling, 1887, Original: [[Das Kapital, Kritik der politischen Ökonomie, Band I]], 1867
+- Marx, Karl, [[Le Capital]], trad. Joseph Roy, corregida por Marx, 1875, Original: [[Das Kapital, Kritik der politischen Ökonomie, Band I]], 1867
+- Marx, Karl, [[Capital]], trad. Ernest Untermann, Chicago, 1906, Original: [[Das Kapital, Kritik der politischen Ökonomie, Band I]], 1867
+- Marx, Karl, [[Capital]], trad. Eden y Cedar Paul, Londres, 1928, Original: [[Das Kapital, Kritik der politischen Ökonomie, Band I]], 1867
+- Marx, Karl, [[The Theory of Value]], Londres, 1890, selección de los nueve primeros capítulos de [[Das Kapital]]
+- Marx, Karl, [[Capital]], trad. Ernest Untermann, 1907, Original: [[Das Kapital, Kritik der politischen Ökonomie, Band II]], 1885
+- Marx, Karl, [[Capital]], trad. Ernest Untermann, Chicago, 1909, Original: [[Das Kapital, Kritik der politischen Ökonomie, Band III]], 1894
+- Marx, Karl, [[Theorien über den Mehrwert]], ed. Karl Kautsky, 1905-1910
+- Marx, Karl, [[Théories sur la plus-value]], trad. francesa, 8 vols., 1924-1925, Original: [[Theorien über den Mehrwert]]
+- Bonner, G. A.; Burns, Emile (eds.), [[Theories of Surplus Value]], trad. inglesa, 1953, Original: [[Theorien über den Mehrwert]]
+- Aveling, Edward, [[The Student's Marx]], 1891
+- Kautsky, Karl, [[The Economic Doctrines of Karl Marx]], trad. inglesa, 1925, Original: [[Karl Marx' ökonomische Lehren]]
+- Borchardt, Julian, [[The People's Marx]], trad. inglesa, 1921
+- Burns, Emile, [[A Handbook of Marxism]], 1935
+- Mehring, Franz (ed.), [[Aus dem literarischen Nachlass von Karl Marx, Friedrich Engels und Ferdinand Lassalle]], 4 vols., 1902
+- Marx, Karl, [[Value, Price and Profit]], primera edición inglesa, 1865, Original: [[Lohn, Preis und Profit]]
+- Marx, Karl, [[Wage-Labour and Capital]], trad. J. L. Joynes, 1885, Original: [[Lohnarbeit und Kapital]], 1849
+- Ketteler, Wilhelm Emmanuel von, [[Freiheit, Autorität und Kirche]], 1862
+- Ketteler, Wilhelm Emmanuel von, [[Die Arbeiterfrage und das Christenthum]], 1864
+- Ketteler, Wilhelm Emmanuel von, [[Deutschland nach dem Kriege von 1866]], 1867
+- Ketteler, Wilhelm Emmanuel von, [[Liberalismus, Socialismus und Christenthum]], 1871
+- Ketteler, Wilhelm Emmanuel von, [[Predigten]], 2 vols., 1878
+- Ketteler, Wilhelm Emmanuel von, [[Ausgewählte Schriften]], ed. J. Mumbauer, 3 vols., 1924
+- Pfülf, Otto, [[Bischof Ketteler]], 3 vols., 1899
+- Vigener, Friedrich, [[Ketteler, ein deutsches Bischofsleben des 19. Jahrhunderts]], 1924
+- Brauer, Theodor, [[Ketteler, der deutsche Bischof des 19. Jahrhunderts]], 1924
+- Brauer, Theodor, [[Ketteler der deutsche Bischof und Sozialreformer]], 1927
+- Neufeind, M. M., [[Bischof Ketteler und die soziale Frage seiner Zeit]], 1927
+- Hitze, Franz, [[Die soziale Frage]], 1877
+- Hitze, Franz, [[Kapital und Arbeit]], 1881
+- Hitze, Franz, [[Die Arbeiterfrage]], 1899
+- Hitze, Franz, [[Zur Würdigung der deutschen Arbeiter-Sozialpolitik]], 1913
+- Müller, F., [[Frank Hitze und sein Werk]], 1928
+- Vogelsang, Karl von, [[Gesammelte Aufsätze über Socialpolitik]], 1885-1886
+- Vogelsang, Karl von, [[Vogelsang: Extraits de ses œuvres]], 2 vols., francés, 1905, Original: [[Gesammelte Aufsätze über Socialpolitik]]
+- Schwalber, J., [[Vogelsang und die moderne christlichsoziale Politik]], 1927
+- Meyer, Rudolf, [[The Struggle for the Emancipation of the Fourth Estate]], 2 vols., 1874-1875, Original: [[Der Emanzipationskampf des vierten Standes]]
+- Ratzinger, Georg, [[Die Volkswirtschaft in ihren sittlichen Grundlagen]], 1881; ed. ampliada, 1895
+- De Mun, Albert, [[Discours et écrits divers]], 7 vols., 1888-1904
+- De Mun, Albert, [[Combats d'hier et d'aujourd'hui]], 6 vols., 1910-1916
+- De Mun, Albert, [[Ma vocation sociale]], 1908
+- Giraud, Victor, [[Un Grand Français: Albert de Mun]], 1918
+- Piou, Jacques, [[Le Comte Albert de Mun]], 1925
+- Moon, Parker T., [[The Labor Problem and the Social Catholic Movement in France]], Nueva York, 1921
+- Périn, Charles, [[De la Richesse dans les sociétés chrétiennes]], 1861
+- Périn, Charles, [[Les Lois de la société chrétienne]], 1875
+- [[The Pope and the People: Select Letters and Addresses on Social Questions]], 1902; ed. revisada, 1943
+- Bertrand, Louis, [[Biografía de César De Paepe]], Bruselas, 1909
+- Bertrand, Louis, [[Histoire de la démocratie et du socialisme en Belgique depuis 1830]], 2 vols., 1906-1907
+- Malon, Benoît, [[Histoire du socialisme]], Vol. IV
+- De Paepe, César, [[Cours d'économie sociale]], publicado en [[L'Économie sociale]], 1875-1876
+- De Paepe, César, [[Objet de la science économique]], publicado por entregas en [[La Société nouvelle]], 1888-1890
+- De Paepe, César, [[Rapport sur la coopération, le crédit mutuel et le travail des femmes]], Lausana, 1867
+- De Paepe, César, [[Mémoires sur la propriété terrienne]], Bruselas, 1868; Basilea, 1869
+- De Paepe, César, [[Essai sur l'organisation des services publics]], Bruselas, 1874
+- De Paepe, César, [[Examen de quelques questions sociales]], Bruselas, 1866
+- Carr, Edward Hallett, [[Michael Bakunin]], 1937
+- Langhard, J., [[Die anarchistische Bewegung in der Schweiz]]
+- Kropotkin, Piotr, [[Memoirs of a Revolutionist]], 1906
+- Michels, Robert, [[Il proletariato e la borghesia nel movimento socialista italiano]], 1908
+- Michels, Robert, [[Storia critica del movimento socialista italiano]], 1926
+- Angiolini, A.; Ciacchi, E., [[Socialismo e socialisti in Italia]], 1920
+- Valiani, Leo, [[Storia del movimento socialista]], Vol. I, 1951
+- Croce, Benedetto, [[History of Italy from 1870 to 1915]], trad. inglesa, 1929, Original: [[Storia d'Italia dal 1871 al 1915]]
+- Brenan, Gerald, [[The Spanish Labyrinth]], 1943
+- Dolléans, Édouard, [[Histoire du mouvement ouvrier]], Vol. II, 1939
+- Weill, Georges, [[Histoire du mouvement social en France, 1852-1924]], 1924
+- Louis, Paul, [[Histoire du socialisme en France]], rev. 1950
+- Jaurès, Jean, [[Histoire socialiste]], Vol. XI, 1908
+- Zévaès, Alexandre, [[De la semaine sanglante au Congrès de Marseille]], 1911
+- Costa, Gaston da, [[Les Blanquistes]], 1912
+- Beer, Max, [[History of British Socialism]], Vol. II, ed. revisada, 1929
+- Rothstein, Theodore, [[From Chartism to Labourism]], 1929
+- Hillquit, Morris, [[History of Socialism in the United States]], ed. revisada, 1910
+- Commons, John R.; colaboradores, [[History of Labor in the United States]], 4 vols., 1918-1919
+- Egbert, Donald Drew; Persons, Stow (eds.), [[Socialism and American Life]], 2 vols., Princeton, 1952
+- Bakunin, Mijaíl, [[God and the State]], trad. Benjamin R. Tucker, 1883, Original: [[Бог и государство]]
+- Hepner, Benoît P., [[Bakounine et le panslavisme révolutionnaire]], 1950
+- Nettlau, Max (ed.), [[Œuvres de Bakounine]], Vol. I, París, 1895
+- Guillaume, James (ed.), [[Œuvres de Bakounine]], Vols. II-VI, París, 1895-1913
+- Steklov, Yuri M., [[Biografía de Bakunin]], 4 vols., ruso, 1934-1936
+- Kenafick, K. J., [[Michael Bakunin and Karl Marx]], Melbourne, 1948
+- Russell, Bertrand, [[German Social Democracy]], 1896
+- Ely, Richard T., [[French and German Socialism in Modern Times]], 1883
+- Rosenberg, Arthur, [[The Origins of the German Republic]], trad. inglesa, 1931, Original: [[Entstehung der deutschen Republik]]
+- Rosenberg, Arthur, [[Democracy and Socialism]], trad. inglesa, 1939
+- Dawson, William Harbutt, [[The Evolution of Modern Germany]], 1908
+- Bebel, August, [[My Life]], trad. inglesa abreviada, 1912, Original: [[Aus meinem Leben]], 3 vols., alemán, 1911
+- Mehring, Franz, [[Geschichte der deutschen Sozialdemokratie]], 4 vols., ed. revisada, 1922
+- Neumann, Sigmund, [[Die deutschen Parteien]], 1932
+- Lipinski, Richard, [[Die Sozialdemokratie]], 2 vols., 1927-1928
+- Milhaud, Edgar, [[La Démocratie socialiste allemande]], 1903
+- Eisner, Kurt, [[Wilhelm Liebknecht, sein Leben und Wirken]], 1906
+- Becker, Bernhard, [[Geschichte der Arbeiter-Agitation Ferdinand Lassalles]], 1874
+- Rocker, Rudolf, [[Johann Most]], 1924
+- Sombart, Werner, [[Socialism and the Social Movement]], trad. inglesa, 1909, Original: [[Sozialismus und soziale Bewegung]]
+- Mehring, Franz, [[Life of Karl Marx]], trad. inglesa, 1936, Original: [[Karl Marx: Geschichte seines Lebens]]
+- Mayer, Gustav, [[Friedrich Engels]], 1934; trad. inglesa abreviada, 1936
+- Mayer, Gustav, [[Johann Baptist von Schweitzer und die Sozialdemokratie]], 1909
