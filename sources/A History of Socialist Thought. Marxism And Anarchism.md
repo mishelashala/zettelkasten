@@ -447,3 +447,93 @@ Título Original: A History of Socialist Thought. Marxism and Anarchism, 1850-18
 - Bellamy, Edward, [[The Parable of the Water Tank]]
 - Bellamy, Edward, [[Plutocracy or Nationalism, Which?]], 1889
 - Bellamy, Edward, [[The Programme of the Nationalists]], 1894
+- Gillespie, F. E., [[Labour and Politics in England, 1850-1867]], 1927
+- Rothstein, Theodore, [[From Chartism to Labourism]], 1929
+- Humphrey, A. W., [[History of Labour Representation]], 1912
+- Applegarth, Robert, [[Robert Applegarth]], 1915
+- Cole, G. D. H., [[British Working-Class Politics, 1832-1914]], 1941
+- Cole, G. D. H.; Postgate, R. W., [[The Common People]], edición revisada, 1946
+- Bonner, H. B., [[Life of Charles Bradlaugh]], 1894
+- Soutter, F. W., [[Fights for Freedom]], 1925
+- Soutter, F. W., [[Recollections of a Labour Pioneer]], 1923
+- Beer, Max, [[History of British Socialism]], 1920; edición revisada, 1929
+- Clayton, Joseph, [[The Rise and Decline of Socialism in Great Britain]], 1926
+- Pelling, Henry, [[The Origins of the Labour Party]], 1954
+- Lee, H. W.; Archbold, E., [[Social Democracy in Britain]], 1935
+- Hyndman, H. M., [[The Record of an Adventurous Life]], 1911
+- Hyndman, H. M., [[Further Reminiscences]], 1912
+- Gould, F. J., [[H. M. Hyndman, Prophet of Democracy]], 1928
+- Hyndman, R. T., [[The Last Years of H. M. Hyndman]], 1923
+- Kent, W., [[John Burns: Labour's Lost Leader]], 1950
+- Cole, G. D. H., [[John Burns]], 1943
+- Burgess, J., [[John Burns: the Rise and Progress of a Right Honourable]], 1911
+- Carpenter, Edward, [[My Days and Dreams]], 1916
+- Bax, E. Belfort, [[Reflections and Reminiscences]], 1918
+- Hyndman, H. M., [[England for All]], 1881
+- Hyndman, H. M., [[The Historical Basis of Socialism]], 1883
+- Hyndman, H. M., [[Commercial Crises of the Nineteenth Century]], 1892
+- Hyndman, H. M., [[Economics of Socialism]], 1896
+- Hyndman, H. M., [[The Future of Democracy]], 1915
+- Hyndman, H. M., [[The Awakening of Asia]], 1919
+- Hyndman, H. M., [[The Evolution of Revolution]], 1920
+- Hyndman, H. M.; Morris, William, [[A Summary of the Principles of Socialism]], 1884
+- Hyndman, H. M.; Bradlaugh, Charles, [[Will Socialism Benefit the English People?]], 1884
+- Hyndman, H. M., [[Socialism and Slavery]], 1884
+- Morris, William; Bax, E. Belfort, [[Manifesto of the Socialist League]], 1885
+- [[Socialist League Address to Trades' Unions]], 1885
+- [[For Whom Shall We Vote?]], 1885
+- Binning, T., [[Organised Labour: the Duty of Trades' Unions in Relation to Socialism]], 1886
+- Mackail, J. W., [[The Life of William Morris]], 1899
+- Vallance, Aymer, [[William Morris, his Art, his Writings, and his Public Life]], 1897
+- Glasier, J. Bruce, [[William Morris and the Early Days of the Socialist Movement]], 1921
+- Wiles, H. V., [[William Morris of Walthamstow]], 1951
+- Henderson, Philip (ed.), [[The Letters of William Morris]]
+- Morris, William, [[News from Nowhere]], 1891
+- Morris, William, [[A Dream of John Ball]], 1888
+- Morris, William, [[The Pilgrims of Hope]]
+- Morris, William, [[Signs of Change]], 1888
+- Morris, William, [[Hopes and Fears for Art]], 1882
+- Morris, William, [[Architecture, Industry and Wealth]], 1902
+- Morris, William, [[Essays and Lectures on Art and Socialism]], 1947
+- Morris, William; Bax, E. Belfort, [[Socialism, its Growth and Outcome]], 1893
+- Morris, William, [[Gothic Architecture]], 1893
+- Morris, William, [[Under an Elm Tree]], 1891
+- Morris, William, [[Useful Work versus Useless Toil]], 1886
+- Morris, William, [[How I Became a Socialist]], 1896
+- Morris, William, [[Monopoly: or How Labour is Robbed]], 1890
+- Morris, William, [[True and False Society]], 1888
+- Morris, William; Bax, E. Belfort; Dave, Victor, [[A Short Account of the Commune of Paris]], 1886
+- Morris, William, [[The Decorative Arts]]
+- Morris, William, [[Art, Labour and Socialism]], 1884
+- Morris, William, [[Communism]], 1903
+- Morris, William, [[Chants for Socialists]], 1884-1885
+- Morris, William, [[The Tables Turned, or Nupkins Awakened]], 1887
+- Bax, E. Belfort, [[The Religion of Socialism]], 1886
+- Bax, E. Belfort, [[The Ethics of Socialism]], 1889
+- Bax, E. Belfort, [[Outlooks from the New Standpoint]], 1891
+- Bax, E. Belfort, [[Outspoken Essays on Social Subjects]], 1897
+- Bax, E. Belfort, [[Essays in Socialism]], 1906
+- Bax, E. Belfort, [[The Last Episode of the French Revolution]], 1911
+- Bax, E. Belfort, [[Reminiscences and Reflections]], 1918
+- Carpenter, Edward, [[Towards Democracy]], 1883; edición ampliada, 1905
+- Carpenter, Edward, [[Civilisation, its Cause and Cure]], 1891
+- Pease, Edward R., [[History of the Fabian Society]], 1916; edición revisada, 1925
+- Knight, W. (ed.), [[Memorials of Thomas Davidson, the Wandering Scholar]], 1907
+- Shaw, George Bernard, [[The Fabian Society: Its Early History]], 1892
+- Shaw, George Bernard (ed.), [[Essays in Fabian Socialism]], 1889
+- Cole, Margaret, [[Beatrice Webb]], 1945
+- Cole, Margaret (ed.), [[The Webbs and their Work]], 1949
+- Hamilton, M. A., [[Sidney and Beatrice Webb]], 1933
+- Webb, Beatrice, [[My Apprenticeship]], 1926
+- Webb, Beatrice, [[Our Partnership]], 1948
+- Besant, Annie, [[Autobiography]], 1893
+- Williams, G., [[The Passionate Pilgrim]], 1932
+- Bradlaugh, Charles, [[Autobiography]], 1873
+- Bonner, Hypatia Bradlaugh, [[Life of Charles Bradlaugh]], 1894
+- [[Charles Bradlaugh, Champion of Liberty]], 1933
+- Bradlaugh, Charles, [[Labour and Law]], 1891
+- Ensor, R. C. K., [[Modern Socialism as Set Forth by Socialists]], 1903; edición revisada, 1910
+- Kautsky, Karl, [[The Workers' Programme]], 1892
+- Chamberlain, Joseph, [[Unauthorised Programme]], 1885
+- Garvin, J. L., [[The Life of Joseph Chamberlain]], 1932-1934
+- Tuckwell, G. M.; Gwynn, Stephen, [[Memoirs of Sir Charles Dilke]], 1917
