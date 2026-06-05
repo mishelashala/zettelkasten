@@ -357,3 +357,93 @@ Título Original: A History of Socialist Thought. Marxism and Anarchism, 1850-18
 - [[La Révolte]], periódico, 1887-1894
 - Grave, Jean (ed.), [[Les Temps nouveaux]], 1895-1914
 - Pouget, Émile, [[Le Père Peinard]], periódico, desde 1889
+- Grave, Jean, [[L'Anarchie, son but, ses moyens]], 1899
+- Grave, Jean, [[La Société au lendemain de la Révolution]], 1882
+- Grave, Jean, [[La Société mourante et l'anarchie]], 1893
+- Grave, Jean, [[L'Individu et la société]], 1897
+- Grave, Jean, [[La Société future]], 1895
+- Grave, Jean, [[Les Aventures de Nono]], 1901
+- Grave, Jean, [[Réformes-Révolution]], 1910
+- Gautier, Émile, [[Le Darwinisme social]], 1880
+- Faure, Sébastien, [[La Douleur universelle]], 1895
+- Malato, Charles, [[Philosophie de l'anarchie]], 1889
+- Malato, Charles, [[Révolution chrétienne et révolution sociale]], 1891
+- Malato, Charles, [[De la Commune à l'anarchie]], 1894
+- Malato, Charles, [[L'Homme nouveau]], 1898
+- Mackay, John Henry, [[Anarchistes: moeurs du jour]], 1892
+- Hamon, Augustin, [[Psychologie de l'anarchiste-socialiste]], 1895
+- Hamon, Augustin, [[Socialisme et anarchisme]], 1905
+- Guesde, Jules, [[Ça et là]], 1914
+- Guesde, Jules, artículos en [[Égalité]], fundada en 1877
+- Reclus, Élisée, [[Correspondance]], 3 vols., París, 1911-1925
+- Reclus, Élisée, [[L'Évolution, la révolution et l'idéal anarchiste]], 1898
+- Malatesta, Errico, [[A Talk about Anarchist Communism]]
+- Malatesta, Errico, [[Anarchy]], Original: [[L'Anarchia]]
+- Malatesta, Errico, [[Entre paysans]]
+- Malatesta, Errico, [[Au café – dialogues sur le socialisme anarchiste]], 1902
+- Malatesta, Errico, [[Propaganda socialista fra contadini]], 1884
+- Malatesta, Errico, [[La politica parlamentare nel movimento socialista]], 1890
+- Malatesta, Errico, [[Il nostro programma]], 1903
+- Nettlau, Max, [[Errico Malatesta]], 1922
+- Egbert, Douglas G.; Persons, Stow, [[Socialism and American Life]], Vol. II, 1952
+- Hillquit, Morris, [[History of Socialism in the United States]], 1903
+- Symes, Leland; Clement, Travers, [[Rebel America]], 1934
+- Madison, Charles A., [[Critics and Crusaders]], 1947
+- Macy, John, [[Socialism in America]], 1916
+- Commons, John R.; colaboradores, [[History of Labor in the United States]], 4 vols., 1918-1935
+- Commons, John R.; colaboradores, [[A Documentary History of American Industrial Society]], 10 vols., 1910-1911
+- Foner, Philip S., [[History of the Labor Movement in the United States to the Founding of the American Federation of Labor]], 1947
+- Ware, Norman J., [[The Labor Movement in the United States, 1860-1895]]
+- Bimba, Anthony, [[History of the American Working Class]], 1927
+- Oneal, James, [[The Workers in American History]], 1910, edición posterior 1927
+- Haynes, Frederick Emory, [[Social Politics in the United States]], 1924
+- Crosser, Paul K., [[Ideologies and American Labor]], 1941
+- Sylvis, James C., [[The Life, Speeches, Labors and Essays of William H. Sylvis]], 1872
+- Todes, Charlotte, [[William H. Sylvis and the National Labor Union]], 1942
+- Obermann, Karl, [[Joseph Weydemeyer]], 1947
+- Morgan, Arthur E., [[Edward Bellamy]], 1944
+- Morgan, Arthur E., [[The Philosophy of Edward Bellamy]], 1945
+- Buchanan, J. R., [[The Story of a Labor Agitator]], 1903
+- Sotheran, Alexander, [[Horace Greeley and other Pioneers of American Socialism]], 1915
+- Kamman, William F., [[Socialism in German American Literature]], 1917
+- Wolfe, Bertram D., [[Marx and America]], 1934
+- Schlüter, Hermann, [[Die Anfänge der deutschen Arbeiterbewegung in Amerika]], 1907
+- Schlüter, Hermann, [[Die Internationale in Amerika]], 1918
+- Ely, Richard T., [[The Labor Movement in America]], 1890
+- Aveling, Edward; Aveling, Eleanor Marx, [[The Working-Class Movement in America]], 1888
+- Kerby, William Joseph, [[Le Socialisme aux États-Unis]], 1897
+- Gronlund, Laurence, [[The Co-operative Commonwealth]], 1884
+- Gronlund, Laurence, [[Our Destiny]], 1891
+- Fine, Nathan, [[Labor and Farmer Parties in the United States, 1828-1928]], 1928
+- De Leon, Daniel, [[Speeches and Editorials]], 2 vols.
+- De Leon, Daniel, [[As to Politics]], artículos reimpresos, 1935
+- De Leon, Daniel, [[What Means This Strike?]], 1898
+- De Leon, Daniel, [[Reform or Revolution]], 1899
+- De Leon, Daniel, [[Socialism versus Anarchism]], 1901
+- De Leon, Daniel, [[The Burning Question of Trade Unionism]], 1904
+- De Leon, Daniel, [[Principles of Industrial Unionism]], 1905
+- De Leon, Daniel, [[Socialist Reconstruction of Society]], 1905
+- De Leon, Daniel, [[Two Pages from Roman History]], 1908
+- Simposio, [[Daniel De Leon: The Man and his Work]], 1919
+- [[Proceedings of the Knights of Labor]], 1878-1913
+- [[Journal of the Knights of Labor]], 1880-1918
+- Powderly, Terence V., [[Thirty Years of Labor]], 1889
+- McNeill, George E., [[The Labor Movement]], 1887
+- George, Henry, [[Our Land and Land Policy]], 1871
+- George, Henry, [[Progress and Poverty]], 1879
+- George, Henry, [[The Irish Land Question]], 1881
+- George, Henry, [[Social Problems]], 1883
+- George, Henry, [[Protection or Free Trade?]], 1886
+- George, Henry, [[The Condition of Labor]], 1891
+- George, Henry, [[A Perplexed Philosopher]], 1892
+- George, Henry, [[Complete Works]], 8 vols., 1906-1911
+- George Jr., Henry, [[Life of Henry George]], 2 vols., 1911
+- Post, Louis F., [[The Prophet of San Francisco]], 1930
+- Young, Arthur N., [[History of the Single Tax Movement in the United States]], 1916
+- Hyndman, Henry Mayers, [[Record of an Adventurous Life]], 1911
+- Lawrence, E. P., artículos sobre Henry George en [[Journal of Economics and Sociology]], julio y octubre de 1951
+- Bellamy, Edward, [[Looking Backward]], 1887
+- Bellamy, Edward, [[Equality]], 1897
+- Bellamy, Edward, [[The Parable of the Water Tank]]
+- Bellamy, Edward, [[Plutocracy or Nationalism, Which?]], 1889
+- Bellamy, Edward, [[The Programme of the Nationalists]], 1894
