@@ -3,537 +3,537 @@ Título Original: A History of Socialist Thought. Marxism and Anarchism, 1850-18
 
 ## Bibliography
 
-- Malon, Benoît, [[Histoire du socialisme]], 5 vols., 1882-1885
-- Laidler, Harry W., [[Social-Economic Movements]], 1944
-- Laidler, Harry W., [[A History of Socialist Thought]], 1927
-- Laidler, Harry W., [[Socialism in Thought and Action]], 1920
-- Gray, Alexander, [[The Socialist Tradition: Moses to Lenin]], 1946
-- Dolléans, Édouard, [[Histoire du mouvement ouvrier, Vol. I (1830-1871)]], 1936
-- Dolléans, Édouard, [[Histoire du mouvement ouvrier, Vol. II (1871-1936)]], 1939
-- Beer, Max, [[Socialism and Social Struggles]], trad. inglesa, 5 vols., 1922-1925, Original: [[Allgemeine Geschichte des Sozialismus und der sozialen Kämpfe]], rev. 1929
-- Halévy, Élie, [[Histoire du socialisme européen]]
 - Adler, Georg, [[Geschichte des Sozialismus und Kommunismus]], 1899
-- Diehl, Karl, [[Über Sozialismus, Kommunismus und Anarchismus]], 1911
-- Denis, Henri, [[Histoire des systèmes économiques et socialistes]], 2 vols., 1904-1907
-- Compère-Morel, Adéodat, [[Grand Dictionnaire Socialiste]], 1924
-- Compère-Morel, Adéodat (ed.), [[Encyclopédie socialiste, syndicale et coopérative de l'Internationale ouvrière]], 8 vols., 1912-1913
+- Adler, Georg, [[Geschichte des Sozialismus und Kommunismus]], 1899
+- Allemane, Jean, [[Mémoires d'un communard]], París, s.f.
+- Andrews, Stephen Pearl, [[Constitution of Government in the Sovereignty of the Individual]], 1851
+- Andrews, Stephen Pearl, [[The Science of Society]], 1853
+- Angiolini, A.; Ciacchi, E., [[Socialismo e socialisti in Italia]], 1920
+- Applegarth, Robert, [[Robert Applegarth]], 1915
+- Aveling, Edward, [[The Student's Marx]], 1891
+- Aveling, Edward; Aveling, Eleanor Marx, [[The Working-Class Movement in America]], 1888
+- Bailie, William, [[Josiah Warren]], 1906
+- Bakunin, Mijaíl, [[God and the State]], trad. Benjamin R. Tucker, 1883, Original: [[Бог и государство]]
+- Bax, E. Belfort, [[Essays in Socialism]], 1906
+- Bax, E. Belfort, [[Outlooks from the New Standpoint]], 1891
+- Bax, E. Belfort, [[Outspoken Essays on Social Subjects]], 1897
+- Bax, E. Belfort, [[Reflections and Reminiscences]], 1918
+- Bax, E. Belfort, [[Reminiscences and Reflections]], 1918
+- Bax, E. Belfort, [[The Ethics of Socialism]], 1889
+- Bax, E. Belfort, [[The Last Episode of the French Revolution]], 1911
+- Bax, E. Belfort, [[The Religion of Socialism]], 1886
+- Bax, Ernest Belfort; Dave, Victor; Morris, William, [[A Short Account of the Paris Commune]], 1886
+- Bebel, August, [[My Life]], trad. inglesa abreviada, 1912, Original: [[Aus meinem Leben]], 3 vols., alemán, 1911
+- Becker, Bernhard, [[Geschichte der Arbeiter-Agitation Ferdinand Lassalles]], 1874
+- Becker, Bernhard, [[Geschichte der Arbeiter-Agitation Ferdinand Lassalles]], 1874
+- Beer, Max, [[History of British Socialism]], 1920; edición revisada, 1929
+- Beer, Max, [[History of British Socialism]], Vol. II, ed. revisada, 1929
+- Beer, Max, [[Socialism and Social Struggles]], trad. inglesa, 5 vols., 1922-1925, Original: [[Allgemeine Geschichte des Sozialismus und der sozialen Kämpfe]], rev. 1929
+- Bellamy, Edward, [[Equality]], 1897
+- Bellamy, Edward, [[Looking Backward]], 1887
+- Bellamy, Edward, [[Plutocracy or Nationalism, Which?]], 1889
+- Bellamy, Edward, [[The Parable of the Water Tank]]
+- Bellamy, Edward, [[The Programme of the Nationalists]], 1894
+- Bernstein, Eduard (ed.), [[Gesammelte Reden und Schriften]], Ferdinand Lassalle, 12 vols., Berlín, 1919-1920
+- Bernstein, Eduard (ed.), [[Intime Briefe F. Lassalles an Eltern und Schwester]], Berlín, 1905
+- Bernstein, Eduard, [[Ferdinand Lassalle as a Social Reformer]], 1893
+- Bernstein, Eduard, [[Ferdinand Lassalle, eine Würdigung des Lehrers und Kämpfers]], 1919
+- Bertrand, Louis, [[Biografía de César De Paepe]], Bruselas, 1909
+- Bertrand, Louis, [[Histoire de la coopération en Belgique]], 2 vols., 1903
+- Bertrand, Louis, [[Histoire de la démocratie et du socialisme en Belgique depuis 1830]], 2 vols., 1906-1907
+- Bertrand, Louis, [[Histoire de la démocratie et du socialisme en Belgique depuis 1830]], 2 vols., 1906-1907
+- Bertrand, Louis, [[La Belgique économique, sociale et financière de 1830 à 1900]]
+- Bertrand, Louis, [[La Belgique en 1866]], 1880
+- Bertrand, Louis, [[Souvenirs d'un meneur socialiste]], 1927
+- Besant, Annie, [[Autobiography]], 1893
+- Beslay, Charles, [[La Vérité sur la Commune]], 1877
+- Beslay, Charles, [[Mes Souvenirs]], 1873
+- Bimba, Anthony, [[History of the American Working Class]], 1927
+- Binning, T., [[Organised Labour: the Duty of Trades' Unions in Relation to Socialism]], 1886
+- Bliss, W. D. P., [[Chicago Anarchists]], en [[Encyclopaedia of Social Reform]], ed. revisada, 1908
 - Bliss, William Dwight Porter (ed.), [[Encyclopaedia of Social Reform]], 1895
-- Sombart, Werner, [[Socialism and the Social Movement]], trad. inglesa de la edición revisada de 1909, Original: [[Sozialismus und soziale Bewegung]]
-- Pareto, Vilfredo, [[Les Systèmes Socialistes]], 2 vols., 1902-1903
-- Schäffle, Albert Eberhard Friedrich, [[The Quintessence of Socialism]], trad. inglesa, 1888, Original: [[Quintessenz des Sozialismus]], 1877
-- Schäffle, Albert Eberhard Friedrich, [[The Impossibility of Social Democracy]], trad. inglesa, 1892
-- Leroy-Beaulieu, Paul, [[Collectivism]], trad. inglesa, 1908, Original: [[Le collectivisme]]
-- Flint, Robert, [[Socialism]], 1894
-- Kirkup, Thomas, [[History of Socialism]], 1892
-- Kirkup, Thomas, [[History of Socialism]], rev. Edward R. Pease, 1913
-- Rae, John, [[Contemporary Socialism]], 1884
-- Laveleye, Émile de, [[The Socialism of To-day]], trad. inglesa, 1884, Original: [[Le socialisme contemporain]]
-- Marx, Karl, [[Las luchas de clases en Francia, 1848-1850]], Original: [[Die Klassenkämpfe in Frankreich 1848 bis 1850]], 1850
-- Marx, Karl, [[El dieciocho brumario de Luis Bonaparte]], Original: [[Der achtzehnte Brumaire des Louis Bonaparte]], 1852
-- Engels, Friedrich, [[Revolución y contrarrevolución en Alemania]], Original: [[Revolution and Counter-Revolution in Germany]], 1851
-- Marx, Karl, [[Enthüllungen über den Kommunisten-Prozess zu Köln]], Basilea, 1853
-- Marx, Karl, [[Alocución a la Liga de los Comunistas]], 1850
-- Herzen, Aleksandr, [[My Past and Thoughts]], 1924-1927, Original: [[Былое и думы]]
-- Herzen, Aleksandr, [[Letter to Michelet on the Russian People and Socialism]], 1855, Original: [[Lettre à Michelet sur le peuple russe et le socialisme]]
-- Herzen, Aleksandr, [[Cartas desde Italia y Francia]], 1871, Original: [[Lettres de France et d'Italie]]
-- Herzen, Aleksandr, [[Desde la otra orilla]], 1870, Original: [[С того берега]]
-- Herzen, Aleksandr, [[La Russie]], 1849
-- Herzen, Aleksandr, [[Lettre d'un Russe à Mazzini]], 1850
-- Herzen, Aleksandr, [[Du développement des idées révolutionnaires en Russie]], 1851
-- Herzen, Aleksandr, [[¿Quién tiene la culpa?]], 1847, Original: [[Кто виноват?]]
+- Böhm-Bawerk, Eugen von, [[Karl Marx and the Close of His System]], trad. inglesa, 1898, Original: [[Zum Abschluss des Marxschen Systems]], 1896
+- Bonner, G. A.; Burns, Emile (eds.), [[Theories of Surplus Value]], trad. inglesa, 1953, Original: [[Theorien über den Mehrwert]]
+- Bonner, H. B., [[Life of Charles Bradlaugh]], 1894
+- Bonner, Hypatia Bradlaugh, [[Life of Charles Bradlaugh]], 1894
+- Borchardt, Julian, [[The People's Marx]], trad. inglesa, 1921
+- Bourgin, Georges, [[Histoire de la Commune]], 1925
+- Bourgin, Georges, [[Les Premières Journées de la Commune]], París, 1928
+- Bradlaugh, Charles, [[Autobiography]], 1873
+- Bradlaugh, Charles, [[Labour and Law]], 1891
+- Brandes, Georg, [[Ferdinand Lassalle]], 1911
+- Branfoot, A. I. S., [[A Critical Study of the Narodnik Movement]], 1926
+- Brauer, Theodor, [[Ketteler der deutsche Bischof und Sozialreformer]], 1927
+- Brauer, Theodor, [[Ketteler, der deutsche Bischof des 19. Jahrhunderts]], 1924
+- Brenan, Gerald, [[The Spanish Labyrinth]], 1943
+- Brissenden, Paul F., [[The I. W. W.: A Study of American Syndicalism]], 1918
+- Brousse, Paul, [[Le Marxisme dans l'Internationale]], París, 1882
+- Buchanan, J. R., [[The Story of a Labor Agitator]], 1903
+- Burgess, J., [[John Burns: the Rise and Progress of a Right Honourable]], 1911
+- Burns, Emile, [[A Handbook of Marxism]], 1935
+- Carpenter, Edward, [[Civilisation, its Cause and Cure]], 1891
+- Carpenter, Edward, [[My Days and Dreams]], 1916
+- Carpenter, Edward, [[Towards Democracy]], 1883; edición ampliada, 1905
+- Carr, Edward Hallett, [[Michael Bakunin]], 1937
+- Carr, Edward Hallett, [[Michael Bakunin]], Londres, 1937
 - Carr, Edward Hallett, [[The Romantic Exiles]], 1933
-- Labry, Raoul, [[Alexandre Ivanovitch Herzen]], 1928
-- Plekhanov, Georgi Valentinovich, [[N. G. Tschernischewsky]], Stuttgart, 1894
-- Steklov, Yuri, [[N. Tschernischewsky, ein Lebensbild]], 1913
-- Chernyshevsky, Nikolái, [[Select Philosophical Essays]], trad. inglesa, 1953
+- Chamberlain, Joseph, [[Unauthorised Programme]], 1885
 - Chernyshevsky, Nikolái, [[L'Économie politique jugée par la science]], trad. francesa, Bruselas, 1874
 - Chernyshevsky, Nikolái, [[La possession communale du sol]], trad. francesa, París, 1903
 - Chernyshevsky, Nikolái, [[Letters sans adresse]], trad. francesa, Lieja, 1874
-- Lavrov, Piotr, [[Cartas históricas]], trad. alemana, 1901; trad. francesa, 1903, Original: [[Исторические письма]]
-- Lavrov, Piotr, [[Un ensayo acerca de la historia del pensamiento moderno]], Ginebra, 1888-1894
-- Lavrov, Piotr, [[Los problemas del conocimiento histórico]], Moscú, 1898
-- Bertrand, Louis, [[Histoire de la démocratie et du socialisme en Belgique depuis 1830]], 2 vols., 1906-1907
-- Bertrand, Louis, [[Histoire de la coopération en Belgique]], 2 vols., 1903
-- Bertrand, Louis, [[La Belgique en 1866]], 1880
-- Bertrand, Louis, [[La Belgique économique, sociale et financière de 1830 à 1900]]
-- Bertrand, Louis, [[Souvenirs d'un meneur socialiste]], 1927
-- Destrée, Jules; Vandervelde, Émile, [[Histoire du socialisme en Belgique]], 1898
-- Colins, Jean Guillaume César Alexandre Hippolyte, [[Socialisme rationnel]], 3 vols., 1851
-- Colins, Jean Guillaume César Alexandre Hippolyte, [[Qu'est-ce que la science sociale?]], 4 vols., 1851-1854
+- Chernyshevsky, Nikolái, [[Select Philosophical Essays]], trad. inglesa, 1953
+- Claretie, Jules, [[Histoire de la révolution de 1870-71]], 5 vols., París, 1874-1876
+- Clayton, Joseph, [[The Rise and Decline of Socialism in Great Britain]], 1926
+- Cluseret, Gustave, [[Mémoires]], 1877-1878
+- Cole, G. D. H., [[British Working-Class Politics, 1832-1914]], 1941
+- Cole, G. D. H., [[John Burns]], 1943
+- Cole, G. D. H., [[The Meaning of Marxism]], 1948
+- Cole, G. D. H.; Postgate, R. W., [[The Common People]], edición revisada, 1946
+- Cole, Margaret (ed.), [[The Webbs and their Work]], 1949
+- Cole, Margaret, [[Beatrice Webb]], 1945
 - Colins, Jean Guillaume César Alexandre Hippolyte, [[De la justice dans la science, hors l'Église et hors la Révolution]], 3 vols., 1860
 - Colins, Jean Guillaume César Alexandre Hippolyte, [[La Science sociale]], 15 vols., 1857-1896
-- Hugentobler, A., [[L'Extinction du paupérisme]], 1867
-- Parent, G., [[Le Socialisme de Colins]], 1912
-- Kats, Jacob, [[Het boek des volks]], 1840
-- Kats, Jacob, [[Werk en kapitaal]], 1872
-- Kats, Jacob, [[La Situation de l'ouvrier]], francés, 1864
-- Kuypers, Julius, [[Biografía de Jacob Kats]], 1930
+- Colins, Jean Guillaume César Alexandre Hippolyte, [[Qu'est-ce que la science sociale?]], 4 vols., 1851-1854
+- Colins, Jean Guillaume César Alexandre Hippolyte, [[Socialisme rationnel]], 3 vols., 1851
+- Commons, John R.; colaboradores, [[A Documentary History of American Industrial Society]], 10 vols., 1910-1911
+- Commons, John R.; colaboradores, [[History of Labor in the United States]], 2 vols., 1918
+- Commons, John R.; colaboradores, [[History of Labor in the United States]], 4 vols., 1918-1919
+- Commons, John R.; colaboradores, [[History of Labor in the United States]], 4 vols., 1918-1935
+- Compère-Morel, Adéodat (ed.), [[Encyclopédie socialiste, syndicale et coopérative de l'Internationale ouvrière]], 8 vols., 1912-1913
+- Compère-Morel, Adéodat, [[Grand Dictionnaire Socialiste]], 1924
+- Costa, Gaston da, [[La Commune vécue]], 3 vols., 1903-1905
+- Costa, Gaston da, [[Les Blanquistes]], 1912
+- Croce, Benedetto, [[History of Italy from 1870 to 1915]], trad. inglesa, 1929, Original: [[Storia d'Italia dal 1871 al 1915]]
+- Crosser, Paul K., [[Ideologies and American Labor]], 1941
+- David, Henry, [[The History of the Haymarket Affair]], 1936
+- Dawson, William Harbutt, [[German Socialism and Ferdinand Lassalle]], 1888
+- Dawson, William Harbutt, [[The Evolution of Modern Germany]], 1908
 - De Keyser, Jan Baptist, [[Het natuur in regt]], 1854
 - De Keyser, Jan Baptist, [[L'Enfant de la Révolution]], francés, 1830
-- Turenhoudt, E. V., [[Louis de Potter]], Bruselas, 1946
-- De Potter, Louis, [[De la révolution à faire d'après l'expérience des révolutions avortées]], París, 1831
-- De Potter, Louis, [[Révolution belge: souvenirs personnels]], 2 vols., Bruselas, 1839
-- De Potter, Louis, [[Études sociales]], 2 vols., Bruselas, 1841-1843
-- De Potter, Louis, [[A. B. C. de la science sociale]], Bruselas, 1848
-- De Potter, Louis, [[Les Belges de 1830 et la Belgique en 1850]], Bruselas, 1850
-- De Potter, Louis, [[Catéchisme sociale]], Bruselas, 1850
-- De Potter, Louis, [[Dictionnaire rationnel]], Bruselas, 1852
-- De Potter, Louis, [[Souvenirs]], 1900
-- De Potter, Agathon, [[M. Poulin et le socialisme]], 1875
-- De Potter, Agathon, [[Économie sociale]], 2 vols., 1874
-- Bernstein, Eduard (ed.), [[Gesammelte Reden und Schriften]], Ferdinand Lassalle, 12 vols., Berlín, 1919-1920
-- Mayer, Gustav (ed.), [[Nachgelassene Briefe und Schriften]], Ferdinand Lassalle, 6 vols., Stuttgart, 1921-1925
-- Mayer, Gustav (ed.), [[Bismarck und Lassalle, ihr Briefwechsel und ihre Gespräche]], Berlín, 1928
-- Herwegh, Marcel (ed.), [[Ferdinand Lassalles Briefe an Georg Herwegh]], Zúrich, 1896
-- Lassalle, Ferdinand, [[Briefe an Hans von Bülow]], Dresde, 1893
-- Bernstein, Eduard (ed.), [[Intime Briefe F. Lassalles an Eltern und Schwester]], Berlín, 1905
-- Lassalle, Ferdinand, [[Open Letter to the National Labor Association of Germany]], trad. J. Ehrmann y F. Bader
-- Lassalle, Ferdinand, [[The Working Man's Programme]], trad. Edward Peters
-- Lassalle, Ferdinand, [[What is Capital?]], trad. F. Keddell, Nueva York, 1900, Original: [[Herr Bastiat-Schultze von Delitzsch]]
-- Lassalle, Ferdinand, [[Science and the Working Man]], trad. Thorstein Veblen
-- Bernstein, Eduard, [[Ferdinand Lassalle as a Social Reformer]], 1893
-- Brandes, Georg, [[Ferdinand Lassalle]], 1911
-- Dawson, William Harbutt, [[German Socialism and Ferdinand Lassalle]], 1888
-- Footman, David, [[The Primrose Path]], 1946
-- Russell, Bertrand, [[German Social Democracy]], 1896
-- Oncken, Hermann, [[Lassalle: eine politische Biographie]], 1912
-- Bernstein, Eduard, [[Ferdinand Lassalle, eine Würdigung des Lehrers und Kämpfers]], 1919
-- Becker, Bernhard, [[Geschichte der Arbeiter-Agitation Ferdinand Lassalles]], 1874
-- Thier, Eugen, [[Rodbertus, Lassalle, Adolph Wagner]], 1930
-- Mehring, Franz, [[Life of Karl Marx]], trad. inglesa, 1936, Original: [[Karl Marx: Geschichte seines Lebens]]
-- Marx, Karl; Engels, Friedrich, [[Correspondencia de Marx y Engels]]
-- Guillaume, James, [[L'Internationale, documents et souvenirs, 1864-1878]], 4 vols., París, 1905-1910
-- Villetard, F., [[History of the International]], trad. estadounidense, New Haven, 1874, Original: [[Histoire de l'Internationale]], París, 1872
-- Eichhoff, Wilhelm, [[Die internationale Arbeiterassociation]], Berlín, 1868
-- Testut, Oscar, [[L'Association internationale des travailleurs]], Lyon, 1870
-- Testut, Oscar, [[Le Livre bleu de l'Internationale]], París, 1871
-- Testut, Oscar, [[L'Internationale et le jacobinisme au ban de l'Europe]], París, 1872
-- Brousse, Paul, [[Le Marxisme dans l'Internationale]], París, 1882
-- Marx, Karl; Engels, Friedrich, [[Les Prétendues Scissions dans l'Internationale]], Ginebra, 1872
-- Marx, Karl; Engels, Friedrich, [[L'Alliance de la démocratie socialiste et l'association internationale des travailleurs]], 1873
-- Fédération jurassienne, [[Mémoire adressé par la fédération jurassienne de l'association internationale des travailleurs à toutes les fédérations de l'Internationale]], Sonvillier, 1873
-- [[Procès de l'association internationale des travailleurs. Première et Deuxième Commissions du bureau de Paris]], París, junio de 1870
-- [[Troisième Procès]], París, julio de 1870
-- [[Les Séances officielles de l'Internationale à Paris pendant le siège et pendant la Commune]], París, 1872
-- Zasúlich, Vera, [[Sketch of the History of the International]], 1889
-- Steklov, Yuri M., [[Historia de la Primera Internacional]], trad. inglesa, Londres, 1928, Original: [[История Первого Интернационала]], ruso, 1918
-- Postgate, Raymond W., [[The Workers' International]], Londres, 1920
-- Jaeckh, Gustav, [[The International: A Sketch]], trad. inglesa, 1904, Original: [[Die Internationale]], Leipzig, 1904
-- Meyer, Rudolf, [[Der Emanzipationskampf des vierten Standes]], Berlín, 1874
-- Preudeau, M., [[Michel Bakounine: le collectivisme dans l'Internationale]], París, 1912
-- Carr, Edward Hallett, [[Michael Bakunin]], Londres, 1937
-- Mehring, Franz, [[Karl Marx: Geschichte seines Lebens]]
-- Marx, Karl, [[La Guerra Civil en Francia]], 1871, Original: [[Der Bürgerkrieg in Frankreich]]
-- Lissagaray, Prosper-Olivier, [[History of the Commune of 1871]], trad. Eleanor Marx Aveling, Londres, 1886, Original: [[Histoire de la Commune de 1871]], Bruselas, 1876
-- Lanjalley, P.; Corriez, P., [[Histoire de la révolution du 18 mars]], 1871
-- Claretie, Jules, [[Histoire de la révolution de 1870-71]], 5 vols., París, 1874-1876
-- Du Camp, Maxime, [[Les Convulsions de Paris]], 4 vols., París, 1878
-- Simon, Jules, [[Le Gouvernement de M. Thiers]], París, 1878
-- Jellinek, Frank, [[The Paris Commune of 1871]], Londres, 1937
-- Lepelletier, Edmond, [[Histoire de la Commune de 1871]], 4 vols., París, 1911-1913
-- Dubreuil, Louis, [[Histoire de la Commune]], en [[Histoire socialiste]] de Jean Jaurès, Vol. XI
-- Bourgin, Georges, [[Histoire de la Commune]], 1925
-- Bourgin, Georges, [[Les Premières Journées de la Commune]], París, 1928
-- Laronze, Georges, [[Histoire de la Commune de 1871]], 1928
-- Mason, Edward S., [[The Paris Commune]], Nueva York, 1930
-- Weill, Georges, [[Histoire du mouvement social en France, 1852-1902]], 1904; ed. revisada, 1924
-- Lenin, Vladimir Ilich, [[The Paris Commune]], recopilación de escritos, trad. inglesa, 1933
-- Lenin, Vladimir Ilich, [[El Estado y la revolución]], 1917, Original: [[Государство и революция]]
-- Kropotkin, Piotr, [[La Comuna de París]], 1891
-- Bax, Ernest Belfort; Dave, Victor; Morris, William, [[A Short Account of the Paris Commune]], 1886
-- Allemane, Jean, [[Mémoires d'un communard]], París, s.f.
-- Beslay, Charles, [[Mes Souvenirs]], 1873
-- Beslay, Charles, [[La Vérité sur la Commune]], 1877
-- Cluseret, Gustave, [[Mémoires]], 1877-1878
-- Costa, Gaston da, [[La Commune vécue]], 3 vols., 1903-1905
-- Flourens, Gustave, [[Paris livré]], 1871
-- Guesde, Jules, [[Ça et là]], 1914
-- Jourde, François, [[Souvenirs d'un membre de la Commune]], 1877
-- Lefrançais, Gustave, [[Souvenirs d'un révolutionnaire]], 1902
-- Malon, Benoît, [[La Troisième Défaite du prolétariat français]], 1871
-- Michel, Louise, [[La Commune]], 1898
-- Rossel, Louis-Nathaniel, [[Papiers posthumes]], 1871
-- Vallès, Jules, [[L'Insurgé]], 1886
-- Vésinier, Paul, [[Comment a péri la Commune?]], 1892
-- Vuillaume, Maxime, [[Mes Cahiers rouges au temps de la Commune]], 10 vols., 1908-1914
-- Hugo, Victor, [[L'Année terrible]], 1872
-- Halévy, Ludovic, [[Notes et souvenirs, 1871-1872]], 1888
-- Vizetelly, Edward A., [[My Adventures in the Commune]], 1914
-- [[Journal Officiel de la Commune]], reimpresión en volumen, París, 1879
-- Dommanget, Maurice, [[Eugène Varlin]], 1926
-- Faillet, E., [[Biographie de Varlin]], 1885
-- Prolès, Charles, [[Les Hommes de la Révolution]], 1898
-- Rae, John, [[Contemporary Socialism]], 1884
-- Gide, Charles; Rist, Charles, [[History of Economic Doctrines]], trad. inglesa, 1915, Original: [[Histoire des doctrines économiques]]
-- Goldscheid, Rudolf, [[Staatssozialismus oder Staatskapitalismus]], 1917
-- Desroches, Henri; Hubert, Charles, [[La Signification du marxisme]], 1948
-- Marx, Karl, [[A Contribution to the Critique of Political Economy]], trad. I. N. Stone, 1909, Original: [[Zur Kritik der politischen Ökonomie]], 1859
-- Marx, Karl, [[Capital: A Critical Analysis of Capitalist Production]], trad. Samuel Moore y Edward Aveling, 1887, Original: [[Das Kapital, Kritik der politischen Ökonomie, Band I]], 1867
-- Marx, Karl, [[Le Capital]], trad. Joseph Roy, corregida por Marx, 1875, Original: [[Das Kapital, Kritik der politischen Ökonomie, Band I]], 1867
-- Marx, Karl, [[Capital]], trad. Ernest Untermann, Chicago, 1906, Original: [[Das Kapital, Kritik der politischen Ökonomie, Band I]], 1867
-- Marx, Karl, [[Capital]], trad. Eden y Cedar Paul, Londres, 1928, Original: [[Das Kapital, Kritik der politischen Ökonomie, Band I]], 1867
-- Marx, Karl, [[The Theory of Value]], Londres, 1890, selección de los nueve primeros capítulos de [[Das Kapital]]
-- Marx, Karl, [[Capital]], trad. Ernest Untermann, 1907, Original: [[Das Kapital, Kritik der politischen Ökonomie, Band II]], 1885
-- Marx, Karl, [[Capital]], trad. Ernest Untermann, Chicago, 1909, Original: [[Das Kapital, Kritik der politischen Ökonomie, Band III]], 1894
-- Marx, Karl, [[Theorien über den Mehrwert]], ed. Karl Kautsky, 1905-1910
-- Marx, Karl, [[Théories sur la plus-value]], trad. francesa, 8 vols., 1924-1925, Original: [[Theorien über den Mehrwert]]
-- Bonner, G. A.; Burns, Emile (eds.), [[Theories of Surplus Value]], trad. inglesa, 1953, Original: [[Theorien über den Mehrwert]]
-- Aveling, Edward, [[The Student's Marx]], 1891
-- Kautsky, Karl, [[The Economic Doctrines of Karl Marx]], trad. inglesa, 1925, Original: [[Karl Marx' ökonomische Lehren]]
-- Borchardt, Julian, [[The People's Marx]], trad. inglesa, 1921
-- Burns, Emile, [[A Handbook of Marxism]], 1935
-- Mehring, Franz (ed.), [[Aus dem literarischen Nachlass von Karl Marx, Friedrich Engels und Ferdinand Lassalle]], 4 vols., 1902
-- Marx, Karl, [[Value, Price and Profit]], primera edición inglesa, 1865, Original: [[Lohn, Preis und Profit]]
-- Marx, Karl, [[Wage-Labour and Capital]], trad. J. L. Joynes, 1885, Original: [[Lohnarbeit und Kapital]], 1849
-- Ketteler, Wilhelm Emmanuel von, [[Freiheit, Autorität und Kirche]], 1862
-- Ketteler, Wilhelm Emmanuel von, [[Die Arbeiterfrage und das Christenthum]], 1864
-- Ketteler, Wilhelm Emmanuel von, [[Deutschland nach dem Kriege von 1866]], 1867
-- Ketteler, Wilhelm Emmanuel von, [[Liberalismus, Socialismus und Christenthum]], 1871
-- Ketteler, Wilhelm Emmanuel von, [[Predigten]], 2 vols., 1878
-- Ketteler, Wilhelm Emmanuel von, [[Ausgewählte Schriften]], ed. J. Mumbauer, 3 vols., 1924
-- Pfülf, Otto, [[Bischof Ketteler]], 3 vols., 1899
-- Vigener, Friedrich, [[Ketteler, ein deutsches Bischofsleben des 19. Jahrhunderts]], 1924
-- Brauer, Theodor, [[Ketteler, der deutsche Bischof des 19. Jahrhunderts]], 1924
-- Brauer, Theodor, [[Ketteler der deutsche Bischof und Sozialreformer]], 1927
-- Neufeind, M. M., [[Bischof Ketteler und die soziale Frage seiner Zeit]], 1927
-- Hitze, Franz, [[Die soziale Frage]], 1877
-- Hitze, Franz, [[Kapital und Arbeit]], 1881
-- Hitze, Franz, [[Die Arbeiterfrage]], 1899
-- Hitze, Franz, [[Zur Würdigung der deutschen Arbeiter-Sozialpolitik]], 1913
-- Müller, F., [[Frank Hitze und sein Werk]], 1928
-- Vogelsang, Karl von, [[Gesammelte Aufsätze über Socialpolitik]], 1885-1886
-- Vogelsang, Karl von, [[Vogelsang: Extraits de ses œuvres]], 2 vols., francés, 1905, Original: [[Gesammelte Aufsätze über Socialpolitik]]
-- Schwalber, J., [[Vogelsang und die moderne christlichsoziale Politik]], 1927
-- Meyer, Rudolf, [[The Struggle for the Emancipation of the Fourth Estate]], 2 vols., 1874-1875, Original: [[Der Emanzipationskampf des vierten Standes]]
-- Ratzinger, Georg, [[Die Volkswirtschaft in ihren sittlichen Grundlagen]], 1881; ed. ampliada, 1895
-- De Mun, Albert, [[Discours et écrits divers]], 7 vols., 1888-1904
+- De Leon, Daniel, [[As to Politics]], artículos reimpresos, 1935
+- De Leon, Daniel, [[Principles of Industrial Unionism]], 1905
+- De Leon, Daniel, [[Reform or Revolution]], 1899
+- De Leon, Daniel, [[Socialism versus Anarchism]], 1901
+- De Leon, Daniel, [[Socialist Reconstruction of Society]], 1905
+- De Leon, Daniel, [[Speeches and Editorials]], 2 vols.
+- De Leon, Daniel, [[The Burning Question of Trade Unionism]], 1904
+- De Leon, Daniel, [[Two Pages from Roman History]], 1908
+- De Leon, Daniel, [[What Means This Strike?]], 1898
 - De Mun, Albert, [[Combats d'hier et d'aujourd'hui]], 6 vols., 1910-1916
+- De Mun, Albert, [[Discours et écrits divers]], 7 vols., 1888-1904
 - De Mun, Albert, [[Ma vocation sociale]], 1908
-- Giraud, Victor, [[Un Grand Français: Albert de Mun]], 1918
-- Piou, Jacques, [[Le Comte Albert de Mun]], 1925
-- Moon, Parker T., [[The Labor Problem and the Social Catholic Movement in France]], Nueva York, 1921
-- Périn, Charles, [[De la Richesse dans les sociétés chrétiennes]], 1861
-- Périn, Charles, [[Les Lois de la société chrétienne]], 1875
-- [[The Pope and the People: Select Letters and Addresses on Social Questions]], 1902; ed. revisada, 1943
-- Bertrand, Louis, [[Biografía de César De Paepe]], Bruselas, 1909
-- Bertrand, Louis, [[Histoire de la démocratie et du socialisme en Belgique depuis 1830]], 2 vols., 1906-1907
-- Malon, Benoît, [[Histoire du socialisme]], Vol. IV
 - De Paepe, César, [[Cours d'économie sociale]], publicado en [[L'Économie sociale]], 1875-1876
-- De Paepe, César, [[Objet de la science économique]], publicado por entregas en [[La Société nouvelle]], 1888-1890
-- De Paepe, César, [[Rapport sur la coopération, le crédit mutuel et le travail des femmes]], Lausana, 1867
-- De Paepe, César, [[Mémoires sur la propriété terrienne]], Bruselas, 1868; Basilea, 1869
 - De Paepe, César, [[Essai sur l'organisation des services publics]], Bruselas, 1874
 - De Paepe, César, [[Examen de quelques questions sociales]], Bruselas, 1866
-- Carr, Edward Hallett, [[Michael Bakunin]], 1937
-- Langhard, J., [[Die anarchistische Bewegung in der Schweiz]]
-- Kropotkin, Piotr, [[Memoirs of a Revolutionist]], 1906
-- Michels, Robert, [[Il proletariato e la borghesia nel movimento socialista italiano]], 1908
-- Michels, Robert, [[Storia critica del movimento socialista italiano]], 1926
-- Angiolini, A.; Ciacchi, E., [[Socialismo e socialisti in Italia]], 1920
-- Valiani, Leo, [[Storia del movimento socialista]], Vol. I, 1951
-- Croce, Benedetto, [[History of Italy from 1870 to 1915]], trad. inglesa, 1929, Original: [[Storia d'Italia dal 1871 al 1915]]
-- Brenan, Gerald, [[The Spanish Labyrinth]], 1943
+- De Paepe, César, [[Mémoires sur la propriété terrienne]], Bruselas, 1868; Basilea, 1869
+- De Paepe, César, [[Objet de la science économique]], publicado por entregas en [[La Société nouvelle]], 1888-1890
+- De Paepe, César, [[Rapport sur la coopération, le crédit mutuel et le travail des femmes]], Lausana, 1867
+- De Potter, Agathon, [[Économie sociale]], 2 vols., 1874
+- De Potter, Agathon, [[M. Poulin et le socialisme]], 1875
+- De Potter, Louis, [[A. B. C. de la science sociale]], Bruselas, 1848
+- De Potter, Louis, [[Catéchisme sociale]], Bruselas, 1850
+- De Potter, Louis, [[De la révolution à faire d'après l'expérience des révolutions avortées]], París, 1831
+- De Potter, Louis, [[Dictionnaire rationnel]], Bruselas, 1852
+- De Potter, Louis, [[Études sociales]], 2 vols., Bruselas, 1841-1843
+- De Potter, Louis, [[Les Belges de 1830 et la Belgique en 1850]], Bruselas, 1850
+- De Potter, Louis, [[Révolution belge: souvenirs personnels]], 2 vols., Bruselas, 1839
+- De Potter, Louis, [[Souvenirs]], 1900
+- Denis, Henri, [[Histoire des systèmes économiques et socialistes]], 2 vols., 1904-1907
+- Desroches, Henri; Hubert, Charles, [[La Signification du marxisme]], 1948
+- Destrée, Jules; Vandervelde, Émile, [[Histoire du socialisme en Belgique]], 1898
+- Diehl, Karl, [[Über Sozialismus, Kommunismus und Anarchismus]], 1911
+- Diehl, Karl, [[Über Sozialismus, Kommunismus und Anarchismus]], Jena, c. 1911
+- Dolléans, Édouard, [[Histoire du mouvement ouvrier, Vol. I (1830-1871)]], 1936
+- Dolléans, Édouard, [[Histoire du mouvement ouvrier, Vol. II (1871-1936)]], 1939
 - Dolléans, Édouard, [[Histoire du mouvement ouvrier]], Vol. II, 1939
-- Weill, Georges, [[Histoire du mouvement social en France, 1852-1924]], 1924
-- Louis, Paul, [[Histoire du socialisme en France]], rev. 1950
-- Jaurès, Jean, [[Histoire socialiste]], Vol. XI, 1908
-- Zévaès, Alexandre, [[De la semaine sanglante au Congrès de Marseille]], 1911
-- Costa, Gaston da, [[Les Blanquistes]], 1912
-- Beer, Max, [[History of British Socialism]], Vol. II, ed. revisada, 1929
-- Rothstein, Theodore, [[From Chartism to Labourism]], 1929
-- Hillquit, Morris, [[History of Socialism in the United States]], ed. revisada, 1910
-- Commons, John R.; colaboradores, [[History of Labor in the United States]], 4 vols., 1918-1919
+- Dolléans, Édouard, [[Histoire du mouvement ouvrier]], Vol. II, 1939
+- Dommanget, Maurice, [[Eugène Varlin]], 1926
+- Du Camp, Maxime, [[Les Convulsions de Paris]], 4 vols., París, 1878
+- Dubois, F., [[Le Péril anarchiste]], 1885
+- Dubreuil, Louis, [[Histoire de la Commune]], en [[Histoire socialiste]] de Jean Jaurès, Vol. XI
 - Egbert, Donald Drew; Persons, Stow (eds.), [[Socialism and American Life]], 2 vols., Princeton, 1952
-- Bakunin, Mijaíl, [[God and the State]], trad. Benjamin R. Tucker, 1883, Original: [[Бог и государство]]
-- Hepner, Benoît P., [[Bakounine et le panslavisme révolutionnaire]], 1950
-- Nettlau, Max (ed.), [[Œuvres de Bakounine]], Vol. I, París, 1895
-- Guillaume, James (ed.), [[Œuvres de Bakounine]], Vols. II-VI, París, 1895-1913
-- Steklov, Yuri M., [[Biografía de Bakunin]], 4 vols., ruso, 1934-1936
-- Kenafick, K. J., [[Michael Bakunin and Karl Marx]], Melbourne, 1948
-- Russell, Bertrand, [[German Social Democracy]], 1896
-- Ely, Richard T., [[French and German Socialism in Modern Times]], 1883
-- Rosenberg, Arthur, [[The Origins of the German Republic]], trad. inglesa, 1931, Original: [[Entstehung der deutschen Republik]]
-- Rosenberg, Arthur, [[Democracy and Socialism]], trad. inglesa, 1939
-- Dawson, William Harbutt, [[The Evolution of Modern Germany]], 1908
-- Bebel, August, [[My Life]], trad. inglesa abreviada, 1912, Original: [[Aus meinem Leben]], 3 vols., alemán, 1911
-- Mehring, Franz, [[Geschichte der deutschen Sozialdemokratie]], 4 vols., ed. revisada, 1922
-- Neumann, Sigmund, [[Die deutschen Parteien]], 1932
-- Lipinski, Richard, [[Die Sozialdemokratie]], 2 vols., 1927-1928
-- Milhaud, Edgar, [[La Démocratie socialiste allemande]], 1903
+- Egbert, Douglas G.; Persons, Stow, [[Socialism and American Life]], Vol. II, 1952
+- Eichhoff, Wilhelm, [[Die internationale Arbeiterassociation]], Berlín, 1868
 - Eisner, Kurt, [[Wilhelm Liebknecht, sein Leben und Wirken]], 1906
-- Becker, Bernhard, [[Geschichte der Arbeiter-Agitation Ferdinand Lassalles]], 1874
-- Rocker, Rudolf, [[Johann Most]], 1924
-- Sombart, Werner, [[Socialism and the Social Movement]], trad. inglesa, 1909, Original: [[Sozialismus und soziale Bewegung]]
-- Mehring, Franz, [[Life of Karl Marx]], trad. inglesa, 1936, Original: [[Karl Marx: Geschichte seines Lebens]]
+- Eltzbacher, Paul, [[Anarchism]], trad. inglesa, 1908, Original: [[Der Anarchismus]], Berlín, 1900
+- Ely, Richard T., [[French and German Socialism in Modern Times]], 1883
+- Ely, Richard T., [[The Labor Movement in America]], 1890
+- Engels, Friedrich, [[Dialectics of Nature]], trad. C. P. Dutt, 1940, Original: [[Dialektik der Natur]]
+- Engels, Friedrich, [[Herr Eugen Dühring's Revolution in Science]], trad. Emile Burns, década de 1930, Original: [[Herr Eugen Dührings Umwälzung der Wissenschaft]], 1878
+- Engels, Friedrich, [[Landmarks of Scientific Socialism]], trad. A. Lewis, Chicago, 1907, Original: [[Herr Eugen Dührings Umwälzung der Wissenschaft]] (Anti-Dühring), 1878
+- Engels, Friedrich, [[Revolución y contrarrevolución en Alemania]], Original: [[Revolution and Counter-Revolution in Germany]], 1851
+- Engels, Friedrich, [[Umrisse zu einer Kritik der Nationalökonomie]], publicado en [[Deutsch-Französische Jahrbücher]], 1844
+- Ensor, R. C. K., [[Modern Socialism as Set Forth by Socialists]], 1903; edición revisada, 1910
+- Faillet, E., [[Biographie de Varlin]], 1885
+- Faure, Sébastien, [[La Douleur universelle]], 1895
+- Fédération jurassienne, [[Mémoire adressé par la fédération jurassienne de l'association internationale des travailleurs à toutes les fédérations de l'Internationale]], Sonvillier, 1873
+- Fine, Nathan, [[Labor and Farmer Parties in the United States, 1828-1928]], 1928
+- Flint, Robert, [[Socialism]], 1894
+- Flourens, Gustave, [[Paris livré]], 1871
+- Foner, Philip S., [[History of the Labor Movement in the United States to the Founding of the American Federation of Labor]], 1947
+- Footman, David, [[Red Prelude]], 1944
+- Footman, David, [[The Primrose Path]], 1946
+- Garin, J., [[L'Anarchie et les anarchistes]], 1885
+- Garvin, J. L., [[The Life of Joseph Chamberlain]], 1932-1934
+- Gautier, Émile, [[Le Darwinisme social]], 1880
+- George, Henry, [[A Perplexed Philosopher]], 1892
+- George, Henry, [[Complete Works]], 8 vols., 1906-1911
+- George, Henry, [[Our Land and Land Policy]], 1871
+- George, Henry, [[Progress and Poverty]], 1879
+- George, Henry, [[Protection or Free Trade?]], 1886
+- George, Henry, [[Social Problems]], 1883
+- George, Henry, [[The Condition of Labor]], 1891
+- George, Henry, [[The Irish Land Question]], 1881
+- George Jr., Henry, [[Life of Henry George]], 2 vols., 1911
+- Gide, Charles; Rist, Charles, [[History of Economic Doctrines]], trad. inglesa, 1915, Original: [[Histoire des doctrines économiques]]
+- Gillespie, F. E., [[Labour and Politics in England, 1850-1867]], 1927
+- Giraud, Victor, [[Un Grand Français: Albert de Mun]], 1918
+- Glasier, J. Bruce, [[William Morris and the Early Days of the Socialist Movement]], 1921
+- Goldscheid, Rudolf, [[Staatssozialismus oder Staatskapitalismus]], 1917
+- Gould, F. J., [[H. M. Hyndman, Prophet of Democracy]], 1928
+- Grave, Jean (ed.), [[Les Temps nouveaux]], 1895-1914
+- Grave, Jean, [[L'Anarchie, son but, ses moyens]], 1899
+- Grave, Jean, [[L'Individu et la société]], 1897
+- Grave, Jean, [[La Société au lendemain de la Révolution]], 1882
+- Grave, Jean, [[La Société future]], 1895
+- Grave, Jean, [[La Société mourante et l'anarchie]], 1893
+- Grave, Jean, [[Les Aventures de Nono]], 1901
+- Grave, Jean, [[Réformes-Révolution]], 1910
+- Gray, Alexander, [[The Socialist Tradition: Moses to Lenin]], 1946
+- Gronlund, Laurence, [[Our Destiny]], 1891
+- Gronlund, Laurence, [[The Co-operative Commonwealth]], 1884
+- Guesde, Jules, [[Ça et là]], 1914
+- Guesde, Jules, [[Ça et là]], 1914
+- Guesde, Jules, artículos en [[Égalité]], fundada en 1877
+- Guillaume, James (ed.), [[Œuvres de Bakounine]], Vols. II-VI, París, 1895-1913
+- Guillaume, James, [[L'Internationale, documents et souvenirs, 1864-1878]], 4 vols., París, 1905-1910
+- Guillaume, James, [[L'Internationale, documents et souvenirs]], 1905-1910
+- Halévy, Élie, [[Histoire du socialisme européen]]
+- Halévy, Ludovic, [[Notes et souvenirs, 1871-1872]], 1888
+- Hamilton, M. A., [[Sidney and Beatrice Webb]], 1933
+- Hamon, Augustin, [[Psychologie de l'anarchiste-socialiste]], 1895
+- Hamon, Augustin, [[Socialisme et anarchisme]], 1905
+- Haynes, Frederick Emory, [[Social Politics in the United States]], 1924
+- Henderson, Philip (ed.), [[The Letters of William Morris]]
+- Hepner, Benoît P., [[Bakounine et le panslavisme révolutionnaire]], 1950
+- Herwegh, Marcel (ed.), [[Ferdinand Lassalles Briefe an Georg Herwegh]], Zúrich, 1896
+- Herzen, Aleksandr, [[Cartas desde Italia y Francia]], 1871, Original: [[Lettres de France et d'Italie]]
+- Herzen, Aleksandr, [[Desde la otra orilla]], 1870, Original: [[С того берега]]
+- Herzen, Aleksandr, [[Du développement des idées révolutionnaires en Russie]], 1851
+- Herzen, Aleksandr, [[La Russie]], 1849
+- Herzen, Aleksandr, [[Letter to Michelet on the Russian People and Socialism]], 1855, Original: [[Lettre à Michelet sur le peuple russe et le socialisme]]
+- Herzen, Aleksandr, [[Lettre d'un Russe à Mazzini]], 1850
+- Herzen, Aleksandr, [[My Past and Thoughts]], 1924-1927, Original: [[Былое и думы]]
+- Herzen, Aleksandr, [[¿Quién tiene la culpa?]], 1847, Original: [[Кто виноват?]]
+- Hillquit, Morris, [[History of Socialism in the United States]], 1903
+- Hillquit, Morris, [[History of Socialism in the United States]], ed. revisada, 1910
+- Hitze, Franz, [[Die Arbeiterfrage]], 1899
+- Hitze, Franz, [[Die soziale Frage]], 1877
+- Hitze, Franz, [[Kapital und Arbeit]], 1881
+- Hitze, Franz, [[Zur Würdigung der deutschen Arbeiter-Sozialpolitik]], 1913
+- Hook, Sidney, [[Towards the Understanding of Karl Marx]], 1933
+- Hugentobler, A., [[L'Extinction du paupérisme]], 1867
+- Hugo, Victor, [[L'Année terrible]], 1872
+- Humphrey, A. W., [[History of Labour Representation]], 1912
+- Hyndman, H. M., [[Commercial Crises of the Nineteenth Century]], 1892
+- Hyndman, H. M., [[Economics of Socialism]], 1896
+- Hyndman, H. M., [[England for All]], 1881
+- Hyndman, H. M., [[Further Reminiscences]], 1912
+- Hyndman, H. M., [[Socialism and Slavery]], 1884
+- Hyndman, H. M., [[The Awakening of Asia]], 1919
+- Hyndman, H. M., [[The Evolution of Revolution]], 1920
+- Hyndman, H. M., [[The Future of Democracy]], 1915
+- Hyndman, H. M., [[The Historical Basis of Socialism]], 1883
+- Hyndman, H. M., [[The Record of an Adventurous Life]], 1911
+- Hyndman, H. M.; Bradlaugh, Charles, [[Will Socialism Benefit the English People?]], 1884
+- Hyndman, H. M.; Morris, William, [[A Summary of the Principles of Socialism]], 1884
+- Hyndman, Henry Mayers, [[Record of an Adventurous Life]], 1911
+- Hyndman, R. T., [[The Last Years of H. M. Hyndman]], 1923
+- Jaeckh, Gustav, [[The International: A Sketch]], trad. inglesa, 1904, Original: [[Die Internationale]], Leipzig, 1904
+- Jaurès, Jean, [[Histoire socialiste]], Vol. XI, 1908
+- Jellinek, Frank, [[The Paris Commune of 1871]], Londres, 1937
+- Jourde, François, [[Souvenirs d'un membre de la Commune]], 1877
+- Kamman, William F., [[Socialism in German American Literature]], 1917
+- Kats, Jacob, [[Het boek des volks]], 1840
+- Kats, Jacob, [[La Situation de l'ouvrier]], francés, 1864
+- Kats, Jacob, [[Werk en kapitaal]], 1872
+- Kautsky, Karl, [[The Economic Doctrines of Karl Marx]], trad. inglesa, 1925, Original: [[Karl Marx' ökonomische Lehren]]
+- Kautsky, Karl, [[The Workers' Programme]], 1892
+- Kenafick, K. J., [[Michael Bakunin and Karl Marx]], Melbourne, 1948
+- Kennan, George, [[Siberia and the Exile System]], 1891
+- Kent, W., [[John Burns: Labour's Lost Leader]], 1950
+- Kerby, William Joseph, [[Le Socialisme aux États-Unis]], 1897
+- Ketteler, Wilhelm Emmanuel von, [[Ausgewählte Schriften]], ed. J. Mumbauer, 3 vols., 1924
+- Ketteler, Wilhelm Emmanuel von, [[Deutschland nach dem Kriege von 1866]], 1867
+- Ketteler, Wilhelm Emmanuel von, [[Die Arbeiterfrage und das Christenthum]], 1864
+- Ketteler, Wilhelm Emmanuel von, [[Freiheit, Autorität und Kirche]], 1862
+- Ketteler, Wilhelm Emmanuel von, [[Liberalismus, Socialismus und Christenthum]], 1871
+- Ketteler, Wilhelm Emmanuel von, [[Predigten]], 2 vols., 1878
+- Kirkup, Thomas, [[History of Socialism]], 1892
+- Kirkup, Thomas, [[History of Socialism]], rev. Edward R. Pease, 1913
+- Knight, W. (ed.), [[Memorials of Thomas Davidson, the Wandering Scholar]], 1907
+- Kropotkin, Piotr, [[Agriculture]], 1893
+- Kropotkin, Piotr, [[An Appeal to the Young]], 1881
+- Kropotkin, Piotr, [[Anarchism, Its Philosophy and Ideal]], 1896
+- Kropotkin, Piotr, [[Anarchism]], artículo en [[Encyclopaedia Britannica]], edición de 1910
+- Kropotkin, Piotr, [[Anarchist Communism, Its Basis and Principles]]
+- Kropotkin, Piotr, [[Anarchist Morality]], 1891
+- Kropotkin, Piotr, [[Expropriation]]
+- Kropotkin, Piotr, [[Fields, Factories and Workshops]], 1899
+- Kropotkin, Piotr, [[Ideals and Realities in Russian Literature]], 1905
+- Kropotkin, Piotr, [[In Russian and French Prisons]], 1887
+- Kropotkin, Piotr, [[La Comuna de París]], 1891
+- Kropotkin, Piotr, [[Law and Authority]], 1882
+- Kropotkin, Piotr, [[Memoirs of a Revolutionist]], 1906
+- Kropotkin, Piotr, [[Memoirs of a Revolutionist]], trad. inglesa, 1906, Original: [[Записки революционера]]
+- Kropotkin, Piotr, [[Modern Science and Anarchism]], 1903
+- Kropotkin, Piotr, [[Mutual Aid]], 1902, Original: [[Mutual Aid: A Factor of Evolution]]
+- Kropotkin, Piotr, [[Revolutionary Government]]
+- Kropotkin, Piotr, [[Revolutionary Pamphlets]], ed. Roger N. Baldwin, 1927
+- Kropotkin, Piotr, [[The Commune of Paris]]
+- Kropotkin, Piotr, [[The Conquest of Bread]], 1892; trad. inglesa, 1913, Original: [[La Conquête du pain]]
+- Kropotkin, Piotr, [[The Great French Revolution]], 1909
+- Kropotkin, Piotr, [[The Place of Anarchism in Socialist Evolution]], 1887
+- Kropotkin, Piotr, [[The State: Its Historic Role]], 1893
+- Kropotkin, Piotr, [[The State: Its Part in History]], 1898
+- Kropotkin, Piotr, [[The Wage System]], 1889
+- Kropotkin, Piotr, [[War]]
+- Kropotkin, Piotr, [[Wars and Capitalism]]
+- Kuypers, Julius, [[Biografía de Jacob Kats]], 1930
+- Labry, Raoul, [[Alexandre Ivanovitch Herzen]], 1928
+- Laidler, Harry W., [[A History of Socialist Thought]], 1927
+- Laidler, Harry W., [[Social-Economic Movements]], 1944
+- Laidler, Harry W., [[Socialism in Thought and Action]], 1920
+- Langhard, J., [[Die anarchistische Bewegung in der Schweiz]]
+- Langhard, J., [[Die anarchistische Bewegung in der Schweiz]], 1903
+- Lanjalley, P.; Corriez, P., [[Histoire de la révolution du 18 mars]], 1871
+- Laronze, Georges, [[Histoire de la Commune de 1871]], 1928
+- Lassalle, Ferdinand, [[Briefe an Hans von Bülow]], Dresde, 1893
+- Lassalle, Ferdinand, [[Open Letter to the National Labor Association of Germany]], trad. J. Ehrmann y F. Bader
+- Lassalle, Ferdinand, [[Science and the Working Man]], trad. Thorstein Veblen
+- Lassalle, Ferdinand, [[The Working Man's Programme]], trad. Edward Peters
+- Lassalle, Ferdinand, [[What is Capital?]], trad. F. Keddell, Nueva York, 1900, Original: [[Herr Bastiat-Schultze von Delitzsch]]
+- Laveleye, Émile de, [[The Socialism of To-day]], trad. inglesa, 1884, Original: [[Le socialisme contemporain]]
+- Lavrov, Piotr, [[Cartas históricas]], trad. alemana, 1901; trad. francesa, 1903, Original: [[Исторические письма]]
+- Lavrov, Piotr, [[Los problemas del conocimiento histórico]], Moscú, 1898
+- Lavrov, Piotr, [[Un ensayo acerca de la historia del pensamiento moderno]], Ginebra, 1888-1894
+- Lawrence, E. P., artículos sobre Henry George en [[Journal of Economics and Sociology]], julio y octubre de 1951
+- Lee, H. W.; Archbold, E., [[Social Democracy in Britain]], 1935
+- Lefrançais, Gustave, [[Souvenirs d'un révolutionnaire]], 1902
+- Lenin, Vladimir Ilich, [[El Estado y la revolución]], 1917, Original: [[Государство и революция]]
+- Lenin, Vladimir Ilich, [[The Paris Commune]], recopilación de escritos, trad. inglesa, 1933
+- Lepelletier, Edmond, [[Histoire de la Commune de 1871]], 4 vols., París, 1911-1913
+- Leroy-Beaulieu, Paul, [[Collectivism]], trad. inglesa, 1908, Original: [[Le collectivisme]]
+- Levine, Louis, [[Syndicalism in France]], 1914
+- Lipinski, Richard, [[Die Sozialdemokratie]], 2 vols., 1927-1928
+- Lissagaray, Prosper-Olivier, [[History of the Commune of 1871]], trad. Eleanor Marx Aveling, Londres, 1886, Original: [[Histoire de la Commune de 1871]], Bruselas, 1876
+- Louis, Paul, [[Histoire du socialisme en France]], ed. revisada, 1950
+- Louis, Paul, [[Histoire du socialisme en France]], rev. 1950
+- Lum, Dyer D., [[The Trial of the Chicago Anarchists]], 1886
+- Mackail, J. W., [[The Life of William Morris]], 1899
+- Mackay, John Henry, [[Anarchistes: moeurs du jour]], 1892
+- Macy, John, [[Socialism in America]], 1916
+- Madison, Charles A., [[Critics and Crusaders]], 1947
+- Maitron, Jean, [[Histoire du mouvement anarchiste en France, 1880-1914]], 1951
+- Malatesta, Errico, [[A Talk about Anarchist Communism]]
+- Malatesta, Errico, [[Anarchy]], Original: [[L'Anarchia]]
+- Malatesta, Errico, [[Au café – dialogues sur le socialisme anarchiste]], 1902
+- Malatesta, Errico, [[Entre paysans]]
+- Malatesta, Errico, [[Il nostro programma]], 1903
+- Malatesta, Errico, [[La politica parlamentare nel movimento socialista]], 1890
+- Malatesta, Errico, [[Propaganda socialista fra contadini]], 1884
+- Malato, Charles, [[De la Commune à l'anarchie]], 1894
+- Malato, Charles, [[L'Homme nouveau]], 1898
+- Malato, Charles, [[Philosophie de l'anarchie]], 1889
+- Malato, Charles, [[Révolution chrétienne et révolution sociale]], 1891
+- Malon, Benoît, [[Histoire du socialisme]], 5 vols., 1882-1885
+- Malon, Benoît, [[Histoire du socialisme]], Vol. IV
+- Malon, Benoît, [[Histoire du socialisme]], Vol. V, cap. 31
+- Malon, Benoît, [[La Troisième Défaite du prolétariat français]], 1871
+- Marx, Karl, [[A Contribution to the Critique of Political Economy]], trad. I. N. Stone, 1909, Original: [[Zur Kritik der politischen Ökonomie]], 1859
+- Marx, Karl, [[Alocución a la Liga de los Comunistas]], 1850
+- Marx, Karl, [[Capital: A Critical Analysis of Capitalist Production]], trad. Samuel Moore y Edward Aveling, 1887, Original: [[Das Kapital, Kritik der politischen Ökonomie, Band I]], 1867
+- Marx, Karl, [[Capital]], trad. Eden y Cedar Paul, Londres, 1928, Original: [[Das Kapital, Kritik der politischen Ökonomie, Band I]], 1867
+- Marx, Karl, [[Capital]], trad. Ernest Untermann, 1907, Original: [[Das Kapital, Kritik der politischen Ökonomie, Band II]], 1885
+- Marx, Karl, [[Capital]], trad. Ernest Untermann, Chicago, 1906, Original: [[Das Kapital, Kritik der politischen Ökonomie, Band I]], 1867
+- Marx, Karl, [[Capital]], trad. Ernest Untermann, Chicago, 1909, Original: [[Das Kapital, Kritik der politischen Ökonomie, Band III]], 1894
+- Marx, Karl, [[El dieciocho brumario de Luis Bonaparte]], Original: [[Der achtzehnte Brumaire des Louis Bonaparte]], 1852
+- Marx, Karl, [[Enthüllungen über den Kommunisten-Prozess zu Köln]], Basilea, 1853
+- Marx, Karl, [[La Guerra Civil en Francia]], 1871, Original: [[Der Bürgerkrieg in Frankreich]]
+- Marx, Karl, [[Las luchas de clases en Francia, 1848-1850]], Original: [[Die Klassenkämpfe in Frankreich 1848 bis 1850]], 1850
+- Marx, Karl, [[Le Capital]], trad. Joseph Roy, corregida por Marx, 1875, Original: [[Das Kapital, Kritik der politischen Ökonomie, Band I]], 1867
+- Marx, Karl, [[The Theory of Value]], Londres, 1890, selección de los nueve primeros capítulos de [[Das Kapital]]
+- Marx, Karl, [[Theorien über den Mehrwert]], ed. Karl Kautsky, 1905-1910
+- Marx, Karl, [[Théories sur la plus-value]], trad. francesa, 8 vols., 1924-1925, Original: [[Theorien über den Mehrwert]]
+- Marx, Karl, [[Value, Price and Profit]], primera edición inglesa, 1865, Original: [[Lohn, Preis und Profit]]
+- Marx, Karl, [[Wage-Labour and Capital]], trad. J. L. Joynes, 1885, Original: [[Lohnarbeit und Kapital]], 1849
+- Marx, Karl; Engels, Friedrich, [[Correspondencia de Marx y Engels]]
+- Marx, Karl; Engels, Friedrich, [[L'Alliance de la démocratie socialiste et l'association internationale des travailleurs]], 1873
+- Marx, Karl; Engels, Friedrich, [[Les Prétendues Scissions dans l'Internationale]], Ginebra, 1872
+- Mason, Edward S., [[The Paris Commune]], Nueva York, 1930
+- Mayer, Gustav (ed.), [[Bismarck und Lassalle, ihr Briefwechsel und ihre Gespräche]], Berlín, 1928
+- Mayer, Gustav (ed.), [[Nachgelassene Briefe und Schriften]], Ferdinand Lassalle, 6 vols., Stuttgart, 1921-1925
 - Mayer, Gustav, [[Friedrich Engels]], 1934; trad. inglesa abreviada, 1936
 - Mayer, Gustav, [[Johann Baptist von Schweitzer und die Sozialdemokratie]], 1909
-- Engels, Friedrich, [[Umrisse zu einer Kritik der Nationalökonomie]], publicado en [[Deutsch-Französische Jahrbücher]], 1844
-- Engels, Friedrich, [[Landmarks of Scientific Socialism]], trad. A. Lewis, Chicago, 1907, Original: [[Herr Eugen Dührings Umwälzung der Wissenschaft]] (Anti-Dühring), 1878
-- Engels, Friedrich, [[Herr Eugen Dühring's Revolution in Science]], trad. Emile Burns, década de 1930, Original: [[Herr Eugen Dührings Umwälzung der Wissenschaft]], 1878
-- Engels, Friedrich, [[Dialectics of Nature]], trad. C. P. Dutt, 1940, Original: [[Dialektik der Natur]]
-- Böhm-Bawerk, Eugen von, [[Karl Marx and the Close of His System]], trad. inglesa, 1898, Original: [[Zum Abschluss des Marxschen Systems]], 1896
-- Cole, G. D. H., [[The Meaning of Marxism]], 1948
-- Robinson, Joan, [[An Essay on Marxian Economics]], 1942
-- Ryazanov, David, [[Marx and Engels]], trad. inglesa, 1927
-- Hook, Sidney, [[Towards the Understanding of Karl Marx]], 1933
-- Eltzbacher, Paul, [[Anarchism]], trad. inglesa, 1908, Original: [[Der Anarchismus]], Berlín, 1900
-- Zenker, Ernst Victor, [[Anarchism: A Criticism and History of the Anarchist Theory]], trad. inglesa, 1897, Original: [[Der Anarchismus]], 1895
-- Vizetelly, Ernest Alfred, [[The Anarchists]], 1911
-- Nettlau, Max, [[Die Vorfrühling der Anarchie]], 1925
-- Nettlau, Max, [[Der Anarchismus von Proudhon zu Kropotkin]], 1927
-- Nettlau, Max, [[Bibliographie de l'anarchie]], Bruselas, 1897
-- Diehl, Karl, [[Über Sozialismus, Kommunismus und Anarchismus]], Jena, c. 1911
-- Adler, Georg, [[Geschichte des Sozialismus und Kommunismus]], 1899
-- Stammler, Rudolf, [[Die Theorie des Anarchismus]], 1894
-- Garin, J., [[L'Anarchie et les anarchistes]], 1885
-- Dubois, F., [[Le Péril anarchiste]], 1885
-- Plekhanov, Georgi, [[Socialism and Anarchism]], trad. Eleanor Marx Aveling, 1908, Original: [[Социализм и политическая борьба / Социализм и анархизм]]
-- Malon, Benoît, [[Histoire du socialisme]], Vol. V, cap. 31
-- Naquet, Alfred, [[L'Anarchisme et le collectivisme]], 1904
-- Maitron, Jean, [[Histoire du mouvement anarchiste en France, 1880-1914]], 1951
-- Levine, Louis, [[Syndicalism in France]], 1914
-- Dolléans, Édouard, [[Histoire du mouvement ouvrier]], Vol. II, 1939
-- Louis, Paul, [[Histoire du socialisme en France]], ed. revisada, 1950
-- Yaroslavsky, Emelian, [[History of Anarchism in Russia]]
-- Brissenden, Paul F., [[The I. W. W.: A Study of American Syndicalism]], 1918
-- New York State Joint Legislative Committee Investigating Seditious Activities, [[Revolutionary Radicalism]], 4 vols., Albany, 1920
-- Commons, John R.; colaboradores, [[History of Labor in the United States]], 2 vols., 1918
-- Langhard, J., [[Die anarchistische Bewegung in der Schweiz]], 1903
-- Footman, David, [[Red Prelude]], 1944
-- Branfoot, A. I. S., [[A Critical Study of the Narodnik Movement]], 1926
-- Zilliacus, Konni, [[The Russian Revolutionary Movement]], trad. inglesa, 1905
-- Kennan, George, [[Siberia and the Exile System]], 1891
-- Stepniak, Sergei, [[Underground Russia]], 1882
-- Stepniak, Sergei, [[Russia under the Czars]], 1885
-- Stepniak, Sergei, [[The Career of a Nihilist]], 1889
-- Warren, Josiah, [[Equitable Commerce]], 1846
-- Warren, Josiah, [[True Civilisation]], c. 1850
-- Spooner, Lysander, [[Poverty: its Illegal Causes and Legal Cure]], 1846
-- Spooner, Lysander, [[An Essay on the Trial by Jury]], 1852
-- Andrews, Stephen Pearl, [[Constitution of Government in the Sovereignty of the Individual]], 1851
-- Andrews, Stephen Pearl, [[The Science of Society]], 1853
-- Tucker, Benjamin R., [[Instead of a Book]], 1893
-- Schuster, E. M., [[Native American Anarchism]], 1932
-- Bailie, William, [[Josiah Warren]], 1906
-- Spies, August, [[Autobiography]], 1887
-- Spies, August; Parsons, Albert R., [[The Great Anarchist Trial]], recopilación de discursos, 1886
-- Parsons, Albert R., [[Anarchism: Its Philosophy and Scientific Basis]], 1887
-- David, Henry, [[The History of the Haymarket Affair]], 1936
-- Parsons, Lucy E., [[Life of Albert R. Parsons]], 2ª ed., 1903
+- McNeill, George E., [[The Labor Movement]], 1887
+- Mehring, Franz (ed.), [[Aus dem literarischen Nachlass von Karl Marx, Friedrich Engels und Ferdinand Lassalle]], 4 vols., 1902
+- Mehring, Franz, [[Geschichte der deutschen Sozialdemokratie]], 4 vols., ed. revisada, 1922
+- Mehring, Franz, [[Karl Marx: Geschichte seines Lebens]]
+- Mehring, Franz, [[Life of Karl Marx]], trad. inglesa, 1936, Original: [[Karl Marx: Geschichte seines Lebens]]
+- Mehring, Franz, [[Life of Karl Marx]], trad. inglesa, 1936, Original: [[Karl Marx: Geschichte seines Lebens]]
+- Meyer, Rudolf, [[Der Emanzipationskampf des vierten Standes]], Berlín, 1874
+- Meyer, Rudolf, [[The Struggle for the Emancipation of the Fourth Estate]], 2 vols., 1874-1875, Original: [[Der Emanzipationskampf des vierten Standes]]
+- Michel, Louise, [[La Commune]], 1898
+- Michels, Robert, [[Il proletariato e la borghesia nel movimento socialista italiano]], 1908
+- Michels, Robert, [[Storia critica del movimento socialista italiano]], 1926
+- Milhaud, Edgar, [[La Démocratie socialiste allemande]], 1903
+- Moon, Parker T., [[The Labor Problem and the Social Catholic Movement in France]], Nueva York, 1921
+- Morgan, Arthur E., [[Edward Bellamy]], 1944
+- Morgan, Arthur E., [[The Philosophy of Edward Bellamy]], 1945
+- Morris, William, [[A Dream of John Ball]], 1888
+- Morris, William, [[Architecture, Industry and Wealth]], 1902
+- Morris, William, [[Art, Labour and Socialism]], 1884
+- Morris, William, [[Chants for Socialists]], 1884-1885
+- Morris, William, [[Communism]], 1903
+- Morris, William, [[Essays and Lectures on Art and Socialism]], 1947
+- Morris, William, [[Gothic Architecture]], 1893
+- Morris, William, [[Hopes and Fears for Art]], 1882
+- Morris, William, [[How I Became a Socialist]], 1896
+- Morris, William, [[Monopoly: or How Labour is Robbed]], 1890
+- Morris, William, [[News from Nowhere]], 1891
+- Morris, William, [[Signs of Change]], 1888
+- Morris, William, [[The Decorative Arts]]
+- Morris, William, [[The Pilgrims of Hope]]
+- Morris, William, [[The Tables Turned, or Nupkins Awakened]], 1887
+- Morris, William, [[True and False Society]], 1888
+- Morris, William, [[Under an Elm Tree]], 1891
+- Morris, William, [[Useful Work versus Useless Toil]], 1886
+- Morris, William; Bax, E. Belfort, [[Manifesto of the Socialist League]], 1885
+- Morris, William; Bax, E. Belfort, [[Socialism, its Growth and Outcome]], 1893
+- Morris, William; Bax, E. Belfort; Dave, Victor, [[A Short Account of the Commune of Paris]], 1886
 - Most, Johann, [[Die freie Gesellschaft]], 1884
 - Most, Johann, [[Kriegswissenschaft]], 1888
 - Most, Johann, [[Memoiren]], 2 vols., 1903-1905
-- Rocker, Rudolf, [[Johann Most, das Leben eines Rebellen]], 1924
-- Bliss, W. D. P., [[Chicago Anarchists]], en [[Encyclopaedia of Social Reform]], ed. revisada, 1908
-- Lum, Dyer D., [[The Trial of the Chicago Anarchists]], 1886
+- Müller, F., [[Frank Hitze und sein Werk]], 1928
+- Naquet, Alfred, [[L'Anarchisme et le collectivisme]], 1904
+- Nettlau, Max (ed.), [[Œuvres de Bakounine]], Vol. I, París, 1895
+- Nettlau, Max, [[Bibliographie de l'anarchie]], Bruselas, 1897
+- Nettlau, Max, [[Der Anarchismus von Proudhon zu Kropotkin]], 1927
+- Nettlau, Max, [[Die Vorfrühling der Anarchie]], 1925
+- Nettlau, Max, [[Errico Malatesta]], 1922
+- Neufeind, M. M., [[Bischof Ketteler und die soziale Frage seiner Zeit]], 1927
+- Neumann, Sigmund, [[Die deutschen Parteien]], 1932
+- New York State Joint Legislative Committee Investigating Seditious Activities, [[Revolutionary Radicalism]], 4 vols., Albany, 1920
+- Obermann, Karl, [[Joseph Weydemeyer]], 1947
+- Oncken, Hermann, [[Lassalle: eine politische Biographie]], 1912
+- Oneal, James, [[The Workers in American History]], 1910, edición posterior 1927
+- Parent, G., [[Le Socialisme de Colins]], 1912
+- Pareto, Vilfredo, [[Les Systèmes Socialistes]], 2 vols., 1902-1903
+- Parsons, Albert R., [[Anarchism: Its Philosophy and Scientific Basis]], 1887
+- Parsons, Lucy E., [[Life of Albert R. Parsons]], 2ª ed., 1903
 - Parsons, Lucy E., [[The Famous Speeches of the Eight Chicago Anarchists]], 1886
-- Kropotkin, Piotr, [[Memoirs of a Revolutionist]], trad. inglesa, 1906, Original: [[Записки революционера]]
-- Kropotkin, Piotr, [[The Conquest of Bread]], 1892; trad. inglesa, 1913, Original: [[La Conquête du pain]]
-- Kropotkin, Piotr, [[Mutual Aid]], 1902, Original: [[Mutual Aid: A Factor of Evolution]]
-- Kropotkin, Piotr, [[Fields, Factories and Workshops]], 1899
-- Kropotkin, Piotr, [[The Great French Revolution]], 1909
-- Kropotkin, Piotr, [[Modern Science and Anarchism]], 1903
-- Kropotkin, Piotr, [[Ideals and Realities in Russian Literature]], 1905
-- Kropotkin, Piotr, [[In Russian and French Prisons]], 1887
-- Kropotkin, Piotr, [[The State: Its Part in History]], 1898
-- Kropotkin, Piotr, [[Revolutionary Pamphlets]], ed. Roger N. Baldwin, 1927
-- Kropotkin, Piotr, [[An Appeal to the Young]], 1881
-- Kropotkin, Piotr, [[The Place of Anarchism in Socialist Evolution]], 1887
-- Kropotkin, Piotr, [[The Commune of Paris]]
-- Kropotkin, Piotr, [[War]]
-- Kropotkin, Piotr, [[Anarchist Communism, Its Basis and Principles]]
-- Kropotkin, Piotr, [[The Wage System]], 1889
-- Kropotkin, Piotr, [[Expropriation]]
-- Kropotkin, Piotr, [[The State: Its Historic Role]], 1893
-- Kropotkin, Piotr, [[Anarchism, Its Philosophy and Ideal]], 1896
-- Kropotkin, Piotr, [[Law and Authority]], 1882
-- Kropotkin, Piotr, [[Wars and Capitalism]]
-- Kropotkin, Piotr, [[Anarchist Morality]], 1891
-- Kropotkin, Piotr, [[Revolutionary Government]]
-- Kropotkin, Piotr, [[Agriculture]], 1893
-- Kropotkin, Piotr, [[Anarchism]], artículo en [[Encyclopaedia Britannica]], edición de 1910
-- Guillaume, James, [[L'Internationale, documents et souvenirs]], 1905-1910
-- [[Le Révolté]], periódico, 1879-1887
-- [[La Révolte]], periódico, 1887-1894
-- Grave, Jean (ed.), [[Les Temps nouveaux]], 1895-1914
+- Pease, Edward R., [[History of the Fabian Society]], 1916; edición revisada, 1925
+- Pelling, Henry, [[The Origins of the Labour Party]], 1954
+- Périn, Charles, [[De la Richesse dans les sociétés chrétiennes]], 1861
+- Périn, Charles, [[Les Lois de la société chrétienne]], 1875
+- Pfülf, Otto, [[Bischof Ketteler]], 3 vols., 1899
+- Piou, Jacques, [[Le Comte Albert de Mun]], 1925
+- Plekhanov, Georgi Valentinovich, [[N. G. Tschernischewsky]], Stuttgart, 1894
+- Plekhanov, Georgi, [[Socialism and Anarchism]], trad. Eleanor Marx Aveling, 1908, Original: [[Социализм и политическая борьба / Социализм и анархизм]]
+- Post, Louis F., [[The Prophet of San Francisco]], 1930
+- Postgate, Raymond W., [[The Workers' International]], Londres, 1920
 - Pouget, Émile, [[Le Père Peinard]], periódico, desde 1889
-- Grave, Jean, [[L'Anarchie, son but, ses moyens]], 1899
-- Grave, Jean, [[La Société au lendemain de la Révolution]], 1882
-- Grave, Jean, [[La Société mourante et l'anarchie]], 1893
-- Grave, Jean, [[L'Individu et la société]], 1897
-- Grave, Jean, [[La Société future]], 1895
-- Grave, Jean, [[Les Aventures de Nono]], 1901
-- Grave, Jean, [[Réformes-Révolution]], 1910
-- Gautier, Émile, [[Le Darwinisme social]], 1880
-- Faure, Sébastien, [[La Douleur universelle]], 1895
-- Malato, Charles, [[Philosophie de l'anarchie]], 1889
-- Malato, Charles, [[Révolution chrétienne et révolution sociale]], 1891
-- Malato, Charles, [[De la Commune à l'anarchie]], 1894
-- Malato, Charles, [[L'Homme nouveau]], 1898
-- Mackay, John Henry, [[Anarchistes: moeurs du jour]], 1892
-- Hamon, Augustin, [[Psychologie de l'anarchiste-socialiste]], 1895
-- Hamon, Augustin, [[Socialisme et anarchisme]], 1905
-- Guesde, Jules, [[Ça et là]], 1914
-- Guesde, Jules, artículos en [[Égalité]], fundada en 1877
+- Powderly, Terence V., [[Thirty Years of Labor]], 1889
+- Preudeau, M., [[Michel Bakounine: le collectivisme dans l'Internationale]], París, 1912
+- Prolès, Charles, [[Les Hommes de la Révolution]], 1898
+- Rae, John, [[Contemporary Socialism]], 1884
+- Rae, John, [[Contemporary Socialism]], 1884
+- Ratzinger, Georg, [[Die Volkswirtschaft in ihren sittlichen Grundlagen]], 1881; ed. ampliada, 1895
 - Reclus, Élisée, [[Correspondance]], 3 vols., París, 1911-1925
 - Reclus, Élisée, [[L'Évolution, la révolution et l'idéal anarchiste]], 1898
-- Malatesta, Errico, [[A Talk about Anarchist Communism]]
-- Malatesta, Errico, [[Anarchy]], Original: [[L'Anarchia]]
-- Malatesta, Errico, [[Entre paysans]]
-- Malatesta, Errico, [[Au café – dialogues sur le socialisme anarchiste]], 1902
-- Malatesta, Errico, [[Propaganda socialista fra contadini]], 1884
-- Malatesta, Errico, [[La politica parlamentare nel movimento socialista]], 1890
-- Malatesta, Errico, [[Il nostro programma]], 1903
-- Nettlau, Max, [[Errico Malatesta]], 1922
-- Egbert, Douglas G.; Persons, Stow, [[Socialism and American Life]], Vol. II, 1952
-- Hillquit, Morris, [[History of Socialism in the United States]], 1903
-- Symes, Leland; Clement, Travers, [[Rebel America]], 1934
-- Madison, Charles A., [[Critics and Crusaders]], 1947
-- Macy, John, [[Socialism in America]], 1916
-- Commons, John R.; colaboradores, [[History of Labor in the United States]], 4 vols., 1918-1935
-- Commons, John R.; colaboradores, [[A Documentary History of American Industrial Society]], 10 vols., 1910-1911
-- Foner, Philip S., [[History of the Labor Movement in the United States to the Founding of the American Federation of Labor]], 1947
-- Ware, Norman J., [[The Labor Movement in the United States, 1860-1895]]
-- Bimba, Anthony, [[History of the American Working Class]], 1927
-- Oneal, James, [[The Workers in American History]], 1910, edición posterior 1927
-- Haynes, Frederick Emory, [[Social Politics in the United States]], 1924
-- Crosser, Paul K., [[Ideologies and American Labor]], 1941
-- Sylvis, James C., [[The Life, Speeches, Labors and Essays of William H. Sylvis]], 1872
-- Todes, Charlotte, [[William H. Sylvis and the National Labor Union]], 1942
-- Obermann, Karl, [[Joseph Weydemeyer]], 1947
-- Morgan, Arthur E., [[Edward Bellamy]], 1944
-- Morgan, Arthur E., [[The Philosophy of Edward Bellamy]], 1945
-- Buchanan, J. R., [[The Story of a Labor Agitator]], 1903
-- Sotheran, Alexander, [[Horace Greeley and other Pioneers of American Socialism]], 1915
-- Kamman, William F., [[Socialism in German American Literature]], 1917
-- Wolfe, Bertram D., [[Marx and America]], 1934
+- Robinson, Joan, [[An Essay on Marxian Economics]], 1942
+- Rocker, Rudolf, [[Johann Most, das Leben eines Rebellen]], 1924
+- Rocker, Rudolf, [[Johann Most]], 1924
+- Rosenberg, Arthur, [[Democracy and Socialism]], trad. inglesa, 1939
+- Rosenberg, Arthur, [[The Origins of the German Republic]], trad. inglesa, 1931, Original: [[Entstehung der deutschen Republik]]
+- Rossel, Louis-Nathaniel, [[Papiers posthumes]], 1871
+- Rothstein, Theodore, [[From Chartism to Labourism]], 1929
+- Rothstein, Theodore, [[From Chartism to Labourism]], 1929
+- Russell, Bertrand, [[German Social Democracy]], 1896
+- Russell, Bertrand, [[German Social Democracy]], 1896
+- Ryazanov, David, [[Marx and Engels]], trad. inglesa, 1927
+- Schäffle, Albert Eberhard Friedrich, [[The Impossibility of Social Democracy]], trad. inglesa, 1892
+- Schäffle, Albert Eberhard Friedrich, [[The Quintessence of Socialism]], trad. inglesa, 1888, Original: [[Quintessenz des Sozialismus]], 1877
 - Schlüter, Hermann, [[Die Anfänge der deutschen Arbeiterbewegung in Amerika]], 1907
 - Schlüter, Hermann, [[Die Internationale in Amerika]], 1918
-- Ely, Richard T., [[The Labor Movement in America]], 1890
-- Aveling, Edward; Aveling, Eleanor Marx, [[The Working-Class Movement in America]], 1888
-- Kerby, William Joseph, [[Le Socialisme aux États-Unis]], 1897
-- Gronlund, Laurence, [[The Co-operative Commonwealth]], 1884
-- Gronlund, Laurence, [[Our Destiny]], 1891
-- Fine, Nathan, [[Labor and Farmer Parties in the United States, 1828-1928]], 1928
-- De Leon, Daniel, [[Speeches and Editorials]], 2 vols.
-- De Leon, Daniel, [[As to Politics]], artículos reimpresos, 1935
-- De Leon, Daniel, [[What Means This Strike?]], 1898
-- De Leon, Daniel, [[Reform or Revolution]], 1899
-- De Leon, Daniel, [[Socialism versus Anarchism]], 1901
-- De Leon, Daniel, [[The Burning Question of Trade Unionism]], 1904
-- De Leon, Daniel, [[Principles of Industrial Unionism]], 1905
-- De Leon, Daniel, [[Socialist Reconstruction of Society]], 1905
-- De Leon, Daniel, [[Two Pages from Roman History]], 1908
+- Schuster, E. M., [[Native American Anarchism]], 1932
+- Schwalber, J., [[Vogelsang und die moderne christlichsoziale Politik]], 1927
+- Shaw, George Bernard (ed.), [[Essays in Fabian Socialism]], 1889
+- Shaw, George Bernard, [[The Fabian Society: Its Early History]], 1892
+- Simon, Jules, [[Le Gouvernement de M. Thiers]], París, 1878
 - Simposio, [[Daniel De Leon: The Man and his Work]], 1919
-- [[Proceedings of the Knights of Labor]], 1878-1913
-- [[Journal of the Knights of Labor]], 1880-1918
-- Powderly, Terence V., [[Thirty Years of Labor]], 1889
-- McNeill, George E., [[The Labor Movement]], 1887
-- George, Henry, [[Our Land and Land Policy]], 1871
-- George, Henry, [[Progress and Poverty]], 1879
-- George, Henry, [[The Irish Land Question]], 1881
-- George, Henry, [[Social Problems]], 1883
-- George, Henry, [[Protection or Free Trade?]], 1886
-- George, Henry, [[The Condition of Labor]], 1891
-- George, Henry, [[A Perplexed Philosopher]], 1892
-- George, Henry, [[Complete Works]], 8 vols., 1906-1911
-- George Jr., Henry, [[Life of Henry George]], 2 vols., 1911
-- Post, Louis F., [[The Prophet of San Francisco]], 1930
-- Young, Arthur N., [[History of the Single Tax Movement in the United States]], 1916
-- Hyndman, Henry Mayers, [[Record of an Adventurous Life]], 1911
-- Lawrence, E. P., artículos sobre Henry George en [[Journal of Economics and Sociology]], julio y octubre de 1951
-- Bellamy, Edward, [[Looking Backward]], 1887
-- Bellamy, Edward, [[Equality]], 1897
-- Bellamy, Edward, [[The Parable of the Water Tank]]
-- Bellamy, Edward, [[Plutocracy or Nationalism, Which?]], 1889
-- Bellamy, Edward, [[The Programme of the Nationalists]], 1894
-- Gillespie, F. E., [[Labour and Politics in England, 1850-1867]], 1927
-- Rothstein, Theodore, [[From Chartism to Labourism]], 1929
-- Humphrey, A. W., [[History of Labour Representation]], 1912
-- Applegarth, Robert, [[Robert Applegarth]], 1915
-- Cole, G. D. H., [[British Working-Class Politics, 1832-1914]], 1941
-- Cole, G. D. H.; Postgate, R. W., [[The Common People]], edición revisada, 1946
-- Bonner, H. B., [[Life of Charles Bradlaugh]], 1894
+- Sombart, Werner, [[Socialism and the Social Movement]], trad. inglesa de la edición revisada de 1909, Original: [[Sozialismus und soziale Bewegung]]
+- Sombart, Werner, [[Socialism and the Social Movement]], trad. inglesa, 1909, Original: [[Sozialismus und soziale Bewegung]]
+- Sotheran, Alexander, [[Horace Greeley and other Pioneers of American Socialism]], 1915
 - Soutter, F. W., [[Fights for Freedom]], 1925
 - Soutter, F. W., [[Recollections of a Labour Pioneer]], 1923
-- Beer, Max, [[History of British Socialism]], 1920; edición revisada, 1929
-- Clayton, Joseph, [[The Rise and Decline of Socialism in Great Britain]], 1926
-- Pelling, Henry, [[The Origins of the Labour Party]], 1954
-- Lee, H. W.; Archbold, E., [[Social Democracy in Britain]], 1935
-- Hyndman, H. M., [[The Record of an Adventurous Life]], 1911
-- Hyndman, H. M., [[Further Reminiscences]], 1912
-- Gould, F. J., [[H. M. Hyndman, Prophet of Democracy]], 1928
-- Hyndman, R. T., [[The Last Years of H. M. Hyndman]], 1923
-- Kent, W., [[John Burns: Labour's Lost Leader]], 1950
-- Cole, G. D. H., [[John Burns]], 1943
-- Burgess, J., [[John Burns: the Rise and Progress of a Right Honourable]], 1911
-- Carpenter, Edward, [[My Days and Dreams]], 1916
-- Bax, E. Belfort, [[Reflections and Reminiscences]], 1918
-- Hyndman, H. M., [[England for All]], 1881
-- Hyndman, H. M., [[The Historical Basis of Socialism]], 1883
-- Hyndman, H. M., [[Commercial Crises of the Nineteenth Century]], 1892
-- Hyndman, H. M., [[Economics of Socialism]], 1896
-- Hyndman, H. M., [[The Future of Democracy]], 1915
-- Hyndman, H. M., [[The Awakening of Asia]], 1919
-- Hyndman, H. M., [[The Evolution of Revolution]], 1920
-- Hyndman, H. M.; Morris, William, [[A Summary of the Principles of Socialism]], 1884
-- Hyndman, H. M.; Bradlaugh, Charles, [[Will Socialism Benefit the English People?]], 1884
-- Hyndman, H. M., [[Socialism and Slavery]], 1884
-- Morris, William; Bax, E. Belfort, [[Manifesto of the Socialist League]], 1885
-- [[Socialist League Address to Trades' Unions]], 1885
-- [[For Whom Shall We Vote?]], 1885
-- Binning, T., [[Organised Labour: the Duty of Trades' Unions in Relation to Socialism]], 1886
-- Mackail, J. W., [[The Life of William Morris]], 1899
+- Spies, August, [[Autobiography]], 1887
+- Spies, August; Parsons, Albert R., [[The Great Anarchist Trial]], recopilación de discursos, 1886
+- Spooner, Lysander, [[An Essay on the Trial by Jury]], 1852
+- Spooner, Lysander, [[Poverty: its Illegal Causes and Legal Cure]], 1846
+- Stammler, Rudolf, [[Die Theorie des Anarchismus]], 1894
+- Steklov, Yuri M., [[Biografía de Bakunin]], 4 vols., ruso, 1934-1936
+- Steklov, Yuri M., [[Historia de la Primera Internacional]], trad. inglesa, Londres, 1928, Original: [[История Первого Интернационала]], ruso, 1918
+- Steklov, Yuri, [[N. Tschernischewsky, ein Lebensbild]], 1913
+- Stepniak, Sergei, [[Russia under the Czars]], 1885
+- Stepniak, Sergei, [[The Career of a Nihilist]], 1889
+- Stepniak, Sergei, [[Underground Russia]], 1882
+- Sylvis, James C., [[The Life, Speeches, Labors and Essays of William H. Sylvis]], 1872
+- Symes, Leland; Clement, Travers, [[Rebel America]], 1934
+- Testut, Oscar, [[L'Association internationale des travailleurs]], Lyon, 1870
+- Testut, Oscar, [[L'Internationale et le jacobinisme au ban de l'Europe]], París, 1872
+- Testut, Oscar, [[Le Livre bleu de l'Internationale]], París, 1871
+- Thier, Eugen, [[Rodbertus, Lassalle, Adolph Wagner]], 1930
+- Todes, Charlotte, [[William H. Sylvis and the National Labor Union]], 1942
+- Tucker, Benjamin R., [[Instead of a Book]], 1893
+- Tuckwell, G. M.; Gwynn, Stephen, [[Memoirs of Sir Charles Dilke]], 1917
+- Turenhoudt, E. V., [[Louis de Potter]], Bruselas, 1946
+- Valiani, Leo, [[Storia del movimento socialista]], Vol. I, 1951
 - Vallance, Aymer, [[William Morris, his Art, his Writings, and his Public Life]], 1897
-- Glasier, J. Bruce, [[William Morris and the Early Days of the Socialist Movement]], 1921
-- Wiles, H. V., [[William Morris of Walthamstow]], 1951
-- Henderson, Philip (ed.), [[The Letters of William Morris]]
-- Morris, William, [[News from Nowhere]], 1891
-- Morris, William, [[A Dream of John Ball]], 1888
-- Morris, William, [[The Pilgrims of Hope]]
-- Morris, William, [[Signs of Change]], 1888
-- Morris, William, [[Hopes and Fears for Art]], 1882
-- Morris, William, [[Architecture, Industry and Wealth]], 1902
-- Morris, William, [[Essays and Lectures on Art and Socialism]], 1947
-- Morris, William; Bax, E. Belfort, [[Socialism, its Growth and Outcome]], 1893
-- Morris, William, [[Gothic Architecture]], 1893
-- Morris, William, [[Under an Elm Tree]], 1891
-- Morris, William, [[Useful Work versus Useless Toil]], 1886
-- Morris, William, [[How I Became a Socialist]], 1896
-- Morris, William, [[Monopoly: or How Labour is Robbed]], 1890
-- Morris, William, [[True and False Society]], 1888
-- Morris, William; Bax, E. Belfort; Dave, Victor, [[A Short Account of the Commune of Paris]], 1886
-- Morris, William, [[The Decorative Arts]]
-- Morris, William, [[Art, Labour and Socialism]], 1884
-- Morris, William, [[Communism]], 1903
-- Morris, William, [[Chants for Socialists]], 1884-1885
-- Morris, William, [[The Tables Turned, or Nupkins Awakened]], 1887
-- Bax, E. Belfort, [[The Religion of Socialism]], 1886
-- Bax, E. Belfort, [[The Ethics of Socialism]], 1889
-- Bax, E. Belfort, [[Outlooks from the New Standpoint]], 1891
-- Bax, E. Belfort, [[Outspoken Essays on Social Subjects]], 1897
-- Bax, E. Belfort, [[Essays in Socialism]], 1906
-- Bax, E. Belfort, [[The Last Episode of the French Revolution]], 1911
-- Bax, E. Belfort, [[Reminiscences and Reflections]], 1918
-- Carpenter, Edward, [[Towards Democracy]], 1883; edición ampliada, 1905
-- Carpenter, Edward, [[Civilisation, its Cause and Cure]], 1891
-- Pease, Edward R., [[History of the Fabian Society]], 1916; edición revisada, 1925
-- Knight, W. (ed.), [[Memorials of Thomas Davidson, the Wandering Scholar]], 1907
-- Shaw, George Bernard, [[The Fabian Society: Its Early History]], 1892
-- Shaw, George Bernard (ed.), [[Essays in Fabian Socialism]], 1889
-- Cole, Margaret, [[Beatrice Webb]], 1945
-- Cole, Margaret (ed.), [[The Webbs and their Work]], 1949
-- Hamilton, M. A., [[Sidney and Beatrice Webb]], 1933
+- Vallès, Jules, [[L'Insurgé]], 1886
+- Vésinier, Paul, [[Comment a péri la Commune?]], 1892
+- Vigener, Friedrich, [[Ketteler, ein deutsches Bischofsleben des 19. Jahrhunderts]], 1924
+- Villetard, F., [[History of the International]], trad. estadounidense, New Haven, 1874, Original: [[Histoire de l'Internationale]], París, 1872
+- Vizetelly, Edward A., [[My Adventures in the Commune]], 1914
+- Vizetelly, Ernest Alfred, [[The Anarchists]], 1911
+- Vogelsang, Karl von, [[Gesammelte Aufsätze über Socialpolitik]], 1885-1886
+- Vogelsang, Karl von, [[Vogelsang: Extraits de ses œuvres]], 2 vols., francés, 1905, Original: [[Gesammelte Aufsätze über Socialpolitik]]
+- Vuillaume, Maxime, [[Mes Cahiers rouges au temps de la Commune]], 10 vols., 1908-1914
+- Ware, Norman J., [[The Labor Movement in the United States, 1860-1895]]
+- Warren, Josiah, [[Equitable Commerce]], 1846
+- Warren, Josiah, [[True Civilisation]], c. 1850
 - Webb, Beatrice, [[My Apprenticeship]], 1926
 - Webb, Beatrice, [[Our Partnership]], 1948
-- Besant, Annie, [[Autobiography]], 1893
+- Weill, Georges, [[Histoire du mouvement social en France, 1852-1902]], 1904; ed. revisada, 1924
+- Weill, Georges, [[Histoire du mouvement social en France, 1852-1924]], 1924
+- Wiles, H. V., [[William Morris of Walthamstow]], 1951
 - Williams, G., [[The Passionate Pilgrim]], 1932
-- Bradlaugh, Charles, [[Autobiography]], 1873
-- Bonner, Hypatia Bradlaugh, [[Life of Charles Bradlaugh]], 1894
+- Wolfe, Bertram D., [[Marx and America]], 1934
+- Yaroslavsky, Emelian, [[History of Anarchism in Russia]]
+- Young, Arthur N., [[History of the Single Tax Movement in the United States]], 1916
+- Zasúlich, Vera, [[Sketch of the History of the International]], 1889
+- Zenker, Ernst Victor, [[Anarchism: A Criticism and History of the Anarchist Theory]], trad. inglesa, 1897, Original: [[Der Anarchismus]], 1895
+- Zévaès, Alexandre, [[De la semaine sanglante au Congrès de Marseille]], 1911
+- Zilliacus, Konni, [[The Russian Revolutionary Movement]], trad. inglesa, 1905
 - [[Charles Bradlaugh, Champion of Liberty]], 1933
-- Bradlaugh, Charles, [[Labour and Law]], 1891
-- Ensor, R. C. K., [[Modern Socialism as Set Forth by Socialists]], 1903; edición revisada, 1910
-- Kautsky, Karl, [[The Workers' Programme]], 1892
-- Chamberlain, Joseph, [[Unauthorised Programme]], 1885
-- Garvin, J. L., [[The Life of Joseph Chamberlain]], 1932-1934
-- Tuckwell, G. M.; Gwynn, Stephen, [[Memoirs of Sir Charles Dilke]], 1917
+- [[For Whom Shall We Vote?]], 1885
+- [[Journal of the Knights of Labor]], 1880-1918
+- [[Journal Officiel de la Commune]], reimpresión en volumen, París, 1879
+- [[La Révolte]], periódico, 1887-1894
+- [[Le Révolté]], periódico, 1879-1887
+- [[Les Séances officielles de l'Internationale à Paris pendant le siège et pendant la Commune]], París, 1872
+- [[Proceedings of the Knights of Labor]], 1878-1913
+- [[Procès de l'association internationale des travailleurs. Première et Deuxième Commissions du bureau de Paris]], París, junio de 1870
+- [[Socialist League Address to Trades' Unions]], 1885
+- [[The Pope and the People: Select Letters and Addresses on Social Questions]], 1902; ed. revisada, 1943
+- [[Troisième Procès]], París, julio de 1870
