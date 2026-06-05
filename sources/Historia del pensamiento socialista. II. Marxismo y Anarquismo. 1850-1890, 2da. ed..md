@@ -267,3 +267,93 @@ Título Original: A History of Socialist Thought. Marxism and Anarchism, 1850-18
 - Mehring, Franz, [[Life of Karl Marx]], trad. inglesa, 1936, Original: [[Karl Marx: Geschichte seines Lebens]]
 - Mayer, Gustav, [[Friedrich Engels]], 1934; trad. inglesa abreviada, 1936
 - Mayer, Gustav, [[Johann Baptist von Schweitzer und die Sozialdemokratie]], 1909
+- Engels, Friedrich, [[Umrisse zu einer Kritik der Nationalökonomie]], publicado en [[Deutsch-Französische Jahrbücher]], 1844
+- Engels, Friedrich, [[Landmarks of Scientific Socialism]], trad. A. Lewis, Chicago, 1907, Original: [[Herr Eugen Dührings Umwälzung der Wissenschaft]] (Anti-Dühring), 1878
+- Engels, Friedrich, [[Herr Eugen Dühring's Revolution in Science]], trad. Emile Burns, década de 1930, Original: [[Herr Eugen Dührings Umwälzung der Wissenschaft]], 1878
+- Engels, Friedrich, [[Dialectics of Nature]], trad. C. P. Dutt, 1940, Original: [[Dialektik der Natur]]
+- Böhm-Bawerk, Eugen von, [[Karl Marx and the Close of His System]], trad. inglesa, 1898, Original: [[Zum Abschluss des Marxschen Systems]], 1896
+- Cole, G. D. H., [[The Meaning of Marxism]], 1948
+- Robinson, Joan, [[An Essay on Marxian Economics]], 1942
+- Ryazanov, David, [[Marx and Engels]], trad. inglesa, 1927
+- Hook, Sidney, [[Towards the Understanding of Karl Marx]], 1933
+- Eltzbacher, Paul, [[Anarchism]], trad. inglesa, 1908, Original: [[Der Anarchismus]], Berlín, 1900
+- Zenker, Ernst Victor, [[Anarchism: A Criticism and History of the Anarchist Theory]], trad. inglesa, 1897, Original: [[Der Anarchismus]], 1895
+- Vizetelly, Ernest Alfred, [[The Anarchists]], 1911
+- Nettlau, Max, [[Die Vorfrühling der Anarchie]], 1925
+- Nettlau, Max, [[Der Anarchismus von Proudhon zu Kropotkin]], 1927
+- Nettlau, Max, [[Bibliographie de l'anarchie]], Bruselas, 1897
+- Diehl, Karl, [[Über Sozialismus, Kommunismus und Anarchismus]], Jena, c. 1911
+- Adler, Georg, [[Geschichte des Sozialismus und Kommunismus]], 1899
+- Stammler, Rudolf, [[Die Theorie des Anarchismus]], 1894
+- Garin, J., [[L'Anarchie et les anarchistes]], 1885
+- Dubois, F., [[Le Péril anarchiste]], 1885
+- Plekhanov, Georgi, [[Socialism and Anarchism]], trad. Eleanor Marx Aveling, 1908, Original: [[Социализм и политическая борьба / Социализм и анархизм]]
+- Malon, Benoît, [[Histoire du socialisme]], Vol. V, cap. 31
+- Naquet, Alfred, [[L'Anarchisme et le collectivisme]], 1904
+- Maitron, Jean, [[Histoire du mouvement anarchiste en France, 1880-1914]], 1951
+- Levine, Louis, [[Syndicalism in France]], 1914
+- Dolléans, Édouard, [[Histoire du mouvement ouvrier]], Vol. II, 1939
+- Louis, Paul, [[Histoire du socialisme en France]], ed. revisada, 1950
+- Yaroslavsky, Emelian, [[History of Anarchism in Russia]]
+- Brissenden, Paul F., [[The I. W. W.: A Study of American Syndicalism]], 1918
+- New York State Joint Legislative Committee Investigating Seditious Activities, [[Revolutionary Radicalism]], 4 vols., Albany, 1920
+- Commons, John R.; colaboradores, [[History of Labor in the United States]], 2 vols., 1918
+- Langhard, J., [[Die anarchistische Bewegung in der Schweiz]], 1903
+- Footman, David, [[Red Prelude]], 1944
+- Branfoot, A. I. S., [[A Critical Study of the Narodnik Movement]], 1926
+- Zilliacus, Konni, [[The Russian Revolutionary Movement]], trad. inglesa, 1905
+- Kennan, George, [[Siberia and the Exile System]], 1891
+- Stepniak, Sergei, [[Underground Russia]], 1882
+- Stepniak, Sergei, [[Russia under the Czars]], 1885
+- Stepniak, Sergei, [[The Career of a Nihilist]], 1889
+- Warren, Josiah, [[Equitable Commerce]], 1846
+- Warren, Josiah, [[True Civilisation]], c. 1850
+- Spooner, Lysander, [[Poverty: its Illegal Causes and Legal Cure]], 1846
+- Spooner, Lysander, [[An Essay on the Trial by Jury]], 1852
+- Andrews, Stephen Pearl, [[Constitution of Government in the Sovereignty of the Individual]], 1851
+- Andrews, Stephen Pearl, [[The Science of Society]], 1853
+- Tucker, Benjamin R., [[Instead of a Book]], 1893
+- Schuster, E. M., [[Native American Anarchism]], 1932
+- Bailie, William, [[Josiah Warren]], 1906
+- Spies, August, [[Autobiography]], 1887
+- Spies, August; Parsons, Albert R., [[The Great Anarchist Trial]], recopilación de discursos, 1886
+- Parsons, Albert R., [[Anarchism: Its Philosophy and Scientific Basis]], 1887
+- David, Henry, [[The History of the Haymarket Affair]], 1936
+- Parsons, Lucy E., [[Life of Albert R. Parsons]], 2ª ed., 1903
+- Most, Johann, [[Die freie Gesellschaft]], 1884
+- Most, Johann, [[Kriegswissenschaft]], 1888
+- Most, Johann, [[Memoiren]], 2 vols., 1903-1905
+- Rocker, Rudolf, [[Johann Most, das Leben eines Rebellen]], 1924
+- Bliss, W. D. P., [[Chicago Anarchists]], en [[Encyclopaedia of Social Reform]], ed. revisada, 1908
+- Lum, Dyer D., [[The Trial of the Chicago Anarchists]], 1886
+- Parsons, Lucy E., [[The Famous Speeches of the Eight Chicago Anarchists]], 1886
+- Kropotkin, Piotr, [[Memoirs of a Revolutionist]], trad. inglesa, 1906, Original: [[Записки революционера]]
+- Kropotkin, Piotr, [[The Conquest of Bread]], 1892; trad. inglesa, 1913, Original: [[La Conquête du pain]]
+- Kropotkin, Piotr, [[Mutual Aid]], 1902, Original: [[Mutual Aid: A Factor of Evolution]]
+- Kropotkin, Piotr, [[Fields, Factories and Workshops]], 1899
+- Kropotkin, Piotr, [[The Great French Revolution]], 1909
+- Kropotkin, Piotr, [[Modern Science and Anarchism]], 1903
+- Kropotkin, Piotr, [[Ideals and Realities in Russian Literature]], 1905
+- Kropotkin, Piotr, [[In Russian and French Prisons]], 1887
+- Kropotkin, Piotr, [[The State: Its Part in History]], 1898
+- Kropotkin, Piotr, [[Revolutionary Pamphlets]], ed. Roger N. Baldwin, 1927
+- Kropotkin, Piotr, [[An Appeal to the Young]], 1881
+- Kropotkin, Piotr, [[The Place of Anarchism in Socialist Evolution]], 1887
+- Kropotkin, Piotr, [[The Commune of Paris]]
+- Kropotkin, Piotr, [[War]]
+- Kropotkin, Piotr, [[Anarchist Communism, Its Basis and Principles]]
+- Kropotkin, Piotr, [[The Wage System]], 1889
+- Kropotkin, Piotr, [[Expropriation]]
+- Kropotkin, Piotr, [[The State: Its Historic Role]], 1893
+- Kropotkin, Piotr, [[Anarchism, Its Philosophy and Ideal]], 1896
+- Kropotkin, Piotr, [[Law and Authority]], 1882
+- Kropotkin, Piotr, [[Wars and Capitalism]]
+- Kropotkin, Piotr, [[Anarchist Morality]], 1891
+- Kropotkin, Piotr, [[Revolutionary Government]]
+- Kropotkin, Piotr, [[Agriculture]], 1893
+- Kropotkin, Piotr, [[Anarchism]], artículo en [[Encyclopaedia Britannica]], edición de 1910
+- Guillaume, James, [[L'Internationale, documents et souvenirs]], 1905-1910
+- [[Le Révolté]], periódico, 1879-1887
+- [[La Révolte]], periódico, 1887-1894
+- Grave, Jean (ed.), [[Les Temps nouveaux]], 1895-1914
+- Pouget, Émile, [[Le Père Peinard]], periódico, desde 1889
