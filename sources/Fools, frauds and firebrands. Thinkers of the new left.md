@@ -20,3 +20,18 @@
 —[[The Captive Mind]], (original 1953), trad. Jane Zielonko, Harmodsworth, Penguin Modern Classics, 2001
 —[[What Can History Tell us about Contemporary Society]], in _On History_, London, Abacus
 —[[Industry and Empire]], Harmondworth, Penguin, 1969
+—Peter H. Linder & Jeffrey G. Williamson, [['English Workers' Living Standard During the Industrial Revolution. A New Look]], Economic History Review 36 (1983): 1-25.
+—Eric Hobsbawn & Terrence Ranger, [[The Invention of Tradition]], Cambridge, CUP, 1992
+—Linda Colley, [[Britons. Forging the Nation 1707-1837]], London, 1992
+—Sir Edward Coke, [[Institutions of the Lawes of England, 1628-1644]]
+—A. V. Dicey, [[Introduction to the Study of the Law of the Constitutions]], 1989
+—F. W. Maitland, [[The Constitutional History of England]], 1919
+—Anne Hollander, [[Sex and Suits]], New York, Knopf, 1994
+—[[The Age of Extremes]]
+—Alan MacFarlane, [[The Culture of Capitalism]], London, 1987
+—[[The Origins of English Individualism]], London, 1978
+—Roberto Michels, [[Political Parties A Sociological Study of the Oligarchical Tendencies of Modern Democracy]], tr E. and C. Paul London, 1985, Original  [[Zur Soziologie des Parteiwesens in der modernen Demokratie; Untersuchungen über die oligarchischen Tendenzen des Gruppenlebens]]
+—[[The Making of the English Working Class]], London, 1963, Penguin, 1968
+—[[The Poverty of Theory]]
+—[[The Heavy Dancers]], London, 1984
+—[[Zero Option]], London, 1984
