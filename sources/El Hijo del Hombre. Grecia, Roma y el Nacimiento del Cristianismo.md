@@ -1,0 +1,386 @@
+## Bibliography
+
+- Abbott, Frank Frost. [[A History and Description of Roman Political Institutions]]. Ginn & Company, 1901.
+- Adler, Yonatan. [[The Origins of Judaism]]. Yale University Press, 2022.
+- Aland, Kurt. [[Synopsis Quattuor Evangeliorum]]. German Bible Society, 1962.
+- Allison, Dale C. [[Jesus of Nazareth: Millenarian Prophet]]. Fortress Press, 1998.
+- Andrews, Edward D. [[Archaeology & the New Testament]]. Christian Publishing House, 2016.
+- Anrich, Gustav. [[Das antike Mysterienwesen in seinem Einfluss auf das Christentum]]. Vandenhoeck & Ruprecht, 1894.
+- Ashton, John. [[Understanding the Fourth Gospel]]. Oxford University Press, 1991.
+- Assmann, Jan. [[Die Mosaische Unterscheidung oder Der Preis des Monotheismus]]. Carl Hanser Verlag, 2003.
+- Aymard, André. [[Études d'Histoire Ancienne]]. Presses Universitaires de France, 1967.
+- Baldensperger, Wilhelm. [[Das Selbstbewusstsein Jesu im Lichte der Messianischen Hoffnungen Seiner Zeit]]. Mohr Siebeck, 1892.
+- Barclay, John M. G. [[Jews in the Mediterranean Diaspora: From Alexander to Trajan]]. University of California Press, 1999.
+- Barnett, Paul. [[Finding the Historical Christ]]. Eerdmans, 2009.
+- Bauckham, Richard. [[Jesus and the God of Israel: God Crucified and Other Studies on the New Testament's Christology of Divine Identity]]. Paternoster, 2008.
+- Bauer, Walter. [[Rechtgläubigkeit und Ketzerei im ältesten Christentum]]. Mohr Siebeck, 1934.
+- Baumgarten, Albert I. [[The Flourishing of Jewish Sects in the Maccabean Era: An Interpretation]]. Brill, 1997.
+- Baur, Ferdinand Christian. [[Die Christuspartei in der korinthischen Gemeinde: Der Gegensatz des petrinischen und paulinischen Christenthums in der ältesten Kirche]]. Osiander, 1831.
+- Beard, Mary. [[Roman Triumph]]. Belknap Press, 2007.
+- Beard, Mary. [[Confronting the Classics: Traditions, Adventures and Innovations]]. Liveright, 2013.
+- Beard, Mary. [[SPQR: A History of Ancient Rome]]. Liveright, 2015.
+- Beasley-Murray, George R. [[Jesus and the Kingdom of God]]. Eerdmans, 1986.
+- Becker, Jürgen. [[Paulus. Der Apostel der Völker]]. Mohr Siebeck, 1989.
+- Becker, Jürgen. [[Jesus von Nazaret]]. Mohr Siebeck, 1989.
+- Benedicto XVI. [[Jesús de Nazareth]]. Editorial Planeta, 2007.
+- Bergier, M. [[L'origine des Dieux du paganisme]]. Chez Humblot, 1774.
+- Berogno, Marta; Urciuoli, Generoso. [[Gerusalemme: l'Ultima Cena]]. Ananke, 2015.
+- Berthold, Richard M. [[Rhodes in the Hellenistic Age]]. Cornell University Press, 2009.
+- Bickerman, Elias J. [[Der Gott der Makkabäer: Untersuchungen über Sinn und Ursprung der makkabäischen Erhebung]]. Schocken, 1937.
+- Bird, Michael. [[Jesus among the Gods]]. Baylor University Press, 2022.
+- Bleicken, Jochen. [[Prinzipat und Dominat: Gedanken zur Periodisierung der römischen Kaiserzeit]]. Vandenhoeck & Ruprecht, 1967.
+- Blenkinsopp, Joseph. [[The Pentateuch: An Introduction to the First Five Books of the Bible]]. Yale University Press, 1992.
+- Blinzler, Josef. [[Der Prozess Jesu]]. Pustet, 1951.
+- Blomberg, Craig L. [[Jesus and the Gospels]]. Broadman & Holman, 1997.
+- Boissier, Gaston. [[La religion romaine d'Auguste aux Antonins]]. Hachette, 1874.
+- Böhlig, Hans. [[Die Geisteskultur von Tarsos im augusteischen Zeitalter: mit Berücksichtigung der paulinischen Schriften]]. Vandenhoeck & Ruprecht, 1913.
+- Bond, Helen K. [[The First Biography of Jesus: Genre and Meaning in Mark's Gospel]]. Eerdmans, 2020.
+- Borgen, Peder. [[Early Christianity and Hellenistic Judaism]]. T&T Clark, 1997.
+- Boulanger, André. [[Orphée: rapports de l'orphisme et du christianisme]]. F. Rieder, 1925.
+- Bousset, Wilhelm. [[Kyrios Christos: Geschichte des Christusglaubens von den Anfängen des Christentums bis Irenaeus]]. Vandenhoeck & Ruprecht, 1913.
+- Bousset, Wilhelm. [[Die Religion des Judentums im neutestamentlichen Zeitalter]]. Reuther & Reichard, 1903.
+- Boyarin, Daniel. [[A Radical Jew: Paul and the Politics of Identity]]. University of California Press, 1994.
+- Brandon, Samuel George Frederick. [[Jesus and the Zealots]]. Manchester University Press, 1967.
+
+## Ancient sources
+
+- Appian. [[Appiani Alexandrini Romanarum historiarum quae supersunt graece et latine cum indicibus]]. Firmin Didot, 1877.
+- Apollodorus. [[Biblioteca]]. Mondadori, 2006.
+- Arrian. [[Anabasis Alexandri]]. Heinemann, 1929.
+- Aulus Gellius. [[Noctium Atticarum]]. Editio Bipontina, 1784.
+- Bede the Venerable. [[Historical Works]]. Loeb Classical Library, 1979.
+- Censorinus. [[De die Natali]]. Panckoucke, 1843.
+- Cicero, Marcus Tullius. [[Opera Omnia]]. Priestley, 1818.
+- Cicero, Quintus. [[Reliquiae]]. Teubner, 1869.
+- Clement of Alexandria. [[Opera quae exstant]]. Theatro Sheldonian, 1715.
+- Dante. [[Tutte le opere]]. Edizione del Centenario, 1965.
+- Diogenes Laërtius. [[Lives of Eminent Philosophers]]. Loeb Classical Library, 1925.
+- Diodorus Siculus. [[Library of History]]. Loeb Classical Library, 1933.
+- Dio Cassius. [[Historia Romana]]. Teubner, 1864.
+- Dionysius of Halicarnassus. [[Roman Antiquities]]. Loeb Classical Library, 1937.
+- [[Enchiridion Fontium Historiae Antiquae]]. Herder, 1947.
+- [[Enchiridion Symbolorum]]. Herder, 1932.
+- Statius. [[Opera Omnia]]. Collectio Pisaurensis, Amatina Chalcographia, 1766.
+- Eutropius. [[Breviarium historiae Romanae]]. Teubner, 1883.
+- Festus Grammaticus. [[Corpus Grammaticorum Latinorum Veterum]]. Teubner, 1832.
+- Flavius Josephus. [[Josephus in Greek: Niese Critical Edition with Apparatus]]. Lexham, 1887.
+- Florus. [[Rerum Romanarum Epitome]]. Bassani, 1787.
+- [[Historia Augusta]]. Loeb Classical Library, 1921.
+- Homer. [[Odyssee]]. Les Belles Lettres, 1953.
+- Horace. [[Opera Omnia]]. Collectio Pisaurensis, Amatina Chalcographia, 1766.
+- Hyginus. [[Miti del mondo classico]]. Rusconi, 2017.
+- Xenophon. [[Entretiens mémorables de Socrate]]. Hachette, 1874.
+- Julius Caesar. [[Opera Omnia]]. Valpy, 1819.
+- Justin. [[Abrégé des Histoires philippiques de Trogue Pompée]]. Garnier, 1936.
+- Juvenal. [[Opera Omnia]]. Collectio Pisaurensis, Amatina Chalcographia, 1766.
+- Lucan. [[Pharsalia]]. Collectio Pisaurensis, Amatina Chalcographia, 1766.
+- Lucian. [[Storia vera]]. Mondadori, 2017.
+- Lucius Ampelius. [[Liber Memorialis]]. Panckoucke, 1843.
+- Macrobius. [[Opera]]. Editio Bipontina, 1788.
+- Martial. [[Opera Omnia]]. Collectio Pisaurensis, Amatina Chalcographia, 1766.
+- [[Novum Testamentum Graece et Latine]]. Pontificii Instituti Biblici, 1948.
+- Orosius. [[Historiarum libri septem]]. Luchtmans, 1777.
+- Petrarch. [[De Viribus Illustribus]]. Sansoni, 1964.
+- Plautus. [[Opera Omnia]]. Collectio Pisaurensis, Amatina Chalcographia, 1766.
+- Pliny the Younger. [[Cartas]]. CSIC, 1941.
+- Pliny the Elder. [[Historia Mundi (Historia Naturalis)]]. Froben, 1525.
+- Plutarch. [[Vitae Parallelae]]. Saur, 2000.
+- Polybius. [[Historiarum]]. In Libraria Weidmannia, 1789.
+- Quintus Curtius Rufus. [[Historiae Alexandri Magni Macedonis]]. 1824.
+- Servius. [[Servii grammatici qui feruntur in Vergilii]]. Teubner, 1887.
+- Sidonius Apollinaris. [[Poems. Letters]]. Loeb Classical Library, 1936.
+- Jacobus de Voragine. [[Legenda Aurea]]. Libraria Arnoldianae, 1850.
+- Suetonius. [[Vie des douze césars]]. Les Belles Lettres, 2008.
+- Tacitus. [[Annales]]. Garnier, 1936.
+- Livy. [[Ab Urbe Condita]]. Editio Bipontina, 1784.
+- Valerius Maximus. [[Factorum et dictorum memorabilium]]. Kummer, 1782.
+- Varro. [[Opera omnia quae extant]]. Ioannis Bereuuout, 1619.
+- Velleius Paterculus. [[Histoire Romaine]]. Les Belles Lettres, 1982.
+- Virgil. [[Opera Omnia]]. Collectio Pisaurensis, Amatina Chalcographia, 1766.
+- Brown, Raymond E. [[The Death of the Messiah]]. Doubleday, 1994.
+- Bühner, Ruben A. [[Hohe Messianologie: Übermenschliche Aspekte eschatologischer Heilsgestalten im Frühjudentum]]. Mohr Siebeck, 2020.
+- Bultmann, Rudolf. [[Das Verhältnis der urchristlichen Christusbotschaft zum historischen Jesus]]. Carl Winter Universitätsverlag, 1961.
+- Burckhardt, Jacob. [[Griechische Kulturgeschichte]]. B. G. Teubner, 1898.
+- Burridge, Richard A. [[What Are the Gospels? A Comparison with Graeco-Roman Biography]]. Cambridge University Press, 1992.
+- Burton, Ernest DeWitt. [[Early Christianity: An Introduction]]. Scribner, 1928.
+- Cameron, Ron. [[The Other Gospels: Non-Canonical Gospel Texts]]. Westminster Press, 1982.
+- Cameron, Averil. [[Christianity and the Rhetoric of Empire: The Development of Christian Discourse]]. University of California Press, 1991.
+- Canfora, Luciano. [[Ellenismo]]. Laterza, 1987.
+- Canfora, Luciano. [[Studi di storia della storiografia romana]]. Edipuglia, 1993.
+- Canfora, Luciano. [[La biblioteca scomparsa]]. Sellerio, 2009.
+- Carandini, Andrea. [[La fondazione di Roma]]. Laterza, 1997.
+- Carcopino, Jérôme. [[Virgile et le mystère de la IVe Églogue]]. Presses Universitaires de France, 1930.
+- Cardini, Franco. [[I Re]]. Il Mulino, 1995.
+- Case, Shirley Jackson. [[The Evolution of Early Christianity]]. University of Chicago Press, 1912.
+- Casey, Maurice. [[From Jewish Prophet to Gentile God: The Origins and Development of New Testament Christology]]. Westminster John Knox Press, 1992.
+- Chaniotis, Angelos. [[War in the Hellenistic World]]. Wiley, 2005.
+- Chantziantoniou, Alexander (ed.). [[Paul within Paganism]]. Fortress Press, 2025.
+- Chateaubriand, François René de. [[Oeuvres complètes]]. Chez Ladvocat, 1826–1831.
+- Clackson, James. [[Language and Society in the Greek and Roman Worlds]]. Cambridge University Press, 2015.
+- Clemen, Carl. [[Der Einfluss der Mysterienreligionen auf das älteste Christentum]]. Verlag von Alfred Töpelmann, 1913.
+- Cochrane, Charles Norris. [[Christianity and Classical Culture: A Study of Thought and Action from Augustus to Augustine]]. Oxford University Press, 1940.
+- Cohn, Haim. [[The Trial and Death of Jesus]]. Harper & Row, 1972.
+- Conzelmann, Hans. [[Gentiles, Jews, Christians: Polemics and Apologetics in the Greco-Roman Era]]. Fortress Press, 1975.
+- Cornell, Tim. [[The Beginnings of Rome: Italy and Rome from the Bronze Age to the Punic Wars (c. 1000–264 BC)]]. Routledge, 1995.
+- Crossley, James; Keith, Chris. [[The Next Quest for the Historical Jesus]]. Eerdmans, 2024.
+- Cowan, J. Andrew. [[The Writings of Luke and the Jewish Roots of the Christian Way]]. T&T Clark, 2020.
+- Cumont, Franz. [[Les religions orientales dans le paganisme romain]]. Geuthner, 1929.
+- Del Rosario, Mikel. [[Did Jesus Really Say He Was God?: Making Sense of His Historical Claims]]. IVP Academic, 2025.
+- Dibelius, Martin. [[Die Formgeschichte des Evangeliums]]. Mohr Siebeck, 1919.
+- Dobschütz, Ernst von. [[Das apostolische Zeitalter]]. J. C. Hinrichs, 1904.
+- Droysen, Johann Gustav. [[Geschichte des Hellenismus]]. F. A. Perthes, 1836–1843.
+- Dunn, James D. G. [[Jesus Remembered]]. Eerdmans, 2003.
+- Duquesne, Jacques. [[Jésus]]. Flammarion, 1994.
+- Dujardin, Édouard. [[La source du fleuve chrétien]]. Mercure de France, 1906.
+- Durant, Will. [[Caesar and Christ]]. Simon & Schuster, 1944.
+- Eastman, Susan Grove. [[Recovering Paul's Mother Tongue: Language and Theology in Galatians]]. Eerdmans, 2007.
+- Ehrman, Bart D.; Metzger, Bruce M. [[The Text of the New Testament: Its Transmission, Corruption, and Restoration]]. Oxford University Press, 2005.
+- Ehrman, Bart D. [[Did Jesus Exist? The Historical Argument for Jesus of Nazareth]]. HarperOne, 2012.
+- Eisler, Robert. [[Iēsous Basileus ou Basileusas]]. C. Winter, 1929.
+- Eliot, T. S. [[On Poetry and Poets]]. Faber & Faber, 1957.
+- Evans, Craig A. [[Jesus and His Contemporaries]]. Brill, 1995.
+- Fanshaw Middleton, Thomas. [[The Doctrine of the Greek Article Applied to the Criticism and Illustration of the New Testament]]. Rivington, 1833.
+- Feldman, Louis H. [[Judaism and Hellenism Reconsidered]]. Brill, 2006.
+- Ferrero, Guglielmo. [[Grandezza e decadenza di Roma]]. Fratelli Treves, 1902.
+- Fewster, Gregory. [[The Authentic Paul]]. McGill-Queen's University Press, 2025.
+- Figuera, Guillermo. [[Helenismo y cristianismo: humanismo y cristianismo]]. Minerva, 1943.
+- Finkelstein, Louis. [[The Pharisees: The Sociological Background of Their Faith]]. Jewish Publication Society of America, 1938.
+- Foakes-Jackson, Frederick John. [[The Rise of Gentile Christianity]]. George Doran, 1927.
+- Forsythe, Gary. [[A Critical History of Early Rome]]. University of California Press, 2005.
+- Fowler, William Warde. [[Roman Ideas of Deity in the Last Century Before the Christian Era]]. Macmillan, 1914.
+- Fredriksen, Paula. [[From Jesus to Christ]]. Yale University Press, 1988.
+- Fredriksen, Paula. [[When Christians Were Jews]]. Yale University Press, 2019.
+- Frend, W. H. C. [[Martyrdom and Persecution in the Early Church]]. James Clarke & Co., 2008.
+- Frend, W. H. C. [[The Rise of Christianity]]. Darton, Longman & Todd, 1984.
+- Friedländer-Prechtl, Rudolf. [[Die Geschichte des Jesus von Nazareth: Nach den vier Evangelientexten zusammengestellt]]. Herder, 1893.
+- Fronda, Michael P. [[Between Rome and Carthage: Southern Italy in the Second Punic War]]. Cambridge University Press, 2010.
+- Gager, John G. [[Kingdom and Community: The Social World of Early Christianity]]. Prentice Hall, 1983.
+- Galinsky, Karl (ed.). [[Memory in Ancient Rome and Early Christianity]]. Oxford University Press, 2016.
+- García, José Miguel. [[Los orígenes históricos del cristianismo]]. Encuentro, 2007.
+- García Jurado, Francisco. [[Virgilio: vida, mito e historia]]. Editorial Síntesis, 2018.
+- García Gual, Carlos. [[La muerte de los héroes]]. Turner, 2013.
+- Gathercole, Simon. [[The Genuine Jesus and the Counterfeit Christs: New Testament and Apocryphal Gospels]]. Eerdmans, 2025.
+- Gesche, Hans. [[Studien zur römischen Religionsgeschichte]]. Mohr Siebeck, 1992.
+- Gibbon, Edward. [[The History of the Decline and Fall of the Roman Empire]]. Bowdler, 1826.
+- Ginzburg, Carlo. [[La lettera uccide]]. Adelphi, 2021.
+- Glahn, Sandra L. [[Nobody's Mother: Artemis of the Ephesians in Antiquity and the New Testament]]. IVP Academic, 2022.
+- Goodacre, Mark. [[The Case Against Q: Studies in Markan Priority and the Synoptic Problem]]. Trinity Press International, 2002.
+- Goodenough, Erwin Ramsdell. [[By Light, Light: The Mystic Gospel of Hellenistic Judaism]]. Yale University Press, 1935.
+- Goodman, Martin. [[Mission and Conversion: Proselytizing in the Religious History of the Roman Empire]]. Oxford University Press, 1994.
+- Grant, Michael. [[Jesus: A Historian's Review of the Gospels]]. Charles Scribner's Sons, 1977.
+- Grant, Michael. [[The History of Ancient Israel]]. Charles Scribner's Sons, 1984.
+- Graves, Robert. [[The Complete Poems]]. Penguin Books, 2003.
+- Greenhalgh, P. A. L. [[Pompey: The Republican Prince]]. Weidenfeld & Nicolson, 1981.
+- Grousset, René. [[Figures de proue]]. Plon, 1949.
+- Gruen, Erich S. [[The Hellenistic World and the Coming of Rome]]. University of California Press, 1984.
+- Gruen, Erich S. [[The Construct of Identity in Hellenistic Judaism: Essays on Early Jewish Literature and History]]. De Gruyter, 2016.
+- Gschwind, Karl. [[Die Niederfahrt Christi in die Unterwelt: Ein Beitrag zur Exegese des Neuen Testamentes und zur Geschichte des Taufsymbols]]. Aschendorffsche Buchdruckerei, 1911.
+- Gsell, Stéphane. [[Essai sur le règne de l'empereur Domitien]]. Thorin & Fils, 1893.
+- Guignebert, Charles. [[Le Christ]]. Alcan, 1936.
+- Guignebert, Charles. [[Le Christianisme antique]]. Alcan, 1939.
+- Guignebert, Charles. [[Jésus]]. Alcan, 1933.
+- Habicht, Christian. [[Gottmenschentum und griechische Städte]]. C. H. Beck, 1970.
+- Hadas, Moses; Smith, Morton. [[Heroes and Gods]]. Basic Books, 1965.
+- Haecker, Theodor. [[Vergil: Vater des Abendlandes]]. Hegner, 1931.
+- Hansen, Esther. [[The Attalids of Pergamon]]. Cornell University Press, 1947.
+- Harnack, Adolf von. [[Die Mission und Ausbreitung der christlichen Religion in den ersten drei Jahrhunderten]]. Mohr Siebeck, 1902.
+- Harnack, Adolf von. [[Geschichte der Dogmen]]. Mohr Siebeck, 1894–1897.
+- Harnack, Adolf von. [[Beiträge zur Einleitung in das Neue Testament]]. Mohr Siebeck, 1886.
+- Harnack, Adolf von; Meijering, E. P. [[Die Hellenisierung des Christentums im Urteil Adolf von Harnacks]]. Mohr Siebeck, 1986.
+- Hatch, Edwin. [[The Influence of Greek Ideas and Usages upon the Christian Church]]. Hendrickson Publishers, 1996.
+- Havet, Ernest. [[Le christianisme et ses origines]]. Ladrange, 1871–1884.
+- Hengel, Martin. [[Judentum und Hellenismus: Studien zu ihrer Begegnung unter besonderer Berücksichtigung Palästinas bis zur Mitte des 2. Jh. v. Chr.]]. Mohr Siebeck, 1969.
+- Hengel, Martin. [[Der Sohn Gottes: Die Entstehung der Christologie und die jüdisch-hellenistische Religionsgeschichte]]. Mohr, 1977.
+- Herrero de Jáuregui, Miguel. [[Tradición órfica y cristianismo antiguo]]. Trotta, 2007.
+- Heuss, Alfred. [[Römische Geschichte]]. Vandenhoeck & Ruprecht, 1960.
+- Hoffmann, Ernst. [[Platonismus und christliche Philosophie]]. Artemis Verlag, 1959.
+- Holtzmann, Heinrich Julius. [[Die synoptischen Evangelien, ihr Ursprung und geschichtlicher Charakter]]. Wilhelm Engelmann, 1863.
+- Hughes, David. [[The Star of Bethlehem]]. Pocket Books, 1980.
+- Hurtado, Larry W. [[How on Earth Did Jesus Become a God?: Historical Questions about Earliest Devotion to Jesus]]. Eerdmans, 2005.
+- Jaeger, Werner. [[Early Christianity and Greek Paideia]]. Harvard University Press, 1961.
+- Jaeger, Werner. [[Paideia: Die Formung des griechischen Menschen]]. De Gruyter, 1934–1947.
+- Jaubert, Annie. [[La date de la Cène: Calendrier biblique et liturgie chrétienne]]. Gabalda, 1957.
+- Jeremias, Joachim. [[Die Gleichnisse Jesu]]. Vandenhoeck & Ruprecht, 1960.
+- Judge, Edwin A. [[The Social Pattern of Christian Groups in the First Century]]. Macmillan, 1960.
+- Käsemann, Ernst. [[Essays on New Testament Themes]]. SCM Press, 1969.
+- Klauck, Hans-Josef. [[The Religious Context of Early Christianity: A Guide to Graeco-Roman Religions]]. T&T Clark, 2003.
+- Klausner, Joseph. [[Jesus of Nazareth: His Life, Times and Teaching]]. Macmillan, 1922.
+- Keith, Chris. [[Jesus against the Scribal Elite: The Origins of the Conflict]]. Baker Academic, 2014.
+- Kermani, Navid. [[Ungläubiges Staunen: über das Christentum]]. C. H. Beck, 2015.
+- Knoblet, John. [[Herod the Great]]. University Press of America, 1999.
+- Koselleck, Reinhart. [[Begriffsgeschichten]]. Suhrkamp, 2010.
+- Kritzinger, Hans Hermann. [[Der Stern der Weisen]]. Bertelsmann, 1911.
+- Lakatos Janoska, Eugenio. [[Historia de la revelación bíblica]]. La Casa de la Biblia, 1973.
+- Lamartine, Jules. [[Jules César]]. Lebègue et Cie, 1856.
+- Lanciani, Rodolfo. [[Pagan and Christian Rome]]. Houghton, Mifflin & Co., 1893.
+- Lémonon, Jean-Pierre. [[Pilate et le gouvernement de la Judée: Textes et monuments]]. PUF, 1983.
+- Lewinsohn, Richard. [[Der ewige Zeus]]. Rowohlt, 1955.
+- Lewis, C. S. [[Surprised by Joy]]. Geoffrey Bles, 1955.
+- Liebeschuetz, John Hugo W. G. [[Continuity and Change in Roman Religion]]. Clarendon Press, 1979.
+- Loisy, Alfred Firmin. [[Les mystères païens et le mystère chrétien]]. Emile Nourry Éditeur, 1914.
+- Lüdemann, Gerd. [[Der große Betrug: Und was Jesus wirklich sagte und tat]]. Zu Klampen, 2021.
+- Lüderman, Gerd. [[Das frühe Christentum nach den Traditionen der Apostelgeschichte]]. Vandenhoeck & Ruprecht, 1987.
+- Luz, Ulrich. [[Jesus und Buddha: Eine Begegnung zweier Religionen]]. Benziger, 1993.
+- Ma, John. [[Polis: A New History of the Ancient Greek City-State from the Early Iron Age to the End of Antiquity]]. Princeton University Press, 2024.
+- Macaulay, Thomas Babington. [[Lays of Ancient Rome]]. Tauchnitz, 1851.
+- Macchioro, Vittorio. [[L'evangelo]]. Laterza, 1922.
+- Macchioro, Vittorio. [[Orfismo e paolismo]]. Edizioni Bastogi, 1982.
+- MacDonald, Dennis. [[Christianizing Homer: "The Odyssey," Plato, and "The Acts of Andrew"]]. Oxford University Press, 1994.
+- MacDonald, Dennis. [[Does the New Testament Imitate Homer? Four Cases from the Acts of the Apostles]]. Yale University Press, 2003.
+- Malherbe, Abraham J. [[Paul and the Popular Philosophers]]. Fortress Press, 1989.
+- Marcolongo, Andrea. [[La lezione di Enea]]. Laterza, 2022.
+- Maritain, Jacques. [[La pensée de Saint Paul]]. Editions Corrêa, 1947.
+- Markschies, Christoph. [[Die Hellenisierung des Christentums in der Spätantike]]. Mohr Siebeck, 1997.
+- Martínez-Pinna, Jorge. [[Las leyendas de fundación de Roma: de Eneas a Rómulo]]. Edicions Universitat Barcelona, 2011.
+- Mauriac, François. [[Vie de Jésus]]. Flammarion, 1936.
+- Meier, Christian. [[Caesar]]. Severin und Siedler, 1982.
+- Meier, John P. [[A Marginal Jew: Rethinking the Historical Jesus]]. Doubleday, 1991–2016.
+- Meyer, Eduard. [[Ursprung und Anfänge des Christentums]]. Niemeyer, 1921.
+- Molnar, Michael R. [[The Star of Bethlehem: The Legacy of the Magi]]. Rutgers University Press, 1999.
+- Momigliano, Arnaldo. [[Conflict Between Paganism and Christianity in the Fourth Century]]. Oxford University Press, 1963.
+- Momigliano, Arnaldo. [[Alien Wisdom: The Limits of Hellenization]]. Cambridge University Press, 1975.
+- Momigliano, Arnaldo. [[On Pagans, Jews and Christians]]. Wesleyan University Press, 1987.
+- Mommsen, Theodor. [[Römische Geschichte]]. Weidmann, 1854–1856.
+- Naegeli, Hans. [[Der Wortschatz des Apostels Paulus]]. Töpelmann, 1912.
+- Neander, Augustus. [[Das Leben Jesu Christi in seinem geschichtlichen Zusammenhange und seiner geschichtlichen Entwicklung]]. Andreas Perthes, 1862.
+- Neusner, Jacob. [[From Politics to Piety: The Emergence of Pharisaic Judaism]]. Prentice Hall, 1973.
+- Nickelsburg, George W. E. [[Resurrection, Immortality, and Eternal Life in Intertestamental Judaism]]. Harvard University Press, 1972.
+- Niemand, Christoph. [[Jesus und sein Weg zum Kreuz: Ein historisch-rekonstruktives und theologisches Modellbild]]. W. Kohlhammer GmbH, 2007.
+- Nock, Arthur Darby. [[Early Gentile Christianity and its Hellenistic Background]]. Harper & Row, 1964.
+- Nock, Arthur Darby. [[Conversion: The Old and the New in Religion from Alexander the Great to Augustine of Hippo]]. Oxford University Press, 1972.
+- Norden, Eduard. [[Agnostos theos: Untersuchungen zur Formengeschichte religiöser Rede]]. Teubner, 1913.
+- Norden, Eduard. [[Die Geburt des Kindes: Geschichte einer religiösen Idee]]. Teubner, 1924.
+- Ogilvie, Robert Maxwell. [[The Romans and Their Gods in the Age of Augustus]]. Norton, 1969.
+- Olof Gigon. [[Die antike Kultur und das Christentum]]. Gütersloher Verlagshaus, 1966.
+- O'Neill, John C. [[Who Did Jesus Think He Was?]]. Brill, 1992.
+- Otto, Rudolf. [[Das Heilige: Über das Irrationale in der Idee des Göttlichen und sein Verhältnis zum Rationalen]]. Leopold Klotz, 1926.
+- Papini, Giovanni. [[Storia di Cristo]]. Vallecchi Editore, 1921.
+- Parker, Robert. [[Polytheism and Society at Athens]]. Oxford University Press, 2005.
+- Perrin, Norman. [[Rediscovering the Teaching of Jesus]]. Harper & Row, 1967.
+- Pesch, Rudolf. [[Das Markusevangelium]]. Herder, 1977.
+- Pfeiffer, Rudolf. [[History of Classical Scholarship: From the Beginnings to the End of the Hellenistic Age]]. Clarendon Press, 1968.
+- Piettre, André. [[La pensée religieuse dans l'Antiquité]]. PUF, 2000.
+- Piñero, Antonio. [[Guía para entender a Pablo de Tarso]]. Trotta, 2015.
+- Pitre, Brant J. [[Jesus and the Last Supper]]. Eerdmans, 2016.
+- Plácido, Domingo. [[Introducción al mundo antiguo: Problemas teóricos y metodológicos]]. Akal, 1990.
+- Price, Simon R. F. [[Rituals and Power: The Roman Imperial Cult in Asia Minor]]. Cambridge University Press, 1984.
+- Prümm, Karl. [[Der christliche Glaube und die altheidnische Welt]]. J. Hegner, 1935.
+- Puech, Aimé. [[Histoire de la littérature grecque chrétienne depuis les origines jusqu'à la fin du 4e siècle]]. Leroux, 1912–1924.
+- Rad, Gerhard von. [[Theologie des Alten Testaments]]. Christian Kaiser Verlag, 1962.
+- Rahner, Hugo. [[Greek Myths and Christian Mystery]]. Harper & Row, 1963.
+- Rajak, Tessa. [[Josephus: The Historian and His Society]]. Duckworth, 1983.
+- Reitzenstein, Richard. [[Die hellenistischen Mysterienreligionen: Nach ihren Grundgedanken und Wirkungen]]. Teubner, 1927.
+- Renan, Ernest. [[Vie de Jésus]]. Michel Lévy Frères, 1863.
+- Renan, Ernest. [[Les Apôtres]]. Michel Lévy Frères, 1866.
+- Resch, Alfred. [[Die Logia Jesu nach dem griechischen und hebräischen Text wiederhergestellt: Ein Versuch]]. J. C. Hinrichs'sche Buchhandlung, 1898.
+- Reyes, Alfonso. [[La antigua retórica]]. Fondo de Cultura Económica, 1942.
+- Reyes, Alfonso. [[Filosofía helenística]]. Fondo de Cultura Económica, 1944.
+- Reyes, Alfonso. [[Libros y libreros de la Antigüedad]]. Fondo de Cultura Económica, 1955.
+- Reyes, Alfonso. [[Religión griega]]. Fondo de Cultura Económica, 1955.
+- Reynolds, Leighton Durham; Wilson, Nigel Guy. [[Scribes and Scholars: A Guide to the Transmission of Greek and Latin Literature]]. Clarendon Press, 1968.
+- Richardson, Peter; Donfried, Karl P. (eds.). [[Judaism and Christianity in First-Century Rome]]. Eerdmans, 1998.
+- Richardson, Peter. [[Herod: King of the Jews and Friend of the Romans]]. University of South Carolina Press, 1996.
+- Riesner, Rainer. [[Die Frühzeit des Apostels Paulus: Studien zur Chronologie, Missionsstrategie und Theologie]]. Mohr Siebeck, 1981.
+- Riesner, Rainer. [[Jesus als Lehrer]]. Mohr Siebeck, 1981.
+- Robertson, Archibald. [[Regnum Dei: Eight Lectures on the Kingdom of God in the History of Christian Thought]]. Macmillan, 1911.
+- Roetzel, Calvin J. [[Paul: A Jew on the Margins]]. Westminster John Knox Press, 1999.
+- Rohde, Erwin. [[Psyche: Seelencult und Unsterblichkeitsglaube der Griechen]]. Mohr Siebeck, 1894.
+- Rohr, Ignaz. [[Paulus und die Gemeinde von Korinth auf Grund der beiden Korintherbriefe]]. Herdersche, 1899.
+- Roller, Duane W. [[The Building Program of Herod the Great]]. University of California Press, 1998.
+- Roller, Duane W. [[Cleopatra: A Biography]]. Oxford University Press, 2010.
+- Rops, Daniel. [[Le Peuple de la Bible]]. Fayard, 1943.
+- Rostovtzeff, Mikhail. [[History of the Ancient World]]. Clarendon Press, 1927.
+- Rowe, Christopher Kavin. [[Early Narrative Christology: The Lord in the Gospel of Luke]]. De Gruyter, 2006.
+- Räisänen, Heikki. [[Paul and the Law]]. Fortress Press, 1992.
+- Rajak, Tessa. [[Translation and Survival: The Greek Bible of the Ancient Jewish Diaspora]]. Oxford University Press, 2009.
+- Sainte-Beuve, Charles Augustin. [[Étude sur Virgile]]. Garnier, 1857.
+- Saldarini, Anthony J. [[Pharisees, Scribes and Sadducees in Palestinian Society: A Sociological Approach]]. T&T Clark, 1988.
+- Sanders, E. P. [[Paul and Palestinian Judaism]]. Fortress Press, 1977.
+- Sanders, E. P. [[Jesus and Judaism]]. Fortress Press, 1985.
+- Sanders, E. P. [[Paul, the Law, and the Jewish People]]. Fortress Press, 1990.
+- Sanders, E. P. [[Judaism: Practice and Belief, 63 BCE–66 CE]]. SCM Press, 1992.
+- Sanders, E. P. [[The Historical Figure of Jesus]]. Allen Lane, 1993.
+- Sanders, E. P. [[The Question of Uniqueness in the Teaching of Jesus]]. Trinity Press International, 2006.
+- Sandmel, Samuel. [[Philo of Alexandria: An Introduction]]. Oxford University Press, 1979.
+- Schalit, Abraham. [[König Herodes: Der Mann und sein Werk]]. De Gruyter, 1969.
+- Scheid, John. [[An Introduction to Roman Religion]]. Indiana University Press, 1998.
+- Schiavone, Aldo. [[Pilato]]. Einaudi, 2016.
+- Schlatter, Adolf. [[Die Geschichte der ersten Christenheit]]. Bertelsmann, 1926.
+- Schmidt, Carl. [[Gespräche Jesu mit seinen Jüngern nach der Auferstehung: Ein apokryphes Fragment]]. J. C. Hinrichs, 1905.
+- Schmidt, T. C. [[Josephus and Jesus: New Evidence for the One Called Christ]]. Oxford University Press, 2025.
+- Schmithals, Walter. [[Das Evangelium nach Markus: Kapitel 1–8,26]]. Gütersloher Verlagshaus, 1969.
+- Schmithals, Walter. [[Paulus und die Gnosis]]. Vandenhoeck & Ruprecht, 1975.
+- Schneider, Carl. [[Kulturgeschichte des Hellenismus]]. C. H. Beck, 1974.
+- Schwartz, Seth. [[Imperialism and Jewish Society: 200 B.C.E. to 640 C.E.]]. Princeton University Press, 2004.
+- Schweitzer, Albert. [[Geschichte der Leben-Jesu-Forschung]]. Mohr Siebeck, 1906.
+- Schweitzer, Albert. [[Die Mystik des Apostels Paulus]]. Mohr Siebeck, 1913.
+- Schürer, Emil. [[Geschichte des jüdischen Volkes im Zeitalter Jesu Christi]]. Hinrichs / Mohr Siebeck, 1890–1909.
+- Scullard, H. H. [[From the Gracchi to Nero: A History of Rome from 133 B.C. to A.D. 68]]. Routledge, 1982.
+- Segal, Alan F. [[Paul the Convert: The Apostolate and Apostasy of Saul the Pharisee]]. Yale University Press, 1990.
+- Sherwin-White, A. N. [[Roman Society and Roman Law in the New Testament]]. Oxford University Press, 1963.
+- Simon, Marcel. [[Civilisation gallo-romaine et christianisme]]. De Boccard, 1948.
+- Sloan, Paul T. [[Jesus and the Law of Moses: The Gospels and the Restoration of Israel within First-Century Judaism]]. Baker Academic, 2025.
+- Smallwood, E. Mary. [[The Jews under Roman Rule]]. Brill, 1976.
+- Smith, Morton. [[Jesus the Magician]]. Harper & Row, 1978.
+- Smith, William. [[A Dictionary of Greek and Roman Antiquities]]. John Murray, 1875.
+- Ste. Croix, G. E. M. de. [[The Class Struggle in the Ancient Greek World]]. Duckworth, 1981.
+- Ste. Croix, G. E. M. de. [[Christian Persecution, Martyrdom, and Orthodoxy]]. Oxford University Press, 1963.
+- Snyder, Graydon F. [[Ante Pacem: Archaeological Evidence of Church Life before Constantine]]. Mercer University Press, 2003.
+- Sordi, Marta. [[Il cristianesimo e Roma]]. Jaca Book, 1984.
+- Stendahl, Krister. [[The Apostle Paul and the Introspective Conscience of the West]]. Harvard Theological Review, 1963.
+- Stendahl, Krister. [[Paul among Jews and Gentiles]]. Fortress Press, 1976.
+- Stenger, Jan. [[Hellenistische Kultur und römische Politik]]. De Gruyter, 2009.
+- Stowers, Stanley K. [[A Rereading of Romans: Justice, Jews, and Gentiles]]. Yale University Press, 1994.
+- Strecker, Georg. [[Theologie des Neuen Testaments]]. De Gruyter, 1981.
+- Syme, Ronald. [[The Roman Revolution]]. Oxford University Press, 1939.
+- Taine, Hippolyte. [[Essai sur Tite Live]]. Hachette, 1874.
+- Tarn, William. [[Alexander the Great and the Unity of Mankind]]. Humphrey Milford, 1933.
+- Tarn, William. [[Hellenistic Civilization]]. Edward Arnold & Co., 1927.
+- Taylor, Vincent. [[The Gospel According to St. Mark]]. Macmillan, 1949.
+- Taylor, Vincent. [[The Life and Ministry of Jesus]]. Abingdon Press, 1953.
+- Tcherikover, Victor. [[Hellenistic Civilization and the Jews]]. Jewish Publication Society, 1959.
+- Theißen, Gerd. [[Die Religion der ersten Christen: Eine Theorie des Urchristentums]]. Gütersloher Verlagshaus, 2000.
+- Tovar, Antonio. [[Ensayos y peregrinaciones]]. Guadarrama, 1960.
+- Toynbee, Arnold. [[A Study of History]]. Oxford University Press, 1934–1961.
+- Toynbee, Jocelyn M. C. [[Death and Burial in the Roman World]]. Cornell University Press, 1971.
+- Trebilco, Paul. [[Jewish Communities in Asia Minor]]. Cambridge University Press, 1991.
+- Troeltsch, Ernst. [[Die Absolutheit des Christentums und die Religionsgeschichte]]. Mohr Siebeck, 1912.
+- Uribe Rueda, Álvaro. [[Bizancio, el dique iluminado]]. Herder, 1998.
+- Vallejo, Fernando. [[La puta de Babilonia]]. Editorial Planeta, 2007.
+- Vallejo, Irene. [[El infinito en un junco]]. Siruela, 2019.
+- Vermes, Géza. [[Jesus the Jew: A Historian's Reading of the Gospels]]. Collins, 1973.
+- Vermes, Géza. [[The Changing Faces of Jesus]]. Penguin Books, 2001.
+- Vermes, Géza. [[The Nativity: History and Legend]]. Penguin Books, 2006.
+- Vermes, Géza. [[Christian Beginnings: From Nazareth to Nicaea]]. Penguin Books, 2012.
+- Vielhauer, Philipp. [[Geschichte der urchristlichen Literatur]]. De Gruyter, 1975.
+- Votaw, Clyde W. [[The Gospels and Contemporary Biographies]]. University of Chicago Press, 1915.
+- Wechsler, Eduard. [[Hellas im Evangelium]]. Dieterich, 1903.
+- Weber, Max. [[Die Wirtschaftsethik der Weltreligionen: Das antike Judentum]]. Mohr Siebeck, 1922.
+- Weinstock, Stefan. [[Divus Julius]]. Clarendon Press, 1971.
+- Weiss, Johannes. [[Die Predigt Jesu vom Reiche Gottes]]. Vandenhoeck & Ruprecht, 1892.
+- Weizsäcker, Carl von. [[Das apostolische Zeitalter der christlichen Kirche]]. Mohr Siebeck, 1862.
+- Wellhausen, Julius. [[Prolegomena zur Geschichte Israels]]. Reimer, 1878.
+- Wellhausen, Julius. [[Israelitische und jüdische Geschichte]]. De Gruyter, 1903.
+- Wellhausen, Julius. [[Die Christliche Religion mit Einschluss der israelitisch-jüdischen Religion]]. Reimer, 1906.
+- Wells, George Albert. [[The Jesus of the Early Christians]]. Pemberton, 1971.
+- Wells, George Albert. [[The Jesus Myth]]. Open Court, 1999.
+- Wells, George Albert. [[Can We Trust the New Testament? Thoughts on the Reliability of Early Christian Testimony]]. Open Court, 2004.
+- Wendland, Paul. [[Die hellenistisch-römische Kultur in ihren Beziehungen zu Judentum und Christentum]]. J. C. B. Mohr, 1907.
+- Wengst, Klaus. [[Das Johannesevangelium]]. Kohlhammer, 1986.
+- Wilamowitz-Moellendorff, Ulrich von. [[Der Glauben der Hellenen]]. Wissenschaftliche Buchgesellschaft, 1959.
+- Wilckens, Ulrich. [[Auferstehung: Das biblische Auferstehungszeugnis historisch untersucht und erklärt]]. Kreuz-Verlag, 1974.
+- Wilckens, Ulrich. [[Theologie des Neuen Testaments]]. Neukirchener Verlag, 1980–1982.
+- Wilken, Robert Louis. [[The Christians as the Romans Saw Them]]. Yale University Press, 1984.
+- Williams, Nadya. [[Christians Reading Classics: An Introduction to Graeco-Roman Classics from Homer to Boethius]]. Zondervan Academic, 2025.
+- Williams, Peter J. [[Can We Trust the Gospels?]]. Crossway, 2018.
+- Windisch, Hans. [[Die Paulusbriefe]]. Vandenhoeck & Ruprecht, 1930.
+- Winter, Paul. [[On the Trial of Jesus]]. De Gruyter, 1961.
+- Wissowa, Georg. [[Religion und Kultus der Römer]]. C. H. Beck, 1912.
+- Wrede, William. [[Das Messiasgeheimnis in den Evangelien]]. Vandenhoeck & Ruprecht, 1901.
+- Wright, N. T. [[The New Testament and the People of God]]. Fortress Press, 1992.
+- Wright, N. T. [[Jesus and the Victory of God]]. Fortress Press, 1996.
+- Wright, N. T. [[The Resurrection of the Son of God]]. Fortress Press, 2003.
+- Zahn, Theodor. [[Einleitung in das Neue Testament]]. Deichert, 1889.
+- Zanker, Paul. [[Augustus und die Macht der Bilder]]. C. H. Beck, 1987.
+- Zeitlin, Solomon. [[Who Crucified Jesus?]]. Harper & Brothers, 1947.
+- Zeller, Eduard. [[Die Philosophie der Griechen in ihrer geschichtlichen Entwicklung]]. Fues, 1855.

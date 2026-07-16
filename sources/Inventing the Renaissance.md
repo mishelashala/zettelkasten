@@ -1,0 +1,306 @@
+## Bibliography
+
+- Allen, Don Cameron. [[Doubt's Boundless Sea: Skepticism and Faith in the Renaissance]]. Johns Hopkins Press, 1964.
+- Atkinson, Niall. [[The Noisy Renaissance: Sound, Architecture, and Florentine Urban Life]]. Pennsylvania State University Press, 2016.
+- Baker, Nicholas Scott. [[The Fruit of Liberty: Political Culture in the Florentine Renaissance, 1480–1550]]. Harvard University Press, 2013.
+- Celenza, Christopher S. [[The Intellectual World of the Italian Renaissance: Language, Philosophy, and the Search for Meaning]]. Cambridge University Press, 2018.
+- Cochrane, Eric W. [[Florence in the Forgotten Centuries, 1527–1800: A History of Florence and the Florentines in the Age of the Grand Dukes]]. University of Chicago Press, 1973.
+- Copenhaver, Brian. [[The Book of Magic: From Antiquity to the Enlightenment]]. Penguin Books, 2015.
+- Darnton, Robert. [[The Great Cat Massacre and Other Episodes in French Cultural History]]. Basic Books, 2009.
+- Darnton, Robert. [[The Business of Enlightenment: A Publishing History of the Encyclopédie, 1775–1800]]. Belknap Press, 1979.
+- Findlen, Paula; Sutherland, Suzanne (eds.). [[The Renaissance of Letters: Knowledge and Community in Italy, 1300–1650]]. Routledge, 2020.
+- Fubini, Riccardo. [[Humanism and Secularization: From Petrarch to Valla]]. Duke University Press, 2003.
+- Gabriele, Matthew; Perry, David M. [[Bright Ages: A New History of Medieval Europe]]. HarperCollins, 2023.
+- Gay, Peter. [[The Enlightenment: An Interpretation]]. Knopf, 1966.
+- Gill, Anton. [[Il Gigante: Michelangelo, Florence and the David, 1493–1504]]. Review, 2002.
+- Hale, Sheila. [[Titian: His Life]]. HarperCollins, 2012.
+- Hankins, James. [[Virtue Politics: Soulcraft and Statecraft in Renaissance Italy]]. Harvard University Press, 2019.
+- Hibbert, Christopher. [[The House of Medici: Its Rise and Fall]]. Morrow, 1975.
+- Johns, Adrian. [[Piracy: The Intellectual Property Wars from Gutenberg to Gates]]. University of Chicago Press, 2009.
+- Kaborycha, Lisa. [[A Corresponding Renaissance: Letters Written by Italian Women, 1375–1650]]. Oxford University Press, 2016.
+- Kelly, John. [[The Great Mortality: An Intimate History of the Black Death, the Most Devastating Plague of All Time]]. HarperCollins, 2005.
+- King, Ross. [[The Bookseller of Florence: Vespasiano da Bisticci and the Manuscripts that Illuminated the Renaissance]]. Atlantic Monthly Press, 2021.
+- Kors, Alan C. [[The Birth of the Modern Mind: The Intellectual History of the 17th and 18th Centuries]]. Teaching Company, 2003.
+- Launay, Robert. [[Savages, Romans, and Despots: Thinking About Others from Montaigne to Herder]]. University of Chicago Press, 2018.
+- Lev, Elizabeth. [[The Tigress of Forlì: Renaissance Italy's Most Courageous and Notorious Countess, Caterina Riario Sforza De' Medici]]. Houghton Mifflin Harcourt, 2011.
+- MacCulloch, Diarmaid. [[The Reformation: A History]]. Penguin Books, 2005.
+- Machiavelli, Niccolò. [[Machiavelli and His Friends: Their Personal Correspondence]]. Northern Illinois University Press, 1996.
+- Marenbon, John. [[Later Medieval Philosophy (1150–1350): An Introduction]]. Routledge, 1987.
+- McKitterick, David. [[Print, Manuscript and the Search for Order, 1450–1830]]. Cambridge University Press, 2003.
+- Mitchell, R. J. [[The Laurels and the Tiara: Pope Pius II, 1458–1464]]. Doubleday, 1963.
+- Origo, Iris. [[The Merchant of Prato]]. J. Cape, 1960.
+- Pettgree, Andrew. [[The Invention of News: How the World Came to Know About Itself]]. Yale University Press, 2014.
+- Price, Neil S. [[The Viking Way: Magic and Mind in Late Iron Age Scandinavia]]. Oxbow Books, 2019.
+- Ross, Janet. [[Lives of the Early Medici as Told in Their Correspondence]]. Kessinger Publishing, 2006.
+- Ruggiero, Guido. [[The Renaissance in Italy: A Social and Cultural History of the Rinascimento]]. Cambridge University Press, 2014.
+- Slauter, Will. [[Who Owns the News?: A History of Copyright]]. Stanford University Press, 2019.
+- Stevenson, Jane. [[The Light of Italy: The Life and Times of Federico da Montefeltro, Duke of Urbino]]. Head of Zeus, 2021.
+- Tomas, Natalie. [[The Medici Women: Gender and Power in Renaissance Florence]]. Ashgate, 2003.
+- Alberti, Leon Battista. [[The Albertis of Florence: Leon Battista Alberti's Della Famiglia]]. Bucknell University Press, 1971.
+- Bembo, Pietro. [[History of Venice]]. Harvard University Press, 2007.
+- Cassirer, Ernst; Kristeller, Paul Oskar; Randall, John Herman (eds.). [[The Renaissance Philosophy of Man]]. University of Chicago Press, 1956.
+- Cellini, Benvenuto. [[My Life]]. Oxford University Press, 2002.
+- Corio, Bernardo. [[Patria historia]]. Giorgio de' Cavalli, 1565.
+- d'Este, Isabella. [[Selected Letters]]. Iter Press, 2017.
+- Dolfo, Floriano. [[Lettere ai Gonzaga]]. Edizioni di storia e letteratura, 2002.
+- Fedele, Cassandra. [[Letters and Orations]]. University of Chicago Press, 2000.
+- Ficino, Marsilio. [[Platonic Theology]]. Harvard University Press, 2006.
+- Ficino, Marsilio. [[Meditations on the Soul: Selected Letters of Marsilio Ficino]]. Inner Traditions, 1997.
+- Ficino, Marsilio. [[The Letters of Marsilio Ficino]]. Shepheard-Walwyn, 1975–.
+- Filelfo, Francesco. [[On Exile]]. Harvard University Press, 2013.
+- Filelfo, Francesco. [[Odes]]. Harvard University Press, 2009.
+- [[French and English Philosophers: Descartes, Rousseau, Voltaire, Hobbes]]. Harvard Classics, 1910.
+- Gordon, Phyllis Walter Goodhart (ed.). [[Two Renaissance Book Hunters: The Letters of Poggius Bracciolini to Nicolaus De Niccolis]]. Columbia University Press, 1991.
+- Kallendorf, Craig (ed.). [[Humanist Educational Treatises]]. Harvard University Press, 2002.
+- Knox, Ronald Arbuthnott. [[The Miracles of King Henry VI]]. Cambridge University Press, 1923.
+- Kors, Alan C.; Peters, Edward (eds.). [[Witchcraft in Europe, 400–1700: A Documentary History]]. University of Pennsylvania Press, 2001.
+- Landucci, Luca. [[A Florentine Diary from 1450 to 1516]]. J. M. Dent & Sons, 1927.
+- Maffei, Raffaele. [[Commentariorum Urbanorum]]. [Besicken], 1506.
+- Manetti, Giannozzo. [[On Human Worth and Excellence]]. Harvard University Press, 2018.
+- Manuzio, Aldo. [[Humanism and the Latin Classics]]. Harvard University Press, 2017.
+- Manuzio, Aldo. [[The Greek Classics]]. Harvard University Press, 2016.
+- Marullo Tarcaniota, Michele. [[Hymnes naturels]]. Librairie Droz, 1995.
+- Marullo Tarcaniota, Michele. [[Inni Naturali]]. Le Lettere, 1995.
+- Marullo Tarcaniota, Michele. [[Michele Marullo Tarcaniota, le elegie per la patria perduta ed altri suoi carmi]]. G. Laterza & figli, 1938.
+- Marullo Tarcaniota, Michele. [[Poems]]. Harvard University Press, 2012.
+- Medici, Lorenzino de'. [[Apology for a Murder]]. Hesperus Press, 2004.
+- Medici, Lorenzino de'. [[Lorenzo De' Medici at Home: The Inventory of the Palazzo Medici in 1492]]. Pennsylvania State University Press, 2013.
+- [[The Story of the Volsungs (Volsunga Saga) With Excerpts from the Poetic Edda]]. Walter Scott Press, 1888.
+- Petrarch, Francesco. [[Selected Letters]]. Harvard University Press, 2017.
+- Petrarch, Francesco. [[Letters (Letters on Familiar Matters and Letters of Old Age)]]. Italica Press, 2009.
+- Petrarch, Francesco. [[Invectives]]. Harvard University Press, 2003.
+- Petrarch, Francesco. [[Petrarch's Remedies for Fortune Fair and Foul]]. Indiana University Press, 1991.
+- Petrarch, Francesco. [[Four Dialogues for Scholars]]. Press of Western Reserve University, 1967.
+- Pico della Mirandola, Giovanni. [[Lettere]]. L. S. Olschki, 2018.
+- Pico della Mirandola, Giovanni. [[On the Imagination]]. Oxford University Press, 1930.
+- Pius II. [[Commentaries]]. Harvard University Press, 2003.
+- Polacco, Giorgio. [[Anticopernicus Catholicus, Seu De Terrae Statione, Et De Solis Motu, Contra Systema Copernicanum, Catholicae Assertiones]]. Apud Guerilios, 1644.
+- Poliziano, Angelo. [[Letters]]. Edited by Shane Butler. Harvard University Press, 2006.
+- Poliziano, Angelo. [[Silvae]]. L. S. Olschki, 1996.
+- Savonarola, Girolamo. [[Meditatio pia et erudita Hieronymi Savonarolae: a Papa exusti, super Psalmos Miserere mei et In te Domine speravi]]. Edited by Martin Luther. [Johann Rhau-Gunenberg], 1523.
+- Sforza, Ippolita Maria. [[Duchess and Hostage in Renaissance Naples: Letters and Orations]]. Translated by Diana Robin and Lynn Westwater. Iter Press, 2017.
+- Shakespeare, William. [[The First Part of Henry the Sixt]]. Directed by Jane Howell. BBC Television / Time-Life, 1987.
+- Shelley, Mary Wollstonecraft. [[Frankenstein; or, the Modern Prometheus: The 1818 Text]]. Edited by Marilyn Butler. William Pickering, 1993.
+- Strozzi, Alessandra. [[Selected Letters of Alessandra Strozzi]]. Translated by Heather Gregory. University of California Press, 1997.
+- Walton, Jo. [[Thought Against Tomorrow]]. Is There a Green Iguana In This Forest?, 2020.
+
+# Secondary Sources
+
+- Abraham, Anna. [[Leonardo Da Vinci]]. New Word City, 2016.
+- Ady, Cecilia M. [[The English Church and How It Works]]. Faber & Faber, 1940.
+- Ady, Cecilia M. [[The Bentivoglio of Bologna: A Study in Despotism]]. Oxford University Press, 1937.
+- Ady, Julia Mary Cartwright. [[Italian Gardens of the Renaissance, and Other Studies]]. John Murray, 1914.
+- Ady, Julia Mary Cartwright. [[Raphael]]. Duckworth, 1914.
+- Ady, Julia Mary Cartwright. [[Baldassare Castiglione the Perfect Courtier; His Life and Letters, 1478–1529]]. John Murray, 1908.
+- Ady, Julia Mary Cartwright. [[The Painters of Florence from the Thirteenth to the Sixteenth Century]]. John Murray, 1908.
+- Ady, Julia Mary Cartwright. [[A History of Milan under the Sforza]]. Methuen & Co., 1907.
+- Ady, Julia Mary Cartwright. [[The Painters of Florence from the Thirteenth to the Sixteenth Century]]. E. P. Dutton & Co., 1906.
+- Ady, Julia Mary Cartwright. [[Beatrice d'Este, Duchess of Milan, 1475–1497: A Study of the Renaissance]]. J. M. Dent, 1903.
+- Ady, Julia Mary Cartwright. [[Isabella d'Este, Marchioness of Mantua, 1474–1539: A Study of the Renaissance]]. John Murray, 1903.
+- Åkerman, Susanna. [[Fenixelden: Drottning Kristina Som Alkemist]]. Gidlunds förlag, 2013.
+- Albritton Jonsson, Fredrik, & Wennerlind, Carl. [[Scarcity: A History from the Origins of Capitalism to the Climate Crisis]]. Harvard University Press, 2023.
+- Allen, Michael J. B. [[Synoptic Art: Marsilio Ficino on the History of Platonic Interpretation]]. L. S. Olschki, 1998.
+- Ames-Lewis, Francis. [[Isabella and Leonardo: The Artistic Relationship between Isabella d'Este and Leonardo da Vinci, 1500–1506]]. Yale University Press, 2012.
+- Aron-Beller, Katherine, & Black, Christopher. [[The Roman Inquisition: Centre Versus Peripheries]]. Brill, 2018.
+- Azzolini, Monica. [[The Duke and the Stars: Astrology and Politics in Renaissance Milan]]. Harvard University Press, 2013.
+- Bairoch, Paul. [[La Population des villes européennes, 800–1850: Banque de données et analyse sommaire des résultats]]. Droz, 1988.
+- Baker, Nicholas Scott, & Maxson, Brian. [[Florence in the Early Modern World: New Perspectives]]. Routledge, 2020.
+- Baker, Nicholas Scott. [[After Civic Humanism: Learning and Politics in Renaissance Italy]]. Centre for Reformation and Renaissance Studies, 2015.
+- Baker, Patrick. [[Italian Renaissance Humanism in the Mirror]]. Cambridge University Press, 2015.
+- Baker, Patrick, Helmrath, Johannes, & Kallendorf, Craig (eds.). [[Beyond Reception: Renaissance Humanism and the Transformation of Classical Antiquity]]. De Gruyter, 2019.
+- Bakos, Ágnes, et al. [[Matthias Corvinus, the King: Tradition and Renewal in the Hungarian Royal Court, 1458–1490]]. Budapest History Museum, 2008.
+- Banfi, Florio. [[Raffaello Maffei in Ungheria]]. *L'Europa Orientale*, 17 (1937), pp. 462–488.
+- Barkan, Leonard. [[Unearthing the Past: Archaeology and Aesthetics in the Making of Renaissance Culture]]. Yale University Press, 1999.
+- Barker, Hilary. [[Encountering Antiquity in Renaissance Rome: the Social and Economic Origins of the Classicizing Style, 1400–1550]]. PhD dissertation, University of Chicago, forthcoming.
+- Bar-Lavi, Benny. [[Politics against God: Judaism and Islam in the Political Theological Discourses of Sixteenth- and Seventeenth-Century Spain]]. PhD dissertation, University of Chicago, 2022.
+- Baron, Hans. [[The Crisis of the Early Italian Renaissance: Civic Humanism and Republican Liberty in an Age of Classicism and Tyranny]]. Princeton University Press, 1955.
+- Baron, Hans. [[Leonardo Bruni Aretino: Humanistisch-philosophische Schriften]]. B. G. Teubner, 1928.
+- Barzyk, Fred, & Weber, Eugen. [[The Western Tradition]]. Video series. Annenberg/CPB Project / Metropolitan Museum of Art, 1989.
+- Bauer, Stefan, et al. [[A Renaissance Reclaimed: Jacob Burckhardt's Civilisation of the Renaissance in Italy Reconsidered]]. Oxford University Press, 2022.
+- Bedini, Silvio A. [[The Pope's Elephant]]. Carcanet Press, 1997.
+- Belozerskaya, Marina. [[Medusa's Gaze: The Extraordinary Journey of the Tazza Farnese]]. Oxford University Press, 2012.
+- Belozerskaya, Marina. [[The Medici Giraffe: And Other Tales of Exotic Animals and Power]]. Little, Brown, 2009.
+- Belozerskaya, Marina. [[To Wake the Dead: A Renaissance Merchant and the Birth of Archaeology]]. W. W. Norton & Company, 2009.
+- Belozerskaya, Marina. [[Luxury Arts of the Renaissance]]. J. Paul Getty Museum, 2005.
+- Beltramini, Guido, et al. [[Pietro Bembo e l'Invenzione del Rinascimento]]. Marsilio, 2013.
+- Benedict, Philip. [[The Faith and Fortunes of France's Huguenots, 1600–85]]. Ashgate, 2001.
+- Benner, Erica. [[Be Like the Fox: Machiavelli's Lifelong Quest for Freedom]]. W. W. Norton & Company, 2017.
+- Bertucci, Paola. [[Artisanal Enlightenment: Science and the Mechanical Arts in Old Regime France]]. Yale University Press, 2017.
+- Bietenholz, Peter G., & Deutscher, Thomas Brian. [[Contemporaries of Erasmus: A Biographical Register of the Renaissance and Reformation]]. University of Toronto Press, 1985.
+- Black, Christopher. [[The Italian Inquisition]]. Yale University Press, 2009.
+- Black, Robert. [[Machiavelli and the Militia: New Thoughts]]. *Italian Studies*, 69(1), 2024, pp. 41–50.
+- Black, Robert. [[Humanism and Education in Medieval and Renaissance Italy: Tradition and Innovation in Latin Schools from the Twelfth to the Fifteenth Century]]. Cambridge University Press, 2001.
+- Black, Robert, & Law, John (eds.). [[The Medici: Citizens and Masters]]. Villa I Tatti, 2015.
+- Blair, Ann. [[Too Much to Know: Managing Scholarly Information before the Modern Age]]. Yale University Press, 2010.
+- Blanchard, W. Scott. [[Patrician Sages and the Humanist Cynic: Francesco Filelfo and the Ethics of World Citizenship]]. *Renaissance Quarterly*, 60(4), 2007, pp. 1107–1169.
+- Bondeson, Jan. [[The Two-Headed Boy, and Other Medical Marvels]]. Cornell University Press, 2000.
+- Bonsanti, Giorgio. [[Palazzo Strozzi: Cinque Secoli di Arte e Cultura]]. Nardini, 2005.
+- Bossy, John. [[Christianity in the West, 1400–1700]]. Oxford University Press, 1985.
+- Bouchard, Michel Marc. [[Christina, the Girl King]]. Translated by Linda Gaboriau. Talonbooks, 2014.
+- Boulting, William. [[Æneas Silvius (Enea Silvio de' Piccolomini—Pius II): Orator, Man of Letters, Statesman, and Pope]]. A. Constable & Co., 1908.
+- Boyer, John W. [[The University of Chicago: A History]]. University of Chicago Press, 2015.
+- Bradford, Sarah. [[Lucrezia Borgia: Life, Love and Death in Renaissance Italy]]. Viking, 2004.
+- Bradford, Sarah. [[Cesare Borgia: His Life and Times]]. Macmillan, 1976.
+- Brewer, Keagan. [[Wonder and Skepticism in the Middle Ages]]. Routledge / Taylor & Francis, 2016.
+- Brown, Alison. [[Piero di Lorenzo de' Medici and the Crisis of Renaissance Italy]]. Cambridge University Press, 2020.
+- Brown, Alison. [[Philosophy and Religion in Machiavelli]]. In John M. Najemy (ed.), *The Cambridge Companion to Machiavelli*. Cambridge University Press, 2010, pp. 157–172.
+- Brown, Alison. [[The Return of Lucretius to Renaissance Florence]]. Harvard University Press, 2010.
+- Brown, Alison. [[Insiders and Outsiders: The Changing Boundaries of Exile]]. In William J. Connell (ed.), *Society and Individual in Renaissance Florence*. University of California Press, 2002, pp. 337–383.
+- Brown, Alison. [[Lorenzo, the Monte and the Seventeen Reformers: Public and Private Interest]]. In *The Medici in Florence: The Exercise and Language of Power*. L. S. Olschki, 1992, pp. 151–211.
+- Brown, Alison. [[Bartolomeo Scala, 1430–1497: Chancellor of Florence; The Humanist as Bureaucrat]]. Princeton University Press, 1979.
+- Brown, David Alan, et al. [[Virtue and Beauty: Leonardo's Ginevra de' Benci and Renaissance Portraits of Women]]. Princeton University Press, 2001.
+- Brown, Pamela Allen. [[The Mirror and the Cage: Queens and Dwarfs at the Early Modern Court]]. In *Historical Affects and the Early Modern Theater*. Routledge, 2015, pp. 137–147.
+- Brucker, Gene. [[Living on the Edge in Leonardo's Florence: Selected Essays]]. University of California Press, 2005.
+- Brucker, Gene. [[The Civic World of Early Renaissance Florence]]. Princeton University Press, 1977.
+- Brucker, Gene. [[Renaissance Florence]]. Wiley, 1969.
+- Brundin, Abigail, Howard, Deborah, & Laven, Mary. [[The Sacred Home in Renaissance Italy]]. Oxford University Press, 2018.
+- Buckley, Michael J. [[At the Origins of Modern Atheism]]. Yale University Press, 1987.
+- Buckley, Veronica. [[Christina, Queen of Sweden: The Restless Life of a European Eccentric]]. Fourth Estate, 2004.
+- Bullard, Melissa. [[Lorenzo il Magnifico: Image and Anxiety, Politics and Finance]]. L. S. Olschki, 1994.
+- Bullard, Melissa. [[Filippo Strozzi and the Medici: Favor and Finance in Sixteenth-Century Florence and Rome]]. Cambridge University Press, 1980.
+- Burckhardt, Jacob. [[The Civilization of the Renaissance in Italy]]. Translated by S. G. C. Middlemore. Oxford University Press, 1937.
+- Butters, H. C. [[Governors and Government in Early Sixteenth-Century Florence, 1502–1519]]. Clarendon Press, 1985.
+- Caferro, William. [[John Hawkwood: An English Mercenary in Fourteenth-Century Italy]]. Johns Hopkins University Press, 2006.
+- Campbell, Stephen J. [[The Cabinet of Eros: The Studiolo of Isabella d'Este and the Rise of Renaissance Mythological Painting]]. Yale University Press, 2006.
+- Cantimori, Delio. [[Machiavelli, Guicciardini, le idee religiose del Cinquecento]]. Edizioni della Normale, 2014.
+- Cantimori, Delio. [[Humanism and Religion in the Renaissance]]. Collana Piccola Biblioteca, 1975–1980.
+- Cantimori, Delio. [[Italian Heretics of the Sixteenth Century: Ricerche Storiche]]. Sansoni, 1939.
+- Carrió-Invernizzi, Diana. [[A New Diplomatic History and the Networks of Spanish Diplomacy in the Baroque Era]]. *The International History Review*, 36(4), 2014, pp. 603–618.
+- Celenza, Christopher S. [[The Italian Renaissance and the Origins of the Modern Humanities: An Intellectual History, 1400–1800]]. Cambridge University Press, 2021.
+- Celenza, Christopher S. [[Petrarch: Everywhere a Wanderer]]. University of Chicago Press, 2017.
+- Celenza, Christopher S. [[Machiavelli: A Portrait]]. Harvard University Press, 2015.
+- Celenza, Christopher S. [[The Lost Italian Renaissance: Humanists, Historians, and Latin's Legacy]]. Johns Hopkins University Press, 2004.
+- Christian, Kathleen, & De Divitiis, Bianca (eds.). [[Local Antiquities, Local Identities: Art, Literature and Antiquarianism in Europe, c. 1400–1700]]. Manchester University Press, 2019.
+- Ciccolella, Federica. [[Donati Graeci: Learning Greek in the Renaissance]]. Brill, 2008.
+- Ciccolella, Federica, & Silvano, Luigi (eds.). [[Teachers, Students, and Schools of Greek in the Renaissance]]. Brill, 2017.
+- Clark, Frederic. [[The First Pagan Historian: The Fortunes of a Fraud from Antiquity to the Enlightenment]]. Oxford University Press, 2020.
+- Clark, Robert. [[Dark Water: Flood and Redemption in the City of Masterpieces]]. Doubleday, 2008.
+- Corfiati, Claudia, & De Nichilo, Mauro (eds.). [[Angelo Poliziano e Dintorni: Percorsi di Ricerca]]. Cacucci, 2011.
+- Cipolla, Carlo M. [[Before the Industrial Revolution: European Society and Economy, 1000–1700]]. Norton, 1976.
+- Clemons, G. Scott, Fletcher, H. George, & Kelly, Jerry (eds.). [[Aldus Manutius: A Legacy More Lasting Than Bronze]]. The Grolier Club, 2015.
+- Cockram, Sarah. [[Isabella d'Este and Francesco Gonzaga: Power Sharing at the Italian Renaissance Court]]. Ashgate, 2013.
+- Cohen, Elizabeth Storr, & Cohen, Thomas V. [[Daily Life in Renaissance Italy]]. Greenwood Press, 2001.
+- Cohen, Rachel. [[Bernard Berenson: A Life in the Picture Trade]]. Yale University Press, 2013.
+- Connell, William J. [[Le molestie del Machiavelli]]. *Interpres*, 28, 2009, pp. 226–227.
+- Connell, William J., & Constable, Giles (eds.). [[Sacrilege and Redemption in Renaissance Florence: The Case of Antonio Rinaldeschi]]. Centre for Reformation and Renaissance Studies, 2005.
+- Connors, Joseph, et al. (eds.). [[Italy & Hungary: Humanism and Art in the Early Renaissance]]. Villa I Tatti, 2011.
+- Coonin, Arnold Victor. [[The Most Elusive Woman in Renaissance Art: A Portrait of Marietta Strozzi]]. *Artibus et Historiae*, 30(59), 2009, pp. 41–64.
+- Copenhaver, Brian. [[Magic and the Dignity of Man: Pico della Mirandola and His Oration in Modern Memory]]. Belknap Press, 2019.
+- Corona, Aylin. [[Balancing Acts: Domestic Careers and Enforced Reproduction for Female Court Dwarfs in Early Modern Europe]]. M.A. thesis, University of Chicago, 2021.
+- Costambeys, Marios, Innes, Matthew, & MacLean, Simon. [[The Carolingian World]]. Cambridge University Press, 2011.
+- Cotts, John D. [[Europe's Long Twelfth Century: Order, Anxiety and Adaptation, 1095–1229]]. Palgrave Macmillan, 2013.
+- Cox, Virginia. [[Lyric Poetry by Women of the Italian Renaissance]]. Johns Hopkins University Press, 2013.
+- Crabb, Ann Morton. [[The Strozzi of Florence: Widowhood and Family Solidarity in the Renaissance]]. University of Michigan Press, 2000.
+- Crabb, Ann Morton. [[A Patrician Family in Renaissance Florence: The Family Relations of Alessandra Macinghi Strozzi and Her Sons, 1440–1491]]. 1980.
+- Cummings, Anthony M. [[Lion's Ear: Pope Leo X, the Renaissance Papacy, and Music]]. University of Michigan Press, 2022.
+- Cummins, Neil. [[Lifespans of the European Elite, 800–1800]]. *The Journal of Economic History*, 77(2), 2017, pp. 406–439.
+- Curran, Andrew S. [[Diderot and the Art of Thinking Freely]]. Other Press, 2019.
+- D'Amico, John. [[Renaissance Humanism in Papal Rome: Humanists and Churchmen on the Eve of the Reformation]]. Johns Hopkins University Press, 1983.
+- D'Amico, John. [[Papal History and Curial Reform in the Renaissance: Raffaele Maffei's 'Breuis Historia' of Julius II and Leo X]]. *Archivum Historiae Pontificiae*, 18, 1980, pp. 157–210.
+- D'Elia, Anthony. [[Pagan Virtue in a Christian World: Sigismondo Malatesta and the Italian Renaissance]]. Harvard University Press, 2016.
+- Dall'Aglio, Stefano. [[The Duke's Assassin: Exile and Death of Lorenzino De' Medici]]. Translated by Donald Weinstein. Yale University Press, 2015.
+- Dall'Aglio, Stefano. [[Savonarola and Savonarolism]]. Translated by John Gagné. Centre for Reformation and Renaissance Studies, 2010.
+- Damianaki, Chrysa, Procaccioli, Paolo, & Romano, Angelo (eds.). [[Ex marmore: pasquini, pasquinisti, pasquinate nell'Europa moderna: atti del Colloquio internazionale, Lecce–Otranto, 17–19 Novembre 2005]]. Vecchiarelli, 2006.
+- Davidson, Nicholas. [[Lucretius, Atheism and Irreligion in Renaissance and Early Modern Venice]]. In David Norbrook & Stephen Harrison (eds.), *Lucretius and the Early Modern*. Oxford University Press, 2015, pp. 123–134.
+- Davies, Martin. [[Aldus Manutius: Printer and Publisher of Renaissance Venice]]. J. Paul Getty Museum, 1995.
+- Davis, Natalie Zemon. [[The Return of Martin Guerre]]. Harvard University Press, 1983.
+- de Beer, Susanna. [[The Poetics of Patronage: Poetry as Self-Advancement in Giannantonio Campano]]. Brepols, 2013.
+- de Beer, Susanna. [[The Roman 'Academy' of Pomponio Leto: From an Informal Humanist Network to the Institution of a Literary Society]]. In Arjan Van Dixhoorn & Susie Speakman (eds.), *The Reach of the Republic of Letters: Literary and Learned Societies in the Late Medieval and Early Modern Europe*. Brill, 2008, pp. 181–218.
+- de Divitiis, Bianca. [[Architettura e Committenza nella Napoli della Quattrocento]]. Marsilio, 2007.
+- der Weduwen, Arthur, & Pettegree, Andrew. [[Library: A Fragile History]]. Profile Books, 2021.
+- Dinges, Martin, et al. [[Medical Practice, 1600–1900: Physicians and Their Patients]]. Brill, 2016.
+- Dionisotti, Carlo. [[Gli Umanisti e il Volgare fra Quattro e Cinquecento]]. Felice Le Monnier, 1968.
+- Dooley, Brendan. [[Morandi's Last Prophecy and the End of Renaissance Politics]]. Princeton University Press, 2002.
+- Downing, Ben. [[Queen Bee of Tuscany: The Redoubtable Janet Ross]]. Straus and Giroux, 2013.
+- Dressen, Angela. [[The Intellectual Education of the Italian Renaissance Artist]]. Cambridge University Press, 2021.
+- Dupâquier, Jacques (ed.). [[Histoire de la Population Française]]. Presses Universitaires de France, 1988.
+- Durin, Karine. [[El epicureísmo y las heterodoxias españolas: propuestas para un estado de la cuestión]]. In *Las razones del censor. Control ideológico y censura de libros en la primera edad moderna*. Universitat Autònoma de Barcelona, 2013, pp. 177–191.
+- Edelheit, Amos. [[Ficino, Pico and Savonarola: The Evolution of Humanist Theology, 1461/2–1498]]. Brill, 2008.
+- Elders, Willem. [[Josquin Des Prez and His Musical Legacy: An Introductory Guide]]. Cornell University Press, 2021.
+- Eliot, Simon, & Rose, Jonathan (eds.). [[A Companion to the History of the Book]]. Blackwell Publishing, 2007.
+- Enenkel, Karl A. E. [[Ambitious Antiquities, Famous Forebears: Constructions of a Glorious Past in the Early Modern Netherlands and Europe]]. Brill, 2019.
+- Epstein, Steven. [[Speaking of Slavery: Color, Ethnicity, and Human Bondage in Italy]]. Cornell University Press, 2001.
+- Epstein, Steven. [[Genoa and the Genoese, 958–1528]]. University of North Carolina Press, 1996.
+- Faietti, Marzia, et al. [[Raphael, 1520–1483]]. Skira, 2020.
+- Faini, Marco. [[Pietro Bembo: A Life in Laurels and Scarlet]]. Legenda, 2017.
+- Falco, Maria (ed.). [[Feminist Interpretations of Niccolò Machiavelli]]. Pennsylvania State University Press, 2004.
+- Falk, Seb. [[The Light Ages: The Surprising Story of Medieval Science]]. W. W. Norton & Company, 2020.
+- Farinella, Vincenzo. [[Alfonso d'Este: Le Immagini e il Potere: da Ercole de' Roberti a Michelangelo]]. Officina Libraria, 2014.
+- Febvre, Lucien. [[The Problem of Unbelief in the Sixteenth Century: The Religion of Rabelais]]. Translated by Beatrice Gottlieb. Harvard University Press, 1982.
+- Fera, Vincenzo, & Martelli, Mario (eds.). [[Agnolo Poliziano: Poeta, Scrittore, Filologo]]. Le Lettere, 1998.
+- Feros Ruys, Juanita, Ward, John O., & Heyworth, Melanie (eds.). [[The Classics in the Medieval and Renaissance Classroom: The Role of Ancient Texts in the Arts Curriculum as Revealed by Surviving Manuscripts and Early Printed Books]]. Brepols, 2013.
+- Findlen, Paula. [[Possessing Nature: Museums, Collecting, and Scientific Culture in Early Modern Italy]]. University of California Press, 1994.
+- Findlen, Paula, & Marcus, Hannah. [[Science under Inquisition: Heresy and Knowledge in Catholic Reformation Rome]]. *Isis*, 103(2), 2012, pp. 376–382.
+- Findlen, Paula, & Gouwens, Kenneth. [[Introduction: The Persistence of the Renaissance]]. *The American Historical Review*, 103(1), 1998, pp. 51–54.
+- Fletcher, Stella, & Shaw, Christine. [[The World of Savonarola: Italian Elites and Perceptions of Crisis]]. In *The World of Savonarola: Italian Elites and Perceptions of Crisis; Papers from the Conference Held at the University of Warwick, 29–31 May 1998, to Mark the 500th Anniversary of the Death of Fra Girolamo Savonarola*. Ashgate, 2000.
+- Folger, Tim. [[Why Did Greenland's Vikings Vanish?]]. *Smithsonian Magazine*, March 2017.
+- Fornaciari, Gino, Giuffra, Valentina, Giusiani, Sara, et al. [[The Gout of the Medici, Grand Dukes of Florence: A Palaeopathological Study]]. *Rheumatology*, 48(4), 2009, pp. 375–377.
+- Forster, Leonard. [[The Icy Fire: Five Studies in European Petrarchism]]. Cambridge University Press, 1969.
+- Franckenstein, Christian Gottfried (attributed). [[Istoria degli Intrighi Galanti della Regina Cristina di Svezia e della Sua Corte Durante il di Lei Soggiorno a Roma]]. Fratelli Palombi, 1979.
+- Franckenstein, Christian Gottfried (attributed). [[The History of the Intrigues & Gallantries of Christina, Queen of Sweden, and of Her Court Whilst She Was at Rome]]. London, 1697.
+- Frazier, Alison (ed.). [[The Saint between Manuscript and Print in Italy, 1400–1600]]. Centre for Renaissance and Reformation Studies, 2015.
+- Frazier, Alison. [[Possible Lives: Authors and Saints in Renaissance Italy]]. Columbia University Press, 2005.
+- Frazier, Alison. [[The First Instructions on Writing About Saints: Aurelio Brandolini (c. 1454–1497) and Raffaele Maffei (1455–1522)]]. *Memoirs of the American Academy in Rome*, 48, 2003, pp. 171–202.
+- Freely, John. [[The Grand Turk: Sultan Mehmet II—Conqueror of Constantinople and Master of an Empire]]. Bloomsbury, 2009.
+- Freely, John. [[Jem Sultan]]. HarperCollins, 2005.
+- Frick, Carole Collier. [[Dressing Renaissance Florence: Families, Fortunes, and Fine Clothing]]. Johns Hopkins University Press, 2002.
+- Fubini, Riccardo. [[The Italian League and the Policy of the Balance of Power at the Accession of Lorenzo De' Medici]]. In Julius Kirshner (ed.), *The Origins of the State in Italy, 1300–1600*. University of Chicago Press, 1996, pp. 166–199.
+- Fuller, Timothy (ed.). [[Machiavelli's Legacy: The Prince after Five Hundred Years]]. University of Pennsylvania Press, 2016.
+- Gagné, John. [[Milan Undone: Contested Sovereignties in the Italian Wars]]. Harvard University Press, 2021.
+- Gaisser, Julia Haig. [[The Rise and Fall of Gontz's Feasts]]. *Renaissance Quarterly*, 48, 1995, pp. 41–57.
+- Gallello, Gianni, et al. [[Poisoning Histories in the Italian Renaissance: The Case of Pico Della Mirandola and Angelo Poliziano]]. *Journal of Forensic and Legal Medicine*, 56, 2018, pp. 83–89.
+- Garin, Eugenio. [[Italian Humanism: Philosophy and Civic Life in the Renaissance]]. Harper & Row, 1965.
+- Garofano, L., Gruppioni, G., & Vinceti, S. [[Delitti e misteri del passato]]. Rizzoli Libri, 2011.
+- Gentilcore, David. [[Food and Health in Early Modern Europe: Diet, Medicine and Society, 1450–1800]]. Bloomsbury Academic, 2016.
+- Ghadessi, Touba. [[Lords and Monsters: Visible Emblems of Rule]]. *I Tatti Studies in the Italian Renaissance*, 16(1), 2013, pp. 491–523.
+- Ghadessi, Touba. [[Inventoried Monsters: Dwarves and Hirsutes at Court]]. *Journal of the History of Collections*, 23(2), 2011, pp. 267–281.
+- Ghirardo, Diane Yvonne. [[Lucrezia Borgia as Entrepreneur]]. *Renaissance Quarterly*, 61(1), 2008, pp. 53–91.
+- Gies, Frances & Gies, Joseph. [[Cathedral, Forge, and Waterwheel: Technology and Invention in the Middle Ages]]. HarperCollins, 1994.
+- Gilbert, Felix. [[Machiavelli and Guicciardini: Politics and History in Sixteenth-Century Florence]]. Princeton University Press, 1965.
+- Ginzburg, Carlo. [[The Cheese and the Worms: The Cosmos of a Sixteenth-Century Miller]]. Johns Hopkins University Press, 1980.
+- Godman, Peter. [[From Poliziano to Machiavelli: Florentine Humanism in the High Renaissance]]. Princeton University Press, 1998.
+- Goldthwaite, Richard A. [[The Economy of Renaissance Florence]]. Johns Hopkins University Press, 2009.
+- Gouwens, Kenneth. [[Remembering in the Renaissance: Humanist Narratives of the Sack of Rome]]. Brill, 1998.
+- Gouwens, Kenneth. [[Perceiving the Past: Renaissance Humanism after the 'Cognitive Turn']]. *The American Historical Review*, 103(1), 1998, pp. 55–82.
+- Grafton, Anthony. [[Inky Fingers: The Making of Books in Early Modern Europe]]. Belknap Press, 2020.
+- Grafton, Anthony. [[What Was History?: The Art of History in Early Modern Europe]]. Cambridge University Press, 2007.
+- Grafton, Anthony. [[Leon Battista Alberti: Master Builder of the Italian Renaissance]]. Hill and Wang, 2000.
+- Grafton, Anthony. [[Commerce with the Classics: Ancient Books and Renaissance Readers]]. University of Michigan Press, 1997.
+- Grafton, Anthony. [[Defenders of the Text: The Traditions of Scholarship in an Age of Science, 1450–1800]]. Harvard University Press, 1991.
+- Grafton, Anthony & Jardine, Lisa. [[From Humanism to the Humanities: Education and the Liberal Arts in Fifteenth- and Sixteenth-Century Europe]]. Harvard University Press, 1986.
+- Grafton, Anthony & Siraisi, Nancy G. (eds.). [[Natural Particulars: Nature and the Disciplines in Renaissance Europe]]. MIT Press, 2000.
+- Greenblatt, Stephen. [[The Swerve: How the World Became Modern]]. Random House, 2009.
+- Gregorovius, Ferdinand. [[Lucrezia Borgia: Nach Urkunden und Correspondenzen Ihrer Eigenen Zeit]]. J. G. Cotta, 1875.
+- Grendler, Paul F. [[The European Renaissance in American Life]]. Praeger Publishers, 2006.
+- Grendler, Paul F. [[The Universities of the Italian Renaissance]]. Johns Hopkins University Press, 2002.
+- Grieco, Allen J. [[Uses of Food in Late Medieval Europe]]. Blackwell, 2006.
+- Grieco, Allen J. [[Food and Social Classes in Late Medieval and Renaissance Italy]]. In *Food: A Culinary History from Antiquity to the Present*. Columbia University Press, 1999, pp. 301–312.
+- Groom, Angelica. [[Exotic Animals in the Art and Culture of the Medici Court in Florence]]. Brill, 2019.
+- Gundersheimer, Werner. [[Ferrara: The Style of a Renaissance Despotism]]. Princeton University Press, 1973.
+- Gurevich, Aron (trans. K. Judelson). [[The Origins of European Individualism]]. Blackwell, 1995.
+- Hales, Dianne. [[Mona Lisa: A Life Discovered]]. Simon & Schuster, 2014.
+- Hall, Alexander W. [[Medieval Skepticism, and the Claim to Metaphysical Knowledge]]. Cambridge Scholars Publishing, 2011.
+- Hankins, James. [[Religion and the Modernity of Renaissance Humanism]]. In Angelo Mazzocco (ed.), *Interpretations of Renaissance Humanism*. Brill, 2006, pp. 137–153.
+- Hankins, James. [[The 'Baron Thesis' after Forty Years and Some Recent Studies of Leonardo Bruni]]. *Journal of the History of Ideas*, 56(2), 1995, pp. 309–338.
+- Hankins, James. [[Plato in the Italian Renaissance]]. 2 vols. E. J. Brill, 1990.
+- Hankins, James. [[Cosimo de' Medici and the Platonic Academy]]. *Journal of the Warburg and Courtauld Institutes*, 53, 1990, pp. 144–162.
+- Hankins, James, et al. [[Renaissance Civic Humanism: Reappraisals and Reflections]]. Cambridge University Press, 2000.
+
+- Harrington, Joel. [[The Executioner's Journal: Meister Frantz Schmidt of the Imperial City of Nuremberg]]. University of Virginia Press, 2016.
+- Harrington, Joel. [[The Faithful Executioner: Life and Death, Honor and Shame in the Turbulent Sixteenth Century]]. Farrar, Straus and Giroux, 2013.
+- Haskell, Yasmin. [[The Tristia of a Greek Refugee: Michael Marullus and the Politics of Latin Subjectivity after the Fall of Constantinople (1453)]]. *Proceedings of the Cambridge Philological Society*, 44, 1999, pp. 110–136.
+- Haskins, Charles. [[The Renaissance of the Twelfth Century]]. Harvard University Press, 1927.
+- Heck, Paul L. [[Skepticism in Classical Islam: Moments of Confusion]]. Taylor & Francis, 2013.
+- Heil, John-Paul. [[Virtue and Vice in the Political World of Renaissance Naples]]. PhD thesis, University of Chicago, 2022.
+- Henderson, John. [[Piety and Charity in Late Medieval Florence]]. University of Chicago Press, 1997.
+- Henderson, John, Fredrika Herman Jacobs & Jonathan K. Nelson (eds.). [[Representing Infirmity: Diseased Bodies in Renaissance Italy]]. Routledge, 2021.
+- Heng, Geraldine. [[The Global Middle Ages: An Introduction]]. Cambridge University Press, 2021.
+- Herlihy, David. [[The Black Death and the Transformation of the West]]. Harvard University Press, 1997.
+- Herzig, Tamar. [[Savonarola's Women: Visions and Reform in Renaissance Italy]]. University of Chicago Press, 2008.
+- Hibbert, Christopher. [[The Borgias and Their Enemies: 1431–1519]]. Harcourt, 2008.
+- Hinch, Jim. [[Why Stephen Greenblatt Is Wrong—and Why It Matters]]. *Los Angeles Review of Books*, December 2012.
+- Hollingsworth, Mary. [[Princes of the Renaissance]]. Pegasus Books, 2021.
+- Hollingsworth, Mary. [[The Family Medici: The Hidden History of the Medici Dynasty]]. Pegasus Books, 2018.
+- Hollingsworth, Mary. [[Patronage in Renaissance Italy: From 1400 to the Early Sixteenth Century]]. John Murray, 1994.
+- Howlett, Sophia. [[Re-Evaluating Pico: Aristotelianism, Kabbalism, and Platonism in the Philosophy of Giovanni Pico Della Mirandola]]. Palgrave Macmillan, 2021.
+- Huizinga, Johan. [[Herfsttij der Middeleeuwen]]. H. D. Tjeenk Willink, 1919.
