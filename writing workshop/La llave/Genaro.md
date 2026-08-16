@@ -1,11 +1,16 @@
-Personajes:
-Genaro: Principal. Padre de Margarita, 
-Margarita: Principal. Hija de Genaro
-Elizabeth: Secundario. Madre de Margarita y esposa de Genaro
+Cuando Genaro cumplió seis años su madre lo inscribió en la escuela primaria. El primer día de clases tuvo que despertarse a las cuatro y media de la mañana, aun con sueño, tuvo que ponerse el uniforme. Sue mente espabilaba y su cuerpo titiritaba cada madrugada al sentir el aire frio de la madrugada estrellarse contra su cuerpo. Estaba acostumbrado a pasar frío por las noches, siempre cuando estuviera acobijado sobre su petate, pero no conseguía acostumbrarse al frío recorrer su cuerpo con tal vehemencia y falta de consentimiento.
 
-Resumen:
+Después de desayunar frente al fogón su atole de pilón se ponía en marcha, caminaban dos horas bajo el cobijo del frío y la oscuridad de la noche. Para cuando llegaban a la escuela el solo ya había salido y la tenue luz del amanecer no alcanzaba a calentar su cuerpo del todo. Aun cuando la noche había terminado hace rato sentía  el frío de la noche quedarse adherido a su cuerpo, como una mancha que uno no se puede quitar durante un baño, sin importar que tanto uno talle.
 
-Genaro crece en un pequeño pueblo de Oaxaca, a las afueras de la capital del estado. Vive en una comunidad indigena, tiene que aprender a trabajar desde joven, tiene que aprender español como segunda idioma.
+Hizo la caminata acompañado de su madre, esta le había dicho que se fijara en el camino, que se lo aprendiera de memoria y se fijara en todos los detalles. Después de eso continuaron la caminata en silencio, aunque hubieran tenido de que hablar el frio y el cansancio hubieran hecho que la conversación durara poco. De vez en cuando le decía 'cuando lleguemos a tal o cual lugar vamos a agarrar para tal o sal lugar'. Cuando llegaron a la escuela su madre lo persigno y encomendó a la virgen, se despidió con un beso en la mejilla y Genaro la vio emprender el viaje de regreso.
+
+Al siguiente día su madre lo despertó y después de desayunar su madre dijo 'ahora que ya conoces el camino a la escuela ya no necesitas que te acompañe'. Lo persignó trazando la cruz sobre su cuerpo con sus dedos, le dio un beso en la mejilla y lo envió a penetrar la oscuridad de la noche en busca del camino hasta la escuela.
+
+---
+
+Ignore, we are gonna need/use this later:
+
+Tiene que aprender a trabajar desde joven.
 
 Va a la escuela, aprender a leer y aritmetica basica. Cuando los problemas economicos en casa empeoran su mamá decide sacarlo de la escuela para ir a trabajar con su tio en el mercado. 
 
@@ -37,6 +42,6 @@ Decidio probar suerte como estibador. Comenzo a despertarse a las 3am todos los 
 
 Despues de trabajar y ahorrar muchisimo finalmente ahorra lo suficiente para el enganche y la primera entrega de mercancia. Va a la oficina, le dan un recorrido por el mercado y le muestran los locales disponibles. No eran locales convencionales, eran mas bien espacios asignados, lo unico que delimitaba un 'local' de otro era una linea imaginaria. 'Usted iria de aqui a aqui' le dice la vendedora señalando un el piso, un espacio vacio donde irian sus cosas.
 
-Estaba molesto y decepcionado, habia imaginado un techo y tres paredes. Pero ya estaba aqui, ya tenia el dinero en mano y estaba listo para cumplir su sueño.
+Estaba molesto y decepcionado, habia imaginado un techo y tres paredes. Pero ya estaba aqui, ya tenia el dinero en mano y estaba listo para cumplir su sueño. Cerró el trato.
 
 Margarita:
