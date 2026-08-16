@@ -1,4 +1,4 @@
-Cuando Genaro cumplió seis años su madre lo inscribió en la escuela primaria. El primer día de clases tuvo que despertarse a las cuatro y media de la mañana, aun con sueño, tuvo que ponerse el uniforme. Sue mente espabilaba y su cuerpo titiritaba cada madrugada al sentir el aire frio de la madrugada estrellarse contra su cuerpo. Estaba acostumbrado a pasar frío por las noches, siempre cuando estuviera acobijado sobre su petate, pero no conseguía acostumbrarse al frío recorrer su cuerpo con tal vehemencia y falta de consentimiento.
+Cuando Genaro cumplió seis años su madre lo inscribió en la escuela primaria. El primer día de clases tuvo que despertarse a las cuatro y media de la mañana, aun con sueño, tuvo que ponerse el uniforme. Su mente espabilaba y su cuerpo titiritaba cada madrugada al sentir el aire frio de la madrugada estrellarse contra su cuerpo. Estaba acostumbrado a pasar frío por las noches, siempre cuando estuviera acobijado sobre su petate, pero no conseguía acostumbrarse al frío recorrer su cuerpo con tal vehemencia y falta de consentimiento.
 
 Después de desayunar frente al fogón su atole de pilón se ponía en marcha, caminaban dos horas bajo el cobijo del frío y la oscuridad de la noche. Para cuando llegaban a la escuela el solo ya había salido y la tenue luz del amanecer no alcanzaba a calentar su cuerpo del todo. Aun cuando la noche había terminado hace rato sentía  el frío de la noche quedarse adherido a su cuerpo, como una mancha que uno no se puede quitar durante un baño, sin importar que tanto uno talle.
 
@@ -16,11 +16,23 @@ Un día tras regresar de la escuela encontró a su tío sentado a la mesa hablan
 
 Genaro asintió mientras se apresuraba a meter cuanta comida le cupiera en la boca, las tripas le rugían después de la caminata. Comió sin prestar mucha atención a lo que su mamá le decía. Cuando se acabó la comida del plato notó que aún le quedaban un par de tortillas, tomó una, le arrancó un pedazo y procedió a limpiar cualquier resto de frijol del plato. Cuando terminó el plato estaba tan limpio que parecía estar recién lavado.
 
+"Estudiar es una perdida de tiempo mijo", le dijo su tio al dia siguiente de camino al mercado, se habían levantado a la misma hora que lo hacía para ir a la escuela, "el movimiento comienza temprano", le dijo su tío mientras terminaban de desayunar un atole, "la lana esta en el mercado, así como ves, todos los dueños de los locales andan cargando fajos de billetes en los bolsillos", le dijo en voz alta mientras descargaban la mercancía de un camión. "Cuidamelo muy bien, no quiero que le pase nada José", le había Mari a José antes de irse, así que su tío se encargaba de cargar el diablito y él de manejarlo.
+
+El mar de gente que había comenzado a llegar al mercado a las cinco de la mañana comenzó a menguar para eso del medio día y su tío aprovechó para llevarlo a comer a la fonda, "aquí la comida es buena y barata mijo", le dijo mientras se sentaban en una mesa, pidieron dos ordenes de chicharrón en salsa roja y una jarra del agua del día, "hoy yo invitó, pero a partir de mañana tu vas a tener que pagar tu propia comida", dijo su tio cuando la mesera ya se había ido.
+
+Al final de la jornada, el cuerpo completo le dolía, cuando recibió la paga del día se le olvidó por completo del dolor casi de inmediato, "esto es nada mijo, la verdadera lana esta en ser el dueño del puesto, no en ser el chalan que baja la mercancia, a eso tienes que aspirar mijo, el cuerpo se termina acabando, ¿de que te sirve llegar a viejo todo jodido?".
+
+"Que bueno que ya volvieron, ¿cómo estuvo?" fue lo primero que su madre dijo al recibirlos en la puerta, ella se apresuró a darle un beso en la frente, luego juntó sus manos, miró al cielo cerrando los ojos y agradeciéndole a la virgen que hayan llegado sanos y salvos.
+
+"Le echa ganas, y aprende rápido Mari, le va a ir bien en el mercado", dijo su tio poniendole la mano en el hombro.
+
+Mari estiró la mano frente a Genaro, este entregó su sueldo, Mari contó las monedas e hizo una mueca. "Oye Mari, aunque sea dejale para su almuerzo de mañana", dijo José, "¿En cuánto esta el plato de comida?", respondió ella, "dos pesos", Mari contó dos pesos y se los regresó a Genaro. Ahora, vayanse a bañar que jieden a perro muerto.
+
 ---
 
 Ignore, we are gonna need/use this later:
 
-Su tio lo lleva a trabajar al mercado de la ciudad, y le enseña que 'el dinero esta en el mercado', no siendo 'chalan' ni estibador, sino como dueño de un local. Su sueño se vuelve tener un local en el mercado. Decide trabajar y ahorrar lo más que pueda, hasta el punto de que se vuelve irrisorio: nunca come fuera, si el puede hacerlo 'por que pagarle a alguien mas?'.
+Decide trabajar y ahorrar lo más que pueda, hasta el punto de que se vuelve irrisorio: nunca come fuera, si el puede hacerlo 'por que pagarle a alguien mas?'.
 
 Todos los puestos del mercado ya estaban vendidos. Eran puestos que los dueños no estarian dispuestos a soltar a menos que fuera por un muy buen dinero. No esta dispuesto a esperar tanto ni pagar tanto.
 
