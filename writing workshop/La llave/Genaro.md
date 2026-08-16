@@ -6,13 +6,19 @@ Hizo la caminata acompañado de su madre, esta le había dicho que se fijara en 
 
 Al siguiente día su madre lo despertó y después de desayunar su madre dijo 'ahora que ya conoces el camino a la escuela ya no necesitas que te acompañe'. Lo persignó trazando la cruz sobre su cuerpo con sus dedos, le dio un beso en la mejilla y lo envió a penetrar la oscuridad de la noche en busca del camino hasta la escuela.
 
+Despertarse de madrugada y la caminata para ir a la escuela dejaron de molestarle en poco tiempo, para él esa no era la parte difícil, sino el estudio. Aún no entendía del todo el español y los maestros no hablaban Zapoteco. Pero después de muchas dificultades terminó aprendiéndolo, algunos de sus amigos lo hablaban como lengua materna, se pasaba el receso escuchándolos hablar y preguntando que significa tal o cual palabra.
+
+Disfrutaba de aritmética y se le daba a bien, aún cuando pareciera ser su propio lenguaje con su propia forma de escribirse y sus propias reglas. En cuestión de meses aprendió aritmética básica.
+
+Un día tras regresar de la escuela encontró a su tío sentado a la mesa hablando con su mamá. No era raro verlo en casa, así que entró y lo saludó. Su tío le devolvió el saludo mientras su madre terminaba de poner la mesa.
+
+"Mijo", dijo su madre sirviendo un plato de frijol con huevo y unas tortillas frente a él, "el dinero ya no nos alcanza y yo nada más no puedo seguir trabajando como burro, un día de estos me va a dar una embolia. Hablé con tu tío, él trabaja en el mercado, a partir de mañana vas a irte a trabajar de chalan con él para echarme la mano con los gastos."
+
+Genaro asintió mientras se apresuraba a meter cuanta comida le cupiera en la boca, las tripas le rugían después de la caminata. Comió sin prestar mucha atención a lo que su mamá le decía. Cuando se acabó la comida del plato notó que aún le quedaban un par de tortillas, tomó una, le arrancó un pedazo y procedió a limpiar cualquier resto de frijol del plato. Cuando terminó el plato estaba tan limpio que parecía estar recién lavado.
+
 ---
 
 Ignore, we are gonna need/use this later:
-
-Tiene que aprender a trabajar desde joven.
-
-Va a la escuela, aprender a leer y aritmetica basica. Cuando los problemas economicos en casa empeoran su mamá decide sacarlo de la escuela para ir a trabajar con su tio en el mercado. 
 
 Su tio lo lleva a trabajar al mercado de la ciudad, y le enseña que 'el dinero esta en el mercado', no siendo 'chalan' ni estibador, sino como dueño de un local. Su sueño se vuelve tener un local en el mercado. Decide trabajar y ahorrar lo más que pueda, hasta el punto de que se vuelve irrisorio: nunca come fuera, si el puede hacerlo 'por que pagarle a alguien mas?'.
 
